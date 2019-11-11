@@ -1,0 +1,1820 @@
+<template>
+  <div>
+      {{this.$data.selectedValue}}
+      
+    <header id="headerInternas">
+      <div class="header-top">
+        <div class="logo">
+          <a href="https://www.vinccilaplantaciondelsur.com/">
+            <img
+              src="/confirmacion_files/logo_5.jpg"
+              width
+              height
+              title="5 estrellas  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              alt="5 estrellas  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+            />
+            <div class="info">
+              <h1 class="tit"></h1>
+            </div>
+          </a>
+        </div>
+        <div class="content">
+          <div class="header-sup">
+            <div class="ley dropdown">
+              <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">
+                Aviso legal - Política de privacidad - Ley de Cookies
+                <span class="arrow">
+                  <i class="fa fa-chevron-down"></i>
+                </span>
+              </a>
+              <ul class="dropdown-menu dropMenu" role="menu">
+                <li>
+                  <a
+                    href="https://vincciplantaciondesur.backhotelengine.com/politica-cookies/"
+                    title="Política de cookies"
+                    rel="nofollow"
+                  >Política de cookies</a>
+                </li>
+                <li>
+                  <a
+                    href="https://vincciplantaciondesur.backhotelengine.com/aviso-legal-y-uso-de-la-web/"
+                    title="Aviso legal y uso de la página web"
+                    rel="nofollow"
+                  >Aviso legal y uso de la página web</a>
+                </li>
+                <li>
+                  <a
+                    href="https://vincciplantaciondesur.backhotelengine.com/politica-privacidad-para-estancias/"
+                    title="Política de privacidad para las estancias.."
+                    rel="nofollow"
+                  >Política de privacidad para las estancias..</a>
+                </li>
+                <li>
+                  <a
+                    href="https://vincciplantaciondesur.backhotelengine.com/Politica-privacidad/"
+                    title="Política de privacidad"
+                    rel="nofollow"
+                  >Política de privacidad</a>
+                </li>
+              </ul>
+            </div>
+            <div class="idioma dropdown">
+              <a
+                href="https://vincciplantaciondesur.backhotelengine.com/bookcore/confirmation-form/?lang=es&amp;s=9aq0lqf3ksns6lx2cncjvtj7xf693rw6&amp;r1=1&amp;_ga=2.238079363.248180235.1571914621-1280613609.1571914621#"
+                class="dropdown-toggle"
+                data-toggle="dropdown"
+              >
+                Español
+                <span class="bandera">
+                  <span class="flag es"></span>
+                </span>
+                <span class="arrow">
+                  <i class="fa fa-chevron-down"></i>
+                </span>
+              </a>
+              <ul class="dropdown-menu dropMenu" role="menu">
+                <li>
+                  <a
+                    href="https://en.vinccilaplantaciondelsur.com/"
+                    class="idiomas"
+                    itemprop="language"
+                    title="English"
+                  >
+                    <span class="flag en"></span>
+                    <span class="idiomasText">English</span>
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://de.vinccilaplantaciondelsur.com/"
+                    class="idiomas"
+                    itemprop="language"
+                    title="Deutsch"
+                  >
+                    <span class="flag de"></span>
+                    <span class="idiomasText">Deutsch</span>
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://fr.vinccilaplantaciondelsur.com/"
+                    class="idiomas"
+                    itemprop="language"
+                    title="Français"
+                  >
+                    <span class="flag fr"></span>
+                    <span class="idiomasText">Français</span>
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://it.vinccilaplantaciondelsur.com/"
+                    class="idiomas"
+                    itemprop="language"
+                    title="Italiano"
+                  >
+                    <span class="flag it"></span>
+                    <span class="idiomasText">Italiano</span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="official">
+              <img
+                title="Web oficial  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                alt="Web oficial  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                src="/confirmacion_files/icon_official.png"
+              />
+              <span>Web oficial</span>
+            </div>
+            <div class="wifi">
+              <img
+                title="Wifi gratis  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                alt="Wifi gratis  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                src="/confirmacion_files/logo_wifi.png"
+              />
+              <span>Wifi gratis</span>
+            </div>
+          </div>
+          <nav id="menu">
+            <div class="navbar" role="navigation">
+              <div class="navbar-header">
+                <button
+                  type="button"
+                  class="navbar-toggle toggle-menu menu-left push-body"
+                  data-toggle="collapse"
+                  data-target=".navbar-collapse"
+                >
+                  <span class="sr-only"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+              </div>
+              <div class="collapse navbar-collapse cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left">
+                <ul class="nav navbar-nav navbarMenu">
+                  <li>
+                    <a
+                      href="https://www.vinccilaplantaciondelsur.com/"
+                      title="Hotel  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    >Hotel</a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.vinccilaplantaciondelsur.com/ofertas/"
+                      title="Ofertas  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    >Ofertas</a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.vinccilaplantaciondelsur.com/habitaciones/"
+                      title="Habitaciones  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    >Habitaciones</a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.vinccilaplantaciondelsur.com/fotos/"
+                      title="Fotos  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    >Fotos</a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.vinccilaplantaciondelsur.com/servicios/"
+                      title="Servicios  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    >Servicios</a>
+                  </li>
+                  <li class="hidden-md">
+                    <a
+                      href="https://www.vinccilaplantaciondelsur.com/mapa/"
+                      title="Mapa  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    >Mapa</a>
+                  </li>
+                  <li class="hidden-md">
+                    <a
+                      href="https://www.vinccilaplantaciondelsur.com/contacto/"
+                      title="Contacto  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    >Contacto</a>
+                  </li>
+                  <li class="booking">
+                    <a href="javascript:void(0)" title="Mi reserva" class="mireserva">Mi reserva</a>
+                  </li>
+                  <li class="dropdown visible-md">
+                    <a
+                      href="https://vincciplantaciondesur.backhotelengine.com/bookcore/confirmation-form/?lang=es&amp;s=9aq0lqf3ksns6lx2cncjvtj7xf693rw6&amp;r1=1&amp;_ga=2.238079363.248180235.1571914621-1280613609.1571914621#"
+                      data-toggle="dropdown"
+                      class="dropdown-toggle"
+                    >
+                      Más
+                      <b class="caret"></b>
+                    </a>
+                    <ul class="dropdown-menu dropMore" role="menu">
+                      <li class="visible-md visible-sm">
+                        <a
+                          href="https://www.vinccilaplantaciondelsur.com/mapa/"
+                          title="Mapa  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                        >Mapa</a>
+                      </li>
+                      <li class="visible-md visible-sm">
+                        <a
+                          href="https://www.vinccilaplantaciondelsur.com/contacto/"
+                          title="Contacto  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                        >Contacto</a>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <section id="motorInternas">
+      <div class="contenedor_header">
+        <div class="container">
+          <div class="motor">
+            <form
+            
+              id="motorform"
+            
+            >
+              <div class="box_inside">
+                <h3>¡RESERVA AHORA!</h3>
+                <div class="fechas">
+                  <div class="entrada">
+                    <label>Entrada</label>
+                    <div class="bordeFechas">
+                      <span class>
+                        <strong></strong>
+                        <em></em>
+                      </span>
+                      <input
+                        type="text"
+                        name="entrada"
+                        value="24/10/2019"
+                        readonly="readonly"
+                        required
+                        id="id_entrada"
+                      />
+                    </div>
+                  </div>
+                  <div class="salida">
+                    <label>Salida</label>
+                    <div class="bordeFechas">
+                      <span class>
+                        <strong></strong>
+                        <em></em>
+                      </span>
+                      <input
+                        type="text"
+                        name="salida"
+                        value="25/10/2019"
+                        readonly="readonly"
+                        required
+                        id="id_salida"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div class="consulta">
+                  <div class="box-promo">
+                    <span class="promocode">
+                      ¿Tienes un código promocional?
+                      <a
+                        title="haz clic aquí"
+                        href="javascript:void(0)"
+                      >haz clic aquí</a>
+                    </span>
+                    <span class="codpromo" style="display: none;">
+                      <input type="text" name="codpromo" id="id_codpromo" maxlength="50" />
+                      <em class="fa fa-times cerrar-input"></em>
+                    </span>
+                  </div>
+                  <div class="box-check btn-dispo">
+                    <button title="¡Comprobar disponibilidad!" class="btn btn-motor btn-consulta">
+                      ¡Comprobar disponibilidad!
+                      <span>Mejor Precio Online</span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+  <div id="wrapper">
+    <div class="container box-bookcore">
+      <div class="wrap rb_bc">
+        <div class="bc_dark"></div>
+        <div class="bc container pn">
+          <div class="bc_contenido  col-lg-9 col-md-8 col-sm-12 home  col-xs-12">
+            <div class="bc_contenido_inner clearfix js-roi-modal-container">
+              <div id="hoteles_sin_disponiblidad" class="no_dispo_hotel_wrap
+                ec-onload-tracking" data-ec-tracking-event-data="{
+             &quot;productType&quot;: &quot;Room&quot;,
+             &quot;list&quot;: &quot;No Availability Hotel&quot;,
+             &quot;hotelCode&quot;: &quot;vincciplantaciondesur&quot;,
+             &quot;hotelName&quot;: &quot; VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR&quot;,
+             &quot;nights&quot;: &quot;30&quot;,
+             &quot;currencyCode&quot;: &quot;&quot;,
+             &quot;daysUntilCheckin&quot;: &quot;-1&quot;,
+             &quot;checkInDate&quot;: &quot;2019-11-05&quot;,
+             &quot;userId&quot;: &quot;&quot;,
+             &quot;userType&quot;: &quot;&quot;,
+             &quot;loginStatus&quot;: &quot;no&quot;,
+             &quot;cityName&quot;: &quot;Costa Adeje&quot;,
+             &quot;cityCode&quot;: &quot;costa&quot;,
+             &quot;destinationName&quot;: &quot;Tenerife&quot;,
+             &quot;destinationCode&quot;: &quot;tenerife&quot;
+         }">
+                <div class="no_dispo_titulo_wrap">
+                  <h2 class="no_dispo_titulo">No hemos encontrado disponibilidad o hay alguna restricción en las fechas
+                    seleccionadas.</h2>
+                  <p class="no_dispo_subtitulo">Comprueba en el calendario si hay restricciones aplicadas o, en caso
+                    contrario, selecciona la fecha disponible más cercana.</p>
+                </div>
+                <div id="calsnodispo" class="no_dispo test">
+                  <div id="nodispo_vincciplantaciondesur">
+                    <div id="calendario-nodispo-pasos">
+                      <div id="calendario-nodispo-pasos-titulos">
+                        <span>Seleccionar fecha entrada</span>
+                        <span>Seleccionar fecha salida</span>
+                      </div>
+
+                      <div id="calendario-nodispo-pasos-numeros">
+                        <span data-paso="1" class="pasos-numeros"></span>
+                        <span data-paso="2" class="pasos-numeros"></span>
+                      </div>
+                    </div>
+
+
+            <!--        <div id="calendario-nodispo-wrapper" aria-label="Calendario de disponibilidad">
+                      <div id="calendar-overlay" style="display: none;">
+                        <span>Cargando</span>
+                      </div>
+
+                      <div id="calendario-nodispo-botones-mover">
+                        <button class="calendar-prev js-nodispo-calendar-prev js-calendar-nav"
+                          aria-label="Ir al mes anterior" tabindex="0"></button>
+                        <button class="calendar-next js-nodispo-calendar-next js-calendar-nav"
+                          aria-label="Ir al mes siguiente" tabindex="0"></button>
+                      </div>
+
+                      <div id="nd-calendario-vincciplantaciondesur" class="nd-calendario">
+                        <div class="calendar js-calendar">
+                          <div class="calendar-header">Noviembre 2019</div>
+                          <div class="calendar-header-days"><span class="calendar-header-day">Lun</span><span
+                              class="calendar-header-day">Mar</span><span class="calendar-header-day">Mié</span><span
+                              class="calendar-header-day">Jue</span><span class="calendar-header-day">Vie</span><span
+                              class="calendar-header-day">Sáb</span><span class="calendar-header-day">Dom</span></div>
+                          <div class="calendar-days"><span class="calendar-day"></span><span
+                              class="calendar-day"></span><span class="calendar-day"></span><span
+                              class="calendar-day"></span>
+                            <div data-day="2019-11-01"
+                              class="calendar-day calendar-day-number day-not-set js-nodispo-calendar-unselectable"
+                              role="button" data-date="viernes, 1 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="viernes, 1 de noviembre de 2019 está disponible">
+                                <span class="numday">1</span>
+                             
+                              </a>
+                            </div>
+                            <div data-day="2019-11-02"
+                              class="calendar-day calendar-day-number day-not-set js-nodispo-calendar-unselectable"
+                              role="button" data-date="sábado, 2 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="sábado, 2 de noviembre de 2019 está disponible">
+                                <span class="numday">2</span>
+                             
+                              </a>
+                            </div>
+                            <div data-day="2019-11-03"
+                              class="calendar-day calendar-day-number day-not-set js-nodispo-calendar-unselectable"
+                              role="button" data-date="domingo, 3 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="domingo, 3 de noviembre de 2019 está disponible">
+                                <span class="numday">3</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-04"
+                              class="calendar-day calendar-day-number day-not-set js-nodispo-calendar-unselectable"
+                              role="button" data-date="lunes, 4 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="lunes, 4 de noviembre de 2019 está disponible">
+                                <span class="numday">4</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-05"
+                              class="calendar-day calendar-day-number day-not-set js-nodispo-calendar-unselectable"
+                              role="button" data-date="martes, 5 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="martes, 5 de noviembre de 2019 está disponible">
+                                <span class="numday">5</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-06"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="miércoles, 6 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="miércoles, 6 de noviembre de 2019 está disponible">
+                                <span class="numday">6</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-07"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="jueves, 7 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="jueves, 7 de noviembre de 2019 está disponible">
+                                <span class="numday">7</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-08"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="viernes, 8 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="viernes, 8 de noviembre de 2019 está disponible">
+                                <span class="numday">8</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-09"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="sábado, 9 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="sábado, 9 de noviembre de 2019 está disponible">
+                                <span class="numday">9</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-10"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="domingo, 10 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="domingo, 10 de noviembre de 2019 está disponible">
+                                <span class="numday">10</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-11"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="lunes, 11 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="lunes, 11 de noviembre de 2019 está disponible">
+                                <span class="numday">11</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-12"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="martes, 12 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="martes, 12 de noviembre de 2019 está disponible">
+                                <span class="numday">12</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-13"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="miércoles, 13 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="miércoles, 13 de noviembre de 2019 está disponible">
+                                <span class="numday">13</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-14"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="jueves, 14 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="jueves, 14 de noviembre de 2019 está disponible">
+                                <span class="numday">14</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-15"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="viernes, 15 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="viernes, 15 de noviembre de 2019 está disponible">
+                                <span class="numday">15</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-16"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="sábado, 16 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="sábado, 16 de noviembre de 2019 está disponible">
+                                <span class="numday">16</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-17"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="domingo, 17 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="domingo, 17 de noviembre de 2019 está disponible">
+                                <span class="numday">17</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-18"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="lunes, 18 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="lunes, 18 de noviembre de 2019 está disponible">
+                                <span class="numday">18</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-19"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="martes, 19 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="martes, 19 de noviembre de 2019 está disponible">
+                                <span class="numday">19</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-20"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="miércoles, 20 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="miércoles, 20 de noviembre de 2019 está disponible">
+                                <span class="numday">20</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-21"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="jueves, 21 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="jueves, 21 de noviembre de 2019 está disponible">
+                                <span class="numday">21</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-22"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="viernes, 22 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="viernes, 22 de noviembre de 2019 está disponible">
+                                <span class="numday">22</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-23"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="sábado, 23 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="sábado, 23 de noviembre de 2019 está disponible">
+                                <span class="numday">23</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-24"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="domingo, 24 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="domingo, 24 de noviembre de 2019 está disponible">
+                                <span class="numday">24</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-25"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="lunes, 25 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="lunes, 25 de noviembre de 2019 está disponible">
+                                <span class="numday">25</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-26"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="martes, 26 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="martes, 26 de noviembre de 2019 está disponible">
+                                <span class="numday">26</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-27"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="miércoles, 27 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="miércoles, 27 de noviembre de 2019 está disponible">
+                                <span class="numday">27</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-28"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="jueves, 28 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="jueves, 28 de noviembre de 2019 está disponible">
+                                <span class="numday">28</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-29"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="viernes, 29 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="viernes, 29 de noviembre de 2019 está disponible">
+                                <span class="numday">29</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-11-30"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="sábado, 30 de noviembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="sábado, 30 de noviembre de 2019 está disponible">
+                                <span class="numday">30</span>
+                              
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="calendar js-calendar">
+                          <div class="calendar-header">Diciembre 2019</div>
+                          <div class="calendar-header-days"><span class="calendar-header-day">Lun</span><span
+                              class="calendar-header-day">Mar</span><span class="calendar-header-day">Mié</span><span
+                              class="calendar-header-day">Jue</span><span class="calendar-header-day">Vie</span><span
+                              class="calendar-header-day">Sáb</span><span class="calendar-header-day">Dom</span></div>
+                          <div class="calendar-days"><span class="calendar-day"></span><span
+                              class="calendar-day"></span><span class="calendar-day"></span><span
+                              class="calendar-day"></span><span class="calendar-day"></span><span
+                              class="calendar-day"></span>
+                            <div data-day="2019-12-01"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="domingo, 1 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="domingo, 1 de diciembre de 2019 está disponible">
+                                <span class="numday">1</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-02"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="lunes, 2 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="lunes, 2 de diciembre de 2019 está disponible">
+                                <span class="numday">2</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-03"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="martes, 3 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="martes, 3 de diciembre de 2019 está disponible">
+                                <span class="numday">3</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-04"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="miércoles, 4 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="miércoles, 4 de diciembre de 2019 está disponible">
+                                <span class="numday">4</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-05"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="jueves, 5 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="jueves, 5 de diciembre de 2019 está disponible">
+                                <span class="numday">5</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-06"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="viernes, 6 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="viernes, 6 de diciembre de 2019 está disponible">
+                                <span class="numday">6</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-07"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="sábado, 7 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="sábado, 7 de diciembre de 2019 está disponible">
+                                <span class="numday">7</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-08"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="domingo, 8 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="domingo, 8 de diciembre de 2019 está disponible">
+                                <span class="numday">8</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-09"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="lunes, 9 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="lunes, 9 de diciembre de 2019 está disponible">
+                                <span class="numday">9</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-10"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="martes, 10 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="martes, 10 de diciembre de 2019 está disponible">
+                                <span class="numday">10</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-11"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="miércoles, 11 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="miércoles, 11 de diciembre de 2019 está disponible">
+                                <span class="numday">11</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-12"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="jueves, 12 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="jueves, 12 de diciembre de 2019 está disponible">
+                                <span class="numday">12</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-13"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="viernes, 13 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="viernes, 13 de diciembre de 2019 está disponible">
+                                <span class="numday">13</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-14"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="sábado, 14 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="sábado, 14 de diciembre de 2019 está disponible">
+                                <span class="numday">14</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-15"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="domingo, 15 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="domingo, 15 de diciembre de 2019 está disponible">
+                                <span class="numday">15</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-16"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="lunes, 16 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="lunes, 16 de diciembre de 2019 está disponible">
+                                <span class="numday">16</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-17"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="martes, 17 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="martes, 17 de diciembre de 2019 está disponible">
+                                <span class="numday">17</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-18"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="miércoles, 18 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="miércoles, 18 de diciembre de 2019 está disponible">
+                                <span class="numday">18</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-19"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="jueves, 19 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="jueves, 19 de diciembre de 2019 está disponible">
+                                <span class="numday">19</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-20"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="viernes, 20 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="viernes, 20 de diciembre de 2019 está disponible">
+                                <span class="numday">20</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-21"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="sábado, 21 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="sábado, 21 de diciembre de 2019 está disponible">
+                                <span class="numday">21</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-22"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="domingo, 22 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="domingo, 22 de diciembre de 2019 está disponible">
+                                <span class="numday">22</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-23"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="lunes, 23 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="lunes, 23 de diciembre de 2019 está disponible">
+                                <span class="numday">23</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-24"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="martes, 24 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="martes, 24 de diciembre de 2019 está disponible">
+                                <span class="numday">24</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-25"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="miércoles, 25 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="miércoles, 25 de diciembre de 2019 está disponible">
+                                <span class="numday">25</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-26"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="jueves, 26 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="jueves, 26 de diciembre de 2019 está disponible">
+                                <span class="numday">26</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-27"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="viernes, 27 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="viernes, 27 de diciembre de 2019 está disponible">
+                                <span class="numday">27</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-28"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="sábado, 28 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="sábado, 28 de diciembre de 2019 está disponible">
+                                <span class="numday">28</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-29"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="domingo, 29 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="domingo, 29 de diciembre de 2019 está disponible">
+                                <span class="numday">29</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-30"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="lunes, 30 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="lunes, 30 de diciembre de 2019 está disponible">
+                                <span class="numday">30</span>
+                              
+                              </a>
+                            </div>
+                            <div data-day="2019-12-31"
+                              class="calendar-day calendar-day-number day-available js-nodispo-calendar-day"
+                              role="button" data-date="martes, 31 de diciembre de 2019" tabindex="0">
+                              <a class="cell" aria-label="martes, 31 de diciembre de 2019 está disponible">
+                                <span class="numday">31</span>
+                              
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="calendario-nodispo-ref">
+                        <ul>
+                          <li><span class="no-dispo-ref-available"></span><span>Disponible</span></li>
+                          <li><span class="no-dispo-ref-unavailable"></span><span>No disponible</span></li>
+                          <li><span class="no-dispo-ref-nights"></span><span>Con restricciones</span></li>
+
+                        </ul>
+                      </div>
+
+                      <div id="calendario-nodispo-botones-acciones">
+                        <button class="return-checkin
+                       js-nodispo-return-checkin" aria-label="Cambio de fechas" tabindex="0">
+                          Cambio de fechas
+                        </button>
+                        <button class="send-form
+                    spinner
+                    js-nodispo-book-nodispo" aria-label="Reservar" tabindex="0">
+                          Reservar
+                        </button>
+                      </div>
+                    </div>-->
+
+<div id="calendario-nodispo-wrapper" aria-label="mi calendario de disponibilidad">
+    
+      <v-date-picker
+              width="100%"
+              mode="range"
+              :attributes='attrs'
+              :columns='col'
+              v-model="selectedValue"
+              :masks="formats"
+             
+              :is-expanded="true"
+              :available-dates="availabledates"
+              :disabled-dates="disableddates"
+              :is-inline="true"
+             color="white"
+            
+              :drag-attribute="dragattr"
+              :select-attribute="selectattr"
+              :theme="themeStyles"
+              
+              show-caps
+            ></v-date-picker>
+             <div class="calendario-nodispo-ref">
+                        <ul>
+                          <li><span class="no-dispo-ref-available"></span><span>Disponible</span></li>
+                          <li><span class="no-dispo-ref-unavailable"></span><span>No disponible</span></li>
+                          <li><span class="no-dispo-ref-nights"></span><span>Con restricciones</span></li>
+
+                        </ul>
+                      </div>
+
+                      <div id="calendario-nodispo-botones-acciones">
+                        <button class="return-checkin
+                       js-nodispo-return-checkin" aria-label="Cambio de fechas" tabindex="0">
+                          Cambio de fechas
+                        </button>
+                        <button class="send-form
+                    spinner
+                    js-nodispo-book-nodispo" aria-label="Reservar" tabindex="0" @click="reservar()">
+                          Reservar
+                        </button>
+                      </div>
+</div>
+
+
+                  </div>
+                </div>
+              </div>
+              <div id="msg_alternativos" class="msg_hoteles_alternativos" style="display: none;"><span>Hay disponibles
+                  hoteles alternativos a VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR</span></div>
+              <div id="msg_alternativos_error" class="msg_hoteles_alternativos" style="display: block;"><span>Lo
+                  sentimos no hemos encontrado ningún hotel alternativo cerca de VINCCI SELECCIÓN LA PLANTACIÓN DEL
+                  SUR</span></div>
+              <div id="dispo_hotels">
+                <div id="alternative-hotels"
+                  data-url="/bookcore/availability/vinccitenerifegolf/2019-11-05/2019-12-05/?hoteles_alternativos=True&amp;hotel_nodispo=vincciplantaciondesur&amp;lang=es">
+                </div>
+              </div>
+              <div class="bc_powered"><span><a href="https://www.roiback.com/"
+                    title="Marketing Online Hoteles | Motor Reservas para Hoteles" target="_blank" rel="nofollow"><img
+                      class="bc_powered__logo" src="/calendario_files/backhotel_logo.png"
+                      title="Marketing Online Hoteles | Motor Reservas para Hoteles"
+                      alt="Marketing Online Hoteles | Motor Reservas para Hoteles"></a></span></div>
+            </div>
+          </div>
+          <div class="content-carrito js-roi-cart" data-url="/bookcore/shopping-cart/?lang=es" data-lang="es"
+            data-trans-show-details="Ver detalles" data-trans-hide-details="Ocultar detalles">
+            <div>
+
+
+
+
+            </div>
+          </div>
+          <div class="contenedor-best-prices"></div>
+          <div class="bc_subir">
+            <div class="subir" onclick="$(&#39;html, body&#39;).animate({scrollTop: 0}, &#39;slow&#39;)"><svg
+                class="svg-roi svg-roi_arrow-thin-up" width="28px" height="28px" viewBox="0 0 28 28" focusable="false"
+                xmlns="http://www.w3.org/2000/svg">
+                <path d="M13.863 8.226l-12.736 12.7-.666-.668 13.4-13.362 13.678 13.538-.664.67z" fill-rule="nonzero">
+                </path>
+              </svg></div>
+          </div>
+        </div>
+      </div>
+      <div class="fondo_dark" style="display: none; opacity: 1;"></div>
+    </div>
+  </div>
+    <footer>
+      <div class="footer-top">
+        <div class="container">
+          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 box-redes">
+            <span class="titulo">Síguenos</span>
+            <span
+              class="subtit"
+            >Únete a nosotros en las redes sociales y conoce las mejores promociones</span>
+            <nav class="redes">
+              <ul>
+                <li>
+                  <a
+                    href="http://instagram.com/vincci_hoteles"
+                    title="Instagram  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    target="_blank"
+                    rel="nofollow"
+                    class="fa fa-instagram"
+                  ></a>
+                </li>
+                <li>
+                  <a
+                    href="http://pinterest.com/vinccihoteles/"
+                    title="Pinterest  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    target="_blank"
+                    rel="nofollow"
+                    class="fa fa-pinterest"
+                  ></a>
+                </li>
+                <li>
+                  <a
+                    href="http://twitter.com/Vincci_Hoteles"
+                    title="Twitter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    target="_blank"
+                    rel="nofollow"
+                    class="fa fa-twitter"
+                  ></a>
+                </li>
+                <li>
+                  <a
+                    href="http://www.facebook.com/pages/Vincci-Hoteles/122369487798917"
+                    title="Facebook  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    target="_blank"
+                    rel="nofollow"
+                    class="fa fa-facebook"
+                  ></a>
+                </li>
+                <li>
+                  <a
+                    href="http://www.flickr.com/photos/vinccihoteles"
+                    title="Flickr  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    target="_blank"
+                    rel="nofollow"
+                    class="fa fa-flickr"
+                  ></a>
+                </li>
+                <li>
+                  <a
+                    href="http://www.youtube.com/user/VIncciHoteles"
+                    title="Youtube  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    target="_blank"
+                    rel="nofollow"
+                    class="fa fa-youtube"
+                  ></a>
+                </li>
+                <li>
+                  <a
+                    href="https://plus.google.com/u/2/+VincciLaPlantaciondelSur/posts"
+                    title="Google+  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    target="_blank"
+                    rel="nofollow"
+                    class="fa fa-google"
+                  ></a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 box-news">
+            <span class="titulo">Vincci y Noticias</span>
+            <span class="subtit">Nos gusta compartir nuevas ofertas y promociones exclusivas</span>
+            <div class="box-enviar">
+              <input type="text" placeholder="Inserta tu email aqui" class />
+              <button
+                data-toggle="modal"
+                data-target="#modalNewsletter"
+                class="btn btn-secundario"
+                title="Enviar"
+              >Enviar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <div class="container">
+          <span class="titulo_footer">VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR</span>
+          <span
+            class="direcion"
+          >Calle del Roque Nublo, 1, 38670. Costa Adeje, Santa Cruz de Tenerife., Costa Adeje</span>
+          <nav class="enlacesFooter">
+            <ul>
+              <li>
+                <a
+                  href="https://www.vinccilaplantaciondelsur.com/Politica-privacidad/"
+                  title="Política de privacidad"
+                  rel="nofollow"
+                >Política de privacidad</a>
+              </li>
+              <li>
+                <a
+                  href="https://www.vinccilaplantaciondelsur.com/politica-cookies/"
+                  title="Política de cookies"
+                  rel="nofollow"
+                >Política de cookies</a>
+              </li>
+              <li>
+                <a
+                  href="https://www.vinccilaplantaciondelsur.com/directorio/"
+                  title="Directorio Hoteles"
+                >Directorio Hoteles</a>
+              </li>
+              <li>
+                <a
+                  href="javascript:void(0)"
+                  title="Mapa del sitio"
+                  data-toggle="modal"
+                  data-target="#modalSitemap"
+                >Mapa del sitio</a>
+              </li>
+              <li class="directorio">
+                <a
+                  href="https://www.vinccilaplantaciondelsur.com/directorio/"
+                  title="Vincci hoteles"
+                >Vincci hoteles</a>
+              </li>
+              <li class>
+                <a
+                  href="http://www.roiback.es/"
+                  title="roiback"
+                  target="_Blank"
+                  rel="nofollow"
+                >by roiback</a>
+              </li>
+            </ul>
+          </nav>
+          <span class="titulo_idiomas">Idiomas</span>
+          <nav class="idiomasFooter">
+            <ul>
+              <li>
+                <a href="https://en.vinccilaplantaciondelsur.com/" title="English">English</a>
+              </li>
+              <li>
+                <a href="https://de.vinccilaplantaciondelsur.com/" title="Deutsch">Deutsch</a>
+              </li>
+              <li>
+                <a href="https://fr.vinccilaplantaciondelsur.com/" title="Français">Français</a>
+              </li>
+              <li>
+                <a href="https://it.vinccilaplantaciondelsur.com/" title="Italiano">Italiano</a>
+              </li>
+            </ul>
+          </nav>
+          <div class="logoThawte">
+            <img
+              src="/confirmacion_files/logo_twathe.png"
+              title="Thawte  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              alt="Thawte  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              class="logo_footer"
+              width="101"
+              height="25"
+            />
+          </div>
+        </div>
+      </div>
+      <div class="footer-icons">
+        <div class="footer-icons__container">
+          <img
+            src="/confirmacion_files/ae2ff04a3bd150a2fd55920e5c7ba3ee.png"
+            class="footer-icons__img"
+            title="Gold Travelife"
+          />
+          <img
+            src="/confirmacion_files/501f4900ecc9a51e141b75b2852ed1d6.png"
+            class="footer-icons__img"
+            title="Logo TUI Family Champion 2018"
+          />
+          <img
+            src="/confirmacion_files/a540475cf763715c4287fc823b965c99.png"
+            class="footer-icons__img"
+            title="Travelife"
+          />
+          <img
+            src="/confirmacion_files/033476b60d34a92016161ced1bfef2f5.png"
+            class="footer-icons__img"
+            title="Tui Holy"
+          />
+          <img
+            src="/confirmacion_files/cf0564c054d7ee49a36a3c51aaa81702.png"
+            class="footer-icons__img"
+            title="Calidad turística"
+          />
+          <img
+            src="/confirmacion_files/2b934579a576233c82bab9afbe5e0685.png"
+            class="footer-icons__img"
+            title="Tui Top Quality"
+          />
+        </div>
+      </div>
+    </footer>
+    <!-- Modal -->
+    <div
+      class="modal fade modal_nuevo"
+      id="modalSitemap"
+      tabindex="-1"
+      role="dialog"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+            <h4 class="modal-title" id="myModalLabel4">Mapa del sitio</h4>
+          </div>
+          <div class="modal-body">
+            <ul class="list-group">
+              <li class="list-group-item">
+                <a
+                  target="_blank"
+                  href="https://www.vinccilaplantaciondelsur.com/"
+                  title="Hotel"
+                >Hotel</a>
+              </li>
+              <li class="list-group-item">
+                <a
+                  target="_blank"
+                  href="https://www.vinccilaplantaciondelsur.com/directorio/"
+                  title="Directorio Hoteles"
+                >Directorio Hoteles</a>
+              </li>
+              <li class="list-group-item">
+                <a
+                  target="_blank"
+                  href="https://www.vinccilaplantaciondelsur.com/ofertas/"
+                  title="Ofertas"
+                >Ofertas</a>
+              </li>
+              <li class="list-group-item">
+                <a
+                  target="_blank"
+                  href="https://www.vinccilaplantaciondelsur.com/"
+                  title="¡Descuento del 20%!"
+                >Oferta - ¡Descuento del 20%!</a>
+              </li>
+              <li class="list-group-item">
+                <a
+                  target="_blank"
+                  href="https://www.vinccilaplantaciondelsur.com/habitaciones/"
+                  title="Habitaciones"
+                >Habitaciones</a>
+              </li>
+              <li class="list-group-item">
+                <a
+                  target="_blank"
+                  href="https://www.vinccilaplantaciondelsur.com/fotos/"
+                  title="Fotos"
+                >Fotos</a>
+              </li>
+              <li class="list-group-item">
+                <a
+                  target="_blank"
+                  href="https://www.vinccilaplantaciondelsur.com/servicios/"
+                  title="Servicios"
+                >Servicios</a>
+              </li>
+              <li class="list-group-item">
+                <a
+                  target="_blank"
+                  href="https://www.vinccilaplantaciondelsur.com/mapa/"
+                  title="Mapa"
+                >Mapa</a>
+              </li>
+              <li class="list-group-item">
+                <a
+                  target="_blank"
+                  href="https://www.vinccilaplantaciondelsur.com/opiniones/"
+                  title="Opiniones"
+                >Opiniones</a>
+              </li>
+              <li class="list-group-item">
+                <a
+                  target="_blank"
+                  href="https://www.vinccilaplantaciondelsur.com/contacto/"
+                  title="Contacto"
+                >Contacto</a>
+              </li>
+              <li class="list-group-item">
+                <a
+                  target="_blank"
+                  href="https://www.vinccilaplantaciondelsur.com/politica-cookies/"
+                  title="Política de cookies"
+                >Política de cookies</a>
+              </li>
+              <li class="list-group-item">
+                <a
+                  target="_blank"
+                  href="https://www.vinccilaplantaciondelsur.com/aviso-legal-y-uso-de-la-web/"
+                  title="Aviso legal y uso de la página web"
+                >Aviso legal y uso de la página web</a>
+              </li>
+              <li class="list-group-item">
+                <a
+                  target="_blank"
+                  href="https://www.vinccilaplantaciondelsur.com/politica-privacidad-para-estancias/"
+                  title="Política de privacidad para las estancias"
+                >Política de privacidad para las estancias</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="modal fade modal_nuevo"
+      id="modalNewsletter"
+      tabindex="-1"
+      role="dialog"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="loader">
+            <img
+              src="/confirmacion_files/spinner2.gif"
+              title="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              alt="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              width="97"
+              height="95"
+            />
+          </div>
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+              <img
+                src="/confirmacion_files/close_modal_white.png"
+                title="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                alt="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                width="23"
+                height="24"
+              />
+            </button>
+            <h4 class="modal-title" id="myModalLabel1">Newsletter</h4>
+            <h5>Receive our offers and news</h5>
+          </div>
+          <div class="modal-body">
+            <form method="post" id="newletter">
+              <input
+                type="hidden"
+                name="csrfmiddlewaretoken"
+                value="ujDOivQZWiG2qqytp7l2T3pIfj8lyIG9rfmvvdMPZ8JwuTyHfgdzHfpYz0A0GrFi"
+              />
+              <ul>
+                <li>
+                  <label>Nombre</label>
+                  <input type="text" name="nombre" required id="id_nombre" maxlength="50" />
+                </li>
+                <li>
+                  <label>Apellidos</label>
+                  <input type="text" name="apellidos" required id="id_apellidos" maxlength="50" />
+                </li>
+                <li>
+                  <label>Correo electrónico</label>
+                  <input type="email" name="email" required id="id_email" maxlength="50" />
+                </li>
+                <li>
+                  <label>Confirmar email</label>
+                  <input type="email" name="email_confirma" required id="id_email_confirma" />
+                </li>
+                <li class="pais">
+                  <label>pais</label>
+                  <select name="pais" id="id_pais">
+                    <option value="Albania">Albania</option>
+                    <option value="Alemania">Alemania</option>
+                    <option value="Andorra">Andorra</option>
+                    <option value="Argelia">Argelia</option>
+                    <option value="Argentina">Argentina</option>
+                    <option value="Armenia">Armenia</option>
+                    <option value="Australia">Australia</option>
+                    <option value="Austria">Austria</option>
+                    <option value="Bélgica">Bélgica</option>
+                    <option value="Bielorrusia">Bielorrusia</option>
+                    <option value="Bolivia">Bolivia</option>
+                    <option value="Bosnia - Herzegovina">Bosnia - Herzegovina</option>
+
+                    <option value="Brasil">Brasil</option>
+                    <option value="Bulgaria">Bulgaria</option>
+                    <option value="Canadá">Canadá</option>
+                    <option value="Chile">Chile</option>
+                    <option value="China">China</option>
+                    <option value="Chipre">Chipre</option>
+                    <option value="Colombia">Colombia</option>
+                    <option value="Croacia">Croacia</option>
+                    <option value="Cuba">Cuba</option>
+                    <option value="Dinamarca">Dinamarca</option>
+                    <option value="Ecuador">Ecuador</option>
+                    <option value="Egipto">Egipto</option>
+                    <option value="Eslovaquia">Eslovaquia</option>
+                    <option value="Eslovenia">Eslovenia</option>
+                    <option value="España">España</option>
+                    <option value="Estados Unidos">Estados Unidos</option>
+                    <option value="Estonia">Estonia</option>
+                    <option value="Federación Rusa">Federación Rusa</option>
+                    <option value="Finlandia">Finlandia</option>
+                    <option value="Francia">Francia</option>
+                    <option value="Georgia">Georgia</option>
+                    <option value="Grecia">Grecia</option>
+                    <option value="Guatemala">Guatemala</option>
+                    <option value="Holanda">Holanda</option>
+                    <option value="Honduras">Honduras</option>
+                    <option value="Hungría">Hungría</option>
+                    <option value="India">India</option>
+                    <option value="Irlanda">Irlanda</option>
+                    <option value="Islandia">Islandia</option>
+                    <option value="Israel">Israel</option>
+                    <option value="Italia">Italia</option>
+                    <option value="Japón">Japón</option>
+                    <option value="Letonia">Letonia</option>
+                    <option value="Liechtenstein">Liechtenstein</option>
+                    <option value="Lituania">Lituania</option>
+                    <option value="Luxemburgo">Luxemburgo</option>
+                    <option value="Malta">Malta</option>
+                    <option value="Marruecos">Marruecos</option>
+                    <option value="México">México</option>
+                    <option value="Mónaco">Mónaco</option>
+                    <option value="Montenegro">Montenegro</option>
+                    <option value="Nicaragua">Nicaragua</option>
+                    <option value="Noruega">Noruega</option>
+                    <option value="Nueva Zelanda">Nueva Zelanda</option>
+                    <option value="Otro País">Otro País</option>
+                    <option value="Paraguay">Paraguay</option>
+                    <option value="Perú">Perú</option>
+                    <option value="Polonia">Polonia</option>
+                    <option value="Portugal">Portugal</option>
+                    <option value="Puerto Rico">Puerto Rico</option>
+                    <option value="Reino Unido">Reino Unido</option>
+                    <option value="República Checa">República Checa</option>
+                    <option value="República Dominicana">República Dominicana</option>
+                    <option value="Rumanía">Rumanía</option>
+                    <option value="Serbia">Serbia</option>
+                    <option value="Sudáfrica">Sudáfrica</option>
+                    <option value="Suecia">Suecia</option>
+                    <option value="Suiza">Suiza</option>
+                    <option value="Tailandia">Tailandia</option>
+                    <option value="Túnez">Túnez</option>
+                    <option value="Turquía">Turquía</option>
+                    <option value="Ucrania">Ucrania</option>
+                    <option value="Uruguay">Uruguay</option>
+                    <option value="Venezuela">Venezuela</option>
+                  </select>
+                </li>
+                <li class="pol">
+                  <input type="checkbox" name="politica" required id="id_politica" /> He leído y acepto la
+                  <a
+                    href="https://www.vinccilaplantaciondelsur.com/Politica-privacidad/"
+                    target="_blank"
+                  >política de privacidad</a>
+                </li>
+              </ul>
+              <button>¡Benefíciese ahora!</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Estructura para el pop up del footer -->
+    <!-- Fin de estructura para el pop up del footer -->
+    <div class="modal fade modal_vcenter" id="modal_ofertafechas">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+            <span class="hotel_nombre">VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR</span>
+            <h4 class="modal-title titulo"></h4>
+          </div>
+          <div class="modal-body">
+            <div id="ofertafechass" class="clearfix">
+              <div class="col-lg-4 col-sm-6 col-xs-12 checkin">
+                <label>Entrada</label>
+                <div class="input-group">
+                  <input
+                    type="text"
+                    id="oferta_entrada"
+                    class="form-control entrada_input"
+                    placeholder="Fecha entrada"
+                  />
+                  <label class="input-group-addon btn" for="oferta_entrada">
+                    <i class="fa fa-calendar"></i>
+                  </label>
+                </div>
+              </div>
+              <div class="col-lg-4 col-sm-6 col-xs-12 checkout">
+                <label>Salida</label>
+                <div class="input-group">
+                  <input
+                    type="text"
+                    id="oferta_salida"
+                    class="form-control salida_input"
+                    placeholder="Fecha salida"
+                  />
+                  <label class="input-group-addon btn" for="oferta_salida">
+                    <i class="fa fa-calendar"></i>
+                  </label>
+                </div>
+              </div>
+              <div class="col-lg-4 col-sm-12 col-xs-12 btn_cont">
+                <button
+                  class="boton btn btn-motor btn-oferta"
+                  title="¡Consulta disponibilidad!"
+                >¡Consulta disponibilidad!</button>
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+        </div>
+        <!-- /.modal-content -->
+      </div>
+      <!-- /.modal-dialog -->
+    </div>
+    <!-- /.modal -->
+  </div>
+</template>
+
+<script>
+// @ is an alias to /src
+
+
+//const langfile = require("@/assets/lang/content.json");
+import axios from "axios";
+export default {
+  name: "calendar",
+  data: function() {
+    return {
+        
+        disponibilidad:null,
+    selectedValue: {
+        start: this.formatDate2(this.$route.query.entrada),
+        end: this.formatDate2(this.$route.query.salida)
+      },
+      disableddates: null,
+      availabledates: [],
+      col:2,
+      formats: {
+        title: "MMMM YYYY",
+        weekdays: "W",
+        navMonths: "MMM",
+        input: ["L", "YYYY-MM-DD", "YYYY/MM/DD"], // Only for `v-date-picker`
+        dayPopover: "L", // Only for `v-date-picker`
+        data: ["L", "YYYY-MM-DD", "YYYY/MM/DD"] // For attribute dates
+      },
+  
+     /*  attrs: [
+        {
+          key: 'today',
+         
+          highlight: {
+              
+              class:"calendar-today ",
+              contentClass:"calendar-today"
+          },
+         
+          
+       //   dates:  this.availabledates
+         dates : new Date()
+        },
+      ],*/
+      themeStyles: {
+        container:"container-calendar",
+        header:"header-calendar",
+       dayContent:'calendar-enabled',
+       dayContentDisabled: {
+          light: 'calendar-disabled',
+         
+        },
+        contentAccent:{
+            light:"vc-highlights-lw"
+        },
+        
+      },
+      disableattr:
+        {
+          key: 'disabled',
+          
+          highlight: {
+            //'linear-gradient(to top left,#fff calc(50% - 1px),#191919,#fff calc(50% + 1px)',
+          backgroundColor: 'red',  
+         
+            opacity: 1,
+            animated: false
+          },
+          // Just use a normal style
+          contentStyle: {
+           border:"1px solid red ",
+           borderRadius:0,
+           
+            color:'red',
+          }
+        },
+        
+      /*enableattr: [
+        {
+          key: 'available',
+          highlight: {
+            backgroundColor: '#fff',
+            color:'#000',
+           
+            opacity: 1,
+            animated: false
+          },
+          // Just use a normal style
+          contentStyle: {
+            color: 'white',
+             border: '1px solid #84b044',
+             borderRadius: '0'
+          }
+
+        }],*/
+      dragattr:
+        {
+          key: 'drag',
+          highlight: {
+            backgroundColor: '#ffc107',
+            opacity: 1,
+            animated: false
+          },
+          // Just use a normal style
+          contentStyle: {
+            color: 'black'
+          }
+        },
+      selectattr:
+        {
+          key: 'select',
+          highlight: {
+            backgroundColor: '#ffb300',
+            opacity: 1,
+            animated: false
+          },
+          // Just use a normal style
+          contentStyle: {
+            color: 'black'
+          }
+        },
+    
+    };
+  },
+ methods:{
+      getnumdate(fecha){
+
+      var month = "" + (fecha.getMonth() + 1);
+      var day = "" + fecha.getDate();
+      var year = fecha.getFullYear();
+
+      if (month.length < 2) month = "0" + month;
+      if (day.length < 2) day = "0" + day;
+      return  year+''+month+''+day
+    },
+     reservar(){
+            var dde =  this.getnumdate(this.$data.selectedValue.start)
+      var dds =  this.getnumdate(this.$data.selectedValue.end)
+       
+      this.$router.push({
+            name: "Disponibilidad",
+            query: {
+              entrada: dde,
+              salida: dds,
+              ocupacion: this.$route.query.ocupacion
+            }
+          });
+     },
+     createdate(date){
+         console.log('l-------------------')
+         console.log(date)
+       var l =  this.formatDate2(date)
+         
+         console.log('l-------------------')
+         console.log(l)
+         var d = new Date(date);
+         return d
+     },
+     formatDate: function(date) {
+      var d = new Date(date);
+      var month = "" + (d.getMonth() + 1);
+      var day = "" + d.getDate();
+      var year = d.getFullYear();
+
+      if (month.length < 2) month = "0" + month;
+      if (day.length < 2) day = "0" + day;
+
+      return [year, month, day].join("-");
+    },
+      formatDate2: function(date) {
+      
+      var month =date.substr(4, 2)
+      var day = date.substr(6, 2)
+      var year = date.substr(0, 4)
+
+     
+var fdat = [day, month, year].join("-");
+      return fdat;
+    },
+    getavailabledates() {
+      var d = this.$data;
+      
+      d.loaderdate = true;
+     /*var fpage = {
+        month: parseInt(this.$route.query.entrada.substr(5, 2)),
+        year: this.$route.query.entrada.substr(0, 4)
+      };
+      var tpage = {
+        month: parseInt(this.$route.query.entrada.substr(5, 2)) + 1,
+        year: this.$route.query.entrada.substr(0, 4)
+      };
+
+      d.to_page = tpage;
+      d.from_page = fpage;
+*/
+      axios({
+        method: "get",
+        url: "https://demo.quotravel.eu/resources/eyAiY3JlYXRlZCI6ICJGcmkgTWFyIDIyIDEwOjIyOjI5IENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZG1pbiIsICJhZ2VuY3lJZCI6ICIzIn0=/cms/hotelavailabilitycalendar",
+        params: {
+          resorts: "hot-125",
+          checkin: this.$route.query.entrada,
+          checkout: this.$route.query.salida,
+          occupancies: this.$route.query.ocupacion
+        }
+      })
+        .then(function(response) {
+          var isFirst = true;
+          var startdate;
+          var enddate;
+          var lastdate;
+          var lastdateTrans;
+
+         // d.loaderdate = null;
+
+          d.disponibilidad = response.data;
+          if (d.disponibilidad) {
+            for (var i = 0; i < d.disponibilidad.months.length; i++) {
+              for (
+                var j = 0;
+                j < d.disponibilidad.months[i].weeks.length;
+                j++
+              ) {
+                for (
+                  var k = 0;
+                  k < d.disponibilidad.months[i].weeks[j].days.length;
+                  k++
+                ) {
+                  if (
+                    d.disponibilidad.months[i].weeks[j].days[k].date !== null &&
+                    d.disponibilidad.months[i].weeks[j].days[k].styleName ===
+                      "av"
+                  ) {
+                    if (isFirst) {
+                      startdate =
+                        d.disponibilidad.months[i].weeks[j].days[k].date;
+                      enddate = null;
+                      isFirst = false;
+                    } else {
+                      var actualDate = new Date(
+                        d.disponibilidad.months[i].weeks[j].days[k].date
+                      );
+                      actualDate.setDate(actualDate.getDate() - 1);
+                      actualDate.setMilliseconds(0);
+                      actualDate.setSeconds(0);
+                      actualDate.setMinutes(0);
+                      actualDate.setHours(0);
+                      if (actualDate.getTime() !== lastdateTrans.getTime()) {
+                        var ldate = lastdateTrans;
+                        ldate.setDate(ldate.getDate() + 1);
+                        enddate = ldate;
+                        d.availabledates.push({
+                          start: startdate,
+                          end: enddate
+                        });
+                        startdate =
+                          d.disponibilidad.months[i].weeks[j].days[k].date;
+                      } 
+                    }
+                    lastdate = d.disponibilidad.months[i].weeks[j].days[k].date;
+                    lastdateTrans = new Date(
+                      d.disponibilidad.months[i].weeks[j].days[k].date
+                    );
+
+                    lastdateTrans.setMilliseconds(0);
+                    lastdateTrans.setSeconds(0);
+                    lastdateTrans.setMinutes(0);
+                    lastdateTrans.setHours(0);
+                  }
+                }
+              }
+            }
+            var ldate2 = new Date(lastdate);
+            ldate2.setDate(ldate2.getDate() + 1);
+            enddate = ldate2;
+            console.log("este es el ultimo " + startdate + enddate);
+            if (startdate && enddate) {
+              d.availabledates.push({ start: startdate, end: enddate });
+            }
+          }
+          console.log(d.availabledates);
+          if (d.availabledates.length === 0) {
+            d.availabledates = null;
+            d.disableddates = { start: null, end: null };
+          }
+          console.log(d.availabledates);
+          d.charged = true;
+        })
+        .catch(function(error) {
+          d.charged = false;
+          d.loaderdate = null;
+          console.log(error);
+        });
+    }
+ },
+  mounted() {
+      this.getavailabledates()
+  }
+  
+}
+</script>
+<style scoped>
+.calendar-today{
+    border-radius: 0;
+    display:none;
+}
+</style>

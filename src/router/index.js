@@ -1,14 +1,47 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import ok from '../views/ok.vue'
+import Disponibilidad from '../views/Disponibilidad.vue'
+import calendario from '../views/calendario.vue'
+import Confirmation from '../views/Confirmation.vue'
+import VCalendar from 'v-calendar';
+//import 'v-calendar/lib/v-calendar.min.css';
 
 Vue.use(VueRouter)
+Vue.use(VCalendar, {
+  firstDayOfWeek: 2,  // Monday
+  locale:"es",
+  showLinkedButtons:true,
+  popoverVisibility:'focus'
 
+})
 const routes = [
   {
     path: '/',
     name: 'home',
     component: Home
+  },
+  {
+    path: '/disponibilidad',
+    name: 'Disponibilidad',
+    component: Disponibilidad
+  },
+  {
+    path: '/ok',
+    name: 'ok',
+    component: ok
+  },
+   {
+    path: '/confirmation',
+    name: 'Confirmation',
+    component: Confirmation
+  },
+  
+   {
+    path: '/calendario',
+    name: 'calendario',
+    component: calendario
   },
   {
     path: '/about',

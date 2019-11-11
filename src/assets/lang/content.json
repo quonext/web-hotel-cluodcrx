@@ -1,0 +1,654 @@
+{
+  "multilanguage":{
+    "title":{
+      "en":"title",
+      "es":"titulo"
+    },
+    "destination":{
+      "en":"Destination",
+      "es":"Destino"
+    },
+    "checkin":{
+      "en":"Checkin",
+      "es":"Entrada"
+    },
+    "checkout":{
+      "en":"Checkout",
+      "es":"Salida"
+    },
+    "occupancy":{
+      "en":"Occupancy",
+      "es":"Ocupación"
+    },
+    "search":{
+      "en":"Search",
+      "es":"Buscar"
+    },
+    "hotelfound":{
+      "en":"Hotel/s found",
+      "es":"Hotel/es encontrado/s"
+    },
+    "choosedest":{
+      "en":"Choose destination",
+      "es":"Elegir destino"
+    },
+    "searchdest":{
+      "en":"Search destination",
+      "es":"Buscar destino"
+    },
+    "searchtext":{
+      "en":"Search...",
+      "es":"Buscar..."
+    },
+    "ok":{
+      "en":"Ok",
+      "es":"Ok"
+    },
+    "rooms":{
+      "en":"Rooms",
+      "es":"Habitaciones"
+    },
+    "gettingrooms":{
+      "en":"Getting rooms...",
+      "es":"Obteniendo habitaciones.."
+    },
+    "pax":{
+      "en":"Pax",
+      "es":"Pax"
+    },
+    "childages":{
+      "en":"Child age",
+      "es":"Edad niño"
+    },
+
+    "changeoccupation":{
+      "en":"Change occupation",
+      "es":"Cambiar ocupación"
+    },
+
+    "gettingresources":{
+      "en":"Getting resources",
+      "es":"Obteniendo resultados"
+    },
+
+    "checkandfill":{
+      "en":"Check details and fill",
+      "es":"Revise los detalles y rellene"
+    },
+
+    "details":{
+      "en":"Details",
+      "es":"Detalles"
+    },
+
+    "totals":{
+      "en":"Totals",
+      "es":"Totales"
+    },
+    "total":{
+      "en":"Total",
+      "es":"Total"
+    },
+    "amount":{
+      "en":"Amount",
+      "es":"Importe"
+    },
+    "net":{
+      "en":"Net",
+      "es":"Neto"
+    },
+
+    "retail":{
+      "en":"Retail",
+      "es":"Venta"
+    },
+
+    "commision":{
+      "en":"Commision",
+      "es":"Comisión"
+    },
+
+    "type":{
+      "en":"Type",
+      "es":"Tipo"
+    },
+    "from":{
+      "en":"From",
+      "es":"Desde"
+    },
+    "to":{
+      "en":"To",
+      "es":"Hasta"
+    },
+    "summary":{
+      "en":"Summary",
+      "es":"Resumen"
+    },
+    "avaiablesupl":{
+      "en":"Available supplements",
+      "es":"Suplementos disponibles"
+    },
+
+    "description":{
+      "en":"Description",
+      "es":"Descripción"
+    },
+
+    "cost":{
+      "en":"Cost",
+      "es":"Coste"
+    },
+
+    "selected":{
+      "en":"Selected",
+      "es":"Seleccionado"
+    },
+    "select":{
+      "en":"Select",
+      "es":"Seleccionar"
+    },
+    "paymentline":{
+      "en":"Payments to be made",
+      "es":"Pagos a realizar"
+    },
+
+    "date":{
+      "en":"Date",
+      "es":"Fecha"
+    },
+    "dates":{
+      "en":"Dates",
+      "es":"Fechas"
+    },
+
+    "remarks":{
+      "en":"Remarks",
+      "es":"Observaciones"
+    },
+
+    "cancellationcost":{
+      "en":"Cancelation costs",
+      "es":"Gastos de anulación"
+    },
+
+    "after":{
+      "en":"After",
+      "es":"Tras"
+    },
+
+    "filllead":{
+      "en":"Please fill lead name",
+      "es":"Por favor, rellene datos del titular"
+    },
+
+    "name":{
+      "en":"Name",
+      "es":"Nombre"
+    },
+    "surname":{
+      "en":"Surname",
+      "es":"Apellidos"
+    },
+    "specialrequest":{
+      "en":"Special request",
+      "es":"peticiones especiales"
+    },
+    "occupant":{
+      "en":"Occupant",
+      "es":"Ocupante"
+    },
+    "age":{
+      "en":"Age",
+      "es":"Edad"
+    },
+    "filloccupancy":{
+      "en":"Please fill Names for each occupation",
+      "es":"Por favor, rellene datos de los ocupantes"
+    },
+    "paymentinformation":{
+      "en":"Payment information",
+      "es":"Información de pago"
+    },
+    "cardholder":{
+      "en":"Card holder name",
+      "es":"Nombre titular de la terjeta"
+    },
+    "cardnumber":{
+      "en":"Card number",
+      "es":"Número de la terjeta"
+    },
+    "cvc":{
+      "en":"CVC number",
+      "es":"Número CVC"
+    },
+    "expirationdate":{
+      "en":"Expiration Date",
+      "es":"Fecha Caducidad"
+    },
+
+    "email":{
+      "en":"Email",
+      "es":"Email"
+    },
+
+    "phonenumber":{
+      "en":"Phone number",
+      "es":"Número de teléfono"
+    },
+    "book":{
+      "en":"Book",
+      "es":"Reservar"
+    },
+    "client":{
+      "en":"Client",
+      "es":"Cliente"
+    },
+    "children":{
+      "en":"Children Nª",
+      "es":"Nº de Niños"
+    },
+    "of":{
+      "en":"of",
+      "es":"de"
+    },
+    "yearsold":{
+      "en":"Years Old",
+      "es":"Años"
+    },
+    "adult":{
+      "en":"Adults",
+      "es":"Adultos"
+    },
+    "goon":{
+      "en":"Go on",
+      "es":"Adelante"
+    },
+    "room":{
+      "en":"Room",
+      "es":"Habitación"
+    },
+    "chooseroom":{
+      "en":"Choose your rooms",
+      "es":"Elije las Habitaciones"
+    },
+    "prices":{
+      "en":"Prices",
+      "es":"Precios"
+    },
+    "price":{
+      "en":"Price",
+      "es":"Precio"
+    },
+    "priceline":{
+      "en":"Price lines",
+      "es":"Desglose precios"
+    },
+    "correcterrors":{
+      "en":"Please correct the following error(s):",
+      "es":"Por favor, corrija los errores:"
+    },
+    "errorcheckinempty":{
+      "en":"Field Checkin required",
+      "es":"El campo Entrada es obligatorio"
+    },
+    "errorcheckoutempty":{
+      "en":"Field Checkout required",
+      "es":"El campo Salida es obligatorio"
+    },
+    "errordestinationempty":{
+      "en":"Field Destination required",
+      "es":"El campo Destino es obligatorio"
+    },
+    "erroroccupancyempty":{
+      "en":"Field Occupancy required",
+      "es":"El campo Ocupacion es obligatorio"
+    },
+    "errordatesempty":{
+      "en":"Select dates",
+      "es":"Seleccione las fechas"
+    },
+
+    "errorleadnameempty":{
+      "en":"Lead Name is required",
+      "es":"El campo Nombre titular es obligatorio"
+    },
+    "erroremailempty":{
+      "en":"Email is required",
+      "es":"El Email  es obligatorio"
+    },
+    "erroremailnotvalid":{
+      "en":"Invalid Email format",
+      "es":"Formato Email no válido"
+    },
+    "errorcheckintoday":{
+      "en":"Checkin date must be greater than today",
+      "es":"La fecha de entrada debe ser mayor a hoy"
+    },
+    "errorcheckincheckout":{
+      "en":"Checkout date must be greater than Checkin",
+      "es":"La fecha de salida debe ser mayor a la fecha de entrada"
+    },
+    "requiredfield":{
+      "en":"(*) Required fields",
+      "es":"(*) Campos obligatorios"
+    },
+    "viewdatasheet":{
+      "en":"View data sheet",
+      "es":"Ver ficha"
+    },
+    "findhotel":{
+      "en":"Find your hotel",
+      "es":"Encuentra tu hotel"
+    },
+    "logedconfirm":{
+      "en":"You must be logged to confirm!",
+      "es":"Debe logarse para confirmar su reserva!"
+    },
+    "login": {
+      "en":"Login",
+      "es":"Login"
+    },
+    "registered":{
+      "en":"Registered users",
+      "es":"Usuarios registrados"
+    },
+    "user":{
+      "en":"User",
+      "es":"Usuario"
+    },
+    "password":{
+      "en":"Password",
+      "es":"Contraseña"
+    },
+    "forgot":{
+      "en":"Forgot password?",
+      "es":"¿Olvidaste la contraseña?"
+    },
+    "needaccount":{
+      "en":"If you need an account.",
+      "es":"Si necesitas una cuenta."
+    },
+    "createaccount":{
+      "en":"Create account",
+      "es":"Crea una cuenta"
+    },
+    "accesswith":{
+      "en":"Access with",
+      "es":"Accede con"
+    },
+    "fillyourdata":{
+      "en":"Please fill your data",
+      "es":"Rellene sus datos"
+    },
+    "signin":{
+      "en":"Sign In",
+      "es":"Registrar"
+    },
+    "confirmpassword":{
+      "en":"Confirm password",
+      "es":"Confirmar contraseña"
+    },
+    "recoverpass":{
+      "en":"Recover password",
+      "es":"Recuperar contraseña"
+    },
+    "fillemail":{
+      "en":"Insert your email address to recover password",
+      "es":"Introduzca su correo para recuperar la contraseña"
+    },
+    "recover":{
+      "en":"Recover",
+      "es":"Recuperar"
+    },
+    "who":{
+      "en":"Who",
+      "es":"Quienes"
+    },
+    "where":{
+      "en":"Where",
+      "es":"Donde"
+    },
+    "when":{
+      "en":"When",
+      "es":"Cuando"
+    },
+    "whochange":{
+      "en":"Change who",
+      "es":"Quien viajará"
+    },
+    "selectdestinationdate":{
+      "en":"Destination Dates",
+      "es":"Destino Fechas"
+    },
+    "selecthotel":{
+      "en":"Hotel",
+      "es":"Hotel"
+    },
+    "selectroom":{
+      "en":"Room Board",
+      "es":"Habitación Régimen"
+    },
+    "fillcheckbook":{
+      "en":"Confirm",
+      "es":"Confirma"
+    },
+    "changeoptions":{
+      "en":"Change options",
+      "es":"Modificar Opciones"
+    },
+    "filterby":{
+      "en":"Filter by",
+      "es":"Filtrar por"
+    },
+    "filter":{
+      "en":"Filter ",
+      "es":"Filtrar "
+    },
+    "category":{
+      "en":"Category",
+      "es":"Categoría"
+    },
+    "list":{
+      "en":"List",
+      "es":"Lista"
+    },
+    "listcalendar":{
+      "en":"List",
+      "es":"Lista"
+    },
+    "block":{
+      "en":"Block",
+      "es":"Bloque"
+    },
+    "map":{
+      "en":"Map",
+      "es":"Mapa"
+    },
+    "photos":{
+      "en":"Photos",
+      "es":"Fotos"
+    },
+    "about":{
+      "en":"About",
+      "es":"Sobre"
+    },
+    "features":{
+      "en":"Features",
+      "es":"Características"
+    },
+    "onmap":{
+      "en":"On Map",
+      "es":"Mapa"
+    },
+    "changedates":{
+      "en":"Select dates",
+      "es":"Elige las fechas"
+    },
+    "apply":{
+      "en":"Apply",
+      "es":"Aplicar"
+    },
+    "discountcoupon":{
+      "en":"Discount coupon",
+      "es":"Cupón de descuento"
+    },
+    "thankyou":{
+      "en":"Thank you!",
+      "es":"¡Gracias!"
+    },
+    "bookingconfirmedtext":{
+      "en":"Your booking has been confirmed with Booking Number",
+      "es":"Su reserva a sido confirmada con el siguiente Número de Reserva"
+    },
+    "complementbooking":{
+      "en":"Compliment your booking",
+      "es":"Complementa tu reserva"
+    },
+    "addtolocator":{
+      "en":"Added services will be attached to the given locator id ",
+      "es":"Los servicios añadidos se asociarán al localizador id"
+    },
+    "add":{
+      "en":"Add",
+      "es":"Añadir"
+    },
+    "orpay":{
+      "en":"Or procced payment",
+      "es":"O realizar el pago"
+    },
+    "paymenttext":{
+      "en":"You can pay now or later, your booking will be active for 3 days, after this time booking will be automatically canceled",
+      "es":"Puede realizar su pago ahora o hacerlo mas tarde, su reserva permanecerá activa durante 3 días, en caso de no realizarse el pago esta se cancelara automaticamente"
+    },
+    "proceedpayment":{
+      "en":"Procced payment",
+      "es":"Realizar pago"
+    },
+    "resetfilter":{
+      "en":"Reset Filter ",
+      "es":"Limpiar Filtros "
+    },
+    "noresults":{
+      "en":"No results found",
+      "es":"No se encontraron resultados"
+    },
+    "norates":{
+      "en":"No availability for selected dates, please select new dates",
+      "es":"No hay disponibilidad para las fechas indicadas, por favor seleccione otras fechas"
+    },
+    "noavailablein":{
+      "en":"No availability for selected dates, can modify other dates",
+      "es":"No hay disponibilidad para las fechas indicadas, puede modificar las fechas"
+    },
+    "offerprice":{
+      "en":"OFFER PRICE!",
+      "es":"¡OFERTA!"
+    },
+    "availablesupl":{
+      "en":"Available supplements",
+      "es":"Suplementos disponibles"
+    },
+    "nocancellationcosts":{
+      "en":"There are no cancellation costs",
+      "es":"No existen gastos de cancelación"
+    },
+    "nopaymentlines":{
+      "en":"No pending payments",
+      "es":"No existen pagos pendientes"
+    },
+    "nocalendar":{
+      "en":"Could not load calendar, please search again",
+      "es":"No se pudo cargar el calendario, por favor repita la búsqueda"
+    },
+    "genericError":{
+      "en":"There was a problem in your request please try later",
+      "es":"Se produjo un error en el proceso de reserva intentelo de nuevo más tarde"
+    },
+    "emailpayment":{
+      "en":"You will reicive an email with payments details",
+      "es":"Recibirá un correo con los detalles para realizar su pago"
+    },
+    "norobot":{
+      "en":"Confirm you are not a Robot to book",
+      "es":"Confirma que no eres un Robot para reservar"
+    },
+    "havecoupon":{
+      "en":"Have a coupon?",
+      "es":"¿Tienes un cupón?"
+    },
+    "norooms":{
+      "en":"There are no available options for this occupation. If you continue, you will book other selected rooms",
+      "es":"No hay opciones disponibles para esta combinación. Si continua con la reserva, reservará el resto de habitaciones seleccionadas"
+    },
+    "peoplein":{
+      "en":"people in a",
+      "es":"personas en una"
+    },
+    "addtocart":{
+      "en":"Add to cart",
+      "es":"Añadir al carro"
+    },
+    "addedtocart":{
+      "en":"Added to cart",
+      "es":"Se añadió al carro"
+    },
+    "pleaseacceptterms":{
+      "en":"Please accept terms and conditions to continue",
+      "es":"Por favor acepte los términos y condiciones"
+    },
+    "freeuntil":{
+      "en":"Cancellation costs free until:",
+      "es":"Cancelación gratuita hasta el:"
+    },
+    "komessage":{
+      "en":"We are sorry. Your booking could not be processed",
+      "es":"Lo sentimos, su reserva no se ha podido procesar."
+    },
+    "until":{
+      "en":" until ",
+      "es":" hasta el dia"
+    },
+    "through":{
+      "en":" through",
+      "es":" mediante "
+    } ,
+    "asof":{
+      "en":" as of",
+      "es":" a partir del dia "
+    },
+    "notselected":{
+      "en":"Not selected",
+      "es":"Sin seleccionar"
+    },
+    "only":{
+      "en":"Only",
+      "es":"Solo"
+    },
+    "available":{
+      "en":" available",
+      "es":" disponibles"
+    },
+    "noavailable":{
+      "en":"Not available",
+      "es":"No disponibles"
+    },
+    "chooseboard":{
+      "en":"Choose your board",
+      "es":"Elige tu estancia"
+    },
+    "noresultsfoundfor":{
+      "en":"No results found for:",
+      "es":"No se encontraron resultados para:"
+    },
+    "insertsearchtext":{
+      "en":"Insert search text",
+      "es":"Introduzca un texto de búsqueda"
+    }
+    
+    
+    
+
+    
+    
+  }
+}
