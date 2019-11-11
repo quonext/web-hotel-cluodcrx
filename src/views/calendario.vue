@@ -7,7 +7,7 @@
         <div class="logo">
           <a href="https://www.vinccilaplantaciondelsur.com/">
             <img
-              src="/confirmacion_files/logo_5.jpg"
+              src="/index_filess/logo_5.jpg"
               width
               height
               title="5 estrellas  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
@@ -123,7 +123,7 @@
               <img
                 title="Web oficial  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 alt="Web oficial  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                src="/confirmacion_files/icon_official.png"
+                src="/index_filess/icon_official.png"
               />
               <span>Web oficial</span>
             </div>
@@ -131,7 +131,7 @@
               <img
                 title="Wifi gratis  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 alt="Wifi gratis  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                src="/confirmacion_files/logo_wifi.png"
+                src="/index_filess/logo_wifi.png"
               />
               <span>Wifi gratis</span>
             </div>
@@ -1147,7 +1147,7 @@
           </nav>
           <div class="logoThawte">
             <img
-              src="/confirmacion_files/logo_twathe.png"
+              src="/index_filess/logo_twathe.png"
               title="Thawte  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               alt="Thawte  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               class="logo_footer"
@@ -1160,32 +1160,32 @@
       <div class="footer-icons">
         <div class="footer-icons__container">
           <img
-            src="/confirmacion_files/ae2ff04a3bd150a2fd55920e5c7ba3ee.png"
+            src="/index_filess/ae2ff04a3bd150a2fd55920e5c7ba3ee.png"
             class="footer-icons__img"
             title="Gold Travelife"
           />
           <img
-            src="/confirmacion_files/501f4900ecc9a51e141b75b2852ed1d6.png"
+            src="/index_filess/501f4900ecc9a51e141b75b2852ed1d6.png"
             class="footer-icons__img"
             title="Logo TUI Family Champion 2018"
           />
           <img
-            src="/confirmacion_files/a540475cf763715c4287fc823b965c99.png"
+            src="/index_filess/a540475cf763715c4287fc823b965c99.png"
             class="footer-icons__img"
             title="Travelife"
           />
           <img
-            src="/confirmacion_files/033476b60d34a92016161ced1bfef2f5.png"
+            src="/index_filess/033476b60d34a92016161ced1bfef2f5.png"
             class="footer-icons__img"
             title="Tui Holy"
           />
           <img
-            src="/confirmacion_files/cf0564c054d7ee49a36a3c51aaa81702.png"
+            src="/index_filess/cf0564c054d7ee49a36a3c51aaa81702.png"
             class="footer-icons__img"
             title="Calidad turística"
           />
           <img
-            src="/confirmacion_files/2b934579a576233c82bab9afbe5e0685.png"
+            src="/index_filess/2b934579a576233c82bab9afbe5e0685.png"
             class="footer-icons__img"
             title="Tui Top Quality"
           />
@@ -1315,7 +1315,7 @@
         <div class="modal-content">
           <div class="loader">
             <img
-              src="/confirmacion_files/spinner2.gif"
+              src="/index_filess/spinner2.gif"
               title="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               alt="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               width="97"
@@ -1325,7 +1325,7 @@
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
               <img
-                src="/confirmacion_files/close_modal_white.png"
+                src="/index_filess/close_modal_white.png"
                 title="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 alt="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 width="23"

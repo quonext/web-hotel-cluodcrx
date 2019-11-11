@@ -3,67 +3,33 @@
 
 <head>
 
-  <script>
-    localStorage.setItem("baseurl", 'https://demo.quotravel.eu/resources/eyAiY3JlYXRlZCI6ICJGcmkgTWFyIDIyIDEwOjIyOjI5IENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZG1pbiIsICJhZ2VuY3lJZCI6ICIzIn0=');
-    var globaldata = {
-      baseurl: localStorage.getItem("baseurl"), // EasyTravelApi implementation server
-      language: localStorage.getItem("es"), //Current Language for ML system (ISO code)
-      whitebrandhotel:'' // Used to a particular hotel. Filled with hotel ID shows only that hotel info,  if empty ('') value lists all portfolio hotels
-    };
-  </script>
+  
+  
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <link rel="icon" href="<%= BASE_URL %>favicon.ico">
   <title>hotelcloud</title>
-  <meta name="author" content="GLOBAL OBI S.L.">
-  <meta name="keywords" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="google-site-verification" content="rtPi8lkDZOrdku_GSqd7JrAh0yW__yWSfv9iMrAvHQY">
-  <meta name="description" content="">
-  <meta property="og:title" content="  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR">
-  <meta property="og:url" content="https://vincciplantaciondesur.backhotelengine.com">
-  <meta property="og:image"
-    content="https://vincciplantaciondesur.backhotelengine.com/cache/70/0f/700f8d67b326d884fbe505139d022689.jpg">
   <meta property="og:locale" content="es_ES">
   <meta property="og:locale:alternate" content="en_EN">
   <meta property="og:locale:alternate" content="de_DE">
   <meta property="og:locale:alternate" content="fr_FR">
   <meta property="og:locale:alternate" content="it_IT">
-  <link rel="alternate" hreflang="es" href="https://www.vinccilaplantaciondelsur.com/">
-  <link rel="alternate" hreflang="en" href="https://en.vinccilaplantaciondelsur.com/">
-  <link rel="alternate" hreflang="de" href="https://de.vinccilaplantaciondelsur.com/">
-  <link rel="alternate" hreflang="fr" href="https://fr.vinccilaplantaciondelsur.com/">
-  <link rel="alternate" hreflang="it" href="https://it.vinccilaplantaciondelsur.com/">
-  <link rel="alternate" hreflang="x-default" href="https://en.vinccilaplantaciondelsur.com/">
-  <link rel="shortcut icon" type="image/x-icon" href="https://vincciplantaciondesur.backhotelengine.com/favicon.ico">
-  <link rel="stylesheet" href="/confirmacion_files/bootstrap.min.css" media="all">
-  <link rel="stylesheet" href="/confirmacion_files/font-awesome.min.css" media="all">
-  <link rel="stylesheet" href="/confirmacion_files/carritotop.css" type="text/css">
-  <link rel="stylesheet" href="/confirmacion_files/model.min.css" media="all">
-  <link rel="stylesheet" href="/confirmacion_files/model-color.min.css" media="all">
-  <link rel="stylesheet" href="/confirmacion_files/jquery.fancybox.css">
+  <link rel="stylesheet" href="/index_files/bootstrap.min.css" media="all">
+  <link rel="stylesheet" href="/index_files/font-awesome.min.css" media="all">
+  <link rel="stylesheet" href="/index_files/carritotop.css" type="text/css">
+  <link rel="stylesheet" href="/index_files/model.min.css" media="all">
+  <link rel="stylesheet" href="/index_files/model-color.min.css" media="all">
+  <link rel="stylesheet" href="/index_files/jquery.fancybox.css">
   <!--<link rel="stylesheet" href="/static/comun/js/fancybox/jquery.fancybox-thumbs.css" />-->
   <meta name="robots" content="noindex, nofollow">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="head_multiples_ofertas" content="Varias ofertas combinadas">
-  <meta name="content_multiples_ofertas" content="Hemos combinado varias ofertas para ofrecerte el mejor precio.">
-  <meta name="content_multiples_ofertas_dto" content="Hemos combinado varias ofertas para ofrecerte un descuento de:">
   <meta name="siteLanguage" content="es">
   <meta name="countryCode" content="ES">
-  <meta name="nights" content="">
-  <meta name="forcedCurrencyFormat" content="{&quot;currency_format&quot;: {}}">
-  <meta name="baseCurrency" content="EUR">
-  <meta name="targetCurrency" content="EUR">
-  <meta name="google-maps-url"
-    content="https://maps.googleapis.com/maps/api/js?language=es&amp;key=AIzaSyBuYApuNKMbyIgldf0v4awjoZe2W7a23qA">
-  <meta name="infobox-url" content="/bookcore/static/js/infobox.js?v=7847513120d4be1f0b7dcf1905d0077d">
-  <meta name="renderIcon" content="false">
-  <link rel="stylesheet" type="text/css" href="/confirmacion_files/bc-styles-skeleton.min.css">
-  <link rel="stylesheet" type="text/css" href="/confirmacion_files/bc-styles.min.css">
-  <link rel="stylesheet" type="text/css" href="/confirmacion_files/bc-styles.min(1).css">
-  <link rel="stylesheet" href="/confirmacion_files/font-awesome.min(1).css">
-  <link rel="stylesheet" type="text/css" href="/confirmacion_files/NoDispoCalendarV2.css">
+  <link rel="stylesheet" type="text/css" href="/index_files/bc-styles-skeleton.min.css">
+  <link rel="stylesheet" type="text/css" href="/index_files/bc-styles.min.css">
+  <link rel="stylesheet" type="text/css" href="/index_files/bc-styles.min(1).css">
+  <link rel="stylesheet" href="/index_files/font-awesome.min(1).css">
+  <link rel="stylesheet" type="text/css" href="/index_files/NoDispoCalendarV2.css">
   <!-- Estilos para el pop up del footer -->
   <!--<script type="text/javascript" async="" src="/confirmacion_files/ec.js"></script>
   <script type="text/javascript" id="veConnect" async="" crossorigin="anonymous"
@@ -74,18 +40,18 @@
   
   <script type="text/javascript" src="/confirmacion_files/jquery.detectmobile.js"></script>-->
 
-  <link rel="stylesheet" type="text/css" href="/confirmacion_files/bc-styles-skeleton.min.css">
-  <link rel="stylesheet" type="text/css" href="/confirmacion_files/bc-styles.min.css">
-  <link rel="stylesheet" type="text/css" href="/confirmacion_files/bc-styles.min(1).css">
-  <link rel="stylesheet" href="/confirmacion_files/font-awesome.min(1).css">
-  <link rel="stylesheet" type="text/css" href="/confirmacion_files/NoDispoCalendarV2.css">
+  <link rel="stylesheet" type="text/css" href="/index_files/bc-styles-skeleton.min.css">
+  <link rel="stylesheet" type="text/css" href="/index_files/bc-styles.min.css">
+  <link rel="stylesheet" type="text/css" href="/index_files/bc-styles.min(1).css">
+  <link rel="stylesheet" href="/index_files/font-awesome.min(1).css">
+  <link rel="stylesheet" type="text/css" href="/index_files/NoDispoCalendarV2.css">
   <!-- Estilos para el pop up del footer -->
-  <script type="text/javascript" async="" src="/confirmacion_files/ec.js"></script>
-  <script type="text/javascript" id="veConnect" async="" crossorigin="anonymous"
-      src="/confirmacion_files/capture-apps-5.0.0.js"></script>
-  <script type="text/javascript" async="" src="/confirmacion_files/tag.js"></script>
-  <script type="text/javascript" async="" src="/confirmacion_files/analytics.js"></script>
-  <script async="" src="/confirmacion_files/gtm.js"></script>
+  <!-- quitado 2 <script type="text/javascript" async="" src="/confirmacion_files/ec.js"></script>-->
+  <!-- quitado <script type="text/javascript" id="veConnect" async="" crossorigin="anonymous"
+      src="/confirmacion_files/capture-apps-5.0.0.js"></script>-->
+  <!-- quitado <script type="text/javascript" async="" src="/confirmacion_files/tag.js"></script>-->
+  <!-- quitado <script type="text/javascript" async="" src="/confirmacion_files/analytics.js"></script>-->
+  <!-- quitado <script async="" src="/confirmacion_files/gtm.js"></script>-->
   
   <!--<script type="text/javascript" src="/confirmacion_files/jquery.detectmobile.js"></script>-->
   
@@ -256,49 +222,53 @@
     <script
       type="text/javascript">"boolean" == typeof _vis_opt_settings_loaded && "function" == typeof _vis_opt_top_initialize && (_vis_opt_top_initialize(), vwo_$(document).ready(function () { _vis_opt_bottom_initialize() }));</script>
 
-      <script src="/dispo_files/jquery.js"></script>
-      <script src="/dispo_files/jquery-ui.min.js"></script>
-      <script src="/dispo_files/jquery.ui.datepicker-es.js"></script>
-      <script src="/dispo_files/bootstrap.min.js"></script>
-      <script src="/dispo_files/jPushMenu.js"></script>
-      <script type="text/javascript" src="/dispo_files/jquery.cookiesdirective.js"></script>
-      <script type="text/javascript" src="/dispo_files/jquery.newsletter.min.js"></script>
-      <script type="text/javascript" src="/dispo_files/jquery.carritotop.min.js"></script>
-      <script type="text/javascript" src="/dispo_files/jquery.individual.min.js"></script>
-      <script src="/dispo_files/jquery.fancybox.pack.js"></script>
-      <script src="/dispo_files/jquery.cookie.js"></script>
+      <script src="/index_files/jquery.js"></script>
+      <script src="/index_files/jquery-ui.min.js"></script>
+      <script src="/index_files/jquery.ui.datepicker-es.js"></script>
+      <script src="/index_files/bootstrap.min.js"></script>
       <script>
+        localStorage.setItem("baseurl", 'https://demo.quotravel.eu/resources/eyAiY3JlYXRlZCI6ICJGcmkgTWFyIDIyIDEwOjIyOjI5IENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZG1pbiIsICJhZ2VuY3lJZCI6ICIzIn0=');
+        var globaldata = {
+          baseurl: localStorage.getItem("baseurl"), // EasyTravelApi implementation server
+          language: localStorage.getItem("es"), //Current Language for ML system (ISO code)
+          whitebrandhotel:'' // Used to a particular hotel. Filled with hotel ID shows only that hotel info,  if empty ('') value lists all portfolio hotels
+        };
+        </script>
+      
+      <!-- quitado <script src="/index_files/jPushMenu.js"></script>
+      <script type="text/javascript" src="/index_files/jquery.cookiesdirective.js"></script>
+      <script type="text/javascript" src="/index_files/jquery.newsletter.min.js"></script>
+      <script type="text/javascript" src="/index_files/jquery.carritotop.min.js"></script>
+      <script type="text/javascript" src="/index_files/jquery.individual.min.js"></script>
+      <script src="/index_files/jquery.fancybox.pack.js"></script>
+      <script src="/index_files/jquery.cookie.js"></script>-->
+  <!-- quitado     <script>
         $('#motorform_buscar').data('gtm-e-action', 'disponibilidad_home');
       </script>
   
  
-      <script type="text/javascript" src="/dispo_files/RoiEventAnalytics.min.js"></script>
+      <script type="text/javascript" src="/index_files/RoiEventAnalytics.min.js"></script>
       <script
           type="text/javascript">window.jQuery || document.write('<script type="text/javascript" src="//code.jquery.com/jquery-3.3.1.min.js"><\/script>')</script>
       <script
           type="text/javascript">window.jQuery.ui || document.write('<script type="text/javascript" src="//code.jquery.com/ui/1.12.1/jquery-ui.min.js"><\/script>')</script>
-      <script type="text/javascript" src="/dispo_files/DispoCommons.min.js"></script>
-      <script type="text/javascript" src="/dispo_files/EventHandler.min.js"></script>
-      <!--<script type="text/javascript" src="/dispo_files/RoiCart.min.js"></script>-->
-      <!--<script type="text/javascript" src="/dispo_files/bookcoredispocar.min.js"></script>-->
+      <script type="text/javascript" src="/index_files/DispoCommons.min.js"></script>
+      <script type="text/javascript" src="/index_files/EventHandler.min.js"></script>-->
+      <!--<script type="text/javascript" src="/index_files/RoiCart.min.js"></script>-->
+      <!--<script type="text/javascript" src="/index_files/bookcoredispocar.min.js"></script>-->
       <script type="text/javascript">
           var bootstrap_enabled = (typeof $().modal == 'function');
           if (!bootstrap_enabled) {
               document.write('<script type="text/javascript" src="/bookcore/static/js/v4/bootstrap.min.js?v=e8d46688c58c84ad9ff705897b3af44a"><\/script>');
           }
       </script>
-      <script src="/dispo_files/raven.min.js" crossorigin="anonymous"></script>
+   <!-- quitado    <script src="/index_files/raven.min.js" crossorigin="anonymous"></script>
       <script
-          type="text/javascript">window.Raven || document.write('<script type="text/javascript" src="/bookcore/static/js/ravenjs.com/3.26.4/raven.min.js"><\/script>')</script>
-   <!--  <script src="/dispo_files/Triptease.min.js"></script>
-      <script src="/dispo_files/DispoLoyalty.min.js"></script>
-      <script src="/dispo_files/RoiRoomsAvailability.min.js"></script>-->
-       
-  <script>
-    $( function() {
-
-    } );
-    </script>
+          type="text/javascript">window.Raven || document.write('<script type="text/javascript" src="/bookcore/static/js/ravenjs.com/3.26.4/raven.min.js"><\/script>')</script>-->
+   <!--  <script src="/index_files/Triptease.min.js"></script>
+      <script src="/index_files/DispoLoyalty.min.js"></script>
+      <script src="/index_files/RoiRoomsAvailability.min.js"></script>-->
+   
    <!--   <script>
       jQuery(function($){
 	$.datepicker.regional['es'] = {

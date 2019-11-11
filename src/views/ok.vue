@@ -5,7 +5,7 @@
         <div class="logo">
           <a href="https://www.vinccilaplantaciondelsur.com/">
             <img
-              src="/confirmacion_files/logo_5.jpg"
+              src="/index_files/logo_5.jpg"
               width
               height
               title="5 estrellas  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
@@ -121,7 +121,7 @@
               <img
                 title="Web oficial  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 alt="Web oficial  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                src="/confirmacion_files/icon_official.png"
+                src="/index_files/icon_official.png"
               />
               <span>Web oficial</span>
             </div>
@@ -129,7 +129,7 @@
               <img
                 title="Wifi gratis  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 alt="Wifi gratis  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                src="/confirmacion_files/logo_wifi.png"
+                src="/index_files/logo_wifi.png"
               />
               <span>Wifi gratis</span>
             </div>
@@ -365,17 +365,19 @@
                     </div>
                   </div>
                 </div>
+                {{this.$route.query.response}}
                 <div
                   id="roi-confirmation-container"
                   class="bc_contenido booking-details"
                   data-trans-card-number-label="Número de la tarjeta"
                   data-trans-cvv-label="CVC"
                 >
-                 <div data-v-10777114="" class="booking-details__item2"><div data-v-10777114="" class="roi-booking-summary"><div data-v-10777114="" class="roi-booking-summary__content"><div data-v-10777114="" class="roi-booking-summary__head"><div data-v-10777114="" class="roi-booking-summary__head-info"><div data-v-10777114="" class="roi-booking-form__payment-method-wrap"><ul data-v-10777114="" class="form__group roi-booking-form__payment-method-list"><li data-v-10777114="" data-loop="0" class="roi-booking-form__payment-method-item roi-booking-form__payment-method-item--selected"><label data-v-10777114="" for="id_formaspago_0" class="form__label roi-booking-form__payment-method-label"><h4 data-v-10777114="" style="text-align: center; font-size: 20px; font-weight: bold;">Reserva Confirmada</h4><br data-v-10777114=""> Su reserva ha sido confirmada con el código de reserva: <span data-v-10777114="" style="font-size: 17px; font-weight: bold;">999099</span> Para cualquier cambio o cancelación de la reserva ponga se en contacto con nuestro servicio de atención al cliente en el correo centralreservas@hotel.com o al numero de telefono +34 999999999 Indicando el código de reserva.</label><div data-v-10777114="" class="roi-booking-form__payment-method-info"></div></li><input data-v-10777114="" data-radio="0" type="radio" name="formaspago" value="1804_H@T@NC" id="id_formaspago_0" class="roi-booking-form__payment-method-radio item__no-error"></ul><div data-v-10777114="" class="roi-booking-form__creditcard js-credit-card-container creditcard hide"><input data-v-10777114="" type="hidden" name="tipo_tarjeta" id="id_tipo_tarjeta"><div data-v-10777114="" class="form__group roi-booking-form__creditcard-group roi-booking-form__creditcard-group-number"><div data-v-10777114="" class="roi-booking-form__creditcard-number"><label data-v-10777114="" for="cardNumber" class="form__label form__label--info"> Número de la tarjeta <span data-v-10777114="" class="box_item_info roi-booking-form__creditcard-info-tooltip"><button data-v-10777114="" aria-label="Numeración principal que aparece en la parte frontal de la tarjeta de crédito o débito, que consta entre 16 y 19 dígitos." class="roi-booking-form__creditcard-info-icon trigger"><svg data-v-10777114="" width="28px" height="28px" viewBox="0 0 28 28" focusable="false" xmlns="http://www.w3.org/2000/svg" class="svg-roi svg-roi_info"><path data-v-10777114="" d="M5.118 4.009a1.35 1.35 0 0 1 1.346-1.342h20.19C27.397 2.667 28 3.273 28 4v20c0 .736-.612 1.333-1.346 1.333H6.464A1.336 1.336 0 0 1 5.118 24v-5.332L0 14.623l5.118-4.044v-6.57zm8.215 3.888l.558.87c.096.17.217.255.363.255a.692.692 0 0 0 .385-.107c.11-.071.243-.15.401-.238.158-.088.352-.166.583-.234.231-.068.544-.102.938-.102.394 0 .732.117 1.014.352.299.246.448.564.448.952 0 .525-.223.99-.668 1.395a5.615 5.615 0 0 1-.617.488c-.22.15-.425.305-.616.464-.44.383-.66.768-.66 1.157v.074a.37.37 0 0 0 .01.073l.143 1.37h1.461l.203-1.23a.848.848 0 0 1 .262-.484c.147-.142.321-.287.524-.435.203-.148.417-.306.642-.476C19.57 11.406 20 10.57 20 9.531c0-.87-.307-1.565-.921-2.085-.608-.52-1.42-.78-2.433-.78a4.92 4.92 0 0 0-3.313 1.231zm1.334 10.783a1.327 1.327 0 0 0 .386.943c.12.119.261.211.424.277.163.067.386.1.669.1.283 0 .547-.127.793-.381.12-.115.216-.254.287-.416.072-.161.107-.382.107-.662s-.13-.551-.39-.814a1.274 1.274 0 0 0-.939-.394 1.31 1.31 0 0 0-.951.399c-.12.115-.215.255-.283.42-.069.164-.103.34-.103.528z" fill-rule="nonzero"></path></svg></button><div data-v-10777114="" class="popover-markup"><div data-v-10777114="" class="content hide"><p data-v-10777114="">Numeración principal que aparece en la parte frontal de la tarjeta de crédito o débito, que consta entre 16 y 19 dígitos.</p></div></div></span></label><input data-v-10777114="" type="hidden" name="numero_tarjeta" id="id_numero_tarjeta"><div data-v-10777114="" id="cardNumber" class="pci-container roi-booking-form__creditcard-control"></div></div></div><div data-v-10777114="" class="form__group roi-booking-form__creditcard-group roi-booking-form__creditcard-group-owner"><label data-v-10777114="" for="id_titular_tarjeta" class="form__label">Titular de la tarjeta</label><input data-v-10777114="" type="text" name="titular_tarjeta" id="id_titular_tarjeta" maxlength="150" class="input-value"></div><div data-v-10777114="" class="form__group roi-booking-form__creditcard-group roi-booking-form__creditcard-group-expiration caducidad"><label data-v-10777114="" for="id_mes_caducidad" class="form__label">Caducidad</label><select data-v-10777114="" name="mes_caducidad" id="id_mes_caducidad" class="input-value"><option data-v-10777114="" value="1">1</option><option data-v-10777114="" value="2">2</option><option data-v-10777114="" value="3">3</option><option data-v-10777114="" value="4">4</option><option data-v-10777114="" value="5">5</option><option data-v-10777114="" value="6">6</option><option data-v-10777114="" value="7">7</option><option data-v-10777114="" value="8">8</option><option data-v-10777114="" value="9">9</option><option data-v-10777114="" value="10">10</option><option data-v-10777114="" value="11">11</option><option data-v-10777114="" value="12">12</option></select><label data-v-10777114="" for="id_ano_caducidad" class="form__label form__label--hidden">Caducidad</label><select data-v-10777114="" name="ano_caducidad" id="id_ano_caducidad" class="input-value"><option data-v-10777114="" value="2019">2019</option><option data-v-10777114="" value="2020">2020</option><option data-v-10777114="" value="2021">2021</option><option data-v-10777114="" value="2022">2022</option><option data-v-10777114="" value="2023">2023</option><option data-v-10777114="" value="2024">2024</option><option data-v-10777114="" value="2025">2025</option><option data-v-10777114="" value="2026">2026</option><option data-v-10777114="" value="2027">2027</option><option data-v-10777114="" value="2028">2028</option><option data-v-10777114="" value="2029">2029</option><option data-v-10777114="" value="2030">2030</option><option data-v-10777114="" value="2031">2031</option></select></div><div data-v-10777114="" class="form__group roi-booking-form__creditcard-group roi-booking-form__creditcard-group-cvc cvc"><label data-v-10777114="" for="cvv" class="form__label form__label--info"> CVC <span data-v-10777114="" class="box_item_info roi-booking-form__creditcard-info-tooltip"><button data-v-10777114="" aria-label="El código CVV se puede identificar en la parte de atrás de la tarjeta de crédito o de débito. Se encuentra junto al área destinada a la firma del usuario, en donde aparece un número de 3 o 4 dígitos que, a diferencia de los números de la tarjeta de crédito o de débito, no están en relieve. En algunas tarjetas, como las American Express, este código se encuentra en la parte frontal." class="roi-booking-form__creditcard-info-icon trigger"><svg data-v-10777114="" width="28px" height="28px" viewBox="0 0 28 28" focusable="false" xmlns="http://www.w3.org/2000/svg" class="svg-roi svg-roi_info"><path data-v-10777114="" d="M5.118 4.009a1.35 1.35 0 0 1 1.346-1.342h20.19C27.397 2.667 28 3.273 28 4v20c0 .736-.612 1.333-1.346 1.333H6.464A1.336 1.336 0 0 1 5.118 24v-5.332L0 14.623l5.118-4.044v-6.57zm8.215 3.888l.558.87c.096.17.217.255.363.255a.692.692 0 0 0 .385-.107c.11-.071.243-.15.401-.238.158-.088.352-.166.583-.234.231-.068.544-.102.938-.102.394 0 .732.117 1.014.352.299.246.448.564.448.952 0 .525-.223.99-.668 1.395a5.615 5.615 0 0 1-.617.488c-.22.15-.425.305-.616.464-.44.383-.66.768-.66 1.157v.074a.37.37 0 0 0 .01.073l.143 1.37h1.461l.203-1.23a.848.848 0 0 1 .262-.484c.147-.142.321-.287.524-.435.203-.148.417-.306.642-.476C19.57 11.406 20 10.57 20 9.531c0-.87-.307-1.565-.921-2.085-.608-.52-1.42-.78-2.433-.78a4.92 4.92 0 0 0-3.313 1.231zm1.334 10.783a1.327 1.327 0 0 0 .386.943c.12.119.261.211.424.277.163.067.386.1.669.1.283 0 .547-.127.793-.381.12-.115.216-.254.287-.416.072-.161.107-.382.107-.662s-.13-.551-.39-.814a1.274 1.274 0 0 0-.939-.394 1.31 1.31 0 0 0-.951.399c-.12.115-.215.255-.283.42-.069.164-.103.34-.103.528z" fill-rule="nonzero"></path></svg></button><div data-v-10777114="" class="popover-markup"><div data-v-10777114="" class="content hide"><p data-v-10777114="">El código CVV se puede identificar en la parte de atrás de la tarjeta de crédito o de débito. Se encuentra junto al área destinada a la firma del usuario, en donde aparece un número de 3 o 4 dígitos que, a diferencia de los números de la tarjeta de crédito o de débito, no están en relieve. En algunas tarjetas, como las American Express, este código se encuentra en la parte frontal.</p></div></div></span></label><input data-v-10777114="" type="hidden" name="cvc_tarjeta" id="id_cvc_tarjeta"><div data-v-10777114="" id="cvv" class="pci-container roi-booking-form__creditcard-control roi-booking-form__creditcard-control--cvc"></div></div></div></div></div></div><div data-v-10777114="" class="roi-booking-summary__body"><div data-v-10777114="" class="roi-booking-summary__total-content"><div data-v-10777114="" class="roi-booking-summary__info">
+                 <div data-v-10777114="" class="booking-details__item2"><div data-v-10777114="" class="roi-booking-summary"><div data-v-10777114="" class="roi-booking-summary__content"><div data-v-10777114="" class="roi-booking-summary__head"><div data-v-10777114="" class="roi-booking-summary__head-info"><div data-v-10777114="" class="roi-booking-form__payment-method-wrap"><ul data-v-10777114="" class="form__group roi-booking-form__payment-method-list"><li data-v-10777114="" data-loop="0" class="roi-booking-form__payment-method-item roi-booking-form__payment-method-item--selected"><label data-v-10777114="" for="id_formaspago_0" class="form__label roi-booking-form__payment-method-label"><h4 data-v-10777114="" style="text-align: center; font-size: 20px; font-weight: bold;">Reserva Confirmada</h4><br data-v-10777114=""> Su reserva ha sido confirmada con el código de reserva: <span data-v-10777114="" style="font-size: 17px; font-weight: bold;">{{this.$route.query.bookingId}}</span> Para cualquier cambio o cancelación de la reserva ponga se en contacto con nuestro servicio de atención al cliente en el correo centralreservas@hotel.com o al numero de telefono +34 999999999 Indicando el código de reserva.</label><div data-v-10777114="" class="roi-booking-form__payment-method-info"></div></li><input data-v-10777114="" data-radio="0" type="radio" name="formaspago" value="1804_H@T@NC" id="id_formaspago_0" class="roi-booking-form__payment-method-radio item__no-error"></ul><div data-v-10777114="" class="roi-booking-form__creditcard js-credit-card-container creditcard hide"><input data-v-10777114="" type="hidden" name="tipo_tarjeta" id="id_tipo_tarjeta"><div data-v-10777114="" class="form__group roi-booking-form__creditcard-group roi-booking-form__creditcard-group-number"><div data-v-10777114="" class="roi-booking-form__creditcard-number"><label data-v-10777114="" for="cardNumber" class="form__label form__label--info"> Número de la tarjeta <span data-v-10777114="" class="box_item_info roi-booking-form__creditcard-info-tooltip">
+                   <button data-v-10777114="" aria-label="Numeración principal que aparece en la parte frontal de la tarjeta de crédito o débito, que consta entre 16 y 19 dígitos." class="roi-booking-form__creditcard-info-icon trigger"><svg data-v-10777114="" width="28px" height="28px" viewBox="0 0 28 28" focusable="false" xmlns="http://www.w3.org/2000/svg" class="svg-roi svg-roi_info"><path data-v-10777114="" d="M5.118 4.009a1.35 1.35 0 0 1 1.346-1.342h20.19C27.397 2.667 28 3.273 28 4v20c0 .736-.612 1.333-1.346 1.333H6.464A1.336 1.336 0 0 1 5.118 24v-5.332L0 14.623l5.118-4.044v-6.57zm8.215 3.888l.558.87c.096.17.217.255.363.255a.692.692 0 0 0 .385-.107c.11-.071.243-.15.401-.238.158-.088.352-.166.583-.234.231-.068.544-.102.938-.102.394 0 .732.117 1.014.352.299.246.448.564.448.952 0 .525-.223.99-.668 1.395a5.615 5.615 0 0 1-.617.488c-.22.15-.425.305-.616.464-.44.383-.66.768-.66 1.157v.074a.37.37 0 0 0 .01.073l.143 1.37h1.461l.203-1.23a.848.848 0 0 1 .262-.484c.147-.142.321-.287.524-.435.203-.148.417-.306.642-.476C19.57 11.406 20 10.57 20 9.531c0-.87-.307-1.565-.921-2.085-.608-.52-1.42-.78-2.433-.78a4.92 4.92 0 0 0-3.313 1.231zm1.334 10.783a1.327 1.327 0 0 0 .386.943c.12.119.261.211.424.277.163.067.386.1.669.1.283 0 .547-.127.793-.381.12-.115.216-.254.287-.416.072-.161.107-.382.107-.662s-.13-.551-.39-.814a1.274 1.274 0 0 0-.939-.394 1.31 1.31 0 0 0-.951.399c-.12.115-.215.255-.283.42-.069.164-.103.34-.103.528z" fill-rule="nonzero"></path></svg></button><div data-v-10777114="" class="popover-markup"><div data-v-10777114="" class="content hide"><p data-v-10777114="">Numeración principal que aparece en la parte frontal de la tarjeta de crédito o débito, que consta entre 16 y 19 dígitos.</p></div></div></span></label><input data-v-10777114="" type="hidden" name="numero_tarjeta" id="id_numero_tarjeta"><div data-v-10777114="" id="cardNumber" class="pci-container roi-booking-form__creditcard-control"></div></div></div><div data-v-10777114="" class="form__group roi-booking-form__creditcard-group roi-booking-form__creditcard-group-owner"><label data-v-10777114="" for="id_titular_tarjeta" class="form__label">Titular de la tarjeta</label><input data-v-10777114="" type="text" name="titular_tarjeta" id="id_titular_tarjeta" maxlength="150" class="input-value"></div><div data-v-10777114="" class="form__group roi-booking-form__creditcard-group roi-booking-form__creditcard-group-expiration caducidad"><label data-v-10777114="" for="id_mes_caducidad" class="form__label">Caducidad</label><select data-v-10777114="" name="mes_caducidad" id="id_mes_caducidad" class="input-value"><option data-v-10777114="" value="1">1</option><option data-v-10777114="" value="2">2</option><option data-v-10777114="" value="3">3</option><option data-v-10777114="" value="4">4</option><option data-v-10777114="" value="5">5</option><option data-v-10777114="" value="6">6</option><option data-v-10777114="" value="7">7</option><option data-v-10777114="" value="8">8</option><option data-v-10777114="" value="9">9</option><option data-v-10777114="" value="10">10</option><option data-v-10777114="" value="11">11</option><option data-v-10777114="" value="12">12</option></select><label data-v-10777114="" for="id_ano_caducidad" class="form__label form__label--hidden">Caducidad</label><select data-v-10777114="" name="ano_caducidad" id="id_ano_caducidad" class="input-value"><option data-v-10777114="" value="2019">2019</option><option data-v-10777114="" value="2020">2020</option><option data-v-10777114="" value="2021">2021</option><option data-v-10777114="" value="2022">2022</option><option data-v-10777114="" value="2023">2023</option><option data-v-10777114="" value="2024">2024</option><option data-v-10777114="" value="2025">2025</option><option data-v-10777114="" value="2026">2026</option><option data-v-10777114="" value="2027">2027</option><option data-v-10777114="" value="2028">2028</option><option data-v-10777114="" value="2029">2029</option><option data-v-10777114="" value="2030">2030</option><option data-v-10777114="" value="2031">2031</option></select></div><div data-v-10777114="" class="form__group roi-booking-form__creditcard-group roi-booking-form__creditcard-group-cvc cvc"><label data-v-10777114="" for="cvv" class="form__label form__label--info"> CVC <span data-v-10777114="" class="box_item_info roi-booking-form__creditcard-info-tooltip"><button data-v-10777114="" aria-label="El código CVV se puede identificar en la parte de atrás de la tarjeta de crédito o de débito. Se encuentra junto al área destinada a la firma del usuario, en donde aparece un número de 3 o 4 dígitos que, a diferencia de los números de la tarjeta de crédito o de débito, no están en relieve. En algunas tarjetas, como las American Express, este código se encuentra en la parte frontal." class="roi-booking-form__creditcard-info-icon trigger"><svg data-v-10777114="" width="28px" height="28px" viewBox="0 0 28 28" focusable="false" xmlns="http://www.w3.org/2000/svg" class="svg-roi svg-roi_info"><path data-v-10777114="" d="M5.118 4.009a1.35 1.35 0 0 1 1.346-1.342h20.19C27.397 2.667 28 3.273 28 4v20c0 .736-.612 1.333-1.346 1.333H6.464A1.336 1.336 0 0 1 5.118 24v-5.332L0 14.623l5.118-4.044v-6.57zm8.215 3.888l.558.87c.096.17.217.255.363.255a.692.692 0 0 0 .385-.107c.11-.071.243-.15.401-.238.158-.088.352-.166.583-.234.231-.068.544-.102.938-.102.394 0 .732.117 1.014.352.299.246.448.564.448.952 0 .525-.223.99-.668 1.395a5.615 5.615 0 0 1-.617.488c-.22.15-.425.305-.616.464-.44.383-.66.768-.66 1.157v.074a.37.37 0 0 0 .01.073l.143 1.37h1.461l.203-1.23a.848.848 0 0 1 .262-.484c.147-.142.321-.287.524-.435.203-.148.417-.306.642-.476C19.57 11.406 20 10.57 20 9.531c0-.87-.307-1.565-.921-2.085-.608-.52-1.42-.78-2.433-.78a4.92 4.92 0 0 0-3.313 1.231zm1.334 10.783a1.327 1.327 0 0 0 .386.943c.12.119.261.211.424.277.163.067.386.1.669.1.283 0 .547-.127.793-.381.12-.115.216-.254.287-.416.072-.161.107-.382.107-.662s-.13-.551-.39-.814a1.274 1.274 0 0 0-.939-.394 1.31 1.31 0 0 0-.951.399c-.12.115-.215.255-.283.42-.069.164-.103.34-.103.528z" fill-rule="nonzero"></path></svg></button><div data-v-10777114="" class="popover-markup"><div data-v-10777114="" class="content hide"><p data-v-10777114="">El código CVV se puede identificar en la parte de atrás de la tarjeta de crédito o de débito. Se encuentra junto al área destinada a la firma del usuario, en donde aparece un número de 3 o 4 dígitos que, a diferencia de los números de la tarjeta de crédito o de débito, no están en relieve. En algunas tarjetas, como las American Express, este código se encuentra en la parte frontal.</p></div></div></span></label><input data-v-10777114="" type="hidden" name="cvc_tarjeta" id="id_cvc_tarjeta"><div data-v-10777114="" id="cvv" class="pci-container roi-booking-form__creditcard-control roi-booking-form__creditcard-control--cvc"></div></div></div></div></div></div><div data-v-10777114="" class="roi-booking-summary__body"><div data-v-10777114="" class="roi-booking-summary__total-content"><div data-v-10777114="" class="roi-booking-summary__info">
 <div data-v-10777114="" class="roi-booking-summary__head-info"><h2 data-v-10777114="" class="roi-booking-summary__title">TU RESERVA</h2><h3 data-v-10777114="" class="roi-booking-summary__hotel-name"> Hotel Vincci Selección la Plantación del Sur <sup data-v-10777114="" class="roi-booking-summary__hotel-stars"><svg data-v-10777114="" width="28px" height="28px" viewBox="0 0 28 28" focusable="false" xmlns="http://www.w3.org/2000/svg" class="svg-roi svg-roi_star"><path data-v-10777114="" d="M27.932 10.72c.375 1.175-.924 1.924-.924 1.924l-6.496 4.722 2.499 7.645s.6 1.374-.4 2.098c-1 .725-2.099-.275-2.099-.275l-6.495-4.721-6.496 4.746s-1.124 1-2.123.275c-1-.724-.4-2.098-.4-2.098l2.498-7.645-6.52-4.747s-1.3-.75-.9-1.924C.451 9.546 1.95 9.696 1.95 9.696h8.045l2.448-7.645S12.768.602 13.992.602s1.549 1.45 1.549 1.45l2.473 7.644h8.044s1.5-.15 1.874 1.024z" fill-rule="nonzero"></path></svg><svg data-v-10777114="" width="28px" height="28px" viewBox="0 0 28 28" focusable="false" xmlns="http://www.w3.org/2000/svg" class="svg-roi svg-roi_star"><path data-v-10777114="" d="M27.932 10.72c.375 1.175-.924 1.924-.924 1.924l-6.496 4.722 2.499 7.645s.6 1.374-.4 2.098c-1 .725-2.099-.275-2.099-.275l-6.495-4.721-6.496 4.746s-1.124 1-2.123.275c-1-.724-.4-2.098-.4-2.098l2.498-7.645-6.52-4.747s-1.3-.75-.9-1.924C.451 9.546 1.95 9.696 1.95 9.696h8.045l2.448-7.645S12.768.602 13.992.602s1.549 1.45 1.549 1.45l2.473 7.644h8.044s1.5-.15 1.874 1.024z" fill-rule="nonzero"></path></svg><svg data-v-10777114="" width="28px" height="28px" viewBox="0 0 28 28" focusable="false" xmlns="http://www.w3.org/2000/svg" class="svg-roi svg-roi_star"><path data-v-10777114="" d="M27.932 10.72c.375 1.175-.924 1.924-.924 1.924l-6.496 4.722 2.499 7.645s.6 1.374-.4 2.098c-1 .725-2.099-.275-2.099-.275l-6.495-4.721-6.496 4.746s-1.124 1-2.123.275c-1-.724-.4-2.098-.4-2.098l2.498-7.645-6.52-4.747s-1.3-.75-.9-1.924C.451 9.546 1.95 9.696 1.95 9.696h8.045l2.448-7.645S12.768.602 13.992.602s1.549 1.45 1.549 1.45l2.473 7.644h8.044s1.5-.15 1.874 1.024z" fill-rule="nonzero"></path></svg><svg data-v-10777114="" width="28px" height="28px" viewBox="0 0 28 28" focusable="false" xmlns="http://www.w3.org/2000/svg" class="svg-roi svg-roi_star"><path data-v-10777114="" d="M27.932 10.72c.375 1.175-.924 1.924-.924 1.924l-6.496 4.722 2.499 7.645s.6 1.374-.4 2.098c-1 .725-2.099-.275-2.099-.275l-6.495-4.721-6.496 4.746s-1.124 1-2.123.275c-1-.724-.4-2.098-.4-2.098l2.498-7.645-6.52-4.747s-1.3-.75-.9-1.924C.451 9.546 1.95 9.696 1.95 9.696h8.045l2.448-7.645S12.768.602 13.992.602s1.549 1.45 1.549 1.45l2.473 7.644h8.044s1.5-.15 1.874 1.024z" fill-rule="nonzero"></path></svg><svg data-v-10777114="" width="28px" height="28px" viewBox="0 0 28 28" focusable="false" xmlns="http://www.w3.org/2000/svg" class="svg-roi svg-roi_star"><path data-v-10777114="" d="M27.932 10.72c.375 1.175-.924 1.924-.924 1.924l-6.496 4.722 2.499 7.645s.6 1.374-.4 2.098c-1 .725-2.099-.275-2.099-.275l-6.495-4.721-6.496 4.746s-1.124 1-2.123.275c-1-.724-.4-2.098-.4-2.098l2.498-7.645-6.52-4.747s-1.3-.75-.9-1.924C.451 9.546 1.95 9.696 1.95 9.696h8.045l2.448-7.645S12.768.602 13.992.602s1.549 1.45 1.549 1.45l2.473 7.644h8.044s1.5-.15 1.874 1.024z" fill-rule="nonzero"></path></svg></sup></h3><span data-v-10777114="" class="roi-booking-summary__hotel-address">Calle del Roque Nublo, 1, 38670. Costa Adeje, Santa Cruz de Tenerife. - Costa Adeje</span></div>
     
 </div><div data-v-10777114="" class="roi-booking-summary__price"><div data-v-10777114="" class="roi-booking-summary__total-price-wrap"><span data-v-10777114="" class="roi-booking-summary__total-price-text">Total de la reserva</span><span data-v-10777114="" data-currency="EUR" data-price="175.0" class="roi-booking-summary__total-price contenedor-precio"></span><span data-v-10777114="" class="roi-booking-summary__taxes-text">Impuestos incluidos</span>
-    <button>realizar pago</button> 
+    <div v-html="paymentUrl" >realizar pago</div> 
     </div>
 
 </div></div></div><div data-v-10777114="" class="roi-booking-summary__footer">
@@ -393,7 +395,7 @@
                     >
                       <img
                         class="bc_powered__logo"
-                        src="/confirmacion_files/backhotel_logo.png"
+                        src="/index_files/backhotel_logo.png"
                         title="Marketing Online Hoteles | Motor Reservas para Hoteles"
                         alt="Marketing Online Hoteles | Motor Reservas para Hoteles"
                       />
@@ -590,7 +592,7 @@
           </nav>
           <div class="logoThawte">
             <img
-              src="/confirmacion_files/logo_twathe.png"
+              src="/index_files/logo_twathe.png"
               title="Thawte  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               alt="Thawte  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               class="logo_footer"
@@ -603,32 +605,32 @@
       <div class="footer-icons">
         <div class="footer-icons__container">
           <img
-            src="/confirmacion_files/ae2ff04a3bd150a2fd55920e5c7ba3ee.png"
+            src="/index_files/ae2ff04a3bd150a2fd55920e5c7ba3ee.png"
             class="footer-icons__img"
             title="Gold Travelife"
           />
           <img
-            src="/confirmacion_files/501f4900ecc9a51e141b75b2852ed1d6.png"
+            src="/index_files/501f4900ecc9a51e141b75b2852ed1d6.png"
             class="footer-icons__img"
             title="Logo TUI Family Champion 2018"
           />
           <img
-            src="/confirmacion_files/a540475cf763715c4287fc823b965c99.png"
+            src="/index_files/a540475cf763715c4287fc823b965c99.png"
             class="footer-icons__img"
             title="Travelife"
           />
           <img
-            src="/confirmacion_files/033476b60d34a92016161ced1bfef2f5.png"
+            src="/index_files/033476b60d34a92016161ced1bfef2f5.png"
             class="footer-icons__img"
             title="Tui Holy"
           />
           <img
-            src="/confirmacion_files/cf0564c054d7ee49a36a3c51aaa81702.png"
+            src="/index_files/cf0564c054d7ee49a36a3c51aaa81702.png"
             class="footer-icons__img"
             title="Calidad turística"
           />
           <img
-            src="/confirmacion_files/2b934579a576233c82bab9afbe5e0685.png"
+            src="/index_files/2b934579a576233c82bab9afbe5e0685.png"
             class="footer-icons__img"
             title="Tui Top Quality"
           />
@@ -758,7 +760,7 @@
         <div class="modal-content">
           <div class="loader">
             <img
-              src="/confirmacion_files/spinner2.gif"
+              src="/index_files/spinner2.gif"
               title="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               alt="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               width="97"
@@ -768,7 +770,7 @@
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
               <img
-                src="/confirmacion_files/close_modal_white.png"
+                src="/index_files/close_modal_white.png"
                 title="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 alt="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 width="23"
@@ -965,6 +967,7 @@ export default {
   name: "ok",
   data: function() {
     return {
+      paymentUrl:this.$route.query.paymentUrl,
       leadName: "",
       commentsToProvider: "",
       email: "",
@@ -1084,5 +1087,11 @@ export default {
 }
 .booking-details__item2 {
   width: 100%;
+}
+.btn .btn-primary input {
+  background-color: #d2b669 !important;
+    border: 1px solid transparent;
+    border-radius: 0;
+    color: #f8f8f8;
 }
 </style>

@@ -5,7 +5,7 @@
         <div class="logo">
           <a href="https://www.vinccilaplantaciondelsur.com/">
             <img
-              src="/dispo_files/logo_5.jpg"
+              src="/index_files/logo_5.jpg"
               width
               height
               title="5 estrellas  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
@@ -127,7 +127,7 @@
               <img
                 title="Web oficial  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 alt="Web oficial  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                src="/dispo_files/icon_official.png"
+                src="/index_files/icon_official.png"
               />
               <span>Web oficial</span>
             </div>
@@ -135,7 +135,7 @@
               <img
                 title="Wifi gratis  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 alt="Wifi gratis  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                src="/dispo_files/logo_wifi.png"
+                src="/index_files/logo_wifi.png"
               />
               <span>Wifi gratis</span>
             </div>
@@ -559,7 +559,7 @@
                                     data-id="lateraldosninos"
                                   >
                                     <img
-                                      src="/dispo_files/2015-VSLP-foto-Habitacion-Superior-Vista-Panoramica-compressor_MW9WxGz.jpg.480x360_q85_crop-smart.jpg"
+                                      src="/index_files/2015-VSLP-foto-Habitacion-Superior-Vista-Panoramica-compressor_MW9WxGz.jpg.480x360_q85_crop-smart.jpg"
                                       title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
                                       data-tracking-event-type="viewGalleryRoom"
                                       data-tracking-event-data="{
@@ -582,7 +582,7 @@
                                     data-id="lateraldosninos"
                                   >
                                     <img
-                                      src="/dispo_files/2015_VSLP_foto_Habitacion_Doble_con_Vista_Mar_Lateral.jpg.480x360_q85_crop-smart.jpg"
+                                      src="/index_files/2015_VSLP_foto_Habitacion_Doble_con_Vista_Mar_Lateral.jpg.480x360_q85_crop-smart.jpg"
                                       title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
                                       alt="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
                                       data-tracking-event-type="viewGalleryRoom"
@@ -606,7 +606,7 @@
                                     data-id="lateraldosninos"
                                   >
                                     <img
-                                      src="/dispo_files/051.jpg.480x360_q85_crop-smart.jpg"
+                                      src="/index_files/051.jpg.480x360_q85_crop-smart.jpg"
                                       title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
                                       data-tracking-event-type="viewGalleryRoom"
                                       data-tracking-event-data="{
@@ -629,7 +629,7 @@
                                     data-id="lateraldosninos"
                                   >
                                     <img
-                                      src="/dispo_files/2015_VSLP_foto_Habitacion_Doble_Vista_Jardin_Terraza_3_4g6HHdo.jpg.480x360_q85_crop-smart.jpg"
+                                      src="/index_files/2015_VSLP_foto_Habitacion_Doble_Vista_Jardin_Terraza_3_4g6HHdo.jpg.480x360_q85_crop-smart.jpg"
                                       title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
                                       alt="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
                                       data-tracking-event-type="viewGalleryRoom"
@@ -653,7 +653,7 @@
                                     data-id="lateraldosninos"
                                   >
                                     <img
-                                      src="/dispo_files/2015_VSLP_foto_Habitacion_Doble_Vista_Jardin_-_Terraza_2_SNl4xxq.jpg.480x360_q85_crop-smart.jpg"
+                                      src="/index_files/2015_VSLP_foto_Habitacion_Doble_Vista_Jardin_-_Terraza_2_SNl4xxq.jpg.480x360_q85_crop-smart.jpg"
                                       title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
                                       alt="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
                                       data-tracking-event-type="viewGalleryRoom"
@@ -677,7 +677,7 @@
                                     data-id="lateraldosninos"
                                   >
                                     <img
-                                      src="/dispo_files/2015_VSLP_foto_Habitacion_Doble_-_Dormitorio1_YMVwmf1.jpg.480x360_q85_crop-smart.jpg"
+                                      src="/index_files/2015_VSLP_foto_Habitacion_Doble_-_Dormitorio1_YMVwmf1.jpg.480x360_q85_crop-smart.jpg"
                                       title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
                                       alt="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
                                       data-tracking-event-type="viewGalleryRoom"
@@ -1067,14 +1067,14 @@
                           </div>
                           <div class="hab_ocupacion_item_wrap hab_ocupacion_resumen">
                             <div class="hab_ocupacion_item col-lg-4 col-md-4 col-sm-4 col-xs-4 pn">
-                              <img src="/dispo_files/adultos.png" alt />
+                              <img src="/index_files/adultos.png" alt />
                               <span class="hab_ocupacion_txt hab_ocupacion_adultos">
                                 <em class="num_adultos">2</em>
                                 <span class="txt_adultos">ADULTOS</span>
                               </span>
                             </div>
                             <div class="hab_ocupacion_item col-lg-4 col-md-4 col-sm-4 col-xs-4 pn">
-                              <img src="/dispo_files/ninos.png" alt />
+                              <img src="/index_files/ninos.png" alt />
                               <span class="hab_ocupacion_txt hab_ocupacion_ninos">
                                 <em class="num_ninos">2</em>
                                 <span class="txt_ninos">NIÑOS</span>
@@ -1085,7 +1085,7 @@
                               </span>
                             </div>
                             <div class="hab_ocupacion_item col-lg-4 col-md-4 col-sm-4 col-xs-4 pn">
-                              <img src="/dispo_files/bebes.png" alt />
+                              <img src="/index_files/bebes.png" alt />
                               <span class="hab_ocupacion_txt hab_ocupacion_bebes">
                                 <em class="num_bebes">0</em>
                                 <span class="txt_bebes">BEBÉS</span>
@@ -1626,7 +1626,7 @@
                     >
                       <img
                         class="bc_powered__logo"
-                        src="/dispo_files/backhotel_logo.png"
+                        src="/index_files/backhotel_logo.png"
                         title="Marketing Online Hoteles | Motor Reservas para Hoteles"
                         alt="Marketing Online Hoteles | Motor Reservas para Hoteles"
                       />
@@ -2123,7 +2123,7 @@ Impuestos incluidos
           </nav>
           <div class="logoThawte">
             <img
-              src="/dispo_files/logo_twathe.png"
+              src="/index_files/logo_twathe.png"
               title="Thawte  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               alt="Thawte  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               class="logo_footer"
@@ -2136,32 +2136,32 @@ Impuestos incluidos
       <div class="footer-icons">
         <div class="footer-icons__container">
           <img
-            src="/dispo_files/ae2ff04a3bd150a2fd55920e5c7ba3ee.png"
+            src="/index_files/ae2ff04a3bd150a2fd55920e5c7ba3ee.png"
             class="footer-icons__img"
             title="Gold Travelife"
           />
           <img
-            src="/dispo_files/501f4900ecc9a51e141b75b2852ed1d6.png"
+            src="/index_files/501f4900ecc9a51e141b75b2852ed1d6.png"
             class="footer-icons__img"
             title="Logo TUI Family Champion 2018"
           />
           <img
-            src="/dispo_files/a540475cf763715c4287fc823b965c99.png"
+            src="/index_files/a540475cf763715c4287fc823b965c99.png"
             class="footer-icons__img"
             title="Travelife"
           />
           <img
-            src="/dispo_files/033476b60d34a92016161ced1bfef2f5.png"
+            src="/index_files/033476b60d34a92016161ced1bfef2f5.png"
             class="footer-icons__img"
             title="Tui Holy"
           />
           <img
-            src="/dispo_files/cf0564c054d7ee49a36a3c51aaa81702.png"
+            src="/index_files/cf0564c054d7ee49a36a3c51aaa81702.png"
             class="footer-icons__img"
             title="Calidad turística"
           />
           <img
-            src="/dispo_files/2b934579a576233c82bab9afbe5e0685.png"
+            src="/index_files/2b934579a576233c82bab9afbe5e0685.png"
             class="footer-icons__img"
             title="Tui Top Quality"
           />
@@ -2296,7 +2296,7 @@ Impuestos incluidos
         <div class="modal-content">
           <div class="loader" style="display: none;">
             <img
-              src="/dispo_files/spinner2.gif"
+              src="/index_files/spinner2.gif"
               title="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               alt="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               width="97"
@@ -2306,7 +2306,7 @@ Impuestos incluidos
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
               <img
-                src="/dispo_files/close_modal_white.png"
+                src="/index_files/close_modal_white.png"
                 title="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 alt="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 width="23"
@@ -2494,10 +2494,10 @@ Impuestos incluidos
     </div>
     <!-- /.modal -->
 
-    <iframe
+  <!--  <iframe
       id="ve-storage-iframe"
       tabindex="-1"
-      src="/dispo_files/iframeStorage-5.0.0.html"
+      src="/index_files/iframeStorage-5.0.0.html"
       style="display: none;"
     ></iframe>
     <iframe
@@ -2506,7 +2506,7 @@ Impuestos incluidos
       style="z-index: -1231231; position:absolute; top:0; left:0; height:1px; width:1px; opacity:0; visibility: collapse;"
       aria-live="off"
       class
-      src="/dispo_files/saved_resource.html"
+      src="/index_files/saved_resource.html"
     ></iframe>
     <div id="thn_notes_widget" aria-live="polite"></div>
     <div
@@ -2522,9 +2522,9 @@ Impuestos incluidos
         style="width:100%;height:100%;background:transparent;border:0"
         title="The Hotels Network - Price comparison widget"
         id="eighty_hotel_price_check_widget_iframe"
-        src="/dispo_files/hotel-price-check-widget.html"
+        src="/index_files/hotel-price-check-widget.html"
       ></iframe>
-    </div>
+    </div>-->
   </div>
 </template>
 
