@@ -3,13 +3,13 @@
     <header id="headerInternas">
       <div class="header-top">
         <div class="logo">
-          <a href="https://www.vinccilaplantaciondelsur.com/">
+          <a href="https://serene-kowalevski-d75031.netlify.com">
             <img
               src="/index_files/logo_5.jpg"
               width
               height
-              title="5 estrellas  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-              alt="5 estrellas  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              title="5 estrellas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              alt="5 estrellas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
             />
             <div class="info">
               <h1 class="tit"></h1>
@@ -28,28 +28,28 @@
               <ul class="dropdown-menu dropMenu" role="menu">
                 <li>
                   <a
-                    href="https://vincciplantaciondesur.backhotelengine.com/politica-cookies/"
+                    href="#"
                     title="Política de cookies"
                     rel="nofollow"
                   >Política de cookies</a>
                 </li>
                 <li>
                   <a
-                    href="https://vincciplantaciondesur.backhotelengine.com/aviso-legal-y-uso-de-la-web/"
+                    href="#"
                     title="Aviso legal y uso de la página web"
                     rel="nofollow"
                   >Aviso legal y uso de la página web</a>
                 </li>
                 <li>
                   <a
-                    href="https://vincciplantaciondesur.backhotelengine.com/politica-privacidad-para-estancias/"
+                    href="#"
                     title="Política de privacidad para las estancias.."
                     rel="nofollow"
                   >Política de privacidad para las estancias..</a>
                 </li>
                 <li>
                   <a
-                    href="https://vincciplantaciondesur.backhotelengine.com/Politica-privacidad/"
+                    href="#"
                     title="Política de privacidad"
                     rel="nofollow"
                   >Política de privacidad</a>
@@ -58,7 +58,7 @@
             </div>
             <div class="idioma dropdown">
               <a
-                href="https://vincciplantaciondesur.backhotelengine.com/bookcore/confirmation-form/?lang=es&amp;s=9aq0lqf3ksns6lx2cncjvtj7xf693rw6&amp;r1=1&amp;_ga=2.238079363.248180235.1571914621-1280613609.1571914621#"
+                href="#"
                 class="dropdown-toggle"
                 data-toggle="dropdown"
               >
@@ -73,7 +73,7 @@
               <ul class="dropdown-menu dropMenu" role="menu">
                 <li>
                   <a
-                    href="https://en.vinccilaplantaciondelsur.com/"
+                    href="#"
                     class="idiomas"
                     itemprop="language"
                     title="English"
@@ -84,7 +84,7 @@
                 </li>
                 <li>
                   <a
-                    href="https://de.vinccilaplantaciondelsur.com/"
+                    href="#"
                     class="idiomas"
                     itemprop="language"
                     title="Deutsch"
@@ -95,7 +95,7 @@
                 </li>
                 <li>
                   <a
-                    href="https://fr.vinccilaplantaciondelsur.com/"
+                    href="#"
                     class="idiomas"
                     itemprop="language"
                     title="Français"
@@ -106,7 +106,7 @@
                 </li>
                 <li>
                   <a
-                    href="https://it.vinccilaplantaciondelsur.com/"
+                    href="#"
                     class="idiomas"
                     itemprop="language"
                     title="Italiano"
@@ -119,16 +119,16 @@
             </div>
             <div class="official">
               <img
-                title="Web oficial  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                alt="Web oficial  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                title="Web oficial  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                alt="Web oficial  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 src="/index_files/icon_official.png"
               />
               <span>Web oficial</span>
             </div>
             <div class="wifi">
               <img
-                title="Wifi gratis  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                alt="Wifi gratis  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                title="Wifi gratis  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                alt="Wifi gratis  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 src="/index_files/logo_wifi.png"
               />
               <span>Wifi gratis</span>
@@ -153,44 +153,44 @@
                 <ul class="nav navbar-nav navbarMenu">
                   <li>
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/"
-                      title="Hotel  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="https://serene-kowalevski-d75031.netlify.com"
+                      title="Hotel  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Hotel</a>
                   </li>
                   <li>
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/ofertas/"
-                      title="Ofertas  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="#"
+                      title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Ofertas</a>
                   </li>
                   <li>
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/habitaciones/"
-                      title="Habitaciones  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="#"
+                      title="Habitaciones  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Habitaciones</a>
                   </li>
                   <li>
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/fotos/"
-                      title="Fotos  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="@"
+                      title="Fotos  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Fotos</a>
                   </li>
                   <li>
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/servicios/"
-                      title="Servicios  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="#"
+                      title="Servicios  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Servicios</a>
                   </li>
                   <li class="hidden-md">
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/mapa/"
-                      title="Mapa  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="#"
+                      title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Mapa</a>
                   </li>
                   <li class="hidden-md">
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/contacto/"
-                      title="Contacto  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="#"
+                      title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Contacto</a>
                   </li>
                   <li class="booking">
@@ -198,7 +198,7 @@
                   </li>
                   <li class="dropdown visible-md">
                     <a
-                      href="https://vincciplantaciondesur.backhotelengine.com/bookcore/confirmation-form/?lang=es&amp;s=9aq0lqf3ksns6lx2cncjvtj7xf693rw6&amp;r1=1&amp;_ga=2.238079363.248180235.1571914621-1280613609.1571914621#"
+                      href="#"
                       data-toggle="dropdown"
                       class="dropdown-toggle"
                     >
@@ -208,14 +208,14 @@
                     <ul class="dropdown-menu dropMore" role="menu">
                       <li class="visible-md visible-sm">
                         <a
-                          href="https://www.vinccilaplantaciondelsur.com/mapa/"
-                          title="Mapa  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                          href="#"
+                          title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                         >Mapa</a>
                       </li>
                       <li class="visible-md visible-sm">
                         <a
-                          href="https://www.vinccilaplantaciondelsur.com/contacto/"
-                          title="Contacto  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                          href="#"
+                          title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                         >Contacto</a>
                       </li>
                     </ul>
@@ -379,7 +379,7 @@
                           <div class="roi-booking-summary__head-info">
                             <h2 class="roi-booking-summary__title">RESUMEN DE TU RESERVA</h2>
                             <h3 class="roi-booking-summary__hotel-name">
-                              Hotel Vincci Selección la Plantación del Sur
+                              Hotel quohotel Selección la Plantación del Sur
                               <sup
                                 class="roi-booking-summary__hotel-stars"
                               >
@@ -1384,12 +1384,12 @@
                                 />
                                 He leído y acepto las
                                 <a
-                                  href="https://vincciplantaciondesur.backhotelengine.com/bookcore/confirmation-form/?lang=es&amp;s=9aq0lqf3ksns6lx2cncjvtj7xf693rw6&amp;r1=1&amp;_ga=2.238079363.248180235.1571914621-1280613609.1571914621#"
+                                  href="#"
                                   id="btn-ver-condiciones"
                                   class="roi-booking-form__conditions-check-link roi-modal__show"
                                   data-id="conditions-btn"
                                   data-roi-modal="roi-conditions"
-                                  data-url="/bookcore/confirmation-conditions/vincciplantaciondesur/?lang=es"
+                                  data-url="/bookcore/confirmation-conditions/quohotelplantaciondesur/?lang=es"
                                   title="condiciones generales"
                                 >condiciones generales</a>
                               </label>
@@ -1410,7 +1410,7 @@
                 <div class="bc_powered">
                   <span>
                     <a
-                      href="https://www.roiback.com/"
+                      href="#"
                       title="Marketing Online Hoteles | Motor Reservas para Hoteles"
                       target="_blank"
                       rel="nofollow"
@@ -1464,8 +1464,8 @@
               <ul>
                 <li>
                   <a
-                    href="http://instagram.com/vincci_hoteles"
-                    title="Instagram  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://instagram.com/#"
+                    title="Instagram  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-instagram"
@@ -1473,8 +1473,8 @@
                 </li>
                 <li>
                   <a
-                    href="http://pinterest.com/vinccihoteles/"
-                    title="Pinterest  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://pinterest.com/#"
+                    title="Pinterest  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-pinterest"
@@ -1482,8 +1482,8 @@
                 </li>
                 <li>
                   <a
-                    href="http://twitter.com/Vincci_Hoteles"
-                    title="Twitter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://twitter.com/#"
+                    title="Twitter  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-twitter"
@@ -1491,8 +1491,8 @@
                 </li>
                 <li>
                   <a
-                    href="http://www.facebook.com/pages/Vincci-Hoteles/122369487798917"
-                    title="Facebook  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://www.facebook.com/#"
+                    title="Facebook  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-facebook"
@@ -1500,8 +1500,8 @@
                 </li>
                 <li>
                   <a
-                    href="http://www.flickr.com/photos/vinccihoteles"
-                    title="Flickr  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://www.flickr.com/#"
+                    title="Flickr  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-flickr"
@@ -1509,8 +1509,8 @@
                 </li>
                 <li>
                   <a
-                    href="http://www.youtube.com/user/VIncciHoteles"
-                    title="Youtube  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://www.youtube.com/#"
+                    title="Youtube  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-youtube"
@@ -1518,8 +1518,8 @@
                 </li>
                 <li>
                   <a
-                    href="https://plus.google.com/u/2/+VincciLaPlantaciondelSur/posts"
-                    title="Google+  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="https://plus.google.com/#"
+                    title="Google+  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-google"
@@ -1529,7 +1529,7 @@
             </nav>
           </div>
           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 box-news">
-            <span class="titulo">Vincci y Noticias</span>
+            <span class="titulo">quohotel y Noticias</span>
             <span class="subtit">Nos gusta compartir nuevas ofertas y promociones exclusivas</span>
             <div class="box-enviar">
               <input type="text" placeholder="Inserta tu email aqui" class />
@@ -1545,7 +1545,7 @@
       </div>
       <div class="footer-bottom">
         <div class="container">
-          <span class="titulo_footer">VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR</span>
+          <span class="titulo_footer">quohotel SELECCIÓN LA PLANTACIÓN DEL SUR</span>
           <span
             class="direcion"
           >Calle del Roque Nublo, 1, 38670. Costa Adeje, Santa Cruz de Tenerife., Costa Adeje</span>
@@ -1553,21 +1553,21 @@
             <ul>
               <li>
                 <a
-                  href="https://www.vinccilaplantaciondelsur.com/Politica-privacidad/"
+                  href="#"
                   title="Política de privacidad"
                   rel="nofollow"
                 >Política de privacidad</a>
               </li>
               <li>
                 <a
-                  href="https://www.vinccilaplantaciondelsur.com/politica-cookies/"
+                  href="#"
                   title="Política de cookies"
                   rel="nofollow"
                 >Política de cookies</a>
               </li>
               <li>
                 <a
-                  href="https://www.vinccilaplantaciondelsur.com/directorio/"
+                  href="#"
                   title="Directorio Hoteles"
                 >Directorio Hoteles</a>
               </li>
@@ -1581,17 +1581,17 @@
               </li>
               <li class="directorio">
                 <a
-                  href="https://www.vinccilaplantaciondelsur.com/directorio/"
-                  title="Vincci hoteles"
-                >Vincci hoteles</a>
+                  href="#"
+                  title="quohotel hoteles"
+                >quohotel hoteles</a>
               </li>
               <li class>
                 <a
-                  href="http://www.roiback.es/"
-                  title="roiback"
+                  href="#"
+                  title=""
                   target="_Blank"
                   rel="nofollow"
-                >by roiback</a>
+                >by </a>
               </li>
             </ul>
           </nav>
@@ -1599,24 +1599,24 @@
           <nav class="idiomasFooter">
             <ul>
               <li>
-                <a href="https://en.vinccilaplantaciondelsur.com/" title="English">English</a>
+                <a href="#" title="English">English</a>
               </li>
               <li>
-                <a href="https://de.vinccilaplantaciondelsur.com/" title="Deutsch">Deutsch</a>
+                <a href="#" title="Deutsch">Deutsch</a>
               </li>
               <li>
-                <a href="https://fr.vinccilaplantaciondelsur.com/" title="Français">Français</a>
+                <a href="#" title="Français">Français</a>
               </li>
               <li>
-                <a href="https://it.vinccilaplantaciondelsur.com/" title="Italiano">Italiano</a>
+                <a href="#" title="Italiano">Italiano</a>
               </li>
             </ul>
           </nav>
           <div class="logoThawte">
             <img
               src="/index_files/logo_twathe.png"
-              title="Thawte  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-              alt="Thawte  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              title="Thawte  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              alt="Thawte  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               class="logo_footer"
               width="101"
               height="25"
@@ -1678,91 +1678,91 @@
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/"
+                  href="https://serene-kowalevski-d75031.netlify.com"
                   title="Hotel"
                 >Hotel</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/directorio/"
+                  href=""
                   title="Directorio Hoteles"
                 >Directorio Hoteles</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/ofertas/"
+                  href=""
                   title="Ofertas"
                 >Ofertas</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/"
+                  href="https://serene-kowalevski-d75031.netlify.com"
                   title="¡Descuento del 20%!"
                 >Oferta - ¡Descuento del 20%!</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/habitaciones/"
+                  href="#"
                   title="Habitaciones"
                 >Habitaciones</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/fotos/"
+                  href="#"
                   title="Fotos"
                 >Fotos</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/servicios/"
+                  href="#"
                   title="Servicios"
                 >Servicios</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/mapa/"
+                  href="#"
                   title="Mapa"
                 >Mapa</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/opiniones/"
+                  href="#"
                   title="Opiniones"
                 >Opiniones</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/contacto/"
+                  href="#"
                   title="Contacto"
                 >Contacto</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/politica-cookies/"
+                  href="#"
                   title="Política de cookies"
                 >Política de cookies</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/aviso-legal-y-uso-de-la-web/"
+                  href="#"
                   title="Aviso legal y uso de la página web"
                 >Aviso legal y uso de la página web</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/politica-privacidad-para-estancias/"
+                  href="#"
                   title="Política de privacidad para las estancias"
                 >Política de privacidad para las estancias</a>
               </li>
@@ -1783,8 +1783,8 @@
           <div class="loader">
             <img
               src="/index_files/spinner2.gif"
-              title="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-              alt="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              title="Newsletter  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              alt="Newsletter  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               width="97"
               height="95"
             />
@@ -1793,8 +1793,8 @@
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
               <img
                 src="/index_files/close_modal_white.png"
-                title="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                alt="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                title="Newsletter  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                alt="Newsletter  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 width="23"
                 height="24"
               />
@@ -1911,7 +1911,7 @@
                 <li class="pol">
                   <input type="checkbox" name="politica" required id="id_politica" /> He leído y acepto la
                   <a
-                    href="https://www.vinccilaplantaciondelsur.com/Politica-privacidad/"
+                    href="#"
                     target="_blank"
                   >política de privacidad</a>
                 </li>
@@ -1929,7 +1929,7 @@
         <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
-            <span class="hotel_nombre">VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR</span>
+            <span class="hotel_nombre">quohotel SELECCIÓN LA PLANTACIÓN DEL SUR</span>
             <h4 class="modal-title titulo"></h4>
           </div>
           <div class="modal-body">
@@ -2105,7 +2105,7 @@ export default {
     getInfo: function() {
       var d = this.$data;
       //  var _this = this;
-      //d.loader = true;
+      d.loader = true;
       var bodyFormData = {
         language: d.language,
         ratekeys: this.$route.query.ratekeys,
@@ -2123,7 +2123,7 @@ export default {
           }
         )
         .then(function(response) {
-          //  d.loader = null;
+            d.loader = null;
           d.detalles = response.data;
           if (!d.detalles.total) {
             d.detalles = null;

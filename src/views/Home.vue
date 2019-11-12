@@ -1,6 +1,5 @@
 <template>
   <div>
-    
     <header>
       <div class="header-top">
         <div class="logo">
@@ -8,8 +7,8 @@
             src="/index_files/bb3f02f44748fb4747a314f69f5bff12.png"
             width="67"
             height="84"
-            title="5 estrellas  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-            alt="5 estrellas  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+            title="5 estrellas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+            alt="5 estrellas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
           />
           <div class="info"></div>
         </div>
@@ -24,41 +23,29 @@
               </a>
               <ul class="dropdown-menu dropMenu" role="menu">
                 <li>
-                  <a
-                    href="https://www.vinccilaplantaciondelsur.com/politica-cookies/"
-                    title="Política de cookies"
-                    rel="nofollow"
-                  >Política de cookies</a>
+                  <a href="#" title="Política de cookies" rel="nofollow">Política de cookies</a>
                 </li>
                 <li>
                   <a
-                    href="https://www.vinccilaplantaciondelsur.com/aviso-legal-y-uso-de-la-web/"
+                    href="#"
                     title="Aviso legal y uso de la página web"
                     rel="nofollow"
                   >Aviso legal y uso de la página web</a>
                 </li>
                 <li>
                   <a
-                    href="https://www.vinccilaplantaciondelsur.com/politica-privacidad-para-estancias/"
+                    href="#"
                     title="Política de privacidad para las estancias.."
                     rel="nofollow"
                   >Política de privacidad para las estancias..</a>
                 </li>
                 <li>
-                  <a
-                    href="https://www.vinccilaplantaciondelsur.com/Politica-privacidad/"
-                    title="Política de privacidad"
-                    rel="nofollow"
-                  >Política de privacidad</a>
+                  <a href="#" title="Política de privacidad" rel="nofollow">Política de privacidad</a>
                 </li>
               </ul>
             </div>
             <div class="idioma dropdown">
-              <a
-                href="https://www.vinccilaplantaciondelsur.com/#"
-                class="dropdown-toggle"
-                data-toggle="dropdown"
-              >
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                 Español
                 <span class="bandera">
                   <span class="flag es"></span>
@@ -71,7 +58,7 @@
                 <li>
                   <a
                     rel="alternate"
-                    href="https://en.vinccilaplantaciondelsur.com/"
+                    href="#"
                     class="idiomas"
                     temprop="language"
                     hreflang="en"
@@ -84,7 +71,7 @@
                 <li>
                   <a
                     rel="alternate"
-                    href="https://de.vinccilaplantaciondelsur.com/"
+                    href="#"
                     class="idiomas"
                     temprop="language"
                     hreflang="de"
@@ -97,7 +84,7 @@
                 <li>
                   <a
                     rel="alternate"
-                    href="https://fr.vinccilaplantaciondelsur.com/"
+                    href="#"
                     class="idiomas"
                     temprop="language"
                     hreflang="fr"
@@ -110,7 +97,7 @@
                 <li>
                   <a
                     rel="alternate"
-                    href="https://it.vinccilaplantaciondelsur.com/"
+                    href="#"
                     class="idiomas"
                     temprop="language"
                     hreflang="it"
@@ -142,52 +129,40 @@
                 <ul class="nav navbar-nav navbarMenu">
                   <li class="active">
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/"
-                      title="Hotel  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="https://serene-kowalevski-d75031.netlify.com"
+                      title="Hotel  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Hotel</a>
                   </li>
                   <li>
-                    <a
-                      href="https://www.vinccilaplantaciondelsur.com/ofertas/"
-                      title="Ofertas  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Ofertas</a>
+                    <a href="#" title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Ofertas</a>
                   </li>
                   <li>
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/habitaciones/"
-                      title="Habitaciones  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="#"
+                      title="Habitaciones  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Habitaciones</a>
                   </li>
                   <li>
-                    <a
-                      href="https://www.vinccilaplantaciondelsur.com/fotos/"
-                      title="Fotos  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Fotos</a>
+                    <a href="#" title="Fotos  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Fotos</a>
                   </li>
                   <li>
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/servicios/"
-                      title="Servicios  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="#"
+                      title="Servicios  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Servicios</a>
                   </li>
                   <li class="hidden-md">
-                    <a
-                      href="https://www.vinccilaplantaciondelsur.com/mapa/"
-                      title="Mapa  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Mapa</a>
+                    <a href="#" title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Mapa</a>
                   </li>
                   <li class="hidden-md">
-                    <a
-                      href="https://www.vinccilaplantaciondelsur.com/contacto/"
-                      title="Contacto  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Contacto</a>
+                    <a href="#" title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Contacto</a>
                   </li>
                   <li class="booking">
                     <a href="javascript:void(0)" title="Mi reserva" class="mireserva">Mi reserva</a>
                   </li>
                   <li class="dropdown visible-md">
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/#"
+                      href="https://serene-kowalevski-d75031.netlify.com/#"
                       data-toggle="dropdown"
                       class="dropdown-toggle"
                     >
@@ -196,15 +171,12 @@
                     </a>
                     <ul class="dropdown-menu dropMore" role="menu">
                       <li class="visible-md visible-sm">
-                        <a
-                          href="https://www.vinccilaplantaciondelsur.com/mapa/"
-                          title="Mapa  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
-                        >Mapa</a>
+                        <a href="#" title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Mapa</a>
                       </li>
                       <li class="visible-md visible-sm">
                         <a
-                          href="https://www.vinccilaplantaciondelsur.com/contacto/"
-                          title="Contacto  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                          href="#"
+                          title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                         >Contacto</a>
                       </li>
                     </ul>
@@ -238,8 +210,8 @@
         <div class="header-extra hidden-xs">
           <div class="wifi">
             <img
-              alt="Espacio libre de humos  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-              title="Espacio libre de humos  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              alt="Espacio libre de humos  QUOHOTEL SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              title="Espacio libre de humos  QUOHOTEL SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               width="21"
               height="21"
               src="/index_files/logo_wifi.png"
@@ -248,8 +220,8 @@
           </div>
           <div class="official">
             <img
-              alt="Web oficial  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-              title="Web oficial  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              alt="Web oficial  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              title="Web oficial  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               width="21"
               height="21"
               src="/index_files/icon_official.png"
@@ -258,8 +230,8 @@
           </div>
           <div class="smoke">
             <img
-              alt="Espacio libre de humos  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-              title="Espacio libre de humos  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              alt="Espacio libre de humos  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              title="Espacio libre de humos  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               height="21"
               width="21"
               src="/index_files/not-smoke.png"
@@ -269,7 +241,7 @@
         </div>
         <div class="header-destacado">
           <div class="container">
-            <h1>VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR</h1>
+            <h1>quohotel SELECCIÓN LA PLANTACIÓN DEL SUR</h1>
             <h4>TENERIFE - 5*</h4>
           </div>
         </div>
@@ -277,9 +249,7 @@
           <div class="container">
             <div class="motor">
               <form
-                id="motorform"
-                action="https://www.vinccilaplantaciondelsur.com/bookcore/v1/search-dispo.htm"
-                method="POST"
+              
               >
                 <input
                   type="hidden"
@@ -292,7 +262,7 @@
                     <div class="entrada">
                       <label>Entrada</label>
                       <div class="bordeFechas" @click="focus('entrada')">
-                        <span class >
+                        <span class>
                           <strong>{{formatedEntrada.day}}</strong>
                           <em>{{formatedEntrada.month}} {{formatedEntrada.year}}</em>
                         </span>
@@ -304,16 +274,19 @@
                           required
                           id="id_entrada"
                           class="hasDatepicker"
-                          
-                           
                         />
-                        <input type="text" id="datepickerEntrada" v-model="fechaEntrada" style="visibility:visible; z-index:-1" >
+                        <input
+                          type="text"
+                          id="datepickerEntrada"
+                          v-model="fechaEntrada"
+                          style="visibility:visible; z-index:-1"
+                        />
                       </div>
                     </div>
                     <div class="salida">
-                      <label>Salida</label> 
+                      <label>Salida</label>
                       <div class="bordeFechas" @click="focus('salida')">
-                        <span class >
+                        <span class>
                           <strong>{{formatedSalida.day}}</strong>
                           <em>{{formatedSalida.month}} {{formatedSalida.year}}</em>
                         </span>
@@ -326,11 +299,53 @@
                           id="id_salida"
                           class="hasDatepicker"
                         />
-                        <input type="text" id="datepickerSalida" v-model="fechaSalida" style="visibility:visible; z-index:-1" >
+                        <input
+                          type="text"
+                          id="datepickerSalida"
+                          v-model="fechaSalida"
+                          style="visibility:visible; z-index:-1"
+                        />
                       </div>
                     </div>
                   </div>
-                  <div class="consulta">
+                  <div class="fechas consulta">
+                    <div class="entrada" style="width: 40%;margin-right: 30px;">
+                      <label>Ocupación</label>
+                     <div @click="elegirocupacion()">
+                      <div class="bordeFechas" style="width: 50%;">
+                        <span style="text-align: center;">
+                          <strong>{{totaladults}}</strong>
+                          <em>adultos</em>
+                        </span>
+                        <input
+                          type="text"
+                          name="ocupacion"
+                          value="1x2"
+                          readonly="readonly"
+                          required="required"
+                          id="id_ocupacion"
+                        />
+                      </div>
+                      <div class="bordeFechas" style="
+    width: 50%;
+">
+                        <span style="
+    text-align: center;
+">
+                          <strong>{{totalchild}}</strong>
+                          <em>niños</em>
+                        </span>
+                      </div>
+                      </div>
+                    </div>
+                    <div class="box-check btn-dispo">
+                      <button title="¡Comprobar disponibilidad!" class="btn btn-motor btn-consulta" @click.prevent="getdispo()">
+                        ¡Comprobar disponibilidad!
+                        <span>Mejor Precio Online</span>
+                      </button>
+                    </div>
+                  </div>
+                  <!--<div class="consulta">
                     <div class="box-promo">
                       <span class="promocode">
                         ¿Tienes un código promocional?
@@ -356,7 +371,7 @@
                         <span>Mejor Precio Online</span>
                       </button>
                     </div>
-                  </div>
+                  </div>-->
                 </div>
               </form>
             </div>
@@ -366,7 +381,7 @@
           <div class="carousel slide carouselMkc carousel-fade" id="carouselMkc">
             <div class="carousel-inner">
               <div class="item active">
-                <h3>Vincci Seleccion La Plantacion del Sur</h3>
+                <h3>Quohotel Seleccion La Plantacion del Sur</h3>
               </div>
             </div>
             <ol class="carousel-indicators">
@@ -380,16 +395,13 @@
       <div class="list-destacados">
         <div class="container">
           <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 item">
-            <a
-              href="https://www.vinccilaplantaciondelsur.com/servicios/"
-              title="GASTRONOMÍA CANARIA"
-            >
+            <a href="#" title="GASTRONOMÍA CANARIA">
               <div class="inner">
                 <div class="fondo-dark_small"></div>
                 <img
                   class="img-responsive"
-                  alt="GASTRONOMÍA CANARIA  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                  title="GASTRONOMÍA CANARIA  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                  alt="GASTRONOMÍA CANARIA  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                  title="GASTRONOMÍA CANARIA  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                   src="/index_files/6e4c7684f795590dea090d52aaf8fbe4.jpg"
                   width="360"
                   height="305"
@@ -403,8 +415,8 @@
                     <h5>GASTRONOMÍA CANARIA</h5>
                     <span class="arrow">
                       <img
-                        title="GASTRONOMÍA CANARIA  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                        alt="GASTRONOMÍA CANARIA  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                        title="GASTRONOMÍA CANARIA  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                        alt="GASTRONOMÍA CANARIA  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                         width="20"
                         height="20"
                         src="/index_files/arrow_right.png"
@@ -416,13 +428,13 @@
             </a>
           </div>
           <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 item">
-            <a href="https://www.vinccilaplantaciondelsur.com/contacto/" title="EVENTOS ÚNICOS">
+            <a href="#" title="EVENTOS ÚNICOS">
               <div class="inner">
                 <div class="fondo-dark_small"></div>
                 <img
                   class="img-responsive"
-                  alt="EVENTOS ÚNICOS  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                  title="EVENTOS ÚNICOS  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                  alt="EVENTOS ÚNICOS  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                  title="EVENTOS ÚNICOS  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                   src="/index_files/e66ae433501b89329b79d718997a5368.jpg"
                   width="360"
                   height="305"
@@ -436,8 +448,8 @@
                     <h5>EVENTOS ÚNICOS</h5>
                     <span class="arrow">
                       <img
-                        title="EVENTOS ÚNICOS  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                        alt="EVENTOS ÚNICOS  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                        title="EVENTOS ÚNICOS  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                        alt="EVENTOS ÚNICOS  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                         width="20"
                         height="20"
                         src="/index_files/arrow_right.png"
@@ -449,16 +461,13 @@
             </a>
           </div>
           <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 item">
-            <a
-              href="https://www.vinccilaplantaciondelsur.com/habitaciones/"
-              title="HABITACIONES &amp; SUITES"
-            >
+            <a href="#" title="HABITACIONES &amp; SUITES">
               <div class="inner">
                 <div class="fondo-dark_small"></div>
                 <img
                   class="img-responsive"
-                  alt="HABITACIONES &amp; SUITES  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                  title="HABITACIONES &amp; SUITES  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                  alt="HABITACIONES &amp; SUITES  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                  title="HABITACIONES &amp; SUITES  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                   src="/index_files/3ca4cde37970b5d7c2cbcd60729dbf89.jpg"
                   width="360"
                   height="305"
@@ -472,8 +481,8 @@
                     <h5>HABITACIONES &amp; SUITES</h5>
                     <span class="arrow">
                       <img
-                        title="HABITACIONES &amp; SUITES  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                        alt="HABITACIONES &amp; SUITES  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                        title="HABITACIONES &amp; SUITES  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                        alt="HABITACIONES &amp; SUITES  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                         width="20"
                         height="20"
                         src="/index_files/arrow_right.png"
@@ -485,13 +494,13 @@
             </a>
           </div>
           <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 item">
-            <a href="https://www.vinccilaplantaciondelsur.com/ofertas/" title="OFERTAS EXCLUSIVAS">
+            <a href="#" title="OFERTAS EXCLUSIVAS">
               <div class="inner">
                 <div class="fondo-dark_small"></div>
                 <img
                   class="img-responsive"
-                  alt="OFERTAS EXCLUSIVAS  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                  title="OFERTAS EXCLUSIVAS  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                  alt="OFERTAS EXCLUSIVAS  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                  title="OFERTAS EXCLUSIVAS  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                   src="/index_files/e73ed078abde725ffe1005663aa546c6.jpg"
                   width="360"
                   height="305"
@@ -505,8 +514,8 @@
                     <h5>OFERTAS EXCLUSIVAS</h5>
                     <span class="arrow">
                       <img
-                        title="OFERTAS EXCLUSIVAS  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                        alt="OFERTAS EXCLUSIVAS  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                        title="OFERTAS EXCLUSIVAS  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                        alt="OFERTAS EXCLUSIVAS  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                         width="20"
                         height="20"
                         src="/index_files/arrow_right.png"
@@ -523,16 +532,16 @@
         <div class="container">
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <h3>Hotel en Costa Adeje</h3>
-            <h2>Web Oficial del Hotel VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR</h2>
+            <h2>Web Oficial del Hotel quohotel SELECCIÓN LA PLANTACIÓN DEL SUR</h2>
             <p class="texto">
               El lujo más exquisito en un espacio de aire colonial pensado para el relax. Sí, el
-              <strong>Vincci Selección La Plantación del Sur</strong> es un auténtico sueño. Un
+              <strong>quohotel Selección La Plantación del Sur</strong> es un auténtico sueño. Un
               <strong>hotel de lujo con spa en Playa del Duque</strong>, la más hermosa de Costa Adeje, ideal para vacaciones con niños, escapadas románticas, viajes con amigos y celebraciones especiales.
               <br />
               <br />Vive Tenerife por todo lo alto reservando en este
               <strong>hotel en Playa del Duque</strong> y disfruta de experiencias gourmet, sesiones de bienestar, animación, miniclub… Reserva en la
-              <strong>web oficial del Vincci Selección La Plantación del Sur</strong>.
-              <em>Viaja. Vive. Vincci.</em>
+              <strong>web oficial del quohotel Selección La Plantación del Sur</strong>.
+              <em>Viaja. Vive. quohotel.</em>
             </p>
           </div>
         </div>
@@ -552,11 +561,8 @@
                 <div class="caption">Oferta especial</div>
                 <div class="content">
                   <h4>¡Descuento del 20%!</h4>
-                  <p>Reserva con 90 días de antelación y disfruta de un 20% de descuento. Solo encontrarás esta oferta en web oficial del Hotel Vincci Selección la ...</p>
-                  <a
-                    class="btn btnMore"
-                    href="https://www.vinccilaplantaciondelsur.com/ofertas/"
-                  >Más información</a>
+                  <p>Reserva con 90 días de antelación y disfruta de un 20% de descuento. Solo encontrarás esta oferta en web oficial del Hotel quohotel Selección la ...</p>
+                  <a class="btn btnMore" href="#">Más información</a>
                 </div>
                 <div class="footer">
                   <button
@@ -564,8 +570,8 @@
                     data-oferta="¡Descuento del 20%!"
                     data-desde="22/01/2020"
                     data-hasta="31/12/2020"
-                    data-hotel="Hotel Vincci Selección la Plantación del Sur"
-                    data-hotel-cod="vincciplantaciondesur"
+                    data-hotel="Hotel quohotel Selección la Plantación del Sur"
+                    data-hotel-cod="quohotelplantaciondesur"
                     data-minimo-noches="1"
                     itemprop="potentialAction"
                     data-codigo="veinte"
@@ -578,7 +584,7 @@
             <div>
               <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 box-foto">
                 <a
-                  title="Fachada  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                  title="Fachada  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                   class="box foto_hotel"
                   href="https://www.vinccilaplantaciondelsur.com/uploads/galeriahoteles/EntradaPanoramica.jpg"
                   data-fancybox-group="fotohotel"
@@ -595,7 +601,7 @@
               </div>
               <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 box-foto">
                 <a
-                  title="Recepción  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                  title="Recepción  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                   class="box foto_hotel"
                   href="https://www.vinccilaplantaciondelsur.com/uploads/galeriahoteles/047_eFCt5CA.jpg"
                   data-fancybox-group="fotohotel"
@@ -612,7 +618,7 @@
               </div>
               <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 box-foto">
                 <a
-                  title="Recepción  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                  title="Recepción  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                   class="box foto_hotel"
                   href="https://www.vinccilaplantaciondelsur.com/uploads/galeriahoteles/Recepcion.jpg"
                   data-fancybox-group="fotohotel"
@@ -629,7 +635,7 @@
               </div>
               <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 box-foto">
                 <a
-                  title="Lobby  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                  title="Lobby  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                   class="box foto_hotel"
                   href="https://www.vinccilaplantaciondelsur.com/uploads/galeriahoteles/Hall2_rsG2e7H.jpg"
                   data-fancybox-group="fotohotel"
@@ -665,11 +671,7 @@
               <div class="inner">
                 <h4>GALERÍA DE FOTOS</h4>
                 <p>¡No esperes ni un minuto más para adentrarte en este incomparable hotel de lujo!</p>
-                <a
-                  href="https://www.vinccilaplantaciondelsur.com/fotos/"
-                  class="btn btn-secundario"
-                  title="Ver más"
-                >Ver más</a>
+                <a href="#" class="btn btn-secundario" title="Ver más">Ver más</a>
               </div>
             </div>
           </div>
@@ -688,8 +690,8 @@
               <ul>
                 <li>
                   <a
-                    href="http://instagram.com/vincci_hoteles"
-                    title="Instagram  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://instagram.com/#"
+                    title="Instagram  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-instagram"
@@ -697,8 +699,8 @@
                 </li>
                 <li>
                   <a
-                    href="http://pinterest.com/vinccihoteles/"
-                    title="Pinterest  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://pinterest.com/#"
+                    title="Pinterest  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-pinterest"
@@ -706,8 +708,8 @@
                 </li>
                 <li>
                   <a
-                    href="http://twitter.com/Vincci_Hoteles"
-                    title="Twitter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://twitter.com/#"
+                    title="Twitter  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-twitter"
@@ -715,8 +717,8 @@
                 </li>
                 <li>
                   <a
-                    href="http://www.facebook.com/pages/Vincci-Hoteles/122369487798917"
-                    title="Facebook  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://www.facebook.com/#"
+                    title="Facebook  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-facebook"
@@ -724,8 +726,8 @@
                 </li>
                 <li>
                   <a
-                    href="http://www.flickr.com/photos/vinccihoteles"
-                    title="Flickr  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://www.flickr.com/#"
+                    title="Flickr  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-flickr"
@@ -733,8 +735,8 @@
                 </li>
                 <li>
                   <a
-                    href="http://www.youtube.com/user/VIncciHoteles"
-                    title="Youtube  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://www.youtube.com/#"
+                    title="Youtube  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-youtube"
@@ -742,8 +744,8 @@
                 </li>
                 <li>
                   <a
-                    href="https://plus.google.com/u/2/+VincciLaPlantaciondelSur/posts"
-                    title="Google+  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="https://plus.google.com/#"
+                    title="Google+  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-google"
@@ -753,7 +755,7 @@
             </nav>
           </div>
           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 box-news">
-            <span class="titulo">Vincci y Noticias</span>
+            <span class="titulo">quohotel y Noticias</span>
             <span class="subtit">Nos gusta compartir nuevas ofertas y promociones exclusivas</span>
             <div class="box-enviar">
               <input type="text" placeholder="Inserta tu email aqui" class />
@@ -769,31 +771,20 @@
       </div>
       <div class="footer-bottom">
         <div class="container">
-          <span class="titulo_footer">VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR</span>
+          <span class="titulo_footer">quohotel SELECCIÓN LA PLANTACIÓN DEL SUR</span>
           <span
             class="direcion"
           >Calle del Roque Nublo, 1, 38670. Costa Adeje, Santa Cruz de Tenerife., Costa Adeje</span>
           <nav class="enlacesFooter">
             <ul>
               <li>
-                <a
-                  href="https://www.vinccilaplantaciondelsur.com/Politica-privacidad/"
-                  title="Política de privacidad"
-                  rel="nofollow"
-                >Política de privacidad</a>
+                <a href="#" title="Política de privacidad" rel="nofollow">Política de privacidad</a>
               </li>
               <li>
-                <a
-                  href="https://www.vinccilaplantaciondelsur.com/politica-cookies/"
-                  title="Política de cookies"
-                  rel="nofollow"
-                >Política de cookies</a>
+                <a href="#" title="Política de cookies" rel="nofollow">Política de cookies</a>
               </li>
               <li>
-                <a
-                  href="https://www.vinccilaplantaciondelsur.com/directorio/"
-                  title="Directorio Hoteles"
-                >Directorio Hoteles</a>
+                <a href="#" title="Directorio Hoteles">Directorio Hoteles</a>
               </li>
               <li>
                 <a
@@ -804,18 +795,10 @@
                 >Mapa del sitio</a>
               </li>
               <li class="directorio">
-                <a
-                  href="https://www.vinccilaplantaciondelsur.com/directorio/"
-                  title="Vincci hoteles"
-                >Vincci hoteles</a>
+                <a href="#" title="quohotel hoteles">quohotel hoteles</a>
               </li>
               <li class>
-                <a
-                  href="http://www.roiback.es/"
-                  title="roiback"
-                  target="_Blank"
-                  rel="nofollow"
-                >by roiback</a>
+                <a href="#" title target="_Blank" rel="nofollow">by</a>
               </li>
             </ul>
           </nav>
@@ -823,24 +806,24 @@
           <nav class="idiomasFooter">
             <ul>
               <li>
-                <a href="https://en.vinccilaplantaciondelsur.com/" title="English">English</a>
+                <a href="#" title="English">English</a>
               </li>
               <li>
-                <a href="https://de.vinccilaplantaciondelsur.com/" title="Deutsch">Deutsch</a>
+                <a href="#" title="Deutsch">Deutsch</a>
               </li>
               <li>
-                <a href="https://fr.vinccilaplantaciondelsur.com/" title="Français">Français</a>
+                <a href="#" title="Français">Français</a>
               </li>
               <li>
-                <a href="https://it.vinccilaplantaciondelsur.com/" title="Italiano">Italiano</a>
+                <a href="#" title="Italiano">Italiano</a>
               </li>
             </ul>
           </nav>
           <div class="logoThawte">
             <img
               src="/index_files/logo_twathe.png"
-              title="Thawte  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-              alt="Thawte  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              title="Thawte  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              alt="Thawte  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               class="logo_footer"
               width="101"
               height="25"
@@ -902,91 +885,51 @@
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/"
+                  href="https://serene-kowalevski-d75031.netlify.com"
                   title="Hotel"
                 >Hotel</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/directorio/"
-                  title="Directorio Hoteles"
-                >Directorio Hoteles</a>
+                <a target="_blank" href="#" title="Directorio Hoteles">Directorio Hoteles</a>
+              </li>
+              <li class="list-group-item">
+                <a target="_blank" href="#" title="Ofertas">Ofertas</a>
+              </li>
+              <li class="list-group-item">
+                <a target="_blank" href="#" title="¡Descuento del 20%!">Oferta - ¡Descuento del 20%!</a>
+              </li>
+              <li class="list-group-item">
+                <a target="_blank" href="#" title="Habitaciones">Habitaciones</a>
+              </li>
+              <li class="list-group-item">
+                <a target="_blank" href="#" title="Fotos">Fotos</a>
+              </li>
+              <li class="list-group-item">
+                <a target="_blank" href="#" title="Servicios">Servicios</a>
+              </li>
+              <li class="list-group-item">
+                <a target="_blank" href="#" title="Mapa">Mapa</a>
+              </li>
+              <li class="list-group-item">
+                <a target="_blank" href="#" title="Opiniones">Opiniones</a>
+              </li>
+              <li class="list-group-item">
+                <a target="_blank" href="#" title="Contacto">Contacto</a>
+              </li>
+              <li class="list-group-item">
+                <a target="_blank" href="#" title="Política de cookies">Política de cookies</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/ofertas/"
-                  title="Ofertas"
-                >Ofertas</a>
-              </li>
-              <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/"
-                  title="¡Descuento del 20%!"
-                >Oferta - ¡Descuento del 20%!</a>
-              </li>
-              <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/habitaciones/"
-                  title="Habitaciones"
-                >Habitaciones</a>
-              </li>
-              <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/fotos/"
-                  title="Fotos"
-                >Fotos</a>
-              </li>
-              <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/servicios/"
-                  title="Servicios"
-                >Servicios</a>
-              </li>
-              <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/mapa/"
-                  title="Mapa"
-                >Mapa</a>
-              </li>
-              <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/opiniones/"
-                  title="Opiniones"
-                >Opiniones</a>
-              </li>
-              <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/contacto/"
-                  title="Contacto"
-                >Contacto</a>
-              </li>
-              <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/politica-cookies/"
-                  title="Política de cookies"
-                >Política de cookies</a>
-              </li>
-              <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/aviso-legal-y-uso-de-la-web/"
+                  href="#"
                   title="Aviso legal y uso de la página web"
                 >Aviso legal y uso de la página web</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/politica-privacidad-para-estancias/"
+                  href="#"
                   title="Política de privacidad para las estancias"
                 >Política de privacidad para las estancias</a>
               </li>
@@ -1007,8 +950,8 @@
           <div class="loader" style="display: none;">
             <img
               src="/index_files/spinner2.gif"
-              title="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-              alt="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              title="Newsletter  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              alt="Newsletter  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               width="97"
               height="95"
             />
@@ -1017,8 +960,8 @@
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
               <img
                 src="/index_files/close_modal_white.png"
-                title="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                alt="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                title="Newsletter  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                alt="Newsletter  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 width="23"
                 height="24"
               />
@@ -1028,11 +971,7 @@
           </div>
           <div class="modal-body">
             <form method="post" id="newletter">
-              <input
-                type="hidden"
-                name="csrfmiddlewaretoken"
-                value="VlunbWcIUpvOjVxWD6DskmgmtNdX8RxH7R5t8sx3s63ysOTctvvoF7QtiokX0QwV"
-              />
+             
               <ul>
                 <li>
                   <label>Nombre</label>
@@ -1133,10 +1072,7 @@
                 </li>
                 <li class="pol">
                   <input type="checkbox" name="politica" required id="id_politica" /> He leído y acepto la
-                  <a
-                    href="https://www.vinccilaplantaciondelsur.com/Politica-privacidad/"
-                    target="_blank"
-                  >política de privacidad</a>
+                  <a href="#" target="_blank">política de privacidad</a>
                 </li>
               </ul>
               <button>¡Benefíciese ahora!</button>
@@ -1145,6 +1081,118 @@
         </div>
       </div>
     </div>
+    <div v-if="viewoccupation" class="wrap rb_bc">
+     <div id="occupancy-modifier-doble" class="roi-modal roi-modal--occupancy roi-modal--visible" tabindex="0" role="dialog" data-no-dismiss="" aria-labelledby="roi-modal__title-doble" data-destroy-on-dispose="false">
+      
+        <div class="roi-modal__content" style="max-width:500px;">
+          <div class="roi-modal__header">
+            
+            <h4 class="roi-modal__title">Ocupaciones</h4>
+          </div>
+          <div class="roi-modal__body">
+            <div class="form form--inline form--occupancy">
+            <div class="row" v-for="(o, index) in ocupaciones" :key="index">
+              <div class="col-sm-12 col-md-3 col-lg-3">
+               <div class="form__group">
+                  <label class="active">Habitación {{index + 1}}</label>
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-2 col-lg-2">
+                <div class="form__group">
+                  <label
+                    class="active"
+                    :for="'adult' + index"
+                    data-error="wrong"
+                    data-success="right"
+                  >Adultos</label>
+                  <input
+                    type="number"
+                    min="0"
+                    :id="'adult' + index"
+                    class="validate form-control my-input"
+                    v-model="o.adult"
+                    style="cursor: pointer"
+                  />
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-2 col-lg-2">
+                <div class="form__group">
+                  <label
+                    class="active"
+                    :for="'children' + index"
+                    data-error="wrong"
+                    data-success="right"
+                  >Niños</label>
+                  <input
+                    type="number"
+                    min="0"
+                    id="'children' + index"
+                    class="validate form-control my-input"
+                    v-model="o.children"
+                    style="cursor: pointer"
+                  />
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-2 col-lg-2">
+                <div v-if="o.children && parseInt(o.children.valueOf()) !== 0">
+                  <div
+                    v-for="(n, index2) in parseInt(o.children.valueOf())"
+                    class="form__group"
+                    :key="index2"
+                  >
+                    <label
+                      class="active"
+                      :for="'age' + index + index2"
+                      data-error="wrong"
+                      data-success="right"
+                    >Edades</label>
+                    <input
+                      type="number"
+                      min="0"
+                      max="18"
+                      :id="'age' + index + index2"
+                      class="validate form-control my-input"
+                      v-model="o.edades[index2]"
+                      required
+                      style="cursor: pointer"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-2 col-lg-2">
+                <div class="input-field">
+                  <a class="btn btn-transparent text-danger" v-on:click="borrarocupacion(index)">
+                    <i class="material-icons">delete</i>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+  
+            <a class="btn btn-transparent left text-success" v-on:click="anadirocupacion">
+              <i class="material-icons">add</i>
+            </a>
+  
+</div>
+          
+          <div class="form__group form__group--action"><button id="modifica_ocupacion_doble"  type="button"
+              data-dismiss="modal"
+              @click="calculatetotal"  class="roi-btn roi-btn--occupancy">
+                      Modificar
+                  </button></div>
+          <!--<div class="modal-footer">
+            <button
+              type="button"
+              class="modal-close btn btn-success"
+              data-dismiss="modal"
+              @click="calculatetotal"
+            >ok</button>
+          </div>-->
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
     <!-- Estructura para el pop up del footer -->
     <!-- Fin de estructura para el pop up del footer -->
     <div class="modal fade modal_vcenter" id="modal_ofertafechas">
@@ -1152,7 +1200,7 @@
         <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
-            <span class="hotel_nombre">VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR</span>
+            <span class="hotel_nombre">quohotel SELECCIÓN LA PLANTACIÓN DEL SUR</span>
             <h4 class="modal-title titulo"></h4>
           </div>
           <div class="modal-body">
@@ -1178,7 +1226,7 @@
                     type="text"
                     id="oferta_salida"
                     class="form-control salida_input"
-                  placeholder="Fecha salida"
+                    placeholder="Fecha salida"
                   />
                   <label class="input-group-addon btn" for="oferta_salida">
                     <i class="fa fa-calendar"></i>
@@ -1205,10 +1253,10 @@
 
 <script>
 // @ is an alias to /src
-   import $ from 'jquery';
-import datepickerFactory from 'jquery-datepicker';
-import datepickerJAFactory from 'jquery-datepicker/i18n/jquery.ui.datepicker-es';
- 
+import $ from "jquery";
+import datepickerFactory from "jquery-datepicker";
+import datepickerJAFactory from "jquery-datepicker/i18n/jquery.ui.datepicker-es";
+
 // Just pass your jquery instance and you're done
 datepickerFactory($);
 datepickerJAFactory($);
@@ -1217,92 +1265,212 @@ export default {
   name: "home",
   data: function() {
     return {
+      viewoccupation:false,
       fechaEntrada: this.gettoday(),
       fechaSalida: this.gettomorrow(),
-      ocupacion:"1x2"
-      
-      
+      totaladults:2,
+      totalchild:0,
+      ocupacion: "1x2",
+        ocupaciones: [
+        {
+          adult: 2,
+          children: 0,
+          edades: []
+        }
+      ],
     };
   },
- 
-  computed:{
-    formatedEntrada:function () {
-      if (this.$data.fechaEntrada){
-        var dd =   this.$data.fechaEntrada.split("/")
-        console.log(dd)
-        if(dd){
-          
 
-return { "day":parseInt(dd[0]),"month":this.getFormMonth(dd[1]),"year":dd[2]}
-        }else{
+  computed: {
+    formatedEntrada: function() {
+      if (this.$data.fechaEntrada) {
+        var dd = this.$data.fechaEntrada.split("/");
+        console.log(dd);
+        if (dd) {
+          return {
+            day: parseInt(dd[0]),
+            month: this.getFormMonth(dd[1]),
+            year: dd[2]
+          };
+        } else {
           return "";
         }
-    }else{
-      return ""
+      } else {
+        return "";
+      }
+    },
+    formatedSalida: function() {
+      if (this.$data.fechaSalida) {
+        var dd = this.$data.fechaSalida.split("/");
+        console.log(dd);
+        if (dd) {
+          return {
+            day: parseInt(dd[0]),
+            month: this.getFormMonth(dd[1]),
+            year: dd[2]
+          };
+        } else {
+          return "";
+        }
+      } else {
+        return "";
+      }
+    },
+    adultos:function(){
+        return 2;
+    },
+    ninyos:function(){
+        return 0;
     }
-        
-    },
-    formatedSalida:function () {
-      if (this.$data.fechaSalida){
-        var dd =   this.$data.fechaSalida.split("/")
-        console.log(dd)
-        if(dd){
-return { "day":parseInt(dd[0]),"month":this.getFormMonth(dd[1]),"year":dd[2]}
-        }else{
-          return "";
-        }
-        }else{
-          return ""
-        }
-        
-    },
-   
   },
-  mounted(){
-    var d = this.$data
-    
-        $( "#datepickerEntrada" ).datepicker(
-        {
-          onSelect: function() { 
-           var   dateObject = $(this).datepicker('getDate') 
-           // $( "#datepicker" ).attr( 'value', dateObject.getDate().toString() + '/'+ dateObject.getMonth().toString()+ '/'+ dateObject.getFullYear().toString()  )
-            d.fechaEntrada = dateObject.getDate().toString() + '/'+ (dateObject.getMonth() + 1).toString()+ '/'+ dateObject.getFullYear().toString()  
-            }
-        });
-         $( "#datepickerSalida" ).datepicker(
-        {
-          onSelect: function() { 
-           var   dateObject = $(this).datepicker('getDate') 
-           // $( "#datepicker" ).attr( 'value', dateObject.getDate().toString() + '/'+ dateObject.getMonth().toString()+ '/'+ dateObject.getFullYear().toString()  )
-            d.fechaSalida = dateObject.getDate().toString() + '/'+ (dateObject.getMonth() + 1).toString()+ '/'+ dateObject.getFullYear().toString()  
-            }
-        });
+  mounted() {
+    var d = this.$data;
 
-      
-      $.datepicker.regional['es'] = {
-		closeText: 'Cerrar',
-		prevText: '&#x3C;Ant',
-		nextText: 'Sig&#x3E;',
-		currentText: 'Hoy',
-		monthNames: ['Enero','Febrero','Marzo','Abril','Mayo','Junio',
-		'Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'],
-		monthNamesShort: ['Ene','Feb','Mar','Abr','May','Jun',
-		'Jul','Ago','Sep','Oct','Nov','Dic'],
-		dayNames: ['Domingo','Lunes','Martes','MiÃ©rcoles','Jueves','Viernes','SÃ¡bado'],
-		dayNamesShort: ['Dom','Lun','Mar','MiÃ©','Juv','Vie','SÃ¡b'],
-		dayNamesMin: ['Do','Lu','Ma','Mi','Ju','Vi','SÃ¡'],
-		weekHeader: 'Sm',
-		dateFormat: 'dd/mm/yy',
-		firstDay: 1,
-		isRTL: false,
-		showMonthAfterYear: false,
-		yearSuffix: ''};
-	$.datepicker.setDefaults($.datepicker.regional['es']);
+    $("#datepickerEntrada").datepicker({
+      onSelect: function() {
+        var dateObject = $(this).datepicker("getDate");
+        // $( "#datepicker" ).attr( 'value', dateObject.getDate().toString() + '/'+ dateObject.getMonth().toString()+ '/'+ dateObject.getFullYear().toString()  )
+        d.fechaEntrada =
+          dateObject.getDate().toString() +
+          "/" +
+          (dateObject.getMonth() + 1).toString() +
+          "/" +
+          dateObject.getFullYear().toString();
+      }
+    });
+    $("#datepickerSalida").datepicker({
+      onSelect: function() {
+        var dateObject = $(this).datepicker("getDate");
+        // $( "#datepicker" ).attr( 'value', dateObject.getDate().toString() + '/'+ dateObject.getMonth().toString()+ '/'+ dateObject.getFullYear().toString()  )
+        d.fechaSalida =
+          dateObject.getDate().toString() +
+          "/" +
+          (dateObject.getMonth() + 1).toString() +
+          "/" +
+          dateObject.getFullYear().toString();
+      }
+    });
 
+    $.datepicker.regional["es"] = {
+      closeText: "Cerrar",
+      prevText: "&#x3C;Ant",
+      nextText: "Sig&#x3E;",
+      currentText: "Hoy",
+      monthNames: [
+        "Enero",
+        "Febrero",
+        "Marzo",
+        "Abril",
+        "Mayo",
+        "Junio",
+        "Julio",
+        "Agosto",
+        "Septiembre",
+        "Octubre",
+        "Noviembre",
+        "Diciembre"
+      ],
+      monthNamesShort: [
+        "Ene",
+        "Feb",
+        "Mar",
+        "Abr",
+        "May",
+        "Jun",
+        "Jul",
+        "Ago",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dic"
+      ],
+      dayNames: [
+        "Domingo",
+        "Lunes",
+        "Martes",
+        "MiÃ©rcoles",
+        "Jueves",
+        "Viernes",
+        "SÃ¡bado"
+      ],
+      dayNamesShort: ["Dom", "Lun", "Mar", "MiÃ©", "Juv", "Vie", "SÃ¡b"],
+      dayNamesMin: ["Do", "Lu", "Ma", "Mi", "Ju", "Vi", "SÃ¡"],
+      weekHeader: "Sm",
+      dateFormat: "dd/mm/yy",
+      firstDay: 1,
+      isRTL: false,
+      showMonthAfterYear: false,
+      yearSuffix: ""
+    };
+    $.datepicker.setDefaults($.datepicker.regional["es"]);
   },
-  methods:{
-    gettoday(){
-          var d = new Date();
+  methods: {
+    calculatetotal: function() {
+       var s;
+        for (var o in this.$data.ocupaciones) {
+          if (s) s += ",";
+          else s = "";
+          s += 1;
+          s += "x";
+          s +=
+            parseInt(this.$data.ocupaciones[o].adult) +
+            parseInt(this.$data.ocupaciones[o].children);
+          if (
+            this.$data.ocupaciones[o].children != null &&
+            this.$data.ocupaciones[o].children > 0
+          ) {
+            s += "-";
+            var firstIteration = true;
+            for (var i = 0; i < this.$data.ocupaciones[o].children; i++) {
+              if (!firstIteration) {
+                s += "-";
+              }
+              s += this.$data.ocupaciones[o].edades[i] ? this.$data.ocupaciones[o].edades[i] : 11;
+              firstIteration = false;
+            }
+          }
+        }
+        this.$data.ocupacion = s;
+      this.$data.totaladults = 0;
+      this.$data.totalchild = 0;
+      for (var j = 0; j < this.$data.ocupaciones.length; j++) {
+        console.log("oc");
+        console.log(this.$data.ocupaciones[j].adult);
+        console.log(this.$data.ocupaciones[j].children);
+        this.$data.totaladults =
+          this.$data.totaladults + parseInt(this.$data.ocupaciones[j].adult);
+        this.$data.totalchild =
+          this.$data.totalchild + parseInt(this.$data.ocupaciones[j].children);
+      }
+      this.closemodal()
+    },
+     closemodal: function() {
+      var d = this.$data;
+      d.busqueda = null;
+      d.coincidencias = { matches: [] };
+this.$data.viewoccupation=false
+      $(function() {
+        $("#modal1").toggle();
+      });
+    },
+    elegirocupacion: function() {
+      // modal2.open()
+     this.$data.viewoccupation=true
+      $("#miModal").modal("show");
+      this.$data.totaladults = 0;
+      this.$data.totalchild = 0;
+    },
+    borrarocupacion: function(index) {
+      if (this.$data.ocupaciones.length > 1)
+        this.$data.ocupaciones.splice(index, 1);
+    },
+    anadirocupacion: function() {
+      this.$data.ocupaciones.push({ adult: 2, children: 0, edades: [] });
+
+      //  M.updateTextFields()
+    },
+    gettoday() {
+      var d = new Date();
       var month = "" + (d.getMonth() + 1);
       var day = "" + d.getDate();
       var year = d.getFullYear();
@@ -1312,9 +1480,9 @@ return { "day":parseInt(dd[0]),"month":this.getFormMonth(dd[1]),"year":dd[2]}
 
       return [day, month, year].join("/");
     },
-    gettomorrow(){
-  var tomorrow = new Date();
-  tomorrow.setDate(tomorrow.getDate() + 2);
+    gettomorrow() {
+      var tomorrow = new Date();
+      tomorrow.setDate(tomorrow.getDate() + 2);
       var month = "" + (tomorrow.getMonth() + 1);
       var day = "" + tomorrow.getDate();
       var year = tomorrow.getFullYear();
@@ -1324,81 +1492,86 @@ return { "day":parseInt(dd[0]),"month":this.getFormMonth(dd[1]),"year":dd[2]}
 
       return [day, month, year].join("/");
     },
-    getFormMonth(m){
-        switch(m){
-          case "1":
-            return "ENE";
-            case "2":
-            return "FEB";
-            case "3":
-            return "MAR";
-            case "4":
-            return "ABR";
-            case "5":
-            return "MAY";
-            case "6":
-            return "JUN";
-            case "7":
-            return "JUL";
-            case "8":
-            return "AGO";
-            case "9":
-            return "SEP";
+    getFormMonth(m) {
+      switch (m) {
+        case "1":
+          return "ENE";
+        case "2":
+          return "FEB";
+        case "3":
+          return "MAR";
+        case "4":
+          return "ABR";
+        case "5":
+          return "MAY";
+        case "6":
+          return "JUN";
+        case "7":
+          return "JUL";
+        case "8":
+          return "AGO";
+        case "9":
+          return "SEP";
 
-            case "10":
-            return "OCT";
-            
-            case "11":
-            return "NOV";
-            
-            case "12":
-            return "DIC";
-            
-        }
+        case "10":
+          return "OCT";
+
+        case "11":
+          return "NOV";
+
+        case "12":
+          return "DIC";
+      }
     },
-    myScript(){
-        
-    },
-    getnumdate(fecha){
-      var datearray = fecha.split("/")
-      var day = ""+ datearray[0];
-      var month = "" + datearray[1]
+    myScript() {},
+    getnumdate(fecha) {
+      var datearray = fecha.split("/");
+      var day = "" + datearray[0];
+      var month = "" + datearray[1];
       if (month.length < 2) month = "0" + month;
       if (day.length < 2) day = "0" + day;
-      return  datearray[2]+''+month+''+day
+      return datearray[2] + "" + month + "" + day;
     },
-    getdispo(){
-      var dde =  this.getnumdate(this.$data.fechaEntrada)
-      var dds =  this.getnumdate(this.$data.fechaSalida)
-       
-      this.$router.push({
-            name: "Disponibilidad",
-            query: {
-              entrada: dde,
-              salida: dds,
-              ocupacion: this.$data.ocupacion
-            }
-          });
-    },
-    focus: function(tt){
-      if(tt === "entrada"){
-        var entrada =  document.getElementById( "datepickerEntrada" );
-        entrada.focus();
-      }else{
-        var salida =  document.getElementById( "datepickerSalida" );
-          salida.focus();
-      }
-      
-      
-    }
+    getdispo() {
+      var dde = this.getnumdate(this.$data.fechaEntrada);
+      var dds = this.getnumdate(this.$data.fechaSalida);
 
+      this.$router.push({
+        name: "Disponibilidad",
+        query: {
+          entrada: dde,
+          salida: dds,
+          ocupacion: this.$data.ocupacion
+        }
+      });
+    },
+    focus: function(tt) {
+      if (tt === "entrada") {
+        var entrada = document.getElementById("datepickerEntrada");
+        entrada.focus();
+      } else {
+        var salida = document.getElementById("datepickerSalida");
+        salida.focus();
+      }
+    }
   }
 };
-
-
 </script>
 <style scoped>
 header .header-top {
   display: block;
+}
+.my-input{
+  border: 1px solid #191919;
+    color: #191919;
+    
+    background-position: calc(100% - 10px) 50%;
+    background-repeat: no-repeat;
+    background-size: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 10px;
+    text-align: left;
 }
 </style>

@@ -16,31 +16,31 @@ var data = {
       "vtp_value":"auto"
     },{
       "function":"__c",
-      "vtp_value":"vinccialbayzin.com, vinccialbayzin.backhotelengine.com"
+      "vtp_value":"quohotelalbayzin.com, quohotelalbayzin.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-1"
     },{
       "function":"__c",
-      "vtp_value":"vinccibaixa.com, \tvinccibaixa.backhotelengine.com"
+      "vtp_value":"quohotelbaixa.com, \tquohotelbaixa.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-2"
     },{
       "function":"__c",
-      "vtp_value":"vinccibit.com, vinccibit.backhotelengine.com"
+      "vtp_value":"quohotelbit.com, quohotelbit.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-3"
     },{
       "function":"__c",
-      "vtp_value":"vincciboscdemar.com, vincciboscdemar.backhotelengine.com"
+      "vtp_value":"quohotelboscdemar.com, quohotelboscdemar.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-4"
     },{
       "function":"__c",
-      "vtp_value":"vinccicapitol.com, vinccicapitol.backhotelengine.com"
+      "vtp_value":"quohotelcapitol.com, quohotelcapitol.backhotelengine.com"
     },{
       "function":"__v",
       "vtp_dataLayerVersion":2,
@@ -56,163 +56,163 @@ var data = {
       "vtp_value":"UA-62991223-5"
     },{
       "function":"__c",
-      "vtp_value":"vinccicentrum.com, vinccicentrum.backhotelengine.com"
+      "vtp_value":"quohotelcentrum.com, quohotelcentrum.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-6"
     },{
       "function":"__c",
-      "vtp_value":"vinccisalamanca.com, vinccisalamanca.backhotelengine.com"
+      "vtp_value":"quohotelsalamanca.com, quohotelsalamanca.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-7"
     },{
       "function":"__c",
-      "vtp_value":"vinccicostagolf.com, vinccicostagolf.backhotelengine.com"
+      "vtp_value":"quohotelcostagolf.com, quohotelcostagolf.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-8"
     },{
       "function":"__c",
-      "vtp_value":"vinccifrontaura.com, vinccifrontaura.backhotelengine.com"
+      "vtp_value":"quohotelfrontaura.com, quohotelfrontaura.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-9"
     },{
       "function":"__c",
-      "vtp_value":"vinccigala.com, vinccigala.backhotelengine.com"
+      "vtp_value":"quohotelgala.com, quohotelgala.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-12"
     },{
       "function":"__c",
-      "vtp_value":"vinccilarabida.com, vinccilarabida.backhotelengine.com"
+      "vtp_value":"quohotellarabida.com, quohotellarabida.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-10"
     },{
       "function":"__c",
-      "vtp_value":"vincciliberdade.com, vincciliberdade.backhotelengine.com"
+      "vtp_value":"quohotelliberdade.com, quohotelliberdade.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-37"
     },{
       "function":"__c",
-      "vtp_value":"vinccimalaga.com, vinccimalaga.backhotelengine.com"
+      "vtp_value":"quohotelmalaga.com, quohotelmalaga.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-13"
     },{
       "function":"__c",
-      "vtp_value":"vinccimercat.com, vinccimercat.backhotelengine.com"
+      "vtp_value":"quohotelmercat.com, quohotelmercat.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-28"
     },{
       "function":"__c",
-      "vtp_value":"vinccipalace.com, vinccipalace.backhotelengine.com"
+      "vtp_value":"quohotelpalace.com, quohotelpalace.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-15"
     },{
       "function":"__c",
-      "vtp_value":"vincciporto.com, vincciporto.backhotelengine.com"
+      "vtp_value":"quohotelporto.com, quohotelporto.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-16"
     },{
       "function":"__c",
-      "vtp_value":"vinccipuertochico.com, vinccipuertochico.backhotelengine.com"
+      "vtp_value":"quohotelpuertochico.com, quohotelpuertochico.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-17"
     },{
       "function":"__c",
-      "vtp_value":"vinccialeysa.com, vinccialeysa.backhotelengine.com"
+      "vtp_value":"quohotelaleysa.com, quohotelaleysa.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-18"
     },{
       "function":"__c",
-      "vtp_value":"vinccilys.com, vinccilys.backhotelengine.com"
+      "vtp_value":"quohotellys.com, quohotellys.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-11"
     },{
       "function":"__c",
-      "vtp_value":"vinccienviaalmeria.com, vinccienviaalmeria.backhotelengine.com"
+      "vtp_value":"quohotelenviaalmeria.com, quohotelenviaalmeria.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-20"
     },{
       "function":"__c",
-      "vtp_value":"vincciestrelladelmar.com, vincciestrelladelmar.backhotelengine.com"
+      "vtp_value":"quohotelestrelladelmar.com, quohotelestrelladelmar.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-21"
     },{
       "function":"__c",
-      "vtp_value":"vinccilaplantaciondelsur.com, vincciplantaciondesur.backhotelengine.com"
+      "vtp_value":"quohotellaplantaciondelsur.com, quohotelplantaciondesur.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-22"
     },{
       "function":"__c",
-      "vtp_value":"vincciposadadelpatio.com, vincciposadadelpatio.backhotelengine.com"
+      "vtp_value":"quohotelposadadelpatio.com, quohotelposadadelpatio.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-23"
     },{
       "function":"__c",
-      "vtp_value":"vinccirumaykiyya.com, vincciselecrumay.backhotelengine.com"
+      "vtp_value":"quohotelrumaykiyya.com, quohotelselecrumay.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-24"
     },{
       "function":"__c",
-      "vtp_value":"vinccisoho.com, vinccisoho.backhotelengine.com"
+      "vtp_value":"quohotelsoho.com, quohotelsoho.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-25"
     },{
       "function":"__c",
-      "vtp_value":"vinccisoma.com, vinccisoma.backhotelengine.com"
+      "vtp_value":"quohotelsoma.com, quohotelsoma.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-26"
     },{
       "function":"__c",
-      "vtp_value":"vinccitenerifegolf.com, vinccitenerifegolf.backhotelengine.com"
+      "vtp_value":"quohoteltenerifegolf.com, quohoteltenerifegolf.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-29"
     },{
       "function":"__c",
-      "vtp_value":"vinccithemint.com, vinccithemint.backhotelengine.com"
+      "vtp_value":"quohotelthemint.com, quohotelthemint.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-39"
     },{
       "function":"__c",
-      "vtp_value":"vinccivaldecanasgolf.com, vinccivaldecanas.backhotelengine.com"
+      "vtp_value":"quohotelvaldecanasgolf.com, quohotelvaldecanas.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-36"
     },{
       "function":"__c",
-      "vtp_value":"vinccivia66.com, vincciviasenentayseis.backhotelengine.com"
+      "vtp_value":"quohotelvia66.com, quohotelviasenentayseis.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-27"
     },{
       "function":"__c",
-      "vtp_value":"vinccizaragozazentro.com, vinccizentro.backhotelengine.com"
+      "vtp_value":"quohotelzaragozazentro.com, quohotelzentro.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-38"
     },{
       "function":"__c",
-      "vtp_value":"vinccimaritimo.com, vinccimaritimo.backhotelengine.com"
+      "vtp_value":"quohotelmaritimo.com, quohotelmaritimo.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-40"
@@ -227,13 +227,13 @@ var data = {
       "vtp_name":"partner"
     },{
       "function":"__c",
-      "vtp_value":"vinccimae.com, vinccimae.backhotelengine.com"
+      "vtp_value":"quohotelmae.com, quohotelmae.backhotelengine.com"
     },{
       "function":"__c",
       "vtp_value":"UA-62991223-41"
     },{
       "function":"__c",
-      "vtp_value":"vincciconsuladodebilbao.com,vincciconsulado.backhotelengine.com"
+      "vtp_value":"quohotelconsuladodebilbao.com,quohotelconsulado.backhotelengine.com"
     },{
       "function":"__v",
       "vtp_dataLayerVersion":2,
@@ -1305,7 +1305,7 @@ var data = {
   "predicates":[{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccialbayzin.com"
+      "arg1":"quohotelalbayzin.com"
     },{
       "function":"_eq",
       "arg0":["macro",1],
@@ -1313,255 +1313,255 @@ var data = {
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccialbayzin.backhotelengine.com"
+      "arg1":"quohotelalbayzin.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccibaixa.com"
+      "arg1":"quohotelbaixa.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccibaixa.backhotelengine.com"
+      "arg1":"quohotelbaixa.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccibit.com"
+      "arg1":"quohotelbit.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccibit.backhotelengine.com"
+      "arg1":"quohotelbit.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vincciboscdemar.com"
+      "arg1":"quohotelboscdemar.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vincciboscdemar.backhotelengine.com"
+      "arg1":"quohotelboscdemar.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccicapitol.com"
+      "arg1":"quohotelcapitol.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccicapitol.backhotelengine.com"
+      "arg1":"quohotelcapitol.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccicentrum.com"
+      "arg1":"quohotelcentrum.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccicentrum.backhotelengine.com"
+      "arg1":"quohotelcentrum.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccisalamanca.com"
+      "arg1":"quohotelsalamanca.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccisalamanca.backhotelengine.com"
+      "arg1":"quohotelsalamanca.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccicostagolf.com"
+      "arg1":"quohotelcostagolf.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccicostagolf.backhotelengine.com"
+      "arg1":"quohotelcostagolf.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccifrontaura.com"
+      "arg1":"quohotelfrontaura.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccifrontaura.backhotelengine.com"
+      "arg1":"quohotelfrontaura.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccigala.com"
+      "arg1":"quohotelgala.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccigala.backhotelengine.com"
+      "arg1":"quohotelgala.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccilarabida.com"
+      "arg1":"quohotellarabida.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccilarabida.backhotelengine.com"
+      "arg1":"quohotellarabida.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vincciliberdade.com"
+      "arg1":"quohotelliberdade.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vincciliberdade.backhotelengine.com"
+      "arg1":"quohotelliberdade.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccimalaga.com"
+      "arg1":"quohotelmalaga.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccimalaga.backhotelengine.com"
+      "arg1":"quohotelmalaga.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccimaritimo.com"
+      "arg1":"quohotelmaritimo.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccimaritimo.backhotelengine.com"
+      "arg1":"quohotelmaritimo.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccimercat.com"
+      "arg1":"quohotelmercat.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccimercat.backhotelengine.com"
+      "arg1":"quohotelmercat.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccipalace.com"
+      "arg1":"quohotelpalace.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccipalace.backhotelengine.com"
+      "arg1":"quohotelpalace.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vincciporto.com"
+      "arg1":"quohotelporto.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vincciporto.backhotelengine.com"
+      "arg1":"quohotelporto.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccipuertochico.com"
+      "arg1":"quohotelpuertochico.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccipuertochico.backhotelengine.com"
+      "arg1":"quohotelpuertochico.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccialeysa.com"
+      "arg1":"quohotelaleysa.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccialeysa.backhotelengine.com"
+      "arg1":"quohotelaleysa.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccilys.com"
+      "arg1":"quohotellys.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccilys.backhotelengine.com"
+      "arg1":"quohotellys.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccienviaalmeria.com"
+      "arg1":"quohotelenviaalmeria.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccienviaalmeria.backhotelengine.com"
+      "arg1":"quohotelenviaalmeria.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vincciestrelladelmar.com"
+      "arg1":"quohotelestrelladelmar.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vincciestrelladelmar.backhotelengine.com"
+      "arg1":"quohotelestrelladelmar.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccilaplantaciondelsur.com"
+      "arg1":"quohotellaplantaciondelsur.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vincciplantaciondesur.backhotelengine.com"
+      "arg1":"quohotelplantaciondesur.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vincciposadadelpatio.com"
+      "arg1":"quohotelposadadelpatio.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vincciposadadelpatio.backhotelengine.com"
+      "arg1":"quohotelposadadelpatio.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccirumaykiyya.com"
+      "arg1":"quohotelrumaykiyya.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vincciselecrumay.backhotelengine.com"
+      "arg1":"quohotelselecrumay.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccisoho.com"
+      "arg1":"quohotelsoho.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccisoho.backhotelengine.com"
+      "arg1":"quohotelsoho.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccisoma.com"
+      "arg1":"quohotelsoma.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccisoma.backhotelengine.com"
+      "arg1":"quohotelsoma.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccitenerifegolf.com"
+      "arg1":"quohoteltenerifegolf.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccitenerifegolf.backhotelengine.com"
+      "arg1":"quohoteltenerifegolf.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccithemint.com"
+      "arg1":"quohotelthemint.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccithemint.backhotelengine.com"
+      "arg1":"quohotelthemint.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccivaldecanasgolf.com"
+      "arg1":"quohotelvaldecanasgolf.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccivaldecanas.backhotelengine.com"
+      "arg1":"quohotelvaldecanas.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccivia66.com"
+      "arg1":"quohotelvia66.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vincciviasenentayseis.backhotelengine.com"
+      "arg1":"quohotelviasenentayseis.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccizaragozazentro.com"
+      "arg1":"quohotelzaragozazentro.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccizentro.backhotelengine.com"
+      "arg1":"quohotelzentro.backhotelengine.com"
     },{
       "function":"_eq",
       "arg0":["macro",69],
@@ -1585,19 +1585,19 @@ var data = {
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccimae.com"
+      "arg1":"quohotelmae.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vinccimae.backhotelengine.com"
+      "arg1":"quohotelmae.backhotelengine.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vincciconsuladodebilbao.com"
+      "arg1":"quohotelconsuladodebilbao.com"
     },{
       "function":"_cn",
       "arg0":["macro",0],
-      "arg1":"vincciconsulado.backhotelengine.com"
+      "arg1":"quohotelconsulado.backhotelengine.com"
     },{
       "function":"_re",
       "arg0":["macro",1],

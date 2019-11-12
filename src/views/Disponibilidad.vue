@@ -3,13 +3,13 @@
     <header id="headerInternas">
       <div class="header-top">
         <div class="logo">
-          <a href="https://www.vinccilaplantaciondelsur.com/">
+          <a href="https://serene-kowalevski-d75031.netlify.com">
             <img
               src="/index_files/logo_5.jpg"
               width
               height
-              title="5 estrellas  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-              alt="5 estrellas  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              title="5 estrellas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              alt="5 estrellas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
             />
             <div class="info">
               <h1 class="tit"></h1>
@@ -28,14 +28,14 @@
               <ul class="dropdown-menu dropMenu" role="menu">
                 <li>
                   <a
-                    href="https://www.vinccilaplantaciondelsur.com/politica-cookies/"
+                    href="#"
                     title="Política de cookies"
                     rel="nofollow"
                   >Política de cookies</a>
                 </li>
                 <li>
                   <a
-                    href="https://www.vinccilaplantaciondelsur.com/aviso-legal-y-uso-de-la-web/"
+                    href="#"
                     title="Aviso legal y uso de la página web"
                     rel="nofollow"
                   >
@@ -45,7 +45,7 @@
                 </li>
                 <li>
                   <a
-                    href="https://www.vinccilaplantaciondelsur.com/politica-privacidad-para-estancias/"
+                    href="#"
                     title="Política de privacidad para las estancias.."
                     rel="nofollow"
                   >
@@ -55,7 +55,7 @@
                 </li>
                 <li>
                   <a
-                    href="https://www.vinccilaplantaciondelsur.com/Politica-privacidad/"
+                    href="#"
                     title="Política de privacidad"
                     rel="nofollow"
                   >Política de privacidad</a>
@@ -64,7 +64,7 @@
             </div>
             <div class="idioma dropdown">
               <a
-                href="https://www.vinccilaplantaciondelsur.com/bookcore/availability/rooms/vincciplantaciondesur/?rrc=1#"
+                href="#"
                 class="dropdown-toggle"
                 data-toggle="dropdown"
               >
@@ -79,7 +79,7 @@
               <ul class="dropdown-menu dropMenu" role="menu">
                 <li>
                   <a
-                    href="https://en.vinccilaplantaciondelsur.com/"
+                    href="#"
                     class="idiomas"
                     itemprop="language"
                     title="English"
@@ -90,7 +90,7 @@
                 </li>
                 <li>
                   <a
-                    href="https://de.vinccilaplantaciondelsur.com/"
+                    href="#"
                     class="idiomas"
                     itemprop="language"
                     title="Deutsch"
@@ -101,7 +101,7 @@
                 </li>
                 <li>
                   <a
-                    href="https://fr.vinccilaplantaciondelsur.com/"
+                    href="#"
                     class="idiomas"
                     itemprop="language"
                     title="Français"
@@ -112,7 +112,7 @@
                 </li>
                 <li>
                   <a
-                    href="https://it.vinccilaplantaciondelsur.com/"
+                    href="#"
                     class="idiomas"
                     itemprop="language"
                     title="Italiano"
@@ -125,16 +125,16 @@
             </div>
             <div class="official">
               <img
-                title="Web oficial  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                alt="Web oficial  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                title="Web oficial  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                alt="Web oficial  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 src="/index_files/icon_official.png"
               />
               <span>Web oficial</span>
             </div>
             <div class="wifi">
               <img
-                title="Wifi gratis  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                alt="Wifi gratis  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                title="Wifi gratis  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                alt="Wifi gratis  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 src="/index_files/logo_wifi.png"
               />
               <span>Wifi gratis</span>
@@ -159,44 +159,44 @@
                 <ul class="nav navbar-nav navbarMenu">
                   <li>
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/"
-                      title="Hotel  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="#"
+                      title="Hotel  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Hotel</a>
                   </li>
                   <li>
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/ofertas/"
-                      title="Ofertas  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="#"
+                      title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Ofertas</a>
                   </li>
                   <li>
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/habitaciones/"
-                      title="Habitaciones  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="#"
+                      title="Habitaciones  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Habitaciones</a>
                   </li>
                   <li>
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/fotos/"
-                      title="Fotos  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="#"
+                      title="Fotos  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Fotos</a>
                   </li>
                   <li>
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/servicios/"
-                      title="Servicios  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="#"
+                      title="Servicios  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Servicios</a>
                   </li>
                   <li class="hidden-md">
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/mapa/"
-                      title="Mapa  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="#"
+                      title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Mapa</a>
                   </li>
                   <li class="hidden-md">
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/contacto/"
-                      title="Contacto  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                      href="#"
+                      title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Contacto</a>
                   </li>
                   <li class="booking">
@@ -207,7 +207,7 @@
                   </li>
                   <li class="dropdown visible-md">
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/bookcore/availability/rooms/vincciplantaciondesur/?rrc=1#"
+                      href="#"
                       data-toggle="dropdown"
                       class="dropdown-toggle"
                     >
@@ -217,14 +217,14 @@
                     <ul class="dropdown-menu dropMore" role="menu">
                       <li class="visible-md visible-sm">
                         <a
-                          href="https://www.vinccilaplantaciondelsur.com/mapa/"
-                          title="Mapa  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                          href="#"
+                          title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                         >Mapa</a>
                       </li>
                       <li class="visible-md visible-sm">
                         <a
-                          href="https://www.vinccilaplantaciondelsur.com/contacto/"
-                          title="Contacto  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                          href="#"
+                          title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                         >Contacto</a>
                       </li>
                     </ul>
@@ -242,7 +242,7 @@
           <div class="motor">
             <form
               id="motorform"
-              action="https://www.vinccilaplantaciondelsur.com/bookcore/v1/search-dispo.htm"
+              action="https://www.quohotellaplantaciondelsur.com/bookcore/v1/search-dispo.htm"
               method="POST"
             >
               <div class="box_inside">
@@ -289,6 +289,7 @@
                       </div>
                     </div>
                   </div>
+                  
                 <div class="consulta">
                   <div class="box-promo">
                     <span class="promocode">
@@ -418,14 +419,14 @@
                       <span class="txt2">
                         LOS PRECIOS PUEDEN SUBIR EN CUALQUIER MOMENTO. ¡NO ESPERES MÁS!
                         <a
-                          href="https://www.vinccilaplantaciondelsur.com/bookcore/availability/rooms/vincciplantaciondesur/?rrc=1#"
+                          href="#"
                           class="roi-modal__show"
                           data-roi-modal="roi-conditions-exclusive-advantage"
                         >Ver condiciones</a>
                       </span>
                     </div>
                     <a
-                      href="https://www.vinccilaplantaciondelsur.com/bookcore/availability/rooms/vincciplantaciondesur/?rrc=1#"
+                      href="#"
                       title="Cerrar ventaja exclusiva"
                       class="cerrar"
                       aria-label="Cerrar"
@@ -492,7 +493,7 @@
                         >Para la ocupación {{ocupacion.ages ? ocupacion.paxPerRoom - ocupacion.ages.length : ocupacion.paxPerRoom}} Adultos {{ocupacion.ages ? ocupacion.ages.length : '0'}} niños</h2>
                         <h2 class="summary_txt">
                           <strong v-if="ocupacion.options">
-                            {{ocupacion.options.length}} Habitación disponible en el Hotel Vincci
+                            {{ocupacion.options.length}} Habitación disponible en el Hotel Quohotel
                             Selección la Plantación del Sur
                           </strong>
                         </h2>
@@ -516,13 +517,13 @@
                           </span>
                           <span>
                             <a
-                              href="https://www.vinccilaplantaciondelsur.com/bookcore/availability/rooms/vincciplantaciondesur/?o=precio&amp;lang=es"
+                              href="#"
                             >PRECIO</a>
                             <a
-                              href="https://www.vinccilaplantaciondelsur.com/bookcore/availability/rooms/vincciplantaciondesur/?o=nombre&amp;lang=es"
+                              href="#"
                             >NOMBRE</a>
                             <a
-                              href="https://www.vinccilaplantaciondelsur.com/bookcore/availability/rooms/vincciplantaciondesur/?o=ofertas&amp;lang=es"
+                              href="#"
                             >OFERTAS</a>
                           </span>
                         </div>
@@ -552,10 +553,10 @@
                                   role="option"
                                 >
                                   <a
-                                    href="https://www.vinccilaplantaciondelsur.com/bookcore/availability/rooms/vincciplantaciondesur/?rrc=1#"
+                                    href="#"
                                     class="roi-modal__show"
                                     data-roi-modal="roi-modal-rooms"
-                                    data-url="/bookcore/availability/landing-room/vincciplantaciondesur/lateraldosninos/1?lang=es"
+                                    data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/1?lang=es"
                                     data-id="lateraldosninos"
                                   >
                                     <img
@@ -575,10 +576,10 @@
                                   role="option"
                                 >
                                   <a
-                                    href="https://www.vinccilaplantaciondelsur.com/bookcore/availability/rooms/vincciplantaciondesur/?rrc=1#"
+                                    href="#"
                                     class="roi-modal__show"
                                     data-roi-modal="roi-modal-rooms"
-                                    data-url="/bookcore/availability/landing-room/vincciplantaciondesur/lateraldosninos/2?lang=es"
+                                    data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/2?lang=es"
                                     data-id="lateraldosninos"
                                   >
                                     <img
@@ -599,10 +600,10 @@
                                   role="option"
                                 >
                                   <a
-                                    href="https://www.vinccilaplantaciondelsur.com/bookcore/availability/rooms/vincciplantaciondesur/?rrc=1#"
+                                    href="#"
                                     class="roi-modal__show"
                                     data-roi-modal="roi-modal-rooms"
-                                    data-url="/bookcore/availability/landing-room/vincciplantaciondesur/lateraldosninos/3?lang=es"
+                                    data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/3?lang=es"
                                     data-id="lateraldosninos"
                                   >
                                     <img
@@ -622,10 +623,10 @@
                                   role="option"
                                 >
                                   <a
-                                    href="https://www.vinccilaplantaciondelsur.com/bookcore/availability/rooms/vincciplantaciondesur/?rrc=1#"
+                                    href="#"
                                     class="roi-modal__show"
                                     data-roi-modal="roi-modal-rooms"
-                                    data-url="/bookcore/availability/landing-room/vincciplantaciondesur/lateraldosninos/4?lang=es"
+                                    data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/4?lang=es"
                                     data-id="lateraldosninos"
                                   >
                                     <img
@@ -646,10 +647,10 @@
                                   role="option"
                                 >
                                   <a
-                                    href="https://www.vinccilaplantaciondelsur.com/bookcore/availability/rooms/vincciplantaciondesur/?rrc=1#"
+                                    href="#"
                                     class="roi-modal__show"
                                     data-roi-modal="roi-modal-rooms"
-                                    data-url="/bookcore/availability/landing-room/vincciplantaciondesur/lateraldosninos/5?lang=es"
+                                    data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/5?lang=es"
                                     data-id="lateraldosninos"
                                   >
                                     <img
@@ -670,10 +671,10 @@
                                   role="option"
                                 >
                                   <a
-                                    href="https://www.vinccilaplantaciondelsur.com/bookcore/availability/rooms/vincciplantaciondesur/?rrc=1#"
+                                    href="#"
                                     class="roi-modal__show"
                                     data-roi-modal="roi-modal-rooms"
-                                    data-url="/bookcore/availability/landing-room/vincciplantaciondesur/lateraldosninos/6?lang=es"
+                                    data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/6?lang=es"
                                     data-id="lateraldosninos"
                                   >
                                     <img
@@ -736,11 +737,11 @@
                           <p class="hab_txt">
                             <span>{{options.roomDescription}}</span>
                             <a
-                              href="https://www.vinccilaplantaciondelsur.com/bookcore/availability/rooms/vincciplantaciondesur/?rrc=1#modal_id_lateraldosninos"
+                              href="#"
                               class="hidden-xs roi-modal__show"
                               data-roi-modal="roi-modal-rooms"
                               data-id="lateraldosninos"
-                              data-url="/bookcore/availability/landing-room/vincciplantaciondesur/lateraldosninos/1?lang=es"
+                              data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/1?lang=es"
                               data-klass="modal_bc_hotel_lateraldosninos"
                               data-toggle="modal"
                               data-tracking-event-type="seeMoreLink"
@@ -991,7 +992,7 @@
                         data-codhab="lateraldosninos"
                         data-ocupacion_inicial="2-2-0"
                         data-ocupacion_seleccionada="2-2-0"
-                        data-hotelcode="vincciplantaciondesur"
+                        data-hotelcode="quohotelplantaciondesur"
                         data-edades_ninos_inicial="[&quot;2&quot;,&quot;2&quot;]"
                         data-edades="[&quot;2&quot;,&quot;2&quot;]"
                         data-ocupaciones="[&quot;2-2-0&quot;]"
@@ -1002,8 +1003,8 @@
                               Ocupación
                               seleccionada:
                             </span>
-                            <div class="icons_people" data-initial="2" data-max="4">
-                              <span class="icons_people_wrap">
+                            <div class="icons_people" >
+                              <span v-for="n in parseInt(ocupacion.paxPerRoom)"  class="icons_people_wrap" :key="n">
                                 <svg
                                   class="svg-roi svg-roi_person"
                                   width="28px"
@@ -1018,79 +1019,36 @@
                                   />
                                 </svg>
                               </span>
-                              <span class="icons_people_wrap">
-                                <svg
-                                  class="svg-roi svg-roi_person"
-                                  width="28px"
-                                  height="28px"
-                                  viewBox="0 0 28 28"
-                                  focusable="false"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                >
-                                  <path
-                                    d="M22.02 7.903c0 4.213-3.59 12.031-8.02 12.031S5.98 12.116 5.98 7.903C5.98 3.69 9.57.275 14 .275s8.02 3.415 8.02 7.628zM20.76 18.988c4.315 1.194 7.238 3.56 7.238 6.614 0 1.493-.996 2.123-3.793 2.123H3.796c-2.797 0-3.793-.629-3.793-2.123 0-3.055 2.923-5.42 7.238-6.614 1.8 2.172 4.089 3.704 6.759 3.704s4.959-1.53 6.759-3.704z"
-                                    fill-rule="nonzero"
-                                  />
-                                </svg>
-                              </span>
-                              <span class="icons_people_wrap">
-                                <svg
-                                  class="svg-roi svg-roi_person"
-                                  width="28px"
-                                  height="28px"
-                                  viewBox="0 0 28 28"
-                                  focusable="false"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                >
-                                  <path
-                                    d="M22.02 7.903c0 4.213-3.59 12.031-8.02 12.031S5.98 12.116 5.98 7.903C5.98 3.69 9.57.275 14 .275s8.02 3.415 8.02 7.628zM20.76 18.988c4.315 1.194 7.238 3.56 7.238 6.614 0 1.493-.996 2.123-3.793 2.123H3.796c-2.797 0-3.793-.629-3.793-2.123 0-3.055 2.923-5.42 7.238-6.614 1.8 2.172 4.089 3.704 6.759 3.704s4.959-1.53 6.759-3.704z"
-                                    fill-rule="nonzero"
-                                  />
-                                </svg>
-                              </span>
-                              <span class="icons_people_wrap">
-                                <svg
-                                  class="svg-roi svg-roi_person"
-                                  width="28px"
-                                  height="28px"
-                                  viewBox="0 0 28 28"
-                                  focusable="false"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                >
-                                  <path
-                                    d="M22.02 7.903c0 4.213-3.59 12.031-8.02 12.031S5.98 12.116 5.98 7.903C5.98 3.69 9.57.275 14 .275s8.02 3.415 8.02 7.628zM20.76 18.988c4.315 1.194 7.238 3.56 7.238 6.614 0 1.493-.996 2.123-3.793 2.123H3.796c-2.797 0-3.793-.629-3.793-2.123 0-3.055 2.923-5.42 7.238-6.614 1.8 2.172 4.089 3.704 6.759 3.704s4.959-1.53 6.759-3.704z"
-                                    fill-rule="nonzero"
-                                  />
-                                </svg>
-                              </span>
+                          
                             </div>
                           </div>
                           <div class="hab_ocupacion_item_wrap hab_ocupacion_resumen">
                             <div class="hab_ocupacion_item col-lg-4 col-md-4 col-sm-4 col-xs-4 pn">
                               <img src="/index_files/adultos.png" alt />
                               <span class="hab_ocupacion_txt hab_ocupacion_adultos">
-                                <em class="num_adultos">2</em>
-                                <span class="txt_adultos">ADULTOS</span>
+                                <em class="num_adultos">{{ocupacion.ages ? ocupacion.paxPerRoom - ocupacion.ages.length : ocupacion.paxPerRoom}}</em>
+                                <span class="txt_adultos"> ADULTOS</span>
                               </span>
                             </div>
                             <div class="hab_ocupacion_item col-lg-4 col-md-4 col-sm-4 col-xs-4 pn">
                               <img src="/index_files/ninos.png" alt />
                               <span class="hab_ocupacion_txt hab_ocupacion_ninos">
-                                <em class="num_ninos">2</em>
-                                <span class="txt_ninos">NIÑOS</span>
-                                <span class="txt_edades_ninos">
-                                  (2 y 2
+                                <em class="num_ninos">{{ocupacion.ages ? ocupacion.ages.length : '0'}}</em>
+                                <span class="txt_ninos"> NIÑOS</span>
+                                <span v-if="ocupacion.ages" class="txt_edades_ninos">
+                                  ( 
+                                    <template v-for="(ages) in ocupacion.ages " > {{ages}} ,</template>
                                   año/s)
                                 </span>
                               </span>
                             </div>
-                            <div class="hab_ocupacion_item col-lg-4 col-md-4 col-sm-4 col-xs-4 pn">
+                          <!-- <div class="hab_ocupacion_item col-lg-4 col-md-4 col-sm-4 col-xs-4 pn">
                               <img src="/index_files/bebes.png" alt />
                               <span class="hab_ocupacion_txt hab_ocupacion_bebes">
                                 <em class="num_bebes">0</em>
                                 <span class="txt_bebes">BEBÉS</span>
                               </span>
-                            </div>
+                            </div>-->
                           </div>
                          <!-- <div class="wrap_ocupacion_button">
                             <button
@@ -1098,7 +1056,7 @@
                               data-roi-modal="occupancy-modifier-lateraldosninos"
                             >Modificar</button>
                           </div>-->
-                          <span class="max_occupation">(Máx. 4 ocupantes)</span>
+                         <!-- <span class="max_occupation">(Máx. 4 ocupantes)</span>-->
                           <div
                             id="occupancy-modifier-lateraldosninos"
                             class="roi-modal roi-modal--occupancy"
@@ -1125,7 +1083,7 @@
                                   </svg>
                                 </button>
                                 <h4 id="roi-modal__title-lateraldosninos" class="roi-modal__title">
-                                  Tienes una ocupación de
+                                  Tienes una ocupación de 
                                   <em class="num_ocupantes">4</em>
                                   ocupantes de un máximo de 4
                                 </h4>
@@ -1516,7 +1474,7 @@
                             <div class="enlace">
                               <span class="txt">
                                 <a
-                                  href="https://www.vinccilaplantaciondelsur.com/bookcore/availability/rooms/vincciplantaciondesur/?rrc=1#"
+                                  href="#"
                                   class="roi-modal__show"
                                   data-roi-modal="roi-modal-conditions-lateraldosninos-1"
                                 >Condiciones de la reserva</a>
@@ -1619,7 +1577,7 @@
                 <div class="bc_powered">
                   <span>
                     <a
-                      href="https://www.roiback.com/"
+                      href="#"
                       title="Marketing Online Hoteles | Motor Reservas para Hoteles"
                       target="_blank"
                       rel="nofollow"
@@ -1646,7 +1604,7 @@
                 <div class="tablet_bc_carrito roi-navbar">
                   <div
                     class="tablet_bc_carrito_summary_wrap"
-                    data-hotel-code="vincciplantaciondesur"
+                    data-hotel-code="quohotelplantaciondesur"
                     style="display: block; opacity: 1;"
                   >
                     <div class="tablet_bc_carrito_summary">
@@ -1744,7 +1702,7 @@ Impuestos incluidos
                       <div class="tbcl_body">
                         <div class="resumen_habs_paqs resumen_habs_paqs_scroll">
                           <div class="nombre">
-                            Hotel Vincci Selección la Plantación del Sur
+                            Hotel quohotel Selección la Plantación del Sur
                             <i></i>
                           </div>
 
@@ -1968,8 +1926,8 @@ Impuestos incluidos
               <ul>
                 <li>
                   <a
-                    href="http://instagram.com/vincci_hoteles"
-                    title="Instagram  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://instagram.com/#"
+                    title="Instagram  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-instagram"
@@ -1977,8 +1935,8 @@ Impuestos incluidos
                 </li>
                 <li>
                   <a
-                    href="http://pinterest.com/vinccihoteles/"
-                    title="Pinterest  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://pinterest.com/#"
+                    title="Pinterest  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-pinterest"
@@ -1986,8 +1944,8 @@ Impuestos incluidos
                 </li>
                 <li>
                   <a
-                    href="http://twitter.com/Vincci_Hoteles"
-                    title="Twitter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://twitter.com/#"
+                    title="Twitter  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-twitter"
@@ -1995,8 +1953,8 @@ Impuestos incluidos
                 </li>
                 <li>
                   <a
-                    href="http://www.facebook.com/pages/Vincci-Hoteles/122369487798917"
-                    title="Facebook  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://www.facebook.com/#"
+                    title="Facebook  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-facebook"
@@ -2004,8 +1962,8 @@ Impuestos incluidos
                 </li>
                 <li>
                   <a
-                    href="http://www.flickr.com/photos/vinccihoteles"
-                    title="Flickr  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://www.flickr.com/#"
+                    title="Flickr  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-flickr"
@@ -2013,8 +1971,8 @@ Impuestos incluidos
                 </li>
                 <li>
                   <a
-                    href="http://www.youtube.com/user/VIncciHoteles"
-                    title="Youtube  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="http://www.youtube.com/#"
+                    title="Youtube  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-youtube"
@@ -2022,8 +1980,8 @@ Impuestos incluidos
                 </li>
                 <li>
                   <a
-                    href="https://plus.google.com/u/2/+VincciLaPlantaciondelSur/posts"
-                    title="Google+  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    href="https://plus.google.com/#"
+                    title="Google+  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     target="_blank"
                     rel="nofollow"
                     class="fa fa-google"
@@ -2034,7 +1992,7 @@ Impuestos incluidos
           </div>
           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 box-news">
             <span class="titulo">
-              Vincci y
+              quohotel y
               Noticias
             </span>
             <span class="subtit">
@@ -2055,7 +2013,7 @@ Impuestos incluidos
       </div>
       <div class="footer-bottom">
         <div class="container">
-          <span class="titulo_footer">VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR</span>
+          <span class="titulo_footer">quohotel SELECCIÓN LA PLANTACIÓN DEL SUR</span>
           <span class="direcion">
             Calle del Roque Nublo, 1, 38670. Costa Adeje, Santa Cruz de Tenerife., Costa
             Adeje
@@ -2064,21 +2022,21 @@ Impuestos incluidos
             <ul>
               <li>
                 <a
-                  href="https://www.vinccilaplantaciondelsur.com/Politica-privacidad/"
+                  href="#"
                   title="Política de privacidad"
                   rel="nofollow"
                 >Política de privacidad</a>
               </li>
               <li>
                 <a
-                  href="https://www.vinccilaplantaciondelsur.com/politica-cookies/"
+                  href="#"
                   title="Política de cookies"
                   rel="nofollow"
                 >Política de cookies</a>
               </li>
               <li>
                 <a
-                  href="https://www.vinccilaplantaciondelsur.com/directorio/"
+                  href="#"
                   title="Directorio Hoteles"
                 >Directorio Hoteles</a>
               </li>
@@ -2092,14 +2050,14 @@ Impuestos incluidos
               </li>
               <li class="directorio">
                 <a
-                  href="https://www.vinccilaplantaciondelsur.com/directorio/"
-                  title="Vincci hoteles"
-                >Vincci hoteles</a>
+                  href="#"
+                  title="quohotel hoteles"
+                >quohotel hoteles</a>
               </li>
               <li class>
-                <a href="http://www.roiback.es/" title="roiback" target="_Blank" rel="nofollow">
+                <a href="#" title="" target="_Blank" rel="nofollow">
                   by
-                  roiback
+
                 </a>
               </li>
             </ul>
@@ -2108,24 +2066,24 @@ Impuestos incluidos
           <nav class="idiomasFooter">
             <ul>
               <li>
-                <a href="https://en.vinccilaplantaciondelsur.com/" title="English">English</a>
+                <a href="#" title="English">English</a>
               </li>
               <li>
-                <a href="https://de.vinccilaplantaciondelsur.com/" title="Deutsch">Deutsch</a>
+                <a href="#" title="Deutsch">Deutsch</a>
               </li>
               <li>
-                <a href="https://fr.vinccilaplantaciondelsur.com/" title="Français">Français</a>
+                <a href="#" title="Français">Français</a>
               </li>
               <li>
-                <a href="https://it.vinccilaplantaciondelsur.com/" title="Italiano">Italiano</a>
+                <a href="#" title="Italiano">Italiano</a>
               </li>
             </ul>
           </nav>
           <div class="logoThawte">
             <img
               src="/index_files/logo_twathe.png"
-              title="Thawte  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-              alt="Thawte  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              title="Thawte  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              alt="Thawte  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               class="logo_footer"
               width="101"
               height="25"
@@ -2188,91 +2146,91 @@ Impuestos incluidos
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/"
+                  href="https://serene-kowalevski-d75031.netlify.com"
                   title="Hotel"
                 >Hotel</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/directorio/"
+                  href="#"
                   title="Directorio Hoteles"
                 >Directorio Hoteles</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/ofertas/"
+                  href="#"
                   title="Ofertas"
                 >Ofertas</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/"
+                  href="https://serene-kowalevski-d75031.netlify.com"
                   title="¡Descuento del 20%!"
                 >Oferta - ¡Descuento del 20%!</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/habitaciones/"
+                  href="#"
                   title="Habitaciones"
                 >Habitaciones</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/fotos/"
+                  href="#"
                   title="Fotos"
                 >Fotos</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/servicios/"
+                  href="#"
                   title="Servicios"
                 >Servicios</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/mapa/"
+                  href="#"
                   title="Mapa"
                 >Mapa</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/opiniones/"
+                  href="#"
                   title="Opiniones"
                 >Opiniones</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/contacto/"
+                  href="#"
                   title="Contacto"
                 >Contacto</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/politica-cookies/"
+                  href="#"
                   title="Política de cookies"
                 >Política de cookies</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/aviso-legal-y-uso-de-la-web/"
+                  href="#"
                   title="Aviso legal y uso de la página web"
                 >Aviso legal y uso de la página web</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.vinccilaplantaciondelsur.com/politica-privacidad-para-estancias/"
+                  href="#"
                   title="Política de privacidad para las estancias"
                 >
                   Política de privacidad para las
@@ -2297,8 +2255,8 @@ Impuestos incluidos
           <div class="loader" style="display: none;">
             <img
               src="/index_files/spinner2.gif"
-              title="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-              alt="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              title="Newsletter  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+              alt="Newsletter  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
               width="97"
               height="95"
             />
@@ -2307,8 +2265,8 @@ Impuestos incluidos
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
               <img
                 src="/index_files/close_modal_white.png"
-                title="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                alt="Newsletter  VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                title="Newsletter  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
+                alt="Newsletter  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
                 width="23"
                 height="24"
               />
@@ -2425,7 +2383,7 @@ Impuestos incluidos
                   <input type="checkbox" name="politica" required id="id_politica" /> He
                   leído y acepto la
                   <a
-                    href="https://www.vinccilaplantaciondelsur.com/Politica-privacidad/"
+                    href="#"
                     target="_blank"
                   >política de privacidad</a>
                 </li>
@@ -2443,7 +2401,7 @@ Impuestos incluidos
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
             <span class="hotel_nombre">
-              VINCCI SELECCIÓN LA PLANTACIÓN DEL
+              quohotel SELECCIÓN LA PLANTACIÓN DEL
               SUR
             </span>
             <h4 class="modal-title titulo"></h4>
@@ -2548,7 +2506,7 @@ Impuestos incluidos
             Raven.config('https://36b72ed458be4094a34aabec7b78c548@sentry.backhotelengine.com/501', {
                 release: "1.956.0",
                 tags: {
-                    project: "vinccihoteles",
+                    project: "quohotelhoteles",
                     engineVersion: "v4"
                 },
                 ignoreUrls: [/www\.thehotelsnetwork\.com/, /static\.triptease\.io/, /config1\.veinteractive\.com/],
@@ -2611,7 +2569,7 @@ Impuestos incluidos
             $('#ventaja_exclusiva').ventaja_exclusiva();
 
 
-            DispoCommons.priceFormatter.updateCurrencyConversions('vincciplantaciondesur')
+            DispoCommons.priceFormatter.updateCurrencyConversions('quohotelplantaciondesur')
                 .then(function () {
                     $.tarifas({
                         url: '/bookcore/shopping-cart/?lang=es',
