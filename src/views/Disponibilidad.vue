@@ -246,81 +246,122 @@
               method="POST"
             >
               <div class="box_inside">
-                <h3>¡RESERVA AHORA!</h3>
-           <div class="fechas">
+                  <h3>¡RESERVA AHORA!</h3>
+                  <div class="fechas">
                     <div class="entrada">
                       <label>Entrada</label>
                       <div class="bordeFechas" @click="focus('entrada')">
-                        <span class >
+                        <span class>
                           <strong>{{formatedEntrada.day}}</strong>
                           <em>{{formatedEntrada.month}} {{formatedEntrada.year}}</em>
                         </span>
                         <input
                           type="text"
                           name="entrada"
-                          
+                          value="24/10/2019"
                           readonly="readonly"
                           required
                           id="id_entrada"
                           class="hasDatepicker"
-                          
-                           
                         />
-                        <input type="text" id="datepickerEntrada" v-model="fechaEntrada" style="visibility:visible; z-index:-1" >
+                        <input
+                          type="text"
+                          id="datepickerEntrada"
+                          v-model="fechaEntrada"
+                          style="visibility:visible; z-index:-1"
+                        />
                       </div>
                     </div>
                     <div class="salida">
-                      <label>Salida</label> 
+                      <label>Salida</label>
                       <div class="bordeFechas" @click="focus('salida')">
-                        <span class >
+                        <span class>
                           <strong>{{formatedSalida.day}}</strong>
                           <em>{{formatedSalida.month}} {{formatedSalida.year}}</em>
                         </span>
                         <input
                           type="text"
                           name="salida"
-                          
+                          value="25/10/2019"
                           readonly="readonly"
                           required
                           id="id_salida"
                           class="hasDatepicker"
                         />
-                        <input type="text" id="datepickerSalida" v-model="fechaSalida" style="visibility:visible; z-index:-1" >
+                        <input
+                          type="text"
+                          id="datepickerSalida"
+                          v-model="fechaSalida"
+                          style="visibility:visible; z-index:-1"
+                        />
                       </div>
                     </div>
                   </div>
-                  
-                <div class="consulta">
-                  <div class="box-promo">
-                    <span class="promocode">
-                      ¿Tienes un código promocional?
-                      <a
-                        title="haz clic aquí"
-                        href="javascript:void(0)"
-                      >haz clic aquí</a>
-                    </span>
-                    <span class="codpromo" style="display: none;">
-                      <input
-                        type="text"
-                        name="codpromo"
-                        id="id_codpromo"
-                        maxlength="50"
-                        placeholder="Código promocional"
-                      />
-                      <em class="fa fa-times cerrar-input"></em>
-                    </span>
+                  <div class="fechas consulta">
+                    <div class="entrada" style="width: 44%;margin-right: 15px;">
+                      <label>Ocupación</label>
+                     <div @click="elegirocupacion()">
+                      <div class="bordeFechas" style="width: 52%;">
+                        <span style="padding: 10px 0px 10px 10px; text-align: center;">
+                          <strong>{{totaladults}}</strong>
+                          <em>adultos</em>
+                        </span>
+                        <input
+                          type="text"
+                          name="ocupacion"
+                          value="1x2"
+                          readonly="readonly"
+                          required="required"
+                          id="id_ocupacion"
+                        />
+                      </div>
+                      <div class="bordeFechas" style="
+    width: 48%;
+">
+                        <span style="
+    text-align: center;padding: 10px 10px 10px 0px;
+">
+                          <strong>{{totalchild}}</strong>
+                          <em>niños</em>
+                        </span>
+                      </div>
+                      </div>
+                    </div>
+                    <div class="box-check btn-dispo">
+                      <button title="¡Comprobar disponibilidad!" class="btn btn-motor btn-consulta" @click.prevent="getdispo()">
+                        ¡Comprobar disponibilidad!
+                        <span>Mejor Precio Online</span>
+                      </button>
+                    </div>
                   </div>
-                  <div class="box-check btn-dispo">
-                    <button title="¡Comprobar disponibilidad!" class="btn btn-motor btn-consulta">
-                      ¡Comprobar disponibilidad!
-                      <span>
-                        Mejor Precio
-                        Online
+                  <!--<div class="consulta">
+                    <div class="box-promo">
+                      <span class="promocode">
+                        ¿Tienes un código promocional?
+                        <a
+                          title="haz clic aquí"
+                          href="javascript:void(0)"
+                        >haz clic aquí</a>
                       </span>
-                    </button>
-                  </div>
+                      <span class="codpromo" style="display: none;">
+                        <input
+                          type="text"
+                          name="codpromo"
+                          id="id_codpromo"
+                          maxlength="50"
+                          placeholder="Código promocional"
+                        />
+                        <em class="fa fa-times cerrar-input"></em>
+                      </span>
+                    </div>
+                    <div class="box-check btn-dispo">
+                      <button title="¡Comprobar disponibilidad!" class="btn btn-motor btn-consulta" @click.prevent="getdispo()">
+                        ¡Comprobar disponibilidad!
+                        <span>Mejor Precio Online</span>
+                      </button>
+                    </div>
+                  </div>-->
                 </div>
-              </div>
             </form>
           </div>
         </div>
@@ -2937,6 +2978,8 @@ export default {
   name: "Disponibilidad",
   data: function() {
     return {
+      totaladults:this.$route.query.totaladults,
+      totalchild:this.$route.query.totalchild,
       fechaEntrada:"",
       fechaSalida:"",
       entrada:this.$route.query.entrada,
@@ -2990,6 +3033,86 @@ return { "day":parseInt(day),"month":this.getFormMonth(month),"year":year}
     }
   },
   methods: {
+      getnumdate(fecha) {
+      var datearray = fecha.split("/");
+      var day = "" + datearray[0];
+      var month = "" + datearray[1];
+      if (month.length < 2) month = "0" + month;
+      if (day.length < 2) day = "0" + day;
+      return datearray[2] + "" + month + "" + day;
+    },
+     getdispo() {
+      var dde = this.getnumdate(this.$data.fechaEntrada);
+      var dds = this.getnumdate(this.$data.fechaSalida);
+
+      this.$router.push({
+        name: "Disponibilidad",
+        query: {
+          entrada: dde,
+          salida: dds,
+          ocupacion: this.$data.ocupacion,
+          totaladults: this.$data.totaladults,
+          totalchild: this.$data.totalchild
+        }
+      });
+    },
+    calculatetotal: function() {
+       var s;
+        for (var o in this.$data.ocupaciones) {
+          if (s) s += ",";
+          else s = "";
+          s += 1;
+          s += "x";
+          s +=
+            parseInt(this.$data.ocupaciones[o].adult) +
+            parseInt(this.$data.ocupaciones[o].children);
+          if (
+            this.$data.ocupaciones[o].children != null &&
+            this.$data.ocupaciones[o].children > 0
+          ) {
+            s += "-";
+            var firstIteration = true;
+            for (var i = 0; i < this.$data.ocupaciones[o].children; i++) {
+              if (!firstIteration) {
+                s += "-";
+              }
+              s += this.$data.ocupaciones[o].edades[i] ? this.$data.ocupaciones[o].edades[i] : 11;
+              firstIteration = false;
+            }
+          }
+        }
+        this.$data.ocupacion = s;
+      this.$data.totaladults = 0;
+      this.$data.totalchild = 0;
+      for (var j = 0; j < this.$data.ocupaciones.length; j++) {
+        console.log("oc");
+        console.log(this.$data.ocupaciones[j].adult);
+        console.log(this.$data.ocupaciones[j].children);
+        this.$data.totaladults =
+          this.$data.totaladults + parseInt(this.$data.ocupaciones[j].adult);
+        this.$data.totalchild =
+          this.$data.totalchild + parseInt(this.$data.ocupaciones[j].children);
+      }
+      this.closemodal()
+    },
+     closemodal: function() {
+        this.$data.viewoccupation=false
+    },
+    elegirocupacion: function() {
+      
+     this.$data.viewoccupation=true
+    /*  this.$data.totaladults = 0;
+      this.$data.totalchild = 0;*/
+    },
+    borrarocupacion: function(index) {
+      if (this.$data.ocupaciones.length > 1)
+        this.$data.ocupaciones.splice(index, 1);
+    },
+    anadirocupacion: function() {
+      this.$data.ocupaciones.push({ adult: 2, children: 0, edades: [] });
+
+      //  M.updateTextFields()
+    },
      focus: function(tt){
       if(tt === "entrada"){
         var entrada =  document.getElementById( "datepickerEntrada" );

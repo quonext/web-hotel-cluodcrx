@@ -298,7 +298,6 @@
       </div>
     </section>
     <div id="wrapper">
-      {{detalles}}
       <div class="container box-bookcore">
         <div class="wrap rb_bc">
           <div class="bc_dark"></div>

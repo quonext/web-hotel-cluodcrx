@@ -1086,10 +1086,13 @@
       
         <div class="roi-modal__content" style="max-width:500px;">
           <div class="roi-modal__header">
-            
+            <button class="roi-modal__close" aria-label="Cerrar" @click="closemodal()"><svg class="svg-roi svg-roi_close" width="28px" height="28px" viewBox="0 0 28 28" focusable="false" xmlns="http://www.w3.org/2000/svg"><path d="M14 13.23L.77 0 0 .77 13.23 14 0 27.23l.77.77 11.142-11.142L14 14.77 27.23 28l.77-.77L14.77 14 28 .77 27.23 0z" fill-rule="nonzero"></path></svg></button>
             <h4 class="roi-modal__title">Ocupaciones</h4>
           </div>
-          <div class="roi-modal__body">
+          <div class="roi-modal__body" style="
+    overflow: auto;
+    max-height: 80vh;
+">
             <div class="form form--inline form--occupancy">
             <div class="row" v-for="(o, index) in ocupaciones" :key="index">
               <div class="col-sm-12 col-md-3 col-lg-3">
@@ -1126,6 +1129,7 @@
                   <input
                     type="number"
                     min="0"
+                    max="5"
                     id="'children' + index"
                     class="validate form-control my-input"
                     v-model="o.children"
@@ -1161,25 +1165,44 @@
               </div>
               <div class="col-sm-12 col-md-2 col-lg-2">
                 <div class="input-field">
-                  <a class="btn btn-transparent text-danger" v-on:click="borrarocupacion(index)">
-                    <i class="material-icons">delete</i>
-                  </a>
+                   <button
+                                      class="roi-booking-cart__room-details-btn-delete js-roi-cart-remove-button"
+                                      style="padding-top:33px;"
+                                      v-on:click="borrarocupacion(index)">
+                   <svg
+                                        class="svg-roi svg-roi_trash"
+                                        width="28px"
+                                        height="28px"
+                                        viewBox="0 0 28 28"
+                                        focusable="false"
+                                        xmlns="http://www.w3.org/2000/svg"
+                                      >
+                                        <path
+                                          d="M9.625 22.167V9.333a.68.68 0 0 0-.123-.419.377.377 0 0 0-.315-.164h-.874a.377.377 0 0 0-.315.164.68.68 0 0 0-.123.42v12.833c0 .17.041.31.123.419.082.11.187.164.314.164h.876a.377.377 0 0 0 .314-.164.68.68 0 0 0 .123-.42zm5.25 0V9.333a.68.68 0 0 0-.123-.419.377.377 0 0 0-.315-.164h-.874a.377.377 0 0 0-.315.164.68.68 0 0 0-.123.42v12.833c0 .17.041.31.123.419.082.11.187.164.315.164h.874a.377.377 0 0 0 .315-.164.68.68 0 0 0 .123-.42zm5.25 0V9.333a.68.68 0 0 0-.123-.419.377.377 0 0 0-.314-.164h-.875a.377.377 0 0 0-.315.164.68.68 0 0 0-.123.42v12.833c0 .17.041.31.123.419.082.11.187.164.314.164h.875a.377.377 0 0 0 .315-.164.68.68 0 0 0 .123-.42zM9.625 3.5h8.75l-.938-1.6a.61.61 0 0 0-.332-.15h-6.19a.61.61 0 0 0-.333.15l-.957 1.6zm17.5 1.75v1.167c0 .17-.056.31-.168.419a.588.588 0 0 1-.429.164h-1.79v17.281c0 1.009-.291 1.88-.876 2.616-.584.735-1.286 1.103-2.106 1.103H6.244c-.82 0-1.522-.355-2.106-1.066-.585-.711-.877-1.571-.877-2.58V7h-1.79a.588.588 0 0 1-.428-.164.561.561 0 0 1-.168-.42V5.25c0-.17.056-.31.168-.42a.588.588 0 0 1 .429-.163h5.76l1.305-3.045c.187-.45.522-.832 1.007-1.148C10.03.158 10.52 0 11.017 0h5.966c.497 0 .988.158 1.473.474.485.316.82.699 1.007 1.148l1.305 3.045h5.76c.174 0 .317.054.43.164.111.11.167.249.167.419z"
+                                          fill-rule="nonzero"
+                                        />
+                                      </svg>
+                    <!--<i class="material-icons">delete</i>-->
+                  </button>
                 </div>
               </div>
             </div>
-            <div class="row">
-  
-            <a class="btn btn-transparent left text-success" v-on:click="anadirocupacion">
-              <i class="material-icons">add</i>
-            </a>
-  
-</div>
-          
-          <div class="form__group form__group--action"><button id="modifica_ocupacion_doble"  type="button"
+           
+          <div style="width:100%;">
+            
+          <div class="form__group form__group--action" style="padding-top:30px;">
+            <button id="addroombtn"  type="button"
+              data-dismiss="modal"
+              @click="anadirocupacion"  class="roi-btn roi-btn--occupancy seccondary-btn">
+                      añadir
+                  </button>
+            <button id="modifica_occup"  type="button"
               data-dismiss="modal"
               @click="calculatetotal"  class="roi-btn roi-btn--occupancy">
                       Modificar
                   </button></div>
+          </div>
+          
           <!--<div class="modal-footer">
             <button
               type="button"
@@ -1445,20 +1468,13 @@ export default {
       this.closemodal()
     },
      closemodal: function() {
-      var d = this.$data;
-      d.busqueda = null;
-      d.coincidencias = { matches: [] };
-this.$data.viewoccupation=false
-      $(function() {
-        $("#modal1").toggle();
-      });
+        this.$data.viewoccupation=false
     },
     elegirocupacion: function() {
-      // modal2.open()
+      
      this.$data.viewoccupation=true
-      $("#miModal").modal("show");
-      this.$data.totaladults = 0;
-      this.$data.totalchild = 0;
+    /*  this.$data.totaladults = 0;
+      this.$data.totalchild = 0;*/
     },
     borrarocupacion: function(index) {
       if (this.$data.ocupaciones.length > 1)
@@ -1541,7 +1557,9 @@ this.$data.viewoccupation=false
         query: {
           entrada: dde,
           salida: dds,
-          ocupacion: this.$data.ocupacion
+          ocupacion: this.$data.ocupacion,
+          totaladults: this.$data.totaladults,
+          totalchild: this.$data.totalchild
         }
       });
     },
@@ -1573,5 +1591,17 @@ header .header-top {
     font-size: 14px;
     padding: 10px;
     text-align: left;
+}
+.seccondary-btn{
+  background-color: #fff;
+    border: 1px solid #d2b669;
+    border-radius: 0;
+    color: #d2b669;
+}
+.seccondary-btn :active{
+  background-color: #fff;
+    border: 1px solid #d2b669;
+    border-radius: 0;
+    color: #d2b669;
 }
 </style>
