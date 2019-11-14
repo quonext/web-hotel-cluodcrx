@@ -27,11 +27,7 @@
               </a>
               <ul class="dropdown-menu dropMenu" role="menu">
                 <li>
-                  <a
-                    href="#"
-                    title="Política de cookies"
-                    rel="nofollow"
-                  >Política de cookies</a>
+                  <a href="#" title="Política de cookies" rel="nofollow">Política de cookies</a>
                 </li>
                 <li>
                   <a
@@ -48,20 +44,12 @@
                   >Política de privacidad para las estancias..</a>
                 </li>
                 <li>
-                  <a
-                    href="#"
-                    title="Política de privacidad"
-                    rel="nofollow"
-                  >Política de privacidad</a>
+                  <a href="#" title="Política de privacidad" rel="nofollow">Política de privacidad</a>
                 </li>
               </ul>
             </div>
             <div class="idioma dropdown">
-              <a
-                href="#"
-                class="dropdown-toggle"
-                data-toggle="dropdown"
-              >
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                 Español
                 <span class="bandera">
                   <span class="flag es"></span>
@@ -72,45 +60,25 @@
               </a>
               <ul class="dropdown-menu dropMenu" role="menu">
                 <li>
-                  <a
-                    href="#"
-                    class="idiomas"
-                    itemprop="language"
-                    title="English"
-                  >
+                  <a href="#" class="idiomas" itemprop="language" title="English">
                     <span class="flag en"></span>
                     <span class="idiomasText">English</span>
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="#"
-                    class="idiomas"
-                    itemprop="language"
-                    title="Deutsch"
-                  >
+                  <a href="#" class="idiomas" itemprop="language" title="Deutsch">
                     <span class="flag de"></span>
                     <span class="idiomasText">Deutsch</span>
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="#"
-                    class="idiomas"
-                    itemprop="language"
-                    title="Français"
-                  >
+                  <a href="#" class="idiomas" itemprop="language" title="Français">
                     <span class="flag fr"></span>
                     <span class="idiomasText">Français</span>
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="#"
-                    class="idiomas"
-                    itemprop="language"
-                    title="Italiano"
-                  >
+                  <a href="#" class="idiomas" itemprop="language" title="Italiano">
                     <span class="flag it"></span>
                     <span class="idiomasText">Italiano</span>
                   </a>
@@ -158,10 +126,7 @@
                     >Hotel</a>
                   </li>
                   <li>
-                    <a
-                      href="#"
-                      title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Ofertas</a>
+                    <a href="#" title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Ofertas</a>
                   </li>
                   <li>
                     <a
@@ -170,10 +135,7 @@
                     >Habitaciones</a>
                   </li>
                   <li>
-                    <a
-                      href="@"
-                      title="Fotos  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Fotos</a>
+                    <a href="@" title="Fotos  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Fotos</a>
                   </li>
                   <li>
                     <a
@@ -182,35 +144,22 @@
                     >Servicios</a>
                   </li>
                   <li class="hidden-md">
-                    <a
-                      href="#"
-                      title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Mapa</a>
+                    <a href="#" title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Mapa</a>
                   </li>
                   <li class="hidden-md">
-                    <a
-                      href="#"
-                      title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Contacto</a>
+                    <a href="#" title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Contacto</a>
                   </li>
                   <li class="booking">
                     <a href="javascript:void(0)" title="Mi reserva" class="mireserva">Mi reserva</a>
                   </li>
                   <li class="dropdown visible-md">
-                    <a
-                      href="#"
-                      data-toggle="dropdown"
-                      class="dropdown-toggle"
-                    >
+                    <a href="#" data-toggle="dropdown" class="dropdown-toggle">
                       Más
                       <b class="caret"></b>
                     </a>
                     <ul class="dropdown-menu dropMore" role="menu">
                       <li class="visible-md visible-sm">
-                        <a
-                          href="#"
-                          title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                        >Mapa</a>
+                        <a href="#" title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Mapa</a>
                       </li>
                       <li class="visible-md visible-sm">
                         <a
@@ -704,7 +653,7 @@
                                   id="id_cli_nombre"
                                   order="0"
                                   class="input-value"
-                                  v-model="leadName"
+                                  v-model="name"
                                 />
                               </div>
                               <div class="roi-booking-form__guest-details-group form__group">
@@ -727,6 +676,7 @@
                                   id="id_cli_apellidos"
                                   order="1"
                                   class="input-value"
+                                  v-model="surname"
                                 />
                               </div>
                               <div class="roi-booking-form__guest-details-group form__group">
@@ -789,6 +739,7 @@
                                   id="id_dir_cod_postal"
                                   order="4"
                                   class="input-value"
+                                  v-model="postalcode"
                                 />
                               </div>
                               <div class="roi-booking-form__guest-details-group form__group">
@@ -809,6 +760,7 @@
                                   order="5"
                                   type="pais"
                                   class="input-value"
+                                  v-model="country"
                                 >
                                   <optgroup label="Países más comunes">
                                     <option value selected></option>
@@ -1084,6 +1036,7 @@
                                   id="id_cli_telefono"
                                   order="6"
                                   class="input-value"
+                                  v-model="phone"
                                 />
                               </div>
                               <div class="roi-booking-form__guest-details-group form__group">
@@ -1100,6 +1053,7 @@
                                   id="id_telefono_mobile"
                                   order="7"
                                   class="input-value"
+                                  v-model="mobile"
                                 />
                               </div>
                               <div class="roi-booking-form__guest-details-group form__group">
@@ -1107,8 +1061,16 @@
                                   class="roi-booking-form__guest-details-label form__label hora_llegada-label"
                                   for="id_hora_llegada"
                                 >Hora llegada</label>
-                                <select name="hora_llegada" id="id_hora_llegada">
-                                  <option value selected></option>
+                                <select
+                                  name="hora_llegada"
+                                  campos_formulario
+                                  id="id_hora_llegada"
+                                  type="hora"
+                                  class="timefield input-value"
+                                  order="8"
+                                  v-model="hora"
+                                >
+                                  <option value selected>-</option>
                                   <option value="00">00</option>
                                   <option value="01">01</option>
                                   <option value="02">02</option>
@@ -1134,6 +1096,29 @@
                                   <option value="22">22</option>
                                   <option value="23">23</option>
                                 </select>
+                                <select
+                                  name="hora_llegada_minute"
+                                  campos_formulario
+                                  id="id_hora_llegada_minute"
+                                  type="hora"
+                                  class="timefield input-value"
+                                  order="8"
+                                  v-model="minuto"
+                                >
+                                  <option value selected>-</option>
+                                  <option value="00">00</option>
+                                  <option value="05">05</option>
+                                  <option value="10">10</option>
+                                  <option value="15">15</option>
+                                  <option value="20">20</option>
+                                  <option value="25">25</option>
+                                  <option value="30">30</option>
+                                  <option value="35">35</option>
+                                  <option value="40">40</option>
+                                  <option value="45">45</option>
+                                  <option value="50">50</option>
+                                  <option value="55">55</option>
+                                </select>
                               </div>
                               <div
                                 class="roi-booking-form__guest-details-group roi-booking-form__guest-details-group--full form__group form__group--full"
@@ -1153,6 +1138,7 @@
                                   order="8"
                                   cols="40"
                                   class="input-value"
+                                  v-model="comentarios"
                                 ></textarea>
                               </div>
                               <div
@@ -1170,10 +1156,11 @@
                                   type="desplegable"
                                   campos_formulario_group_comments
                                   campos_formulario
+                                  v-model="anteriormente"
                                 >
                                   <option value=" "></option>
-                                  <option value="0">No</option>
-                                  <option value="1">Si</option>
+                                  <option value="N">No</option>
+                                  <option value="S">Si</option>
                                 </select>
                               </div>
                             </div>
@@ -1204,7 +1191,7 @@
                                 />
                               </ul>
                               <div
-                                class="roi-booking-form__creditcard js-credit-card-container creditcard hide"
+                                class="roi-booking-form__creditcard js-credit-card-container creditcard"
                               >
                                 <input type="hidden" name="tipo_tarjeta" id="id_tipo_tarjeta" />
                                 <div
@@ -1242,14 +1229,15 @@
                                       </span>
                                     </label>
                                     <input
-                                      type="hidden"
+                                      type="text"
                                       name="numero_tarjeta"
                                       id="id_numero_tarjeta"
+                                      v-model="numero_tarjeta"
                                     />
-                                    <div
+                                    <!--<div
                                       id="cardNumber"
                                       class="pci-container roi-booking-form__creditcard-control"
-                                    ></div>
+                                    ></div>-->
                                   </div>
                                 </div>
                                 <div
@@ -1265,6 +1253,7 @@
                                     id="id_titular_tarjeta"
                                     class="input-value"
                                     maxlength="150"
+                                    v-model="titular_tarjeta"
                                   />
                                 </div>
                                 <div
@@ -1275,6 +1264,7 @@
                                     name="mes_caducidad"
                                     class="input-value"
                                     id="id_mes_caducidad"
+                                    v-model="mes_caducidad"
                                   >
                                     <option value="1">1</option>
                                     <option value="2">2</option>
@@ -1297,6 +1287,7 @@
                                     name="ano_caducidad"
                                     class="input-value"
                                     id="id_ano_caducidad"
+                                    v-model="ano_caducidad"
                                   >
                                     <option value="2019">2019</option>
                                     <option value="2020">2020</option>
@@ -1346,11 +1337,12 @@
                                       </div>
                                     </span>
                                   </label>
-                                  <input type="hidden" name="cvc_tarjeta" id="id_cvc_tarjeta" />
-                                  <div
-                                    id="cvv"
-                                    class="pci-container roi-booking-form__creditcard-control roi-booking-form__creditcard-control--cvc"
-                                  ></div>
+                                  <input
+                                    type="text"
+                                    name="cvc_tarjeta"
+                                    id="id_cvc_tarjeta"
+                                    v-model="cvv"
+                                  />
                                 </div>
                               </div>
                             </div>
@@ -1406,7 +1398,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="bc_powered">
+                <!--  <div class="bc_powered">
                   <span>
                     <a
                       href="#"
@@ -1422,7 +1414,7 @@
                       />
                     </a>
                   </span>
-                </div>
+                </div>-->
               </div>
             </div>
             <div class="contenedor-best-prices"></div>
@@ -1551,24 +1543,13 @@
           <nav class="enlacesFooter">
             <ul>
               <li>
-                <a
-                  href="#"
-                  title="Política de privacidad"
-                  rel="nofollow"
-                >Política de privacidad</a>
+                <a href="#" title="Política de privacidad" rel="nofollow">Política de privacidad</a>
               </li>
               <li>
-                <a
-                  href="#"
-                  title="Política de cookies"
-                  rel="nofollow"
-                >Política de cookies</a>
+                <a href="#" title="Política de cookies" rel="nofollow">Política de cookies</a>
               </li>
               <li>
-                <a
-                  href="#"
-                  title="Directorio Hoteles"
-                >Directorio Hoteles</a>
+                <a href="#" title="Directorio Hoteles">Directorio Hoteles</a>
               </li>
               <li>
                 <a
@@ -1579,18 +1560,10 @@
                 >Mapa del sitio</a>
               </li>
               <li class="directorio">
-                <a
-                  href="#"
-                  title="quohotel hoteles"
-                >quohotel hoteles</a>
+                <a href="#" title="quohotel hoteles">quohotel hoteles</a>
               </li>
               <li class>
-                <a
-                  href="#"
-                  title=""
-                  target="_Blank"
-                  rel="nofollow"
-                >by </a>
+                <a href="#" title target="_Blank" rel="nofollow">by</a>
               </li>
             </ul>
           </nav>
@@ -1682,18 +1655,10 @@
                 >Hotel</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href=""
-                  title="Directorio Hoteles"
-                >Directorio Hoteles</a>
+                <a target="_blank" href title="Directorio Hoteles">Directorio Hoteles</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href=""
-                  title="Ofertas"
-                >Ofertas</a>
+                <a target="_blank" href title="Ofertas">Ofertas</a>
               </li>
               <li class="list-group-item">
                 <a
@@ -1703,53 +1668,25 @@
                 >Oferta - ¡Descuento del 20%!</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Habitaciones"
-                >Habitaciones</a>
+                <a target="_blank" href="#" title="Habitaciones">Habitaciones</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Fotos"
-                >Fotos</a>
+                <a target="_blank" href="#" title="Fotos">Fotos</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Servicios"
-                >Servicios</a>
+                <a target="_blank" href="#" title="Servicios">Servicios</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Mapa"
-                >Mapa</a>
+                <a target="_blank" href="#" title="Mapa">Mapa</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Opiniones"
-                >Opiniones</a>
+                <a target="_blank" href="#" title="Opiniones">Opiniones</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Contacto"
-                >Contacto</a>
+                <a target="_blank" href="#" title="Contacto">Contacto</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Política de cookies"
-                >Política de cookies</a>
+                <a target="_blank" href="#" title="Política de cookies">Política de cookies</a>
               </li>
               <li class="list-group-item">
                 <a
@@ -1909,10 +1846,7 @@
                 </li>
                 <li class="pol">
                   <input type="checkbox" name="politica" required id="id_politica" /> He leído y acepto la
-                  <a
-                    href="#"
-                    target="_blank"
-                  >política de privacidad</a>
+                  <a href="#" target="_blank">política de privacidad</a>
                 </li>
               </ul>
               <button>¡Benefíciese ahora!</button>
@@ -1988,9 +1922,23 @@ export default {
   name: "confirmation",
   data: function() {
     return {
-      leadName: "",
+      
       commentsToProvider: "",
       email: "",
+      name: "",
+      surname: "",
+      phone: "",
+      mobile: "",
+      postalcode: "",
+      hora: "",
+      minuto: "",
+      country:"",
+      comentarios: "",
+      anteriormente: "",
+      titular_tarjeta: "",
+      mes_caducidad: "",
+      ano_caducidad: "",
+      ccv: "",
       email2: "",
       coupon: null,
       entrada: this.$route.query.entrada,
@@ -2013,6 +1961,10 @@ export default {
         }
       }
       return Math.round(tot * 100) / 100;
+    },
+
+    leadName: function() {
+      return this.$data.name + " " + this.$data.surname;
     }
   },
   methods: {
@@ -2042,20 +1994,21 @@ export default {
     book: function() {
       // e.preventDefault();
       // e.stopPropagation()
-      var _this = this
+      var _this = this;
       var d = this.$data;
       var reference = this.gettimereference();
 
       axios({
         method: "put",
         url:
-          "https://demo.quotravel.eu/resources/eyAiY3JlYXRlZCI6ICJGcmkgTWFyIDIyIDEwOjIyOjI5IENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZG1pbiIsICJhZ2VuY3lJZCI6ICIzIn0=/hotel/booking",
+          "https://test.cloudcrx.net/resources/eyAiY3JlYXRlZCI6ICJXZWQgTm92IDEzIDIyOjQ2OjExIENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZ2VuY3kxIiwgImFnZW5jeUlkIjogIjEzMiJ9/hotel/booking",
         data: {
           language: d.language,
           rateKeys: this.$data.ocupacion,
           bookingReference: reference,
           captchaToken: "",
-          leadName: this.$data.leadName,
+
+          leadName: this.leadName,
           commentsToProvider: this.$data.commentsToProvider,
           privateComments: "",
           services: [],
@@ -2064,13 +2017,28 @@ export default {
         }
       })
         .then(function(response) {
-          console.log(response)
+          console.log(response);
+
           _this.$router.push({
             name: "ok",
             query: {
-              paymentUrl: response.data.paymentUrl,
-              bookingid: response.data.bookingId,
-              cart: _this.$data.cart,
+             // response: response,
+            //  cart: _this.$data.cart,
+              leadName: _this.leadName,
+              email: d.email,
+              postalcode: d.postalcode,
+              country: d.country,
+              phone: d.phone,
+              mobile: d.mobile,
+total:d.detalles.total.retailPrice.value,
+              hora: d.hora,
+              minuto: d.minuto,
+              comentarios: d.comentarios,
+              anteriormente: d.anteriormente,
+              titular_tarjeta: d.titular_tarjerta,
+              mes_caducidad: d.mes_caducidad,
+              ano_caducidad: d.ano_caducidad,
+              ccv: d.cvc,
 
               salida: _this.$data.salida,
               entrada: _this.$data.entrada,
@@ -2112,7 +2080,7 @@ export default {
       };
       axios
         .post(
-          "https://demo.quotravel.eu/resources/eyAiY3JlYXRlZCI6ICJGcmkgTWFyIDIyIDEwOjIyOjI5IENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZG1pbiIsICJhZ2VuY3lJZCI6ICIzIn0=/hotel/pricedetails",
+          "https://test.cloudcrx.net/resources/eyAiY3JlYXRlZCI6ICJXZWQgTm92IDEzIDIyOjQ2OjExIENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZ2VuY3kxIiwgImFnZW5jeUlkIjogIjEzMiJ9/hotel/pricedetails",
           bodyFormData,
           {
             //    .post("https://test.easytravelapi.com/rest/yourauthtoken/hotel/pricedetails", bodyFormData, {
@@ -2122,7 +2090,7 @@ export default {
           }
         )
         .then(function(response) {
-            d.loader = null;
+          d.loader = null;
           d.detalles = response.data;
           if (!d.detalles.total) {
             d.detalles = null;
@@ -2175,3 +2143,10 @@ export default {
   }
 };
 </script>
+<style scoped>
+.rb_bc .roi-booking-form__guest-details-group .timefield {
+  margin-right: 7px;
+  max-width: 90px;
+  width: 48%;
+}
+</style>

@@ -1615,7 +1615,7 @@
                   </div>
                   </div>
                 </div>
-                <div class="bc_powered">
+            <!--    <div class="bc_powered">
                   <span>
                     <a
                       href="#"
@@ -1631,7 +1631,7 @@
                       />
                     </a>
                   </span>
-                </div>
+                </div>-->
               </div>
             </div>
             <div v-if="cart.length > 0"
@@ -3191,7 +3191,7 @@ var fdat = [day, month, year].join("/");
           name: "Confirmation",
           query: {
             ratekeys: s,
-             cart: this.$data.cart,
+             //cart: this.$data.cart,
             //  hotelid: this.$route.query.hotelid,
             //  hotelname: this.$route.query.hotelname,
             //  category:  this.$route.query.category,
@@ -3224,7 +3224,7 @@ var fdat = [day, month, year].join("/");
           var _this = this
 
       var bodyFormData = {
-        hotelId: "hot-125",
+        hotelId: "hot-8",
         //  hotelKey: d.hotelkey,  Prueba añadir hotelkey para hotel beds en GetHotelRatesRQ
         checkin: this.$route.query.entrada,
         checkout: this.$route.query.salida,
@@ -3234,7 +3234,7 @@ var fdat = [day, month, year].join("/");
 
       axios //post(globaldata.baseurl + "/hotel/rates", bodyFormData, {
         .post(
-          "https://demo.quotravel.eu/resources/eyAiY3JlYXRlZCI6ICJGcmkgTWFyIDIyIDEwOjIyOjI5IENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZG1pbiIsICJhZ2VuY3lJZCI6ICIzIn0=/hotel/rates",
+          "https://test.cloudcrx.net/resources/eyAiY3JlYXRlZCI6ICJXZWQgTm92IDEzIDIyOjQ2OjExIENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZ2VuY3kxIiwgImFnZW5jeUlkIjogIjEzMiJ9/hotel/rates",
           bodyFormData,
           {
             headers: {

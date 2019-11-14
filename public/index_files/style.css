@@ -1,0 +1,3503 @@
+#bono-widgets-hb header {
+  height: auto !important;
+}
+#bono-widgets-hb .transfer_type {
+  height: auto !important;
+}
+#bono-widgets-hb .transfer_type .title {
+  height: auto !important;
+}
+.particular-logged-price__text {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+.particular-logged-price__discount-price {
+  font-size: 20px;
+  font-weight: 700;
+  text-decoration: line-through;
+  display: inline-block;
+  vertical-align: middle;
+}
+.particular-logged-price__logo {
+  margin-left: 5px;
+  display: inline-block;
+  vertical-align: middle;
+  height: 25px;
+  width: auto;
+}
+.particular-logged-price__total-price {
+  font-size: 35px;
+}
+.booking-summary-subtotal-price {
+  line-height: 1.2;
+}
+.booking-summary-subtotal-price__discount-price-wrap {
+  font-size: 14px;
+}
+.booking-summary-subtotal-price__discount-price {
+  font-size: 12px;
+  text-decoration: line-through;
+  display: inline-block;
+  vertical-align: middle;
+}
+.booking-summary-subtotal-price__logo {
+  margin-left: 5px;
+  height: 15px;
+  width: auto;
+  display: inline-block;
+  vertical-align: middle;
+}
+.booking-summary-subtotal-price__total-price {
+  font-size: 18px;
+}
+.roi-booking-certificate-wrapper {
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 30px 0 0;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .roi-booking-certificate-wrapper {
+    padding: 0;
+  }
+}
+.roi-booking-certificate-box {
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .roi-booking-certificate-box {
+    padding: 20px;
+  }
+}
+.roi-booking-certificate-item-name {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+}
+.roi-booking-certificate-row {
+  margin-bottom: 5px;
+  width: 100%;
+}
+.roi-booking-certificate-text-title {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+.roi-booking-certificate-text-description {
+  font-size: 16px;
+}
+.roi-booking-certificate-extra-name {
+  background-color: #e6e6e6;
+  border-radius: 4px;
+  display: inline-flex;
+  font-size: 15px;
+  margin: 10px 0;
+  padding: 5px 10px;
+  text-align: left;
+}
+.roi-booking-certificate-item {
+  display: flex;
+  flex-flow: row wrap;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  width: 100%;
+}
+.roi-booking-certificate-item-last {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+.roi-booking-certificate-list {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+.roi-booking-certificate-info {
+  display: flex;
+  flex-flow: row wrap;
+  width: 65%;
+}
+@media (max-width: 480px) {
+  .roi-booking-certificate-info {
+    width: 100%;
+  }
+}
+.roi-booking-certificate-info-block {
+  background-color: #4d4d4d;
+  border-radius: 4px;
+  color: #fff;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 15px;
+  padding: 20px;
+  text-align: center;
+}
+.roi-booking-certificate-info-block-title {
+  display: flex;
+  font-size: 16px;
+  font-weight: bold;
+  justify-content: center;
+}
+.roi-booking-certificate-info-row {
+  align-items: baseline;
+  display: flex;
+  margin-bottom: 5px;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .roi-booking-certificate-info-row {
+    align-items: baseline;
+    justify-content: space-between;
+  }
+}
+.roi-booking-certificate-info-name {
+  font-size: 12px;
+  min-width: 220px;
+  text-transform: uppercase;
+  width: 220px;
+}
+@media (max-width: 480px) {
+  .roi-booking-certificate-info-name {
+    min-width: inherit;
+    width: auto;
+  }
+}
+.roi-booking-certificate-info-value {
+  font-size: 16px;
+}
+@media (max-width: 480px) {
+  .roi-booking-certificate-info-value {
+    text-align: right;
+  }
+}
+.roi-booking-certificate-subtotal {
+  align-content: flex-end;
+  align-items: flex-end;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+  width: 35%;
+}
+@media (max-width: 480px) {
+  .roi-booking-certificate-subtotal {
+    margin-top: 15px;
+    width: 100%;
+  }
+}
+.roi-booking-certificate-subtotal-name {
+  display: flex;
+  font-size: 12px;
+  justify-content: flex-end;
+  text-transform: uppercase;
+  width: 100%;
+}
+.roi-booking-certificate-subtotal-taxes {
+  font-size: 11px;
+  text-transform: uppercase;
+}
+.roi-booking-certificate-subtotal-name-small {
+  display: flex;
+  font-size: 12px;
+  justify-content: flex-end;
+  text-transform: uppercase;
+  width: 100%;
+  display: none;
+}
+@media (max-width: 480px) {
+  .roi-booking-certificate-subtotal-name-small {
+    display: flex;
+  }
+}
+.roi-booking-certificate-subtotal-price {
+  display: flex;
+  font-size: 20px;
+  justify-content: flex-end;
+  white-space: nowrap;
+  width: 100%;
+}
+.roi-booking-certificate-total-price {
+  font-size: 30px;
+  white-space: nowrap;
+}
+.roi-booking-certificate-promocode {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 5px;
+  width: 100%;
+}
+.roi-booking-certificate-promocode-text {
+  font-size: 11px;
+  font-weight: bold;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  background-color: #FFA300;
+  border-radius: 4px;
+  color: #f8f8f8;
+}
+.rb_bc .roi-booking-certificate * {
+  box-sizing: border-box;
+}
+.rb_bc .roi-booking-certificate *:focus {
+  outline: 1px solid #000000 !important;
+  outline-offset: 5px;
+}
+.rb_bc .roi-booking-certificate__bonus {
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 30px 0 0;
+  width: 100%;
+  max-width: inherit;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__bonus {
+    padding: 0;
+  }
+}
+.rb_bc .roi-booking-certificate__bonus,
+.rb_bc .roi-booking-certificate__info,
+.rb_bc .roi-booking-certificate__body {
+  margin: 0 auto;
+}
+@media (max-width: 992px) {
+  .rb_bc .roi-booking-certificate__bonus,
+  .rb_bc .roi-booking-certificate__info,
+  .rb_bc .roi-booking-certificate__body {
+    display: flex;
+    flex-flow: row wrap;
+  }
+}
+.rb_bc .roi-booking-certificate__logo {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__logo-image {
+  height: auto;
+  max-width: 200px;
+}
+.rb_bc .roi-booking-certificate__claim {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+.rb_bc .roi-booking-certificate__claim .svg-roi {
+  fill: #fff;
+  height: 90px;
+  width: 90px;
+}
+.rb_bc .roi-booking-certificate__claim-text {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__voucher {
+  border-bottom: 1px solid #fff;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+.rb_bc .roi-booking-certificate__voucher-pay-approve,
+.rb_bc .roi-booking-certificate__voucher-confirmation-approve,
+.rb_bc .roi-booking-certificate__voucher-receipt-approve,
+.rb_bc .roi-booking-certificate__voucher-pay-text,
+.rb_bc .roi-booking-certificate__voucher-confirmation-text,
+.rb_bc .roi-booking-certificate__voucher-receipt-text {
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 0 0 10px 0;
+  padding: 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__voucher-pay-email {
+  color: #fff;
+  font-size: 16px;
+}
+.rb_bc .roi-booking-certificate__voucher-channel-text {
+  color: #fff;
+  font-size: 11px;
+  margin: 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__wrapper {
+  background-color: #84B044;
+  border-radius: 4px;
+  margin: 0 auto 25px;
+  max-width: 600px;
+  padding: 30px 60px;
+  text-align: center;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__wrapper {
+    padding: 25px 30px;
+  }
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__wrapper {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__wrapper--cancelled {
+  background-color: #4d4d4d;
+}
+.rb_bc .roi-booking-certificate__reconfirmation-text {
+  color: #fff;
+  display: block;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.rb_bc .roi-booking-certificate__reconfirmation-button {
+  align-items: center;
+  background-color: transparent;
+  border: 1px solid #fff;
+  border-radius: 18px;
+  color: #fff;
+  font-size: 14px;
+  display: flex;
+  height: 35px;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 10px 25px 10px 20px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  width: 200px;
+}
+.rb_bc .roi-booking-certificate__reconfirmation-button .svg-roi {
+  fill: #fff;
+  height: 15px;
+  margin-right: 10px;
+  min-height: 15px;
+  min-width: 15px;
+  width: 15px;
+}
+.rb_bc .roi-booking-certificate__reconfirmation-button-text {
+  width: calc(100% - 15px);
+}
+.rb_bc .roi-booking-certificate__locator {
+  margin-bottom: 20px;
+}
+.rb_bc .roi-booking-certificate__locator-text {
+  color: #fff;
+  display: block;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__locator-code {
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__locator-code-text,
+.rb_bc .roi-booking-certificate__locator-code-value {
+  color: #fff;
+}
+.rb_bc .roi-booking-certificate__menu-list {
+  list-style: none;
+  margin-bottom: 30px;
+  margin-left: 0;
+  padding: 0;
+}
+.rb_bc .roi-booking-certificate__menu-item {
+  margin-bottom: 10px;
+}
+.rb_bc .roi-booking-certificate__menu-button {
+  align-items: center;
+  background-color: transparent;
+  border: 1px solid #fff;
+  border-radius: 18px;
+  color: #fff;
+  font-size: 14px;
+  display: inline-flex;
+  min-height: 35px;
+  padding: 10px 25px 10px 20px;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration: none;
+  min-width: 260px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__menu-button {
+    min-width: inherit;
+  }
+}
+.rb_bc .roi-booking-certificate__menu-button .svg-roi {
+  fill: #fff;
+  height: 15px;
+  margin-right: 10px;
+  min-height: 15px;
+  min-width: 15px;
+  width: 15px;
+}
+.rb_bc .roi-booking-certificate__menu-button-text {
+  width: calc(100% - 15px);
+}
+.rb_bc .roi-booking-certificate__menu-button--pay {
+  background-color: #fff;
+  border: 1px solid #fff;
+  color: #000000;
+}
+.rb_bc .roi-booking-certificate__menu-button--pay .svg-roi {
+  fill: #000000;
+}
+.rb_bc .roi-booking-certificate__pending-approval-text {
+  color: #fff;
+  font-size: 11px;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__info-extra {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+.rb_bc .roi-booking-certificate__info-extra-text {
+  font-size: 16px;
+}
+.rb_bc .roi-booking-certificate__info-extra-text a {
+  color: inherit;
+  text-decoration: underline;
+}
+.rb_bc .roi-booking-certificate__info-extra-text a:hover {
+  color: inherit;
+}
+.rb_bc .roi-booking-certificate__info-extra-text a:focus {
+  text-decoration: underline;
+}
+.rb_bc .roi-booking-certificate__info-extra,
+.rb_bc .roi-booking-certificate__property,
+.rb_bc .roi-booking-certificate__client,
+.rb_bc .roi-booking-certificate__business,
+.rb_bc .roi-booking-certificate__agency,
+.rb_bc .roi-booking-certificate__locators,
+.rb_bc .roi-booking-certificate__pos,
+.rb_bc .roi-booking-certificate__billing,
+.rb_bc .roi-booking-certificate__id-verification {
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__info-extra,
+  .rb_bc .roi-booking-certificate__property,
+  .rb_bc .roi-booking-certificate__client,
+  .rb_bc .roi-booking-certificate__business,
+  .rb_bc .roi-booking-certificate__agency,
+  .rb_bc .roi-booking-certificate__locators,
+  .rb_bc .roi-booking-certificate__pos,
+  .rb_bc .roi-booking-certificate__billing,
+  .rb_bc .roi-booking-certificate__id-verification {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__info-extra-title,
+.rb_bc .roi-booking-certificate__property-title,
+.rb_bc .roi-booking-certificate__client-title,
+.rb_bc .roi-booking-certificate__business-title,
+.rb_bc .roi-booking-certificate__agency-title,
+.rb_bc .roi-booking-certificate__locators-title,
+.rb_bc .roi-booking-certificate__pos-title,
+.rb_bc .roi-booking-certificate__billing-title,
+.rb_bc .roi-booking-certificate__id-verification-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__info-extra-info,
+.rb_bc .roi-booking-certificate__property-info,
+.rb_bc .roi-booking-certificate__client-info,
+.rb_bc .roi-booking-certificate__business-info,
+.rb_bc .roi-booking-certificate__agency-info,
+.rb_bc .roi-booking-certificate__locators-info,
+.rb_bc .roi-booking-certificate__pos-info,
+.rb_bc .roi-booking-certificate__billing-info,
+.rb_bc .roi-booking-certificate__id-verification-info {
+  display: flex;
+  flex-flow: row wrap;
+  width: 65%;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__info-extra-info,
+  .rb_bc .roi-booking-certificate__property-info,
+  .rb_bc .roi-booking-certificate__client-info,
+  .rb_bc .roi-booking-certificate__business-info,
+  .rb_bc .roi-booking-certificate__agency-info,
+  .rb_bc .roi-booking-certificate__locators-info,
+  .rb_bc .roi-booking-certificate__pos-info,
+  .rb_bc .roi-booking-certificate__billing-info,
+  .rb_bc .roi-booking-certificate__id-verification-info {
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__info-extra-info-name,
+.rb_bc .roi-booking-certificate__property-info-name,
+.rb_bc .roi-booking-certificate__client-info-name,
+.rb_bc .roi-booking-certificate__business-info-name,
+.rb_bc .roi-booking-certificate__agency-info-name,
+.rb_bc .roi-booking-certificate__locators-info-name,
+.rb_bc .roi-booking-certificate__pos-info-name,
+.rb_bc .roi-booking-certificate__billing-info-name,
+.rb_bc .roi-booking-certificate__id-verification-info-name {
+  font-size: 12px;
+  min-width: 220px;
+  text-transform: uppercase;
+  width: 220px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__info-extra-info-name,
+  .rb_bc .roi-booking-certificate__property-info-name,
+  .rb_bc .roi-booking-certificate__client-info-name,
+  .rb_bc .roi-booking-certificate__business-info-name,
+  .rb_bc .roi-booking-certificate__agency-info-name,
+  .rb_bc .roi-booking-certificate__locators-info-name,
+  .rb_bc .roi-booking-certificate__pos-info-name,
+  .rb_bc .roi-booking-certificate__billing-info-name,
+  .rb_bc .roi-booking-certificate__id-verification-info-name {
+    min-width: inherit;
+    width: auto;
+  }
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__info-extra-info-name,
+  .rb_bc .roi-booking-certificate__property-info-name,
+  .rb_bc .roi-booking-certificate__client-info-name,
+  .rb_bc .roi-booking-certificate__business-info-name,
+  .rb_bc .roi-booking-certificate__agency-info-name,
+  .rb_bc .roi-booking-certificate__locators-info-name,
+  .rb_bc .roi-booking-certificate__pos-info-name,
+  .rb_bc .roi-booking-certificate__billing-info-name,
+  .rb_bc .roi-booking-certificate__id-verification-info-name {
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__info-extra-info-value,
+.rb_bc .roi-booking-certificate__property-info-value,
+.rb_bc .roi-booking-certificate__client-info-value,
+.rb_bc .roi-booking-certificate__business-info-value,
+.rb_bc .roi-booking-certificate__agency-info-value,
+.rb_bc .roi-booking-certificate__locators-info-value,
+.rb_bc .roi-booking-certificate__pos-info-value,
+.rb_bc .roi-booking-certificate__billing-info-value,
+.rb_bc .roi-booking-certificate__id-verification-info-value {
+  font-size: 16px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__info-extra-info-value,
+  .rb_bc .roi-booking-certificate__property-info-value,
+  .rb_bc .roi-booking-certificate__client-info-value,
+  .rb_bc .roi-booking-certificate__business-info-value,
+  .rb_bc .roi-booking-certificate__agency-info-value,
+  .rb_bc .roi-booking-certificate__locators-info-value,
+  .rb_bc .roi-booking-certificate__pos-info-value,
+  .rb_bc .roi-booking-certificate__billing-info-value,
+  .rb_bc .roi-booking-certificate__id-verification-info-value {
+    text-align: right;
+  }
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__info-extra-info-value,
+  .rb_bc .roi-booking-certificate__property-info-value,
+  .rb_bc .roi-booking-certificate__client-info-value,
+  .rb_bc .roi-booking-certificate__business-info-value,
+  .rb_bc .roi-booking-certificate__agency-info-value,
+  .rb_bc .roi-booking-certificate__locators-info-value,
+  .rb_bc .roi-booking-certificate__pos-info-value,
+  .rb_bc .roi-booking-certificate__billing-info-value,
+  .rb_bc .roi-booking-certificate__id-verification-info-value {
+    text-align: left;
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__info-extra-row,
+.rb_bc .roi-booking-certificate__property-row,
+.rb_bc .roi-booking-certificate__client-row,
+.rb_bc .roi-booking-certificate__business-row,
+.rb_bc .roi-booking-certificate__agency-row,
+.rb_bc .roi-booking-certificate__locators-row,
+.rb_bc .roi-booking-certificate__pos-row,
+.rb_bc .roi-booking-certificate__billing-row,
+.rb_bc .roi-booking-certificate__id-verification-row {
+  align-items: baseline;
+  display: flex;
+  margin-bottom: 5px;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__info-extra-row,
+  .rb_bc .roi-booking-certificate__property-row,
+  .rb_bc .roi-booking-certificate__client-row,
+  .rb_bc .roi-booking-certificate__business-row,
+  .rb_bc .roi-booking-certificate__agency-row,
+  .rb_bc .roi-booking-certificate__locators-row,
+  .rb_bc .roi-booking-certificate__pos-row,
+  .rb_bc .roi-booking-certificate__billing-row,
+  .rb_bc .roi-booking-certificate__id-verification-row {
+    align-items: baseline;
+    justify-content: space-between;
+  }
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__info-extra-row,
+  .rb_bc .roi-booking-certificate__property-row,
+  .rb_bc .roi-booking-certificate__client-row,
+  .rb_bc .roi-booking-certificate__business-row,
+  .rb_bc .roi-booking-certificate__agency-row,
+  .rb_bc .roi-booking-certificate__locators-row,
+  .rb_bc .roi-booking-certificate__pos-row,
+  .rb_bc .roi-booking-certificate__billing-row,
+  .rb_bc .roi-booking-certificate__id-verification-row {
+    flex-flow: row wrap;
+    margin-bottom: 10px;
+  }
+}
+.rb_bc .roi-booking-certificate__info-extra-row--full,
+.rb_bc .roi-booking-certificate__property-row--full,
+.rb_bc .roi-booking-certificate__client-row--full,
+.rb_bc .roi-booking-certificate__business-row--full,
+.rb_bc .roi-booking-certificate__agency-row--full,
+.rb_bc .roi-booking-certificate__locators-row--full,
+.rb_bc .roi-booking-certificate__pos-row--full,
+.rb_bc .roi-booking-certificate__billing-row--full,
+.rb_bc .roi-booking-certificate__id-verification-row--full {
+  flex-flow: row wrap;
+}
+.rb_bc .roi-booking-certificate__locators-info-name {
+  display: none;
+}
+.rb_bc .roi-booking-certificate__locators-info-value {
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__property-address {
+  display: flex;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__property-address-link {
+  background-color: #4d4d4d;
+  border-radius: 4px;
+  color: #fff;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 15px;
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+  flex-flow: row nowrap;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__property-address-text {
+  display: flex;
+  font-size: 16px;
+  font-weight: bold;
+  justify-content: center;
+}
+.rb_bc .roi-booking-certificate__property-address .svg-roi {
+  fill: #fff;
+  margin-right: 5px;
+}
+.rb_bc .roi-booking-certificate__details {
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__details {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__details-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__room-item {
+  display: flex;
+  flex-flow: row wrap;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  width: 100%;
+  border-bottom: 1px solid #191919;
+}
+.rb_bc .roi-booking-certificate__room-item--last {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+.rb_bc .roi-booking-certificate__room-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  font-size: 16px;
+}
+.rb_bc .roi-booking-certificate__room-title--room {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.rb_bc .roi-booking-certificate__room-list {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+.rb_bc .roi-booking-certificate__room-info {
+  display: flex;
+  flex-flow: row wrap;
+  width: 65%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__room-info {
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__room-info--full {
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__room-info-name {
+  font-size: 12px;
+  min-width: 220px;
+  text-transform: uppercase;
+  width: 220px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__room-info-name {
+    min-width: inherit;
+    width: auto;
+  }
+}
+.rb_bc .roi-booking-certificate__room-info-value {
+  font-size: 16px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__room-info-value {
+    text-align: right;
+  }
+}
+.rb_bc .roi-booking-certificate__room-row {
+  align-items: baseline;
+  display: flex;
+  margin-bottom: 5px;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__room-row {
+    align-items: baseline;
+    justify-content: space-between;
+  }
+}
+.rb_bc .roi-booking-certificate__room-subtotal {
+  align-content: flex-end;
+  align-items: flex-end;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+  width: 35%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__room-subtotal {
+    margin-top: 15px;
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__room-subtotal--full {
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__room-subtotal--full .roi-booking-certificate__room-subtotal-name {
+  display: flex;
+  justify-content: flex-start;
+  min-width: 220px;
+  width: auto;
+}
+.rb_bc .roi-booking-certificate__room-subtotal--full .roi-booking-certificate__room-subtotal-price {
+  width: auto;
+}
+.rb_bc .roi-booking-certificate__room-subtotal-name {
+  display: flex;
+  font-size: 12px;
+  justify-content: flex-end;
+  text-transform: uppercase;
+  width: 100%;
+  display: none;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__room-subtotal-name {
+    display: flex;
+  }
+}
+.rb_bc .roi-booking-certificate__room-subtotal-price {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__room-subtotal-price-amount {
+  display: flex;
+  font-size: 20px;
+  justify-content: flex-end;
+  white-space: nowrap;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__room-subtotal-price-amount-loyalty {
+  width: auto;
+}
+.rb_bc .roi-booking-certificate__room-subtotal-loyalty-discount {
+  font-size: 14px;
+  font-weight: normal;
+  text-align: right;
+  text-decoration: line-through;
+  white-space: nowrap;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__room-subtotal-loyalty-wrap {
+  align-items: center;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-end;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__room-subtotal-loyalty-logo {
+  display: inline-block;
+  height: 22px;
+  margin-right: 5px;
+}
+.rb_bc .roi-booking-certificate__room-subtotal-text {
+  display: flex;
+  font-size: 20px;
+}
+.rb_bc .roi-booking-certificate__upgrade {
+  display: block;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__upgrade-state {
+  background-color: #FFA300;
+  color: #f8f8f8;
+  border-radius: 4px;
+  display: inline-block;
+  font-size: 12px;
+  padding: 3px 5px;
+  text-transform: uppercase;
+  vertical-align: middle;
+}
+.rb_bc .roi-booking-certificate__upgrade-figure {
+  background: #FFA300;
+  border-radius: 4px;
+  display: flex;
+  margin-top: 10px;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 15px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__upgrade-figure {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+.rb_bc .roi-booking-certificate__upgrade-link {
+  margin-right: 15px;
+  position: relative;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__upgrade-link {
+    margin-bottom: 10px;
+    margin-right: 0;
+  }
+}
+.rb_bc .roi-booking-certificate__upgrade-open-icon {
+  align-items: center;
+  background: rgba(248, 248, 248, 0.7);
+  border-radius: 50%;
+  display: flex;
+  height: 3.5rem;
+  justify-content: center;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 3.5rem;
+}
+.rb_bc .roi-booking-certificate__upgrade-open-icon .svg-roi {
+  fill: #191919;
+  height: 2rem;
+  width: 2rem;
+}
+.rb_bc .roi-booking-certificate__upgrade-img {
+  height: auto;
+  width: 140px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__upgrade-img {
+    width: 100%;
+  }
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__upgrade-figcaption {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+.rb_bc .roi-booking-certificate__upgrade-description {
+  color: #f8f8f8;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  text-align: left;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__upgrade-description {
+    text-align: center;
+  }
+}
+.rb_bc .roi-booking-certificate__upgrade-description--highlight {
+  font-weight: bold;
+}
+.rb_bc .roi-booking-certificate__upgrade-button {
+  background-color: #f8f8f8;
+  border-radius: 20px;
+  border: 1px solid #FFA300;
+  color: #FFA300;
+  display: inline-block;
+  font-family: Lato, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.2;
+  outline: 0;
+  padding: 0.5em 1.8em;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition-delay: 0s;
+  transition-duration: 0.2s;
+  transition-property: all;
+  transition-timing-function: ease-in-out;
+}
+.rb_bc .roi-booking-certificate__upgrade-button:hover,
+.rb_bc .roi-booking-certificate__upgrade-button:focus,
+.rb_bc .roi-booking-certificate__upgrade-button:active {
+  background: #f8f8f8;
+  border-color: #FFA300;
+  color: #191919;
+  text-decoration: none;
+}
+.rb_bc .roi-booking-certificate__upgrade-message {
+  text-align: left;
+}
+.rb_bc .roi-booking-certificate__upgrade-message--error {
+  border: 1px solid #DF1F3A;
+  color: #DF1F3A;
+  border-radius: 7px;
+  display: none;
+  font-size: 16px;
+  margin-top: 10px;
+  padding: 15px;
+}
+.rb_bc .roi-booking-certificate__supplement,
+.rb_bc .roi-booking-certificate__extra {
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__supplement-name,
+.rb_bc .roi-booking-certificate__extra-name {
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__supplement-title,
+.rb_bc .roi-booking-certificate__extra-title {
+  background-color: #e6e6e6;
+  border-radius: 4px;
+  display: inline-flex;
+  font-size: 15px;
+  margin: 10px 0;
+  padding: 5px 10px;
+  text-align: left;
+}
+.rb_bc .roi-booking-certificate__supplement-list,
+.rb_bc .roi-booking-certificate__extra-list {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+.rb_bc .roi-booking-certificate__supplement-item,
+.rb_bc .roi-booking-certificate__extra-item {
+  display: flex;
+  flex-flow: row wrap;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__supplement-item--last,
+.rb_bc .roi-booking-certificate__extra-item--last {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+.rb_bc .roi-booking-certificate__supplement-info,
+.rb_bc .roi-booking-certificate__extra-info {
+  display: flex;
+  flex-flow: row wrap;
+  width: 65%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__supplement-info,
+  .rb_bc .roi-booking-certificate__extra-info {
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__supplement-info--full,
+.rb_bc .roi-booking-certificate__extra-info--full {
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__supplement-info-name,
+.rb_bc .roi-booking-certificate__extra-info-name {
+  font-size: 12px;
+  min-width: 220px;
+  text-transform: uppercase;
+  width: 220px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__supplement-info-name,
+  .rb_bc .roi-booking-certificate__extra-info-name {
+    min-width: inherit;
+    width: auto;
+  }
+}
+.rb_bc .roi-booking-certificate__supplement-info-value,
+.rb_bc .roi-booking-certificate__extra-info-value {
+  font-size: 16px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__supplement-info-value,
+  .rb_bc .roi-booking-certificate__extra-info-value {
+    text-align: right;
+  }
+}
+.rb_bc .roi-booking-certificate__supplement-row,
+.rb_bc .roi-booking-certificate__extra-row {
+  align-items: baseline;
+  display: flex;
+  margin-bottom: 5px;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__supplement-row,
+  .rb_bc .roi-booking-certificate__extra-row {
+    align-items: baseline;
+    justify-content: space-between;
+  }
+}
+.rb_bc .roi-booking-certificate__supplement-subtotal,
+.rb_bc .roi-booking-certificate__extra-subtotal {
+  align-content: flex-end;
+  align-items: flex-end;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+  width: 35%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__supplement-subtotal,
+  .rb_bc .roi-booking-certificate__extra-subtotal {
+    margin-top: 15px;
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__supplement-subtotal--full,
+.rb_bc .roi-booking-certificate__extra-subtotal--full {
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__supplement-subtotal--full .roi-booking-certificate__supplement-subtotal-name,
+.rb_bc .roi-booking-certificate__extra-subtotal--full .roi-booking-certificate__supplement-subtotal-name,
+.rb_bc .roi-booking-certificate__supplement-subtotal--full .roi-booking-certificate__extra-subtotal-name,
+.rb_bc .roi-booking-certificate__extra-subtotal--full .roi-booking-certificate__extra-subtotal-name {
+  display: flex;
+  justify-content: flex-start;
+  min-width: 220px;
+  width: auto;
+}
+.rb_bc .roi-booking-certificate__supplement-subtotal-name,
+.rb_bc .roi-booking-certificate__extra-subtotal-name {
+  display: flex;
+  font-size: 12px;
+  justify-content: flex-end;
+  text-transform: uppercase;
+  width: 100%;
+  display: none;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__supplement-subtotal-name,
+  .rb_bc .roi-booking-certificate__extra-subtotal-name {
+    display: flex;
+  }
+}
+.rb_bc .roi-booking-certificate__supplement-subtotal-name br,
+.rb_bc .roi-booking-certificate__extra-subtotal-name br {
+  display: none;
+}
+.rb_bc .roi-booking-certificate__supplement-subtotal-text,
+.rb_bc .roi-booking-certificate__extra-subtotal-text {
+  display: flex;
+  font-size: 20px;
+}
+.rb_bc .roi-booking-certificate__supplement-subtotal-price,
+.rb_bc .roi-booking-certificate__extra-subtotal-price {
+  display: flex;
+  font-size: 20px;
+  justify-content: flex-end;
+  white-space: nowrap;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__complements-item,
+.rb_bc .roi-booking-certificate__special-request-item,
+.rb_bc .roi-booking-certificate__comments-table-item,
+.rb_bc .roi-booking-certificate__loyalty-item,
+.rb_bc .roi-booking-certificate__genius-item {
+  display: flex;
+  flex-flow: row wrap;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  width: 100%;
+  border-bottom: 1px solid #191919;
+}
+.rb_bc .roi-booking-certificate__complements-item--last,
+.rb_bc .roi-booking-certificate__special-request-item--last,
+.rb_bc .roi-booking-certificate__comments-table-item--last,
+.rb_bc .roi-booking-certificate__loyalty-item--last,
+.rb_bc .roi-booking-certificate__genius-item--last {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+.rb_bc .roi-booking-certificate__complements-title,
+.rb_bc .roi-booking-certificate__special-request-title,
+.rb_bc .roi-booking-certificate__comments-table-title,
+.rb_bc .roi-booking-certificate__loyalty-title,
+.rb_bc .roi-booking-certificate__genius-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  font-size: 16px;
+}
+.rb_bc .roi-booking-certificate__complements-list,
+.rb_bc .roi-booking-certificate__special-request-list,
+.rb_bc .roi-booking-certificate__comments-table-list,
+.rb_bc .roi-booking-certificate__loyalty-list,
+.rb_bc .roi-booking-certificate__genius-list {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+.rb_bc .roi-booking-certificate__complements-info,
+.rb_bc .roi-booking-certificate__special-request-info,
+.rb_bc .roi-booking-certificate__comments-table-info,
+.rb_bc .roi-booking-certificate__loyalty-info,
+.rb_bc .roi-booking-certificate__genius-info {
+  display: flex;
+  flex-flow: row wrap;
+  width: 65%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__complements-info,
+  .rb_bc .roi-booking-certificate__special-request-info,
+  .rb_bc .roi-booking-certificate__comments-table-info,
+  .rb_bc .roi-booking-certificate__loyalty-info,
+  .rb_bc .roi-booking-certificate__genius-info {
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__complements-info-name,
+.rb_bc .roi-booking-certificate__special-request-info-name,
+.rb_bc .roi-booking-certificate__comments-table-info-name,
+.rb_bc .roi-booking-certificate__loyalty-info-name,
+.rb_bc .roi-booking-certificate__genius-info-name {
+  font-size: 12px;
+  min-width: 220px;
+  text-transform: uppercase;
+  width: 220px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__complements-info-name,
+  .rb_bc .roi-booking-certificate__special-request-info-name,
+  .rb_bc .roi-booking-certificate__comments-table-info-name,
+  .rb_bc .roi-booking-certificate__loyalty-info-name,
+  .rb_bc .roi-booking-certificate__genius-info-name {
+    min-width: inherit;
+    width: auto;
+  }
+}
+.rb_bc .roi-booking-certificate__complements-info-value,
+.rb_bc .roi-booking-certificate__special-request-info-value,
+.rb_bc .roi-booking-certificate__comments-table-info-value,
+.rb_bc .roi-booking-certificate__loyalty-info-value,
+.rb_bc .roi-booking-certificate__genius-info-value {
+  font-size: 16px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__complements-info-value,
+  .rb_bc .roi-booking-certificate__special-request-info-value,
+  .rb_bc .roi-booking-certificate__comments-table-info-value,
+  .rb_bc .roi-booking-certificate__loyalty-info-value,
+  .rb_bc .roi-booking-certificate__genius-info-value {
+    text-align: right;
+  }
+}
+.rb_bc .roi-booking-certificate__complements-row,
+.rb_bc .roi-booking-certificate__special-request-row,
+.rb_bc .roi-booking-certificate__comments-table-row,
+.rb_bc .roi-booking-certificate__loyalty-row,
+.rb_bc .roi-booking-certificate__genius-row {
+  align-items: baseline;
+  display: flex;
+  margin-bottom: 5px;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__complements-row,
+  .rb_bc .roi-booking-certificate__special-request-row,
+  .rb_bc .roi-booking-certificate__comments-table-row,
+  .rb_bc .roi-booking-certificate__loyalty-row,
+  .rb_bc .roi-booking-certificate__genius-row {
+    align-items: baseline;
+    justify-content: space-between;
+  }
+}
+.rb_bc .roi-booking-certificate__complements-subtotal {
+  align-content: flex-end;
+  align-items: flex-end;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+  width: 35%;
+  align-items: baseline;
+  justify-content: space-between;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__complements-subtotal {
+    margin-top: 15px;
+    width: 100%;
+  }
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__complements-subtotal {
+    align-items: flex-end;
+    justify-content: flex-end;
+  }
+}
+.rb_bc .roi-booking-certificate__complements-subtotal-name {
+  font-size: 12px;
+  justify-content: flex-end;
+  width: 100%;
+  display: none;
+  display: flex;
+  min-width: 220px;
+  text-transform: uppercase;
+  width: auto;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__complements-subtotal-name {
+    display: flex;
+  }
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__complements-subtotal-name {
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__complements-subtotal-name br {
+  display: none;
+}
+.rb_bc .roi-booking-certificate__complements-subtotal-text {
+  display: flex;
+  font-size: 20px;
+}
+.rb_bc .roi-booking-certificate__complements-subtotal-price {
+  display: flex;
+  font-size: 20px;
+  justify-content: flex-end;
+  white-space: nowrap;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__special-request-info,
+.rb_bc .roi-booking-certificate__comments-table-info,
+.rb_bc .roi-booking-certificate__loyalty-info {
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__special-request-row,
+.rb_bc .roi-booking-certificate__comments-table-row,
+.rb_bc .roi-booking-certificate__loyalty-row {
+  align-items: baseline;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__special-request-row,
+  .rb_bc .roi-booking-certificate__comments-table-row {
+    flex-flow: row wrap;
+  }
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__special-request-info-name,
+  .rb_bc .roi-booking-certificate__comments-table-info-name {
+    width: 100%;
+  }
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__special-request-info-value,
+  .rb_bc .roi-booking-certificate__comments-table-info-value {
+    text-align: left;
+  }
+}
+.rb_bc .roi-booking-certificate__package-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  font-size: 16px;
+}
+.rb_bc .roi-booking-certificate__package-item {
+  display: flex;
+  flex-flow: row wrap;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  width: 100%;
+  border-bottom: 1px solid #191919;
+}
+.rb_bc .roi-booking-certificate__package-item--last {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+.rb_bc .roi-booking-certificate__package-list {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+.rb_bc .roi-booking-certificate__package-info {
+  display: flex;
+  flex-flow: row wrap;
+  width: 65%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__package-info {
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__package-info-name {
+  font-size: 12px;
+  min-width: 220px;
+  text-transform: uppercase;
+  width: 220px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__package-info-name {
+    min-width: inherit;
+    width: auto;
+  }
+}
+.rb_bc .roi-booking-certificate__package-info-value {
+  font-size: 16px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__package-info-value {
+    text-align: right;
+  }
+}
+.rb_bc .roi-booking-certificate__package-row {
+  align-items: baseline;
+  display: flex;
+  margin-bottom: 5px;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__package-row {
+    align-items: baseline;
+    justify-content: space-between;
+  }
+}
+.rb_bc .roi-booking-certificate__package-subtotal {
+  align-content: flex-end;
+  align-items: flex-end;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+  width: 35%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__package-subtotal {
+    margin-top: 15px;
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__package-subtotal-name {
+  display: flex;
+  font-size: 12px;
+  justify-content: flex-end;
+  text-transform: uppercase;
+  width: 100%;
+  display: none;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__package-subtotal-name {
+    display: flex;
+  }
+}
+.rb_bc .roi-booking-certificate__package-subtotal-price {
+  display: flex;
+  font-size: 20px;
+  justify-content: flex-end;
+  white-space: nowrap;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__total {
+  border-top: 3px solid;
+  border-top-color: #191919;
+  display: flex;
+  flex-flow: row wrap;
+  padding-top: 15px;
+  justify-content: space-between;
+}
+.rb_bc .roi-booking-certificate__total-price {
+  margin-bottom: 10px;
+  text-align: right;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__total-price-logged-text {
+  display: block;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__total-price-logged-discount {
+  margin-left: 5px;
+  text-decoration: line-through;
+  white-space: nowrap;
+}
+.rb_bc .roi-booking-certificate__total-price-logged-content {
+  align-items: center;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-end;
+}
+.rb_bc .roi-booking-certificate__total-price-logged-logo {
+  display: inline-block;
+  height: 26px;
+  margin-right: 5px;
+}
+.rb_bc .roi-booking-certificate__total-price-logged-amount {
+  font-size: 30px;
+}
+.rb_bc .roi-booking-certificate__total-price-text {
+  display: block;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__total-price-amount {
+  display: block;
+  font-size: 30px;
+}
+.rb_bc .roi-booking-certificate__total-taxes {
+  font-size: 11px;
+  text-transform: uppercase;
+  display: block;
+}
+.rb_bc .roi-booking-certificate__total-no-taxes,
+.rb_bc .roi-booking-certificate__total-currency-info,
+.rb_bc .roi-booking-certificate__total-payment,
+.rb_bc .roi-booking-certificate__total-amount,
+.rb_bc .roi-booking-certificate__total-city-taxes,
+.rb_bc .roi-booking-certificate__total-callcenter,
+.rb_bc .roi-booking-certificate__total-collective,
+.rb_bc .roi-booking-certificate__total-collective-extra,
+.rb_bc .roi-booking-certificate__total-particular,
+.rb_bc .roi-booking-certificate__total-agency,
+.rb_bc .roi-booking-certificate__total-promocode-discount,
+.rb_bc .roi-booking-certificate__total-affiliate {
+  font-size: 11px;
+  margin-bottom: 5px;
+  text-align: right;
+  text-transform: uppercase;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__total-no-taxes-value::before,
+.rb_bc .roi-booking-certificate__total-currency-info-value::before,
+.rb_bc .roi-booking-certificate__total-payment-value::before,
+.rb_bc .roi-booking-certificate__total-amount-value::before,
+.rb_bc .roi-booking-certificate__total-city-taxes-value::before,
+.rb_bc .roi-booking-certificate__total-callcenter-value::before,
+.rb_bc .roi-booking-certificate__total-collective-value::before,
+.rb_bc .roi-booking-certificate__total-collective-extra-value::before,
+.rb_bc .roi-booking-certificate__total-particular-value::before,
+.rb_bc .roi-booking-certificate__total-agency-value::before,
+.rb_bc .roi-booking-certificate__total-promocode-discount-value::before,
+.rb_bc .roi-booking-certificate__total-affiliate-value::before {
+  content: ' ';
+}
+.rb_bc .roi-booking-certificate__total-payment-tax {
+  font-size: 11px;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__total-discount,
+.rb_bc .roi-booking-certificate__total-promocode,
+.rb_bc .roi-booking-certificate__total-registered {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 5px;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__total-discount-text,
+.rb_bc .roi-booking-certificate__total-promocode-text,
+.rb_bc .roi-booking-certificate__total-registered-text {
+  font-size: 11px;
+  font-weight: bold;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  background-color: #FFA300;
+  border-radius: 4px;
+  color: #f8f8f8;
+}
+.rb_bc .roi-booking-certificate__banner {
+  padding: 30px 0 0;
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__banner {
+    padding: 0;
+  }
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__banner {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__banner-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__banner-description {
+  font-size: 16px;
+}
+.rb_bc .roi-booking-certificate__banner-link {
+  font-size: 16px;
+  color: inherit;
+  text-decoration: underline;
+}
+.rb_bc .roi-booking-certificate__banner-link:hover {
+  text-decoration: underline;
+}
+.rb_bc .roi-booking-certificate__banner-image {
+  border-radius: 4px;
+  display: block;
+  height: auto;
+  margin-top: 10px;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__pre-stay {
+  padding: 30px 0 0;
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__pre-stay {
+    padding: 0;
+  }
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__pre-stay {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__pre-stay-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__pre-stay-description {
+  font-size: 16px;
+}
+.rb_bc .roi-booking-certificate__pre-stay-list {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+.rb_bc .roi-booking-certificate__pre-stay-item {
+  align-items: center;
+  background-color: #84B044;
+  border-radius: 4px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  height: 220px;
+  justify-content: flex-start;
+  line-height: 1.2;
+  margin: 10px;
+  width: 150px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__pre-stay-item {
+    height: auto;
+    margin: 10px 0;
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__pre-stay-info-link {
+  align-items: baseline;
+  color: #fff;
+  display: flex;
+  flex-flow: row wrap;
+  height: 100%;
+  justify-content: center;
+  padding: 15px;
+  text-decoration: none;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__pre-stay-info-link {
+    align-items: center;
+    flex-flow: column wrap;
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__pre-stay-info-image {
+  margin-bottom: 10px;
+}
+.rb_bc .roi-booking-certificate__pre-stay-info-title {
+  display: block;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__pre-stay-info-description {
+  text-align: center;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__additional {
+  padding: 30px 0 0;
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__additional {
+    padding: 0;
+  }
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__additional {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__additional-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__additional-subtitle {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  font-size: 16px;
+}
+.rb_bc .roi-booking-certificate__additional-info {
+  display: flex;
+  flex-flow: row wrap;
+  width: 65%;
+  align-items: baseline;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__additional-info {
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__additional-info-name {
+  font-size: 12px;
+  min-width: 220px;
+  text-transform: uppercase;
+  width: 220px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__additional-info-name {
+    min-width: inherit;
+    width: auto;
+  }
+}
+.rb_bc .roi-booking-certificate__additional-info-value {
+  font-size: 16px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__additional-info-value {
+    text-align: right;
+  }
+}
+.rb_bc .roi-booking-certificate__additional-info-subitem {
+  display: flex;
+  margin-bottom: 5px;
+  width: 100%;
+  align-items: baseline;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__additional-info-subitem {
+    align-items: baseline;
+    justify-content: space-between;
+  }
+}
+.rb_bc .roi-booking-certificate__additional-info-subitem-name {
+  font-size: 12px;
+  min-width: 220px;
+  text-transform: uppercase;
+  width: 220px;
+  min-width: 150px;
+  width: 200px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__additional-info-subitem-name {
+    min-width: inherit;
+    width: auto;
+  }
+}
+.rb_bc .roi-booking-certificate__additional-info-subitem-value {
+  font-size: 16px;
+  font-size: 14px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__additional-info-subitem-value {
+    text-align: right;
+  }
+}
+.rb_bc .roi-booking-certificate__additional-sublist {
+  background-color: #e6e6e6;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  padding: 20px;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__additional-row {
+  align-items: baseline;
+  display: flex;
+  margin-bottom: 5px;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__additional-row {
+    align-items: baseline;
+    justify-content: space-between;
+  }
+}
+.rb_bc .roi-booking-certificate__guests {
+  padding: 30px 0 0;
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__guests {
+    padding: 0;
+  }
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__guests {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__guests-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__guests-subtitle {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  font-size: 16px;
+}
+.rb_bc .roi-booking-certificate__guests-data-item {
+  display: flex;
+  flex-flow: row wrap;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  width: 100%;
+  margin-bottom: 10px;
+  padding-bottom: 0;
+}
+.rb_bc .roi-booking-certificate__guests-data-item--last {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+.rb_bc .roi-booking-certificate__guests-data-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  font-size: 16px;
+  font-weight: normal;
+  margin-bottom: 5px;
+}
+.rb_bc .roi-booking-certificate__guests-info {
+  display: flex;
+  flex-flow: row wrap;
+  width: 65%;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__guests-info {
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__guests-info-name {
+  font-size: 12px;
+  min-width: 220px;
+  text-transform: uppercase;
+  width: 220px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__guests-info-name {
+    min-width: inherit;
+    width: auto;
+  }
+}
+.rb_bc .roi-booking-certificate__guests-info-value {
+  font-size: 16px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__guests-info-value {
+    text-align: right;
+  }
+}
+.rb_bc .roi-booking-certificate__guests-row {
+  align-items: baseline;
+  display: flex;
+  margin-bottom: 5px;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__guests-row {
+    align-items: baseline;
+    justify-content: space-between;
+  }
+}
+.rb_bc .roi-booking-certificate__intermediary {
+  padding: 30px 0 0;
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__intermediary {
+    padding: 0;
+  }
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__intermediary {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__intermediary-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__intermediary-info {
+  display: flex;
+  flex-flow: row wrap;
+  width: 65%;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__intermediary-info {
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__intermediary-info-name {
+  font-size: 12px;
+  min-width: 220px;
+  text-transform: uppercase;
+  width: 220px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__intermediary-info-name {
+    min-width: inherit;
+    width: auto;
+  }
+}
+.rb_bc .roi-booking-certificate__intermediary-info-value {
+  font-size: 16px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__intermediary-info-value {
+    text-align: right;
+  }
+}
+.rb_bc .roi-booking-certificate__intermediary-row {
+  align-items: baseline;
+  display: flex;
+  margin-bottom: 5px;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__intermediary-row {
+    align-items: baseline;
+    justify-content: space-between;
+  }
+}
+.rb_bc .roi-booking-certificate__cancellation {
+  padding: 30px 0 0;
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__cancellation {
+    padding: 0;
+  }
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__cancellation {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__cancellation-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__cancellation-info {
+  display: flex;
+  flex-flow: row wrap;
+  width: 65%;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__cancellation-info {
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__cancellation-info-name {
+  font-size: 12px;
+  min-width: 220px;
+  text-transform: uppercase;
+  width: 220px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__cancellation-info-name {
+    min-width: inherit;
+    width: auto;
+  }
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__cancellation-info-name {
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__cancellation-info-value {
+  font-size: 16px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__cancellation-info-value {
+    text-align: right;
+  }
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__cancellation-info-value {
+    text-align: left;
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__cancellation-info-amount {
+  font-size: 30px;
+}
+.rb_bc .roi-booking-certificate__cancellation-info-text {
+  font-size: 11px;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__cancellation-row {
+  display: flex;
+  margin-bottom: 5px;
+  width: 100%;
+  align-items: baseline;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__cancellation-row {
+    align-items: baseline;
+    justify-content: space-between;
+  }
+}
+.rb_bc .roi-booking-certificate__cancellation-cost {
+  background-color: #4d4d4d;
+  border-radius: 4px;
+  color: #fff;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 15px;
+  padding: 20px;
+  text-align: center;
+}
+.rb_bc .roi-booking-certificate__cancellation-cost-title {
+  display: flex;
+  font-size: 16px;
+  font-weight: bold;
+  justify-content: center;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__cancellation-cost-text {
+  font-size: 16px;
+}
+.rb_bc .roi-booking-certificate__cancellation-policy {
+  padding: 30px 0 0;
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__cancellation-policy {
+    padding: 0;
+  }
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__cancellation-policy {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__cancellation-policy-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__cancellation-policy-room-title {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  margin: 0 0 10px;
+}
+.rb_bc .roi-booking-certificate__cancellation-policy-room-description {
+  font-size: 16px;
+  margin-top: 0;
+}
+.rb_bc .roi-booking-certificate__cancellation-policy-package-title {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+.rb_bc .roi-booking-certificate__cancellation-policy-package-description {
+  font-size: 16px;
+}
+.rb_bc .roi-booking-certificate__payment,
+.rb_bc .roi-booking-certificate__historical,
+.rb_bc .roi-booking-certificate__fees,
+.rb_bc .roi-booking-certificate__additional {
+  padding: 30px 0 0;
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__payment,
+  .rb_bc .roi-booking-certificate__historical,
+  .rb_bc .roi-booking-certificate__fees,
+  .rb_bc .roi-booking-certificate__additional {
+    padding: 0;
+  }
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__payment,
+  .rb_bc .roi-booking-certificate__historical,
+  .rb_bc .roi-booking-certificate__fees,
+  .rb_bc .roi-booking-certificate__additional {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__payment-title,
+.rb_bc .roi-booking-certificate__historical-title,
+.rb_bc .roi-booking-certificate__fees-title,
+.rb_bc .roi-booking-certificate__additional-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__payment-subtitle,
+.rb_bc .roi-booking-certificate__historical-subtitle,
+.rb_bc .roi-booking-certificate__fees-subtitle,
+.rb_bc .roi-booking-certificate__additional-subtitle {
+  margin: 0 0 10px;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__payment-description,
+.rb_bc .roi-booking-certificate__historical-description,
+.rb_bc .roi-booking-certificate__fees-description,
+.rb_bc .roi-booking-certificate__additional-description {
+  font-size: 16px;
+  margin-top: 0;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__payment-description b,
+.rb_bc .roi-booking-certificate__historical-description b,
+.rb_bc .roi-booking-certificate__fees-description b,
+.rb_bc .roi-booking-certificate__additional-description b,
+.rb_bc .roi-booking-certificate__payment-description strong,
+.rb_bc .roi-booking-certificate__historical-description strong,
+.rb_bc .roi-booking-certificate__fees-description strong,
+.rb_bc .roi-booking-certificate__additional-description strong {
+  font-weight: bold;
+}
+.rb_bc .roi-booking-certificate__payment-info,
+.rb_bc .roi-booking-certificate__historical-info,
+.rb_bc .roi-booking-certificate__fees-info,
+.rb_bc .roi-booking-certificate__additional-info {
+  display: flex;
+  flex-flow: row wrap;
+  width: 65%;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__payment-info,
+  .rb_bc .roi-booking-certificate__historical-info,
+  .rb_bc .roi-booking-certificate__fees-info,
+  .rb_bc .roi-booking-certificate__additional-info {
+    width: 100%;
+  }
+}
+.rb_bc .roi-booking-certificate__payment-info-name,
+.rb_bc .roi-booking-certificate__historical-info-name,
+.rb_bc .roi-booking-certificate__fees-info-name,
+.rb_bc .roi-booking-certificate__additional-info-name {
+  font-size: 12px;
+  min-width: 220px;
+  text-transform: uppercase;
+  width: 220px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__payment-info-name,
+  .rb_bc .roi-booking-certificate__historical-info-name,
+  .rb_bc .roi-booking-certificate__fees-info-name,
+  .rb_bc .roi-booking-certificate__additional-info-name {
+    min-width: inherit;
+    width: auto;
+  }
+}
+.rb_bc .roi-booking-certificate__payment-info-value,
+.rb_bc .roi-booking-certificate__historical-info-value,
+.rb_bc .roi-booking-certificate__fees-info-value,
+.rb_bc .roi-booking-certificate__additional-info-value {
+  font-size: 16px;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__payment-info-value,
+  .rb_bc .roi-booking-certificate__historical-info-value,
+  .rb_bc .roi-booking-certificate__fees-info-value,
+  .rb_bc .roi-booking-certificate__additional-info-value {
+    text-align: right;
+  }
+}
+.rb_bc .roi-booking-certificate__payment-info-text,
+.rb_bc .roi-booking-certificate__historical-info-text,
+.rb_bc .roi-booking-certificate__fees-info-text,
+.rb_bc .roi-booking-certificate__additional-info-text {
+  font-size: 10px !important;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__payment-row,
+.rb_bc .roi-booking-certificate__historical-row,
+.rb_bc .roi-booking-certificate__fees-row,
+.rb_bc .roi-booking-certificate__additional-row {
+  align-items: baseline;
+  display: flex;
+  margin-bottom: 5px;
+  width: 100%;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__payment-row,
+  .rb_bc .roi-booking-certificate__historical-row,
+  .rb_bc .roi-booking-certificate__fees-row,
+  .rb_bc .roi-booking-certificate__additional-row {
+    align-items: baseline;
+    justify-content: space-between;
+  }
+}
+.rb_bc .roi-booking-certificate__payment-list,
+.rb_bc .roi-booking-certificate__historical-list,
+.rb_bc .roi-booking-certificate__fees-list,
+.rb_bc .roi-booking-certificate__additional-list {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+.rb_bc .roi-booking-certificate__payment-item,
+.rb_bc .roi-booking-certificate__historical-item,
+.rb_bc .roi-booking-certificate__fees-item,
+.rb_bc .roi-booking-certificate__additional-item {
+  display: flex;
+  flex-flow: row wrap;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  width: 100%;
+  border-bottom: 1px solid #191919;
+}
+.rb_bc .roi-booking-certificate__payment-item--last,
+.rb_bc .roi-booking-certificate__historical-item--last,
+.rb_bc .roi-booking-certificate__fees-item--last,
+.rb_bc .roi-booking-certificate__additional-item--last {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+.rb_bc .roi-booking-certificate__rate-description,
+.rb_bc .roi-booking-certificate__package-description,
+.rb_bc .roi-booking-certificate__board-description {
+  padding: 30px 0 0;
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__rate-description,
+  .rb_bc .roi-booking-certificate__package-description,
+  .rb_bc .roi-booking-certificate__board-description {
+    padding: 0;
+  }
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__rate-description,
+  .rb_bc .roi-booking-certificate__package-description,
+  .rb_bc .roi-booking-certificate__board-description {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__rate-description-title,
+.rb_bc .roi-booking-certificate__package-description-title,
+.rb_bc .roi-booking-certificate__board-description-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__rate-description-info-title,
+.rb_bc .roi-booking-certificate__package-description-info-title,
+.rb_bc .roi-booking-certificate__board-description-info-title {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+.rb_bc .roi-booking-certificate__rate-description-info-description,
+.rb_bc .roi-booking-certificate__package-description-info-description,
+.rb_bc .roi-booking-certificate__board-description-info-description {
+  font-size: 16px;
+}
+.rb_bc .roi-booking-certificate__rate-description-row,
+.rb_bc .roi-booking-certificate__package-description-row,
+.rb_bc .roi-booking-certificate__board-description-row {
+  margin-bottom: 5px;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__genius {
+  padding: 30px 0 0;
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__genius {
+    padding: 0;
+  }
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__genius {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__exclusive-advantage {
+  padding: 30px 0 0;
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+  align-items: center;
+  background-color: #84B044;
+  display: flex;
+  flex-flow: row nowrap;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__exclusive-advantage {
+    padding: 0;
+  }
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__exclusive-advantage {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__exclusive-advantage .svg-roi {
+  fill: #fff;
+  height: 40px;
+  margin-right: 20px;
+  width: 40px;
+}
+.rb_bc .roi-booking-certificate__exclusive-advantage-wrap {
+  width: calc(100% - 40px);
+}
+.rb_bc .roi-booking-certificate__exclusive-advantage-title {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  margin-bottom: 5px;
+  color: #fff;
+}
+.rb_bc .roi-booking-certificate__exclusive-advantage-subtitle {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  font-weight: normal;
+  color: #fff;
+}
+.rb_bc .roi-booking-certificate__exclusive-advantage-description {
+  font-size: 16px;
+  color: #fff;
+}
+.rb_bc .roi-booking-certificate__exclusive-advantage--cancelled {
+  background-color: #4d4d4d;
+}
+.rb_bc .roi-booking-certificate__comments {
+  padding: 30px 0 0;
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__comments {
+    padding: 0;
+  }
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__comments {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__comments-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__comments-description {
+  font-size: 16px;
+}
+.rb_bc .roi-booking-certificate__annexed {
+  padding: 30px 0 0;
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__annexed {
+    padding: 0;
+  }
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__annexed {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__annexed-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__annexed-description {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+.rb_bc .roi-booking-certificate__annexed-description a {
+  color: inherit;
+  text-decoration: underline;
+}
+.rb_bc .roi-booking-certificate__annexed-description a:hover {
+  color: inherit;
+}
+.rb_bc .roi-booking-certificate__annexed-description a:focus {
+  text-decoration: underline;
+}
+.rb_bc .roi-booking-certificate__rate {
+  padding: 30px 0 0;
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__rate {
+    padding: 0;
+  }
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__rate {
+    padding: 20px;
+  }
+}
+.rb_bc .roi-booking-certificate__rate-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  width: 100%;
+  text-transform: uppercase;
+}
+.rb_bc .roi-booking-certificate__rate-title-room {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  margin-bottom: 10px;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__rate-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.rb_bc .roi-booking-certificate__rate-table-row {
+  border-color: #999999;
+  border-style: solid;
+  border-width: 1px 0;
+}
+.rb_bc .roi-booking-certificate__rate-table-row--head,
+.rb_bc .roi-booking-certificate__rate-table-row--last {
+  border: 0;
+}
+.rb_bc .roi-booking-certificate__rate-table-item {
+  font-weight: normal;
+  padding-bottom: 5px;
+  text-align: left;
+  vertical-align: baseline;
+}
+.rb_bc .roi-booking-certificate__rate-table-item--rate {
+  padding: 0 10px;
+}
+.rb_bc .roi-booking-certificate__rate-info-name {
+  font-size: 12px;
+  min-width: 220px;
+  text-transform: uppercase;
+  width: 220px;
+  font-family: Lato, Arial, sans-serif;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__rate-info-name {
+    min-width: inherit;
+    width: auto;
+  }
+}
+.rb_bc .roi-booking-certificate__rate-info-value {
+  font-size: 16px;
+  font-family: Lato, Arial, sans-serif;
+}
+@media (max-width: 480px) {
+  .rb_bc .roi-booking-certificate__rate-info-value {
+    text-align: right;
+  }
+}
+.rb_bc .roi-booking-certificate__rate-info-tax {
+  font-size: 11px;
+  text-transform: uppercase;
+  font-family: Lato, Arial, sans-serif;
+}
+.rb_bc .roi-booking-certificate__widget {
+  padding: 30px 0 0;
+  background-color: #fff;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  max-width: 600px;
+  padding: 20px 30px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__widget {
+    padding: 0;
+  }
+}
+@media (max-width: 568px) {
+  .rb_bc .roi-booking-certificate__widget {
+    padding: 20px;
+  }
+}
+.rb_bc--crs {
+  background-color: #cccccc;
+  color: #191919;
+  font-family: Lato, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.2;
+  padding-bottom: 60px;
+  padding-top: 40px;
+  -webkit-font-smoothing: antialiased;
+}
+@media (max-width: 768px) {
+  .rb_bc--crs {
+    background-color: transparent;
+  }
+}
+.rb_bc--crs .roi-booking-certificate__wrapper {
+  max-width: 600px;
+}
+.rb_bc.mobilis .roi-booking-certificate__upgrade-link {
+  pointer-events: none;
+}
+.rb_bc.mobilis .roi-booking-certificate__upgrade-open-icon {
+  display: none;
+}
+@media print {
+  *,
+  :after,
+  :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  body > input[onclick="window.print();"] {
+    display: none;
+  }
+  .rb_bc * {
+    font-size: 12px !important;
+  }
+  .rb_bc a[href]:after {
+    content: "" !important;
+  }
+  .rb_bc--crs {
+    background-color: transparent;
+    padding-top: 0;
+  }
+  .rb_bc .roi-booking-certificate {
+    display: block;
+  }
+  .rb_bc .roi-booking-certificate__bonus,
+  .rb_bc .roi-booking-certificate__body {
+    display: inline-block;
+    float: left;
+    width: 50%;
+  }
+  .rb_bc .roi-booking-certificate__bonus {
+    border: 3px solid #191919 !important;
+    border-radius: 0;
+    margin: 0;
+    padding: 15px;
+  }
+  .rb_bc .roi-booking-certificate__body {
+    padding: 0 15px;
+  }
+  .rb_bc .roi-booking-certificate__wrapper {
+    background-color: transparent !important;
+    color: #191919 !important;
+    margin-bottom: 10px;
+    padding: 0;
+  }
+  .rb_bc .roi-booking-certificate__voucher {
+    align-items: center;
+    display: flex;
+    margin-bottom: 10px;
+    padding-bottom: 0;
+  }
+  .rb_bc .roi-booking-certificate__voucher-pay-approve,
+  .rb_bc .roi-booking-certificate__voucher-confirmation-approve,
+  .rb_bc .roi-booking-certificate__voucher-receipt-approve,
+  .rb_bc .roi-booking-certificate__voucher-pay-text,
+  .rb_bc .roi-booking-certificate__voucher-confirmation-text,
+  .rb_bc .roi-booking-certificate__voucher-receipt-text {
+    color: #191919 !important;
+    margin-bottom: 0;
+    text-align: left;
+  }
+  .rb_bc .roi-booking-certificate__voucher-channel-text {
+    color: #191919 !important;
+    font-weight: normal;
+    text-align: left;
+  }
+  .rb_bc .roi-booking-certificate__logo {
+    margin: 0 10px 0 0;
+    max-width: 20%;
+  }
+  .rb_bc .roi-booking-certificate__logo-image {
+    width: 100%;
+  }
+  .rb_bc .roi-booking-certificate__locator {
+    border: 1px solid #191919 !important;
+    margin-bottom: 0;
+    padding: 5px;
+  }
+  .rb_bc .roi-booking-certificate__locator-text {
+    color: #191919 !important;
+    font-size: 14px !important;
+    margin-bottom: 0;
+  }
+  .rb_bc .roi-booking-certificate__locator-code-text,
+  .rb_bc .roi-booking-certificate__locator-code-value {
+    color: #191919 !important;
+    font-size: 14px !important;
+  }
+  .rb_bc .roi-booking-certificate__claim,
+  .rb_bc .roi-booking-certificate__menu,
+  .rb_bc .roi-booking-certificate__pending-approval {
+    display: none;
+  }
+  .rb_bc .roi-booking-certificate__property,
+  .rb_bc .roi-booking-certificate__client,
+  .rb_bc .roi-booking-certificate__business,
+  .rb_bc .roi-booking-certificate__agency,
+  .rb_bc .roi-booking-certificate__locators,
+  .rb_bc .roi-booking-certificate__pos,
+  .rb_bc .roi-booking-certificate__billing {
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 10px;
+    padding: 0;
+  }
+  .rb_bc .roi-booking-certificate__property-list,
+  .rb_bc .roi-booking-certificate__client-list,
+  .rb_bc .roi-booking-certificate__business-list,
+  .rb_bc .roi-booking-certificate__agency-list,
+  .rb_bc .roi-booking-certificate__locators-list,
+  .rb_bc .roi-booking-certificate__pos-list,
+  .rb_bc .roi-booking-certificate__billing-list,
+  .rb_bc .roi-booking-certificate__room-list,
+  .rb_bc .roi-booking-certificate__supplement-list,
+  .rb_bc .roi-booking-certificate__extra-list,
+  .rb_bc .roi-booking-certificate__package-list,
+  .rb_bc .roi-booking-certificate__special-request-list,
+  .rb_bc .roi-booking-certificate__payment-list,
+  .rb_bc .roi-booking-certificate__fees-list,
+  .rb_bc .roi-booking-certificate__rate-list,
+  .rb_bc .roi-booking-certificate__guests-list,
+  .rb_bc .roi-booking-certificate__cancellation-list,
+  .rb_bc .roi-booking-certificate__intermediary-list,
+  .rb_bc .roi-booking-certificate__additional-list,
+  .rb_bc .roi-booking-certificate__property-item,
+  .rb_bc .roi-booking-certificate__client-item,
+  .rb_bc .roi-booking-certificate__business-item,
+  .rb_bc .roi-booking-certificate__agency-item,
+  .rb_bc .roi-booking-certificate__locators-item,
+  .rb_bc .roi-booking-certificate__pos-item,
+  .rb_bc .roi-booking-certificate__billing-item,
+  .rb_bc .roi-booking-certificate__room-item,
+  .rb_bc .roi-booking-certificate__supplement-item,
+  .rb_bc .roi-booking-certificate__extra-item,
+  .rb_bc .roi-booking-certificate__package-item,
+  .rb_bc .roi-booking-certificate__special-request-item,
+  .rb_bc .roi-booking-certificate__payment-item,
+  .rb_bc .roi-booking-certificate__fees-item,
+  .rb_bc .roi-booking-certificate__rate-item,
+  .rb_bc .roi-booking-certificate__guests-item,
+  .rb_bc .roi-booking-certificate__cancellation-item,
+  .rb_bc .roi-booking-certificate__intermediary-item,
+  .rb_bc .roi-booking-certificate__additional-item,
+  .rb_bc .roi-booking-certificate__property-info,
+  .rb_bc .roi-booking-certificate__client-info,
+  .rb_bc .roi-booking-certificate__business-info,
+  .rb_bc .roi-booking-certificate__agency-info,
+  .rb_bc .roi-booking-certificate__locators-info,
+  .rb_bc .roi-booking-certificate__pos-info,
+  .rb_bc .roi-booking-certificate__billing-info,
+  .rb_bc .roi-booking-certificate__room-info,
+  .rb_bc .roi-booking-certificate__supplement-info,
+  .rb_bc .roi-booking-certificate__extra-info,
+  .rb_bc .roi-booking-certificate__package-info,
+  .rb_bc .roi-booking-certificate__special-request-info,
+  .rb_bc .roi-booking-certificate__payment-info,
+  .rb_bc .roi-booking-certificate__fees-info,
+  .rb_bc .roi-booking-certificate__rate-info,
+  .rb_bc .roi-booking-certificate__guests-info,
+  .rb_bc .roi-booking-certificate__cancellation-info,
+  .rb_bc .roi-booking-certificate__intermediary-info,
+  .rb_bc .roi-booking-certificate__additional-info,
+  .rb_bc .roi-booking-certificate__property-subtotal,
+  .rb_bc .roi-booking-certificate__client-subtotal,
+  .rb_bc .roi-booking-certificate__business-subtotal,
+  .rb_bc .roi-booking-certificate__agency-subtotal,
+  .rb_bc .roi-booking-certificate__locators-subtotal,
+  .rb_bc .roi-booking-certificate__pos-subtotal,
+  .rb_bc .roi-booking-certificate__billing-subtotal,
+  .rb_bc .roi-booking-certificate__room-subtotal,
+  .rb_bc .roi-booking-certificate__supplement-subtotal,
+  .rb_bc .roi-booking-certificate__extra-subtotal,
+  .rb_bc .roi-booking-certificate__package-subtotal,
+  .rb_bc .roi-booking-certificate__special-request-subtotal,
+  .rb_bc .roi-booking-certificate__payment-subtotal,
+  .rb_bc .roi-booking-certificate__fees-subtotal,
+  .rb_bc .roi-booking-certificate__rate-subtotal,
+  .rb_bc .roi-booking-certificate__guests-subtotal,
+  .rb_bc .roi-booking-certificate__cancellation-subtotal,
+  .rb_bc .roi-booking-certificate__intermediary-subtotal,
+  .rb_bc .roi-booking-certificate__additional-subtotal {
+    display: inline-block;
+    width: 100%;
+  }
+  .rb_bc .roi-booking-certificate__property-info-name,
+  .rb_bc .roi-booking-certificate__client-info-name,
+  .rb_bc .roi-booking-certificate__business-info-name,
+  .rb_bc .roi-booking-certificate__agency-info-name,
+  .rb_bc .roi-booking-certificate__locators-info-name,
+  .rb_bc .roi-booking-certificate__pos-info-name,
+  .rb_bc .roi-booking-certificate__billing-info-name,
+  .rb_bc .roi-booking-certificate__room-info-name,
+  .rb_bc .roi-booking-certificate__supplement-info-name,
+  .rb_bc .roi-booking-certificate__extra-info-name,
+  .rb_bc .roi-booking-certificate__package-info-name,
+  .rb_bc .roi-booking-certificate__special-request-info-name,
+  .rb_bc .roi-booking-certificate__payment-info-name,
+  .rb_bc .roi-booking-certificate__fees-info-name,
+  .rb_bc .roi-booking-certificate__rate-info-name,
+  .rb_bc .roi-booking-certificate__guests-info-name,
+  .rb_bc .roi-booking-certificate__cancellation-info-name,
+  .rb_bc .roi-booking-certificate__intermediary-info-name,
+  .rb_bc .roi-booking-certificate__additional-info-name,
+  .rb_bc .roi-booking-certificate__property-subtotal-name,
+  .rb_bc .roi-booking-certificate__client-subtotal-name,
+  .rb_bc .roi-booking-certificate__business-subtotal-name,
+  .rb_bc .roi-booking-certificate__agency-subtotal-name,
+  .rb_bc .roi-booking-certificate__locators-subtotal-name,
+  .rb_bc .roi-booking-certificate__pos-subtotal-name,
+  .rb_bc .roi-booking-certificate__billing-subtotal-name,
+  .rb_bc .roi-booking-certificate__room-subtotal-name,
+  .rb_bc .roi-booking-certificate__supplement-subtotal-name,
+  .rb_bc .roi-booking-certificate__extra-subtotal-name,
+  .rb_bc .roi-booking-certificate__package-subtotal-name,
+  .rb_bc .roi-booking-certificate__special-request-subtotal-name,
+  .rb_bc .roi-booking-certificate__payment-subtotal-name,
+  .rb_bc .roi-booking-certificate__fees-subtotal-name,
+  .rb_bc .roi-booking-certificate__rate-subtotal-name,
+  .rb_bc .roi-booking-certificate__guests-subtotal-name,
+  .rb_bc .roi-booking-certificate__cancellation-subtotal-name,
+  .rb_bc .roi-booking-certificate__intermediary-subtotal-name,
+  .rb_bc .roi-booking-certificate__additional-subtotal-name,
+  .rb_bc .roi-booking-certificate__property-info-value,
+  .rb_bc .roi-booking-certificate__client-info-value,
+  .rb_bc .roi-booking-certificate__business-info-value,
+  .rb_bc .roi-booking-certificate__agency-info-value,
+  .rb_bc .roi-booking-certificate__locators-info-value,
+  .rb_bc .roi-booking-certificate__pos-info-value,
+  .rb_bc .roi-booking-certificate__billing-info-value,
+  .rb_bc .roi-booking-certificate__room-info-value,
+  .rb_bc .roi-booking-certificate__supplement-info-value,
+  .rb_bc .roi-booking-certificate__extra-info-value,
+  .rb_bc .roi-booking-certificate__package-info-value,
+  .rb_bc .roi-booking-certificate__special-request-info-value,
+  .rb_bc .roi-booking-certificate__payment-info-value,
+  .rb_bc .roi-booking-certificate__fees-info-value,
+  .rb_bc .roi-booking-certificate__rate-info-value,
+  .rb_bc .roi-booking-certificate__guests-info-value,
+  .rb_bc .roi-booking-certificate__cancellation-info-value,
+  .rb_bc .roi-booking-certificate__intermediary-info-value,
+  .rb_bc .roi-booking-certificate__additional-info-value,
+  .rb_bc .roi-booking-certificate__property-subtotal-value,
+  .rb_bc .roi-booking-certificate__client-subtotal-value,
+  .rb_bc .roi-booking-certificate__business-subtotal-value,
+  .rb_bc .roi-booking-certificate__agency-subtotal-value,
+  .rb_bc .roi-booking-certificate__locators-subtotal-value,
+  .rb_bc .roi-booking-certificate__pos-subtotal-value,
+  .rb_bc .roi-booking-certificate__billing-subtotal-value,
+  .rb_bc .roi-booking-certificate__room-subtotal-value,
+  .rb_bc .roi-booking-certificate__supplement-subtotal-value,
+  .rb_bc .roi-booking-certificate__extra-subtotal-value,
+  .rb_bc .roi-booking-certificate__package-subtotal-value,
+  .rb_bc .roi-booking-certificate__special-request-subtotal-value,
+  .rb_bc .roi-booking-certificate__payment-subtotal-value,
+  .rb_bc .roi-booking-certificate__fees-subtotal-value,
+  .rb_bc .roi-booking-certificate__rate-subtotal-value,
+  .rb_bc .roi-booking-certificate__guests-subtotal-value,
+  .rb_bc .roi-booking-certificate__cancellation-subtotal-value,
+  .rb_bc .roi-booking-certificate__intermediary-subtotal-value,
+  .rb_bc .roi-booking-certificate__additional-subtotal-value {
+    display: inline-block;
+    float: left;
+  }
+  .rb_bc .roi-booking-certificate__property-title,
+  .rb_bc .roi-booking-certificate__client-title,
+  .rb_bc .roi-booking-certificate__business-title,
+  .rb_bc .roi-booking-certificate__agency-title,
+  .rb_bc .roi-booking-certificate__locators-title,
+  .rb_bc .roi-booking-certificate__pos-title,
+  .rb_bc .roi-booking-certificate__billing-title,
+  .rb_bc .roi-booking-certificate__room-title,
+  .rb_bc .roi-booking-certificate__supplement-title,
+  .rb_bc .roi-booking-certificate__extra-title,
+  .rb_bc .roi-booking-certificate__package-title,
+  .rb_bc .roi-booking-certificate__special-request-title,
+  .rb_bc .roi-booking-certificate__payment-title,
+  .rb_bc .roi-booking-certificate__fees-title,
+  .rb_bc .roi-booking-certificate__rate-title,
+  .rb_bc .roi-booking-certificate__guests-title,
+  .rb_bc .roi-booking-certificate__cancellation-title,
+  .rb_bc .roi-booking-certificate__intermediary-title,
+  .rb_bc .roi-booking-certificate__additional-title {
+    margin-bottom: 5px;
+  }
+  .rb_bc .roi-booking-certificate__property-row,
+  .rb_bc .roi-booking-certificate__client-row,
+  .rb_bc .roi-booking-certificate__business-row,
+  .rb_bc .roi-booking-certificate__agency-row,
+  .rb_bc .roi-booking-certificate__locators-row,
+  .rb_bc .roi-booking-certificate__pos-row,
+  .rb_bc .roi-booking-certificate__billing-row,
+  .rb_bc .roi-booking-certificate__room-row,
+  .rb_bc .roi-booking-certificate__supplement-row,
+  .rb_bc .roi-booking-certificate__extra-row,
+  .rb_bc .roi-booking-certificate__package-row,
+  .rb_bc .roi-booking-certificate__special-request-row,
+  .rb_bc .roi-booking-certificate__payment-row,
+  .rb_bc .roi-booking-certificate__fees-row,
+  .rb_bc .roi-booking-certificate__rate-row,
+  .rb_bc .roi-booking-certificate__guests-row,
+  .rb_bc .roi-booking-certificate__cancellation-row,
+  .rb_bc .roi-booking-certificate__intermediary-row,
+  .rb_bc .roi-booking-certificate__additional-row {
+    margin-bottom: 0;
+  }
+  .rb_bc .roi-booking-certificate__property-info,
+  .rb_bc .roi-booking-certificate__client-info,
+  .rb_bc .roi-booking-certificate__business-info,
+  .rb_bc .roi-booking-certificate__agency-info,
+  .rb_bc .roi-booking-certificate__locators-info,
+  .rb_bc .roi-booking-certificate__pos-info,
+  .rb_bc .roi-booking-certificate__billing-info,
+  .rb_bc .roi-booking-certificate__room-info,
+  .rb_bc .roi-booking-certificate__supplement-info,
+  .rb_bc .roi-booking-certificate__extra-info,
+  .rb_bc .roi-booking-certificate__package-info,
+  .rb_bc .roi-booking-certificate__special-request-info,
+  .rb_bc .roi-booking-certificate__payment-info,
+  .rb_bc .roi-booking-certificate__fees-info,
+  .rb_bc .roi-booking-certificate__rate-info,
+  .rb_bc .roi-booking-certificate__guests-info,
+  .rb_bc .roi-booking-certificate__cancellation-info,
+  .rb_bc .roi-booking-certificate__intermediary-info,
+  .rb_bc .roi-booking-certificate__additional-info {
+    width: 100%;
+  }
+  .rb_bc .roi-booking-certificate__property-info-name,
+  .rb_bc .roi-booking-certificate__client-info-name,
+  .rb_bc .roi-booking-certificate__business-info-name,
+  .rb_bc .roi-booking-certificate__agency-info-name,
+  .rb_bc .roi-booking-certificate__locators-info-name,
+  .rb_bc .roi-booking-certificate__pos-info-name,
+  .rb_bc .roi-booking-certificate__billing-info-name,
+  .rb_bc .roi-booking-certificate__room-info-name,
+  .rb_bc .roi-booking-certificate__supplement-info-name,
+  .rb_bc .roi-booking-certificate__extra-info-name,
+  .rb_bc .roi-booking-certificate__package-info-name,
+  .rb_bc .roi-booking-certificate__special-request-info-name,
+  .rb_bc .roi-booking-certificate__payment-info-name,
+  .rb_bc .roi-booking-certificate__fees-info-name,
+  .rb_bc .roi-booking-certificate__rate-info-name,
+  .rb_bc .roi-booking-certificate__guests-info-name,
+  .rb_bc .roi-booking-certificate__cancellation-info-name,
+  .rb_bc .roi-booking-certificate__intermediary-info-name,
+  .rb_bc .roi-booking-certificate__additional-info-name {
+    font-size: 10px !important;
+    min-width: 50%;
+    width: 50%;
+  }
+  .rb_bc .roi-booking-certificate__property-info-value,
+  .rb_bc .roi-booking-certificate__client-info-value,
+  .rb_bc .roi-booking-certificate__business-info-value,
+  .rb_bc .roi-booking-certificate__agency-info-value,
+  .rb_bc .roi-booking-certificate__locators-info-value,
+  .rb_bc .roi-booking-certificate__pos-info-value,
+  .rb_bc .roi-booking-certificate__billing-info-value,
+  .rb_bc .roi-booking-certificate__room-info-value,
+  .rb_bc .roi-booking-certificate__supplement-info-value,
+  .rb_bc .roi-booking-certificate__extra-info-value,
+  .rb_bc .roi-booking-certificate__package-info-value,
+  .rb_bc .roi-booking-certificate__special-request-info-value,
+  .rb_bc .roi-booking-certificate__payment-info-value,
+  .rb_bc .roi-booking-certificate__fees-info-value,
+  .rb_bc .roi-booking-certificate__rate-info-value,
+  .rb_bc .roi-booking-certificate__guests-info-value,
+  .rb_bc .roi-booking-certificate__cancellation-info-value,
+  .rb_bc .roi-booking-certificate__intermediary-info-value,
+  .rb_bc .roi-booking-certificate__additional-info-value {
+    width: 50%;
+  }
+  .rb_bc .roi-booking-certificate__property-subtotal,
+  .rb_bc .roi-booking-certificate__client-subtotal,
+  .rb_bc .roi-booking-certificate__business-subtotal,
+  .rb_bc .roi-booking-certificate__agency-subtotal,
+  .rb_bc .roi-booking-certificate__locators-subtotal,
+  .rb_bc .roi-booking-certificate__pos-subtotal,
+  .rb_bc .roi-booking-certificate__billing-subtotal,
+  .rb_bc .roi-booking-certificate__room-subtotal,
+  .rb_bc .roi-booking-certificate__supplement-subtotal,
+  .rb_bc .roi-booking-certificate__extra-subtotal,
+  .rb_bc .roi-booking-certificate__package-subtotal,
+  .rb_bc .roi-booking-certificate__special-request-subtotal,
+  .rb_bc .roi-booking-certificate__payment-subtotal,
+  .rb_bc .roi-booking-certificate__fees-subtotal,
+  .rb_bc .roi-booking-certificate__rate-subtotal,
+  .rb_bc .roi-booking-certificate__guests-subtotal,
+  .rb_bc .roi-booking-certificate__cancellation-subtotal,
+  .rb_bc .roi-booking-certificate__intermediary-subtotal,
+  .rb_bc .roi-booking-certificate__additional-subtotal {
+    flex-flow: row nowrap;
+    width: 100%;
+  }
+  .rb_bc .roi-booking-certificate__property-subtotal-name,
+  .rb_bc .roi-booking-certificate__client-subtotal-name,
+  .rb_bc .roi-booking-certificate__business-subtotal-name,
+  .rb_bc .roi-booking-certificate__agency-subtotal-name,
+  .rb_bc .roi-booking-certificate__locators-subtotal-name,
+  .rb_bc .roi-booking-certificate__pos-subtotal-name,
+  .rb_bc .roi-booking-certificate__billing-subtotal-name,
+  .rb_bc .roi-booking-certificate__room-subtotal-name,
+  .rb_bc .roi-booking-certificate__supplement-subtotal-name,
+  .rb_bc .roi-booking-certificate__extra-subtotal-name,
+  .rb_bc .roi-booking-certificate__package-subtotal-name,
+  .rb_bc .roi-booking-certificate__special-request-subtotal-name,
+  .rb_bc .roi-booking-certificate__payment-subtotal-name,
+  .rb_bc .roi-booking-certificate__fees-subtotal-name,
+  .rb_bc .roi-booking-certificate__rate-subtotal-name,
+  .rb_bc .roi-booking-certificate__guests-subtotal-name,
+  .rb_bc .roi-booking-certificate__cancellation-subtotal-name,
+  .rb_bc .roi-booking-certificate__intermediary-subtotal-name,
+  .rb_bc .roi-booking-certificate__additional-subtotal-name {
+    font-size: 10px !important;
+    display: flex;
+    justify-content: flex-start;
+    min-width: 50%;
+    width: 50%;
+  }
+  .rb_bc .roi-booking-certificate__property-subtotal-price,
+  .rb_bc .roi-booking-certificate__client-subtotal-price,
+  .rb_bc .roi-booking-certificate__business-subtotal-price,
+  .rb_bc .roi-booking-certificate__agency-subtotal-price,
+  .rb_bc .roi-booking-certificate__locators-subtotal-price,
+  .rb_bc .roi-booking-certificate__pos-subtotal-price,
+  .rb_bc .roi-booking-certificate__billing-subtotal-price,
+  .rb_bc .roi-booking-certificate__room-subtotal-price,
+  .rb_bc .roi-booking-certificate__supplement-subtotal-price,
+  .rb_bc .roi-booking-certificate__extra-subtotal-price,
+  .rb_bc .roi-booking-certificate__package-subtotal-price,
+  .rb_bc .roi-booking-certificate__special-request-subtotal-price,
+  .rb_bc .roi-booking-certificate__payment-subtotal-price,
+  .rb_bc .roi-booking-certificate__fees-subtotal-price,
+  .rb_bc .roi-booking-certificate__rate-subtotal-price,
+  .rb_bc .roi-booking-certificate__guests-subtotal-price,
+  .rb_bc .roi-booking-certificate__cancellation-subtotal-price,
+  .rb_bc .roi-booking-certificate__intermediary-subtotal-price,
+  .rb_bc .roi-booking-certificate__additional-subtotal-price,
+  .rb_bc .roi-booking-certificate__property-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__client-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__business-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__agency-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__locators-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__pos-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__billing-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__room-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__supplement-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__extra-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__package-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__special-request-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__payment-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__fees-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__rate-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__guests-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__cancellation-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__intermediary-subtotal-price-amount,
+  .rb_bc .roi-booking-certificate__additional-subtotal-price-amount {
+    justify-content: flex-start;
+  }
+  .rb_bc .roi-booking-certificate__locators-info-value {
+    width: 100%;
+  }
+  .rb_bc .roi-booking-certificate__guests-data-item {
+    margin-bottom: 5px;
+  }
+  .rb_bc .roi-booking-certificate__room-subtotal--full .roi-booking-certificate__room-subtotal-name,
+  .rb_bc .roi-booking-certificate__supplement-subtotal--full .roi-booking-certificate__room-subtotal-name,
+  .rb_bc .roi-booking-certificate__extra-subtotal--full .roi-booking-certificate__room-subtotal-name,
+  .rb_bc .roi-booking-certificate__room-subtotal--full .roi-booking-certificate__supplement-subtotal-name,
+  .rb_bc .roi-booking-certificate__supplement-subtotal--full .roi-booking-certificate__supplement-subtotal-name,
+  .rb_bc .roi-booking-certificate__extra-subtotal--full .roi-booking-certificate__supplement-subtotal-name,
+  .rb_bc .roi-booking-certificate__room-subtotal--full .roi-booking-certificate__extra-subtotal-name,
+  .rb_bc .roi-booking-certificate__supplement-subtotal--full .roi-booking-certificate__extra-subtotal-name,
+  .rb_bc .roi-booking-certificate__extra-subtotal--full .roi-booking-certificate__extra-subtotal-name {
+    display: flex;
+    justify-content: flex-start;
+    min-width: 50%;
+    width: 50%;
+  }
+  .rb_bc .roi-booking-certificate__room-subtotal--full .roi-booking-certificate__room-subtotal-price,
+  .rb_bc .roi-booking-certificate__supplement-subtotal--full .roi-booking-certificate__room-subtotal-price,
+  .rb_bc .roi-booking-certificate__extra-subtotal--full .roi-booking-certificate__room-subtotal-price,
+  .rb_bc .roi-booking-certificate__room-subtotal--full .roi-booking-certificate__supplement-subtotal-price,
+  .rb_bc .roi-booking-certificate__supplement-subtotal--full .roi-booking-certificate__supplement-subtotal-price,
+  .rb_bc .roi-booking-certificate__extra-subtotal--full .roi-booking-certificate__supplement-subtotal-price,
+  .rb_bc .roi-booking-certificate__room-subtotal--full .roi-booking-certificate__extra-subtotal-text,
+  .rb_bc .roi-booking-certificate__supplement-subtotal--full .roi-booking-certificate__extra-subtotal-text,
+  .rb_bc .roi-booking-certificate__extra-subtotal--full .roi-booking-certificate__extra-subtotal-text {
+    width: 50%;
+  }
+  .rb_bc .roi-booking-certificate__room-subtotal--full .roi-booking-certificate__extra-subtotal-text > .roi-booking-certificate__extra-subtotal-price,
+  .rb_bc .roi-booking-certificate__supplement-subtotal--full .roi-booking-certificate__extra-subtotal-text > .roi-booking-certificate__extra-subtotal-price,
+  .rb_bc .roi-booking-certificate__extra-subtotal--full .roi-booking-certificate__extra-subtotal-text > .roi-booking-certificate__extra-subtotal-price {
+    width: auto;
+  }
+  .rb_bc .roi-booking-certificate__reconfirmation-text {
+    color: #191919 !important;
+  }
+  .rb_bc .roi-booking-certificate__reconfirmation-button {
+    color: #191919 !important;
+  }
+  .rb_bc .roi-booking-certificate__reconfirmation-button .svg-roi {
+    fill: #191919 !important;
+  }
+  .rb_bc .roi-booking-certificate__property,
+  .rb_bc .roi-booking-certificate__client {
+    border-bottom: 1px solid #191919 !important;
+    padding-bottom: 10px;
+  }
+  .rb_bc .roi-booking-certificate__property-row--full .roi-booking-certificate__property-info-value,
+  .rb_bc .roi-booking-certificate__client-row--full .roi-booking-certificate__property-info-value,
+  .rb_bc .roi-booking-certificate__property-row--full .roi-booking-certificate__client-info-value,
+  .rb_bc .roi-booking-certificate__client-row--full .roi-booking-certificate__client-info-value {
+    width: auto;
+  }
+  .rb_bc .roi-booking-certificate__room-item {
+    border-bottom: 0;
+    margin-bottom: 10px;
+    padding-bottom: 0;
+  }
+  .rb_bc .roi-booking-certificate__room-subtotal-price {
+    align-items: center;
+  }
+  .rb_bc .roi-booking-certificate__room-subtotal-loyalty-discount {
+    margin-right: 5px;
+  }
+  .rb_bc .roi-booking-certificate__room-subtotal-loyalty-discount,
+  .rb_bc .roi-booking-certificate__room-subtotal-loyalty-wrap {
+    width: auto;
+  }
+  .rb_bc .roi-booking-certificate__supplement-title,
+  .rb_bc .roi-booking-certificate__extra-title {
+    background-color: transparent !important;
+    margin-bottom: 5px;
+    padding: 0;
+  }
+  .rb_bc .roi-booking-certificate__supplement-item,
+  .rb_bc .roi-booking-certificate__extra-item {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  .rb_bc .roi-booking-certificate__total-price {
+    margin-bottom: 0;
+  }
+  .rb_bc .roi-booking-certificate__total-price-amount {
+    font-size: 20px !important;
+    font-weight: bold;
+  }
+  .rb_bc .roi-booking-certificate__total-price-logged-amount {
+    font-size: 20px !important;
+    font-weight: bold;
+  }
+  .rb_bc .roi-booking-certificate__total-taxes-text,
+  .rb_bc .roi-booking-certificate__total-no-taxes-text,
+  .rb_bc .roi-booking-certificate__total-currency-info-text,
+  .rb_bc .roi-booking-certificate__total-payment-text,
+  .rb_bc .roi-booking-certificate__total-amount-text,
+  .rb_bc .roi-booking-certificate__total-city-taxes-text,
+  .rb_bc .roi-booking-certificate__total-callcenter-text,
+  .rb_bc .roi-booking-certificate__total-collective-text,
+  .rb_bc .roi-booking-certificate__total-collective-extra-text,
+  .rb_bc .roi-booking-certificate__total-particular-text,
+  .rb_bc .roi-booking-certificate__total-agency-text,
+  .rb_bc .roi-booking-certificate__total-promocode-discount-text,
+  .rb_bc .roi-booking-certificate__total-affiliate-text,
+  .rb_bc .roi-booking-certificate__total-discount-text,
+  .rb_bc .roi-booking-certificate__total-promocode-text,
+  .rb_bc .roi-booking-certificate__total-registered-text {
+    font-size: 10px !important;
+  }
+  .rb_bc .roi-booking-certificate__total-agency-info-name,
+  .rb_bc .roi-booking-certificate__total-agency-info-taxes {
+    font-size: 10px !important;
+  }
+  .rb_bc .roi-booking-certificate__total-discount-text,
+  .rb_bc .roi-booking-certificate__total-promocode-text,
+  .rb_bc .roi-booking-certificate__total-registered-text {
+    background-color: transparent !important;
+    border-radius: 0;
+    color: #191919 !important;
+    font-size: 10px !important;
+    font-weight: normal;
+    margin: 5px 0 0;
+    padding: 0;
+    text-align: right;
+  }
+  .rb_bc .roi-booking-certificate__pending-approval-text {
+    color: #191919 !important;
+  }
+  .rb_bc .roi-booking-certificate__pre-stay-item {
+    background-color: transparent !important;
+    color: #191919 !important;
+  }
+  .rb_bc .roi-booking-certificate__pre-stay-info-link {
+    color: #191919 !important;
+  }
+  .rb_bc .roi-booking-certificate__details {
+    border: 0;
+    border-radius: 0;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 0;
+  }
+  .rb_bc .roi-booking-certificate__banner,
+  .rb_bc .roi-booking-certificate__fees,
+  .rb_bc .roi-booking-certificate__pre-stay,
+  .rb_bc .roi-booking-certificate__additional,
+  .rb_bc .roi-booking-certificate__guests,
+  .rb_bc .roi-booking-certificate__intermediary,
+  .rb_bc .roi-booking-certificate__cancellation,
+  .rb_bc .roi-booking-certificate__cancellation-policy,
+  .rb_bc .roi-booking-certificate__payment,
+  .rb_bc .roi-booking-certificate__fees,
+  .rb_bc .roi-booking-certificate__exclusive-advantage,
+  .rb_bc .roi-booking-certificate__comments,
+  .rb_bc .roi-booking-certificate__annexed,
+  .rb_bc .roi-booking-certificate__rate,
+  .rb_bc .roi-booking-certificate__rate-description,
+  .rb_bc .roi-booking-certificate__package-description,
+  .rb_bc .roi-booking-certificate__board-description,
+  .rb_bc .roi-booking-certificate__genius {
+    border-radius: 0;
+    margin: 0 auto 10px;
+    padding: 10px;
+  }
+  .rb_bc .roi-booking-certificate__additional-sublist {
+    background-color: #fff !important;
+    border: 1px solid #999999 !important;
+    border-radius: 0;
+    margin: 5px 0;
+    padding: 5px;
+  }
+  .rb_bc .roi-booking-certificate__additional-info-subitem {
+    display: inline-block;
+  }
+  .rb_bc .roi-booking-certificate__additional-info-subitem-name {
+    display: inline-block;
+    float: left;
+    font-size: 10px !important;
+    min-width: 50%;
+    width: 50%;
+  }
+  .rb_bc .roi-booking-certificate__additional-info-subitem-value {
+    display: inline-block;
+    width: 50%;
+  }
+  .rb_bc .roi-booking-certificate__rate-description-title,
+  .rb_bc .roi-booking-certificate__package-description-title,
+  .rb_bc .roi-booking-certificate__board-description-title {
+    margin-bottom: 5px;
+  }
+  .rb_bc .roi-booking-certificate__rate-item {
+    margin-bottom: 5px;
+    padding-bottom: 0;
+  }
+  .rb_bc .roi-booking-certificate__rate-item--last {
+    padding-bottom: 0;
+  }
+  .rb_bc .roi-booking-certificate__historical,
+  .rb_bc .roi-booking-certificate__widget {
+    display: none;
+  }
+  .rb_bc .roi-booking-certificate__rate-description-row,
+  .rb_bc .roi-booking-certificate__package-description-row,
+  .rb_bc .roi-booking-certificate__board-description-row,
+  .rb_bc .roi-booking-certificate__historical-row {
+    margin-bottom: 0;
+  }
+  .rb_bc .roi-booking-certificate__cancellation-info-text {
+    font-size: 10px !important;
+  }
+  .rb_bc .roi-booking-certificate__cancellation-policy-room-description {
+    margin: 5px 0;
+  }
+  .rb_bc .roi-booking-certificate__payment-description,
+  .rb_bc .roi-booking-certificate__fees-description {
+    margin: 5px 0;
+  }
+  .rb_bc .roi-booking-certificate__reconfirmation-description,
+  .rb_bc .roi-booking-certificate__info-extra-description,
+  .rb_bc .roi-booking-certificate__banner-description,
+  .rb_bc .roi-booking-certificate__pre-stay-description,
+  .rb_bc .roi-booking-certificate__cancellation-policy-room-description,
+  .rb_bc .roi-booking-certificate__cancellation-policy-package-description,
+  .rb_bc .roi-booking-certificate__payment-description,
+  .rb_bc .roi-booking-certificate__fees-description,
+  .rb_bc .roi-booking-certificate__rate-description-description,
+  .rb_bc .roi-booking-certificate__package-description-description,
+  .rb_bc .roi-booking-certificate__board-description-description,
+  .rb_bc .roi-booking-certificate__comments-description,
+  .rb_bc .roi-booking-certificate__annexed-description,
+  .rb_bc .roi-booking-certificate__reconfirmation-text,
+  .rb_bc .roi-booking-certificate__info-extra-text,
+  .rb_bc .roi-booking-certificate__banner-text,
+  .rb_bc .roi-booking-certificate__pre-stay-text,
+  .rb_bc .roi-booking-certificate__cancellation-policy-room-text,
+  .rb_bc .roi-booking-certificate__cancellation-policy-package-text,
+  .rb_bc .roi-booking-certificate__payment-text,
+  .rb_bc .roi-booking-certificate__fees-text,
+  .rb_bc .roi-booking-certificate__rate-description-text,
+  .rb_bc .roi-booking-certificate__package-description-text,
+  .rb_bc .roi-booking-certificate__board-description-text,
+  .rb_bc .roi-booking-certificate__comments-text,
+  .rb_bc .roi-booking-certificate__annexed-text {
+    margin: 5px 0;
+  }
+  .rb_bc .roi-booking-certificate__reconfirmation-info-description,
+  .rb_bc .roi-booking-certificate__info-extra-info-description,
+  .rb_bc .roi-booking-certificate__banner-info-description,
+  .rb_bc .roi-booking-certificate__pre-stay-info-description,
+  .rb_bc .roi-booking-certificate__cancellation-policy-room-info-description,
+  .rb_bc .roi-booking-certificate__cancellation-policy-package-info-description,
+  .rb_bc .roi-booking-certificate__payment-info-description,
+  .rb_bc .roi-booking-certificate__fees-info-description,
+  .rb_bc .roi-booking-certificate__rate-description-info-description,
+  .rb_bc .roi-booking-certificate__package-description-info-description,
+  .rb_bc .roi-booking-certificate__board-description-info-description,
+  .rb_bc .roi-booking-certificate__comments-info-description,
+  .rb_bc .roi-booking-certificate__annexed-info-description {
+    margin: 5px 0;
+  }
+  .rb_bc .roi-booking-certificate__exclusive-advantage {
+    background-color: transparent !important;
+    border: 3px solid #191919 !important;
+    padding: 10px;
+    width: auto;
+  }
+  .rb_bc .roi-booking-certificate__exclusive-advantage .svg-roi {
+    display: none;
+  }
+  .rb_bc .roi-booking-certificate__exclusive-advantage-wrap {
+    width: 100%;
+  }
+  .rb_bc .roi-booking-certificate__exclusive-advantage-title,
+  .rb_bc .roi-booking-certificate__exclusive-advantage-subtitle,
+  .rb_bc .roi-booking-certificate__exclusive-advantage-description {
+    color: #191919 !important;
+  }
+  .rb_bc .roi-booking-certificate__exclusive-advantage-title {
+    margin-bottom: 0;
+  }
+  .rb_bc .roi-booking-certificate__exclusive-advantage-subtitle,
+  .rb_bc .roi-booking-certificate__exclusive-advantage-description {
+    margin: 5px 0 0;
+  }
+  .rb_bc .roi-booking-certificate__exclusive-advantage--cancelled {
+    background-color: transparent !important;
+  }
+  .rb_bc .roi-booking-certificate__rate-title-room {
+    margin-bottom: 5px;
+  }
+  .rb_bc .roi-booking-certificate__rate-info {
+    margin-bottom: 5px;
+  }
+  .rb_bc .roi-booking-certificate__rate-info-tax {
+    font-size: 10px !important;
+  }
+}

@@ -955,11 +955,11 @@
                   data-url="/bookcore/availability/quohoteltenerifegolf/2019-11-05/2019-12-05/?hoteles_alternativos=True&amp;hotel_nodispo=quohotelplantaciondesur&amp;lang=es">
                 </div>
               </div>
-              <div class="bc_powered"><span><a href="#"
+            <!--  <div class="bc_powered"><span><a href="#"
                     title="Marketing Online Hoteles | Motor Reservas para Hoteles" target="_blank" rel="nofollow"><img
                       class="bc_powered__logo" src="/calendario_files/backhotel_logo.png"
                       title="Marketing Online Hoteles | Motor Reservas para Hoteles"
-                      alt="Marketing Online Hoteles | Motor Reservas para Hoteles"></a></span></div>
+                      alt="Marketing Online Hoteles | Motor Reservas para Hoteles"></a></span></div>-->
             </div>
           </div>
           <div class="content-carrito js-roi-cart" data-url="/bookcore/shopping-cart/?lang=es" data-lang="es"
@@ -1709,7 +1709,7 @@ var fdat = [day, month, year].join("-");
 */
       axios({
         method: "get",
-        url: "https://demo.quotravel.eu/resources/eyAiY3JlYXRlZCI6ICJGcmkgTWFyIDIyIDEwOjIyOjI5IENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZG1pbiIsICJhZ2VuY3lJZCI6ICIzIn0=/cms/hotelavailabilitycalendar",
+        url: "https://test.cloudcrx.net/resources/eyAiY3JlYXRlZCI6ICJXZWQgTm92IDEzIDIyOjQ2OjExIENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZ2VuY3kxIiwgImFnZW5jeUlkIjogIjEzMiJ9/cms/hotelavailabilitycalendar",
         params: {
           resorts: "hot-125",
           checkin: this.$route.query.entrada,
