@@ -3178,16 +3178,20 @@ var fdat = [day, month, year].join("/");
     //  if (this.$data.allrooms) {
         var s;
         for (var z in this.$data.rates.rates) {
+          if(this.$data.rates.rates[z].seleccionado !== undefined){
+
           
           if (s) s += ",";
           else s = "";
           s += this.$data.rates.rates[z].seleccionado;
-
+          
           /* for (var x in this.$data.rates.rates[z].options) {
             if (x.key === this.$data.rates.rates[z].seleccionado) {
             }
           }*/
+          
           localStorage.setItem('ccrx_cart', JSON.stringify( this.$data.cart))
+          }
         }
         this.$router.push({
           name: "Confirmation",
