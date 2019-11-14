@@ -529,9 +529,9 @@
                     <div class="dispo_habitaciones_head roi-room__head">
                       <div class="banner"></div>
                       <div class="summary">
-                         <h2
+                         <h2 v-if= "rates.rates.length >1"
                           
-                        >Para la ocupación {{ocupacion.ages ? ocupacion.paxPerRoom - ocupacion.ages.length : ocupacion.paxPerRoom}} Adultos {{ocupacion.ages ? ocupacion.ages.length : '0'}} niños</h2>
+                        >Habitación {{ocupacionindex + 1 }} para la ocupación {{ocupacion.ages ? ocupacion.paxPerRoom - ocupacion.ages.length : ocupacion.paxPerRoom}} Adulto/s {{ocupacion.ages.length >0 ? ocupacion.ages.length + ' niño/s' : ' '}}</h2>
                         <h2 class="summary_txt">
                           <strong v-if="ocupacion.options">
                             {{ocupacion.options.length}} Habitación disponible en el Hotel Quohotel
@@ -1910,6 +1910,7 @@ Impuestos incluidos
                         <a
                           class="btn-bc btn-book roi-booking-cart__summary-btn"
                           @click.prevent="confirm()"
+                          style="cursor:pointer;"
                         >¡Reservar ahora!</a>
                       </div>
                     </div>
@@ -3177,6 +3178,7 @@ var fdat = [day, month, year].join("/");
     //  if (this.$data.allrooms) {
         var s;
         for (var z in this.$data.rates.rates) {
+          
           if (s) s += ",";
           else s = "";
           s += this.$data.rates.rates[z].seleccionado;

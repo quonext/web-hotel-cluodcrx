@@ -361,7 +361,7 @@
                             >Código de confirmación:</span>
                             <span
                               class="roi-booking-certificate__locator-code-value"
-                            >{{this.$route.query.bookingid}}</span>
+                            >{{this.$route.query.bookingId}}</span>
                           </div>
                         </div>
                         <nav class="roi-booking-certificate__menu">

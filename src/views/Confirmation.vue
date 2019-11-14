@@ -2024,6 +2024,7 @@ export default {
             query: {
              // response: response,
             //  cart: _this.$data.cart,
+              bookingId: response.data.bookingId,
               leadName: _this.leadName,
               email: d.email,
               postalcode: d.postalcode,
