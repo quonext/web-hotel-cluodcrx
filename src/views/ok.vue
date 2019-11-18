@@ -3,9 +3,9 @@
     <header id="headerInternas">
       <div class="header-top">
         <div class="logo">
-          <a href="https://www.quohotellaplantaciondelsur.com/">
+          <a href="https://serene-kowalevski-d75031.netlify.com/">
             <img
-              src="/index_files/logo_5.jpg"
+              src="/index_files/logoquohotelwhite.png"
               width
               height
               title="5 estrellas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
@@ -153,43 +153,43 @@
                 <ul class="nav navbar-nav navbarMenu">
                   <li>
                     <a
-                      href="https://www.quohotellaplantaciondelsur.com/"
+                      href="https://serene-kowalevski-d75031.netlify.com/"
                       title="Hotel  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Hotel</a>
                   </li>
                   <li>
                     <a
-                      href="https://www.quohotellaplantaciondelsur.com/ofertas/"
+                      href="https://serene-kowalevski-d75031.netlify.com/ofertas/"
                       title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Ofertas</a>
                   </li>
                   <li>
                     <a
-                      href="https://www.quohotellaplantaciondelsur.com/habitaciones/"
+                      href="https://serene-kowalevski-d75031.netlify.com/habitaciones/"
                       title="Habitaciones  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Habitaciones</a>
                   </li>
                   <li>
                     <a
-                      href="https://www.quohotellaplantaciondelsur.com/fotos/"
+                      href="https://serene-kowalevski-d75031.netlify.com/fotos/"
                       title="Fotos  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Fotos</a>
                   </li>
                   <li>
                     <a
-                      href="https://www.quohotellaplantaciondelsur.com/servicios/"
+                      href="https://serene-kowalevski-d75031.netlify.com/servicios/"
                       title="Servicios  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Servicios</a>
                   </li>
                   <li class="hidden-md">
                     <a
-                      href="https://www.quohotellaplantaciondelsur.com/mapa/"
+                      href="https://serene-kowalevski-d75031.netlify.com/mapa/"
                       title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Mapa</a>
                   </li>
                   <li class="hidden-md">
                     <a
-                      href="https://www.quohotellaplantaciondelsur.com/contacto/"
+                      href="https://serene-kowalevski-d75031.netlify.com/contacto/"
                       title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Contacto</a>
                   </li>
@@ -208,13 +208,13 @@
                     <ul class="dropdown-menu dropMore" role="menu">
                       <li class="visible-md visible-sm">
                         <a
-                          href="https://www.quohotellaplantaciondelsur.com/mapa/"
+                          href="https://serene-kowalevski-d75031.netlify.com/mapa/"
                           title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                         >Mapa</a>
                       </li>
                       <li class="visible-md visible-sm">
                         <a
-                          href="https://www.quohotellaplantaciondelsur.com/contacto/"
+                          href="https://serene-kowalevski-d75031.netlify.com/contacto/"
                           title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                         >Contacto</a>
                       </li>
@@ -310,12 +310,12 @@
                     <div class="roi-booking-certificate__bonus">
                       <div class="roi-booking-certificate__logo">
                         <a
-                          href="https://vincciplantaciondesur.backhotelengine.com/"
+                          href="https://serene-kowalevski-d75031.netlify.com"
                           title="Hotel Vincci Selección la Plantación del Sur"
                           class="roi-booking-certificate__logo-link"
                         >
                           <img
-                            src="/index_files/logo_vincci_8yTzSoQ.jpg"
+                            src="/index_files/logoquohotelwhite.png"
                             title="Hotel Vincci Selección la Plantación del Sur"
                             alt="Vincci Selección la Plantación del Sur"
                             class="roi-booking-certificate__logo-image"
@@ -602,7 +602,7 @@
                           <!--    <div class="roi-booking-certificate__upgrade">
                                 <figure class="roi-booking-certificate__upgrade-figure">
                                   <a
-                                    href="https://vincciplantaciondesur.backhotelengine.com/bookcore/your-booking/confirmation/k1jp8ntzs/?lang=es&amp;s=00lq3ktsqnel61tnk2u5dsr7lzwqhoq3#"
+                                    href="https://serene-kowalevski-d75031.netlify.combookcore/your-booking/confirmation/k1jp8ntzs/?lang=es&amp;s=00lq3ktsqnel61tnk2u5dsr7lzwqhoq3#"
                                     data-roi-modal="roi-modal-rooms"
                                     data-url="https://www.vinccilaplantaciondelsur.com/bookcore/availability/landing-room/vincciplantaciondesur/superiorvmfr/1?lang=es"
                                     data-id="superiorvmfr"
@@ -1487,91 +1487,91 @@
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.quohotellaplantaciondelsur.com/"
+                  href="https://serene-kowalevski-d75031.netlify.com/"
                   title="Hotel"
                 >Hotel</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.quohotellaplantaciondelsur.com/directorio/"
+                  href="https://serene-kowalevski-d75031.netlify.com/directorio/"
                   title="Directorio Hoteles"
                 >Directorio Hoteles</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.quohotellaplantaciondelsur.com/ofertas/"
+                  href="https://serene-kowalevski-d75031.netlify.com/ofertas/"
                   title="Ofertas"
                 >Ofertas</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.quohotellaplantaciondelsur.com/"
+                  href="https://serene-kowalevski-d75031.netlify.com/"
                   title="¡Descuento del 20%!"
                 >Oferta - ¡Descuento del 20%!</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.quohotellaplantaciondelsur.com/habitaciones/"
+                  href="https://serene-kowalevski-d75031.netlify.com/habitaciones/"
                   title="Habitaciones"
                 >Habitaciones</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.quohotellaplantaciondelsur.com/fotos/"
+                  href="https://serene-kowalevski-d75031.netlify.com/fotos/"
                   title="Fotos"
                 >Fotos</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.quohotellaplantaciondelsur.com/servicios/"
+                  href="https://serene-kowalevski-d75031.netlify.com/servicios/"
                   title="Servicios"
                 >Servicios</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.quohotellaplantaciondelsur.com/mapa/"
+                  href="https://serene-kowalevski-d75031.netlify.com/mapa/"
                   title="Mapa"
                 >Mapa</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.quohotellaplantaciondelsur.com/opiniones/"
+                  href="https://serene-kowalevski-d75031.netlify.com/opiniones/"
                   title="Opiniones"
                 >Opiniones</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.quohotellaplantaciondelsur.com/contacto/"
+                  href="https://serene-kowalevski-d75031.netlify.com/contacto/"
                   title="Contacto"
                 >Contacto</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.quohotellaplantaciondelsur.com/politica-cookies/"
+                  href="https://serene-kowalevski-d75031.netlify.com/politica-cookies/"
                   title="Política de cookies"
                 >Política de cookies</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.quohotellaplantaciondelsur.com/aviso-legal-y-uso-de-la-web/"
+                  href="https://serene-kowalevski-d75031.netlify.com/aviso-legal-y-uso-de-la-web/"
                   title="Aviso legal y uso de la página web"
                 >Aviso legal y uso de la página web</a>
               </li>
               <li class="list-group-item">
                 <a
                   target="_blank"
-                  href="https://www.quohotellaplantaciondelsur.com/politica-privacidad-para-estancias/"
+                  href="https://serene-kowalevski-d75031.netlify.com/politica-privacidad-para-estancias/"
                   title="Política de privacidad para las estancias"
                 >Política de privacidad para las estancias</a>
               </li>
@@ -1720,7 +1720,7 @@
                 <li class="pol">
                   <input type="checkbox" name="politica" required id="id_politica" /> He leído y acepto la
                   <a
-                    href="https://www.quohotellaplantaciondelsur.com/Politica-privacidad/"
+                    href="https://serene-kowalevski-d75031.netlify.com/Politica-privacidad/"
                     target="_blank"
                   >política de privacidad</a>
                 </li>

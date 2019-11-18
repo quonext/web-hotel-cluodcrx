@@ -4,7 +4,7 @@
       <div class="header-top">
         <div class="logo">
           <img
-            src="/index_files/bb3f02f44748fb4747a314f69f5bff12.png"
+            src="/index_files/logoquohotel.png"
             width="67"
             height="84"
             title="5 estrellas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"

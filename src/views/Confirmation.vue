@@ -5,7 +5,7 @@
         <div class="logo">
           <a href="https://serene-kowalevski-d75031.netlify.com">
             <img
-              src="/index_files/logo_5.jpg"
+              src="/index_files/logoquohotelwhite.png"
               width
               height
               title="5 estrellas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
