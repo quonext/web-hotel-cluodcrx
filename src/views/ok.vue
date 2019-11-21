@@ -150,55 +150,37 @@
                 </button>
               </div>
               <div class="collapse navbar-collapse cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left">
-                <ul class="nav navbar-nav navbarMenu">
-                  <li>
+               <ul class="nav navbar-nav navbarMenu">
+                  <li class="active">
                     <a
-                      href="https://serene-kowalevski-d75031.netlify.com/"
+                      href="https://serene-kowalevski-d75031.netlify.com"
                       title="Hotel  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                     >Hotel</a>
                   </li>
                   <li>
-                    <a
-                      href="https://serene-kowalevski-d75031.netlify.com/ofertas/"
-                      title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Ofertas</a>
+                    <a href="#" title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Ofertas</a>
                   </li>
                   <li>
-                    <a
-                      href="https://serene-kowalevski-d75031.netlify.com/habitaciones/"
-                      title="Habitaciones  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Habitaciones</a>
+                  <router-link to="/habitaciones">Habitaciones</router-link>
                   </li>
                   <li>
-                    <a
-                      href="https://serene-kowalevski-d75031.netlify.com/fotos/"
-                      title="Fotos  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Fotos</a>
+                     <router-link to="/fotos">Fotos</router-link>
                   </li>
                   <li>
-                    <a
-                      href="https://serene-kowalevski-d75031.netlify.com/servicios/"
-                      title="Servicios  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Servicios</a>
+                     <router-link to="/servicios">Servicios</router-link>
+                  </li>
+             <!--     <li class="hidden-md">
+                    <a href="#" title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Mapa</a>
                   </li>
                   <li class="hidden-md">
-                    <a
-                      href="https://serene-kowalevski-d75031.netlify.com/mapa/"
-                      title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Mapa</a>
-                  </li>
-                  <li class="hidden-md">
-                    <a
-                      href="https://serene-kowalevski-d75031.netlify.com/contacto/"
-                      title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Contacto</a>
-                  </li>
+                    <a href="#" title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Contacto</a>
+                  </li>-->
                   <li class="booking">
-                    <a href="javascript:void(0)" title="Mi reserva" class="mireserva">Mi reserva</a>
+                     <router-link to="/verreservas">Mi reserva</router-link>
                   </li>
                   <li class="dropdown visible-md">
                     <a
-                      href="https://quohotelplantaciondesur.backhotelengine.com/bookcore/confirmation-form/?lang=es&amp;s=9aq0lqf3ksns6lx2cncjvtj7xf693rw6&amp;r1=1&amp;_ga=2.238079363.248180235.1571914621-1280613609.1571914621#"
+                      href="https://serene-kowalevski-d75031.netlify.com/#"
                       data-toggle="dropdown"
                       class="dropdown-toggle"
                     >
@@ -207,14 +189,11 @@
                     </a>
                     <ul class="dropdown-menu dropMore" role="menu">
                       <li class="visible-md visible-sm">
-                        <a
-                          href="https://serene-kowalevski-d75031.netlify.com/mapa/"
-                          title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                        >Mapa</a>
+                        <a href="#" title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Mapa</a>
                       </li>
                       <li class="visible-md visible-sm">
                         <a
-                          href="https://serene-kowalevski-d75031.netlify.com/contacto/"
+                          href="#"
                           title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
                         >Contacto</a>
                       </li>
@@ -231,7 +210,7 @@
       <div class="contenedor_header">
         <div class="container">
           <div class="motor" style="    width: 100%;
-    height: 10%; padding:50px;" >
+    height: 10%; padding:50px;  " >
             <!--<form id="motorform">
               <div class="box_inside">
                 <h3>¡RESERVA AHORA!</h3>
@@ -1920,12 +1899,16 @@ export default {
     },
 
     formatDate: function(date) {
+      if(date){
       var month = date.substr(4, 2);
       var day = date.substr(6, 2);
       var year = date.substr(0, 4);
 
       var fdat = [day, month, year].join("/");
       return fdat;
+      }else{
+        return ""
+      }
     }
   },
   mounted() {}

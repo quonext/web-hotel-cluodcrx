@@ -119,7 +119,7 @@
               </div>
               <div class="collapse navbar-collapse cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left">
                 <ul class="nav navbar-nav navbarMenu">
-                  <li>
+                  <li class="active">
                     <a
                       href="https://serene-kowalevski-d75031.netlify.com"
                       title="Hotel  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
@@ -129,31 +129,29 @@
                     <a href="#" title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Ofertas</a>
                   </li>
                   <li>
-                    <a
-                      href="#"
-                      title="Habitaciones  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Habitaciones</a>
+                  <router-link to="/habitaciones">Habitaciones</router-link>
                   </li>
                   <li>
-                    <a href="@" title="Fotos  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Fotos</a>
+                     <router-link to="/fotos">Fotos</router-link>
                   </li>
                   <li>
-                    <a
-                      href="#"
-                      title="Servicios  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Servicios</a>
+                     <router-link to="/servicios">Servicios</router-link>
                   </li>
-                  <li class="hidden-md">
+             <!--     <li class="hidden-md">
                     <a href="#" title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Mapa</a>
                   </li>
                   <li class="hidden-md">
                     <a href="#" title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Contacto</a>
-                  </li>
+                  </li>-->
                   <li class="booking">
-                    <a href="javascript:void(0)" title="Mi reserva" class="mireserva">Mi reserva</a>
+                   <router-link to="/verreservas">Mi reserva</router-link>
                   </li>
                   <li class="dropdown visible-md">
-                    <a href="#" data-toggle="dropdown" class="dropdown-toggle">
+                    <a
+                      href="https://serene-kowalevski-d75031.netlify.com/#"
+                      data-toggle="dropdown"
+                      class="dropdown-toggle"
+                    >
                       Más
                       <b class="caret"></b>
                     </a>
@@ -2125,7 +2123,11 @@ export default {
   name: "confirmation",
   data: function() {
     return {
-      
+         fechaEntrada: "",
+      fechaSalida: "",
+      entrada: this.$route.query.entrada,
+      salida: this.$route.query.salida,
+      ocupacionr:this.$route.query.ocupacion,
       commentsToProvider: "",
       email: "",
       name: "",
@@ -2144,8 +2146,7 @@ export default {
       ccv: "",
       email2: "",
       coupon: null,
-      entrada: this.$route.query.entrada,
-      salida: this.$route.query.salida,
+
       multilanguage: langfile.multilanguage,
       detalles: null,
       language: "es",
@@ -2156,35 +2157,59 @@ export default {
   },
    computed: {
     formatedEntrada: function() {
-      if (this.$data.fechaEntrada) {
-        var dd = this.$data.fechaEntrada.split("/");
-        console.log(dd);
-        if (dd) {
-          return {
-            day: parseInt(dd[0]),
-            month: this.getFormMonth(dd[1]),
-            year: dd[2]
-          };
-        } else {
-          return "";
+         var month
+          var day
+           var year
+        if(this.$data.fechaEntrada){
+           month = this.getnumdate(this.$data.fechaEntrada).substr(4, 2);
+           day = this.getnumdate(this.$data.fechaEntrada).substr(6, 2);
+         year = this.getnumdate(this.$data.fechaEntrada).substr(0, 4);
+
+        return {
+          day: parseInt(day),
+          month: this.getFormMonth(month),
+          year: year
+        };
         }
+     else if (this.$data.entrada) {
+        month = this.$data.entrada.substr(4, 2);
+         day = this.$data.entrada.substr(6, 2);
+        year = this.$data.entrada.substr(0, 4);
+
+        return {
+          day: parseInt(day),
+          month: this.getFormMonth(month),
+          year: year
+        };
       } else {
         return "";
       }
     },
     formatedSalida: function() {
-      if (this.$data.fechaSalida) {
-        var dd = this.$data.fechaSalida.split("/");
-        console.log(dd);
-        if (dd) {
-          return {
-            day: parseInt(dd[0]),
-            month: this.getFormMonth(dd[1]),
-            year: dd[2]
-          };
-        } else {
-          return "";
+         var month
+          var day
+           var year
+        if(this.$data.fechaSalida){
+           month = this.getnumdate(this.$data.fechaSalida).substr(4, 2);
+           day = this.getnumdate(this.$data.fechaSalida).substr(6, 2);
+         year = this.getnumdate(this.$data.fechaSalida).substr(0, 4);
+
+        return {
+          day: parseInt(day),
+          month: this.getFormMonth(month),
+          year: year
+        };
         }
+     else if (this.$data.salida) {
+         month = this.$data.salida.substr(4, 2);
+       day = this.$data.salida.substr(6, 2);
+         year = this.$data.salida.substr(0, 4);
+
+        return {
+          day: parseInt(day),
+          month: this.getFormMonth(month),
+          year: year
+        };
       } else {
         return "";
       }
@@ -2228,6 +2253,37 @@ export default {
           totalchild: this.$data.totalchild
         }
       });
+    },
+      getFormMonth(m) {
+      switch (m) {
+        case "1":
+          return "ENE";
+        case "2":
+          return "FEB";
+        case "3":
+          return "MAR";
+        case "4":
+          return "ABR";
+        case "5":
+          return "MAY";
+        case "6":
+          return "JUN";
+        case "7":
+          return "JUL";
+        case "8":
+          return "AGO";
+        case "9":
+          return "SEP";
+
+        case "10":
+          return "OCT";
+
+        case "11":
+          return "NOV";
+
+        case "12":
+          return "DIC";
+      }
     },
     getnumdate(fecha){
 

@@ -116,42 +116,40 @@
                 </button>
               </div>
               <div class="collapse navbar-collapse cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left">
-                <ul class="nav navbar-nav navbarMenu">
-                  <li>
-                    <a href="#" title="Hotel  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Hotel</a>
+               <ul class="nav navbar-nav navbarMenu">
+                  <li class="active">
+                    <a
+                      href="https://serene-kowalevski-d75031.netlify.com"
+                      title="Hotel  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
+                    >Hotel</a>
                   </li>
                   <li>
                     <a href="#" title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Ofertas</a>
                   </li>
                   <li>
-                    <a
-                      href="#"
-                      title="Habitaciones  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Habitaciones</a>
+                  <router-link to="/habitaciones">Habitaciones</router-link>
                   </li>
                   <li>
-                    <a href="#" title="Fotos  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Fotos</a>
+                     <router-link to="/fotos">Fotos</router-link>
                   </li>
                   <li>
-                    <a
-                      href="#"
-                      title="Servicios  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Servicios</a>
+                     <router-link to="/servicios">Servicios</router-link>
                   </li>
-                  <li class="hidden-md">
+             <!--     <li class="hidden-md">
                     <a href="#" title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Mapa</a>
                   </li>
                   <li class="hidden-md">
                     <a href="#" title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Contacto</a>
-                  </li>
+                  </li>-->
                   <li class="booking">
-                    <a href="javascript:void(0)" title="Mi reserva" class="mireserva">
-                      Mi
-                      reserva
-                    </a>
+                      <router-link to="/verreservas">Mi reserva</router-link>
                   </li>
                   <li class="dropdown visible-md">
-                    <a href="#" data-toggle="dropdown" class="dropdown-toggle">
+                    <a
+                      href="https://serene-kowalevski-d75031.netlify.com/#"
+                      data-toggle="dropdown"
+                      class="dropdown-toggle"
+                    >
                       Más
                       <b class="caret"></b>
                     </a>
