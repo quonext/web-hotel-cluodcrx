@@ -291,13 +291,13 @@
                       <div class="roi-booking-certificate__logo">
                         <a
                           href="https://serene-kowalevski-d75031.netlify.com"
-                          title="Hotel Vincci Selección la Plantación del Sur"
+                          title="Hotel quohotel Selección la Plantación del Sur"
                           class="roi-booking-certificate__logo-link"
                         >
                           <img
                             src="/index_files/logoquohotelwhite.png"
-                            title="Hotel Vincci Selección la Plantación del Sur"
-                            alt="Vincci Selección la Plantación del Sur"
+                            title="Hotel quohotel Selección la Plantación del Sur"
+                            alt="quohotel Selección la Plantación del Sur"
                             class="roi-booking-certificate__logo-image"
                           />
                         </a>
@@ -325,7 +325,7 @@
                           <div class="roi-booking-certificate__voucher-receipt">
                             <h2
                               class="roi-booking-certificate__voucher-receipt-text"
-                            >Comprobante de reserva - Hotel Vincci Selección la Plantación del Sur</h2>
+                            >Comprobante de reserva - Hotel Quohotel Selección la Plantación del Sur</h2>
                           </div>
                         </div>
                         <div
@@ -349,7 +349,7 @@
                             <li class="roi-booking-certificate__menu-item">
                               <a
                                 class="roi-booking-certificate__menu-button roi-booking-certificate__menu-button--print"
-                                href="https://www.vinccilaplantaciondelsur.com/bookcore/your-booking/k1jp8ntzs/print/?lang=es"
+                                href="https://www.quohotellaplantaciondelsur.com/bookcore/your-booking/k1jp8ntzs/print/?lang=es"
                                 title="Imprimir reserva"
                               >
                                 <svg
@@ -372,7 +372,7 @@
                             <li class="roi-booking-certificate__menu-item">
                               <a
                                 class="roi-booking-certificate__menu-button roi-booking-certificate__menu-button--pdf"
-                                href="https://www.vinccilaplantaciondelsur.com/bookcore/your-booking/k1jp8ntzs/pdf/?lang=es"
+                                href="https://www.quohotellaplantaciondelsur.com/bookcore/your-booking/k1jp8ntzs/pdf/?lang=es"
                                 title="Descargar pdf"
                               >
                                 <svg
@@ -395,7 +395,7 @@
                             <li class="roi-booking-certificate__menu-item">
                               <a
                                 class="roi-booking-certificate__menu-button roi-booking-certificate__menu-button--cancel"
-                                href="https://www.vinccilaplantaciondelsur.com/bookcore/cancellation/k1jp8ntzs/?lang=es"
+                                href="https://www.quohotellaplantaciondelsur.com/bookcore/cancellation/k1jp8ntzs/?lang=es"
                                 title="Cancelar"
                               >
                                 <svg
@@ -433,7 +433,7 @@
                               >Nombre del establecimiento:</span>
                               <span
                                 class="roi-booking-certificate__property-info-value"
-                              >Hotel Vincci Selección la Plantación del Sur</span>
+                              >Hotel quohotel Selección la Plantación del Sur</span>
                             </div>
                             <div class="roi-booking-certificate__property-row">
                               <span
@@ -449,7 +449,7 @@
                               >Email de reservas:</span>
                               <span
                                 class="roi-booking-certificate__property-info-value"
-                              >reservas.laplantacion@vinccihoteles.com</span>
+                              >reservas.laplantacion@quohotelhoteles.com</span>
                             </div>
                             <div class="roi-booking-certificate__property-row">
                               <span class="roi-booking-certificate__property-info-name">Teléfono:</span>
@@ -584,7 +584,7 @@
                                   <a
                                     href="https://serene-kowalevski-d75031.netlify.combookcore/your-booking/confirmation/k1jp8ntzs/?lang=es&amp;s=00lq3ktsqnel61tnk2u5dsr7lzwqhoq3#"
                                     data-roi-modal="roi-modal-rooms"
-                                    data-url="https://www.vinccilaplantaciondelsur.com/bookcore/availability/landing-room/vincciplantaciondesur/superiorvmfr/1?lang=es"
+                                    data-url="https://www.quohotellaplantaciondelsur.com/bookcore/availability/landing-room/quohotelplantaciondesur/superiorvmfr/1?lang=es"
                                     data-id="superiorvmfr"
                                     class="roi-modal__show roi-booking-certificate__upgrade-link"
                                   >
@@ -621,7 +621,7 @@
                                     </p>
                                     <a
                                       class="roi-booking-certificate__upgrade-button"
-                                      href="https://www.vinccilaplantaciondelsur.com/bookcore/booking-upgrade-confirmation/?room_code=superiorvmfr&amp;upgrade_price=30&amp;is_from_prestay=False&amp;board_code=AD&amp;booking_code=k1jp8ntzs"
+                                      href="https://www.quohotellaplantaciondelsur.com/bookcore/booking-upgrade-confirmation/?room_code=superiorvmfr&amp;upgrade_price=30&amp;is_from_prestay=False&amp;board_code=AD&amp;booking_code=k1jp8ntzs"
                                     >Mejorar habitación</a>
                                   </figcaption>
                                 </figure>
@@ -782,7 +782,7 @@
                         <h2 class="roi-booking-certificate__annexed-title">Descripción</h2>
                         <p
                           class="roi-booking-certificate__annexed-description"
-                        >El lujo más exquisito en un espacio de aire colonial pensado para el relax. Sí, el Vincci Selección La Plantación del Sur es un auténtico sueño. Un hotel de lujo con spa en Playa del Duque, la más hermosa de Costa Adeje, ideal para vacaciones con niños, escapadas románticas, viajes con amigos y celebraciones especiales.</p>
+                        >El lujo más exquisito en un espacio de aire colonial pensado para el relax. Sí, el quohotel Selección La Plantación del Sur es un auténtico sueño. Un hotel de lujo con spa en Playa del Duque, la más hermosa de Costa Adeje, ideal para vacaciones con niños, escapadas románticas, viajes con amigos y celebraciones especiales.</p>
                       </div>
                       <div class="roi-booking-certificate__rate">
                         <h2 class="roi-booking-certificate__rate-title">Tarifas utilizadas</h2>

@@ -6,6 +6,7 @@ import Disponibilidad from '../views/Disponibilidad.vue'
 import Habitaciones from '../views/Habitaciones.vue'
 import verreservas from '../views/verreservas.vue'
 import calendario from '../views/calendario.vue'
+import cancelar from '../views/cancelar.vue'
 import Confirmation from '../views/Confirmation.vue'
 import VCalendar from 'v-calendar';
 //import 'v-calendar/lib/v-calendar.min.css';
@@ -43,6 +44,10 @@ const routes = [
     path: '/verreservas',
     name: 'verreservas',
     component: verreservas
+  }, {
+    path: '/cancelar',
+    name: 'cancelar',
+    component: cancelar
   },
   {
     path: '/confirmation',
