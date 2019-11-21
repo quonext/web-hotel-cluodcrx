@@ -3,6 +3,7 @@ import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import ok from '../views/ok.vue'
 import Disponibilidad from '../views/Disponibilidad.vue'
+import Habitaciones from '../views/Habitaciones.vue'
 import calendario from '../views/calendario.vue'
 import Confirmation from '../views/Confirmation.vue'
 import VCalendar from 'v-calendar';
@@ -21,6 +22,11 @@ const routes = [
     path: '/',
     name: 'home',
     component: Home
+  },
+  {
+    path: '/habitaciones',
+    name: 'Habitaciones',
+    component: Habitaciones
   },
   {
     path: '/disponibilidad',

@@ -27,47 +27,27 @@
               </a>
               <ul class="dropdown-menu dropMenu" role="menu">
                 <li>
-                  <a
-                    href="#"
-                    title="Política de cookies"
-                    rel="nofollow"
-                  >Política de cookies</a>
+                  <a href="#" title="Política de cookies" rel="nofollow">Política de cookies</a>
                 </li>
                 <li>
-                  <a
-                    href="#"
-                    title="Aviso legal y uso de la página web"
-                    rel="nofollow"
-                  >
+                  <a href="#" title="Aviso legal y uso de la página web" rel="nofollow">
                     Aviso legal y uso de la
                     página web
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="#"
-                    title="Política de privacidad para las estancias.."
-                    rel="nofollow"
-                  >
+                  <a href="#" title="Política de privacidad para las estancias.." rel="nofollow">
                     Política de
                     privacidad para las estancias..
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="#"
-                    title="Política de privacidad"
-                    rel="nofollow"
-                  >Política de privacidad</a>
+                  <a href="#" title="Política de privacidad" rel="nofollow">Política de privacidad</a>
                 </li>
               </ul>
             </div>
             <div class="idioma dropdown">
-              <a
-                href="#"
-                class="dropdown-toggle"
-                data-toggle="dropdown"
-              >
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                 Español
                 <span class="bandera">
                   <span class="flag es"></span>
@@ -78,45 +58,25 @@
               </a>
               <ul class="dropdown-menu dropMenu" role="menu">
                 <li>
-                  <a
-                    href="#"
-                    class="idiomas"
-                    itemprop="language"
-                    title="English"
-                  >
+                  <a href="#" class="idiomas" itemprop="language" title="English">
                     <span class="flag en"></span>
                     <span class="idiomasText">English</span>
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="#"
-                    class="idiomas"
-                    itemprop="language"
-                    title="Deutsch"
-                  >
+                  <a href="#" class="idiomas" itemprop="language" title="Deutsch">
                     <span class="flag de"></span>
                     <span class="idiomasText">Deutsch</span>
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="#"
-                    class="idiomas"
-                    itemprop="language"
-                    title="Français"
-                  >
+                  <a href="#" class="idiomas" itemprop="language" title="Français">
                     <span class="flag fr"></span>
                     <span class="idiomasText">Français</span>
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="#"
-                    class="idiomas"
-                    itemprop="language"
-                    title="Italiano"
-                  >
+                  <a href="#" class="idiomas" itemprop="language" title="Italiano">
                     <span class="flag it"></span>
                     <span class="idiomasText">Italiano</span>
                   </a>
@@ -158,16 +118,10 @@
               <div class="collapse navbar-collapse cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left">
                 <ul class="nav navbar-nav navbarMenu">
                   <li>
-                    <a
-                      href="#"
-                      title="Hotel  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Hotel</a>
+                    <a href="#" title="Hotel  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Hotel</a>
                   </li>
                   <li>
-                    <a
-                      href="#"
-                      title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Ofertas</a>
+                    <a href="#" title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Ofertas</a>
                   </li>
                   <li>
                     <a
@@ -176,10 +130,7 @@
                     >Habitaciones</a>
                   </li>
                   <li>
-                    <a
-                      href="#"
-                      title="Fotos  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Fotos</a>
+                    <a href="#" title="Fotos  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Fotos</a>
                   </li>
                   <li>
                     <a
@@ -188,16 +139,10 @@
                     >Servicios</a>
                   </li>
                   <li class="hidden-md">
-                    <a
-                      href="#"
-                      title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Mapa</a>
+                    <a href="#" title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Mapa</a>
                   </li>
                   <li class="hidden-md">
-                    <a
-                      href="#"
-                      title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                    >Contacto</a>
+                    <a href="#" title="Contacto  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Contacto</a>
                   </li>
                   <li class="booking">
                     <a href="javascript:void(0)" title="Mi reserva" class="mireserva">
@@ -206,20 +151,13 @@
                     </a>
                   </li>
                   <li class="dropdown visible-md">
-                    <a
-                      href="#"
-                      data-toggle="dropdown"
-                      class="dropdown-toggle"
-                    >
+                    <a href="#" data-toggle="dropdown" class="dropdown-toggle">
                       Más
                       <b class="caret"></b>
                     </a>
                     <ul class="dropdown-menu dropMore" role="menu">
                       <li class="visible-md visible-sm">
-                        <a
-                          href="#"
-                          title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                        >Mapa</a>
+                        <a href="#" title="Mapa  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Mapa</a>
                       </li>
                       <li class="visible-md visible-sm">
                         <a
@@ -246,61 +184,61 @@
               method="POST"
             >
               <div class="box_inside">
-                  <h3>¡RESERVA AHORA!</h3>
-                  <div class="fechas">
-                    <div class="entrada">
-                      <label>Entrada</label>
-                      <div class="bordeFechas" @click="focus('entrada')">
-                        <span class>
-                          <strong>{{formatedEntrada.day}}</strong>
-                          <em>{{formatedEntrada.month}} {{formatedEntrada.year}}</em>
-                        </span>
-                        <input
-                          type="text"
-                          name="entrada"
-                          value="24/10/2019"
-                          readonly="readonly"
-                          required
-                          id="id_entrada"
-                          class="hasDatepicker"
-                        />
-                        <input
-                          type="text"
-                          id="datepickerEntrada"
-                          v-model="fechaEntrada"
-                          style="visibility:visible; z-index:-1"
-                        />
-                      </div>
-                    </div>
-                    <div class="salida">
-                      <label>Salida</label>
-                      <div class="bordeFechas" @click="focus('salida')">
-                        <span class>
-                          <strong>{{formatedSalida.day}}</strong>
-                          <em>{{formatedSalida.month}} {{formatedSalida.year}}</em>
-                        </span>
-                        <input
-                          type="text"
-                          name="salida"
-                          value="25/10/2019"
-                          readonly="readonly"
-                          required
-                          id="id_salida"
-                          class="hasDatepicker"
-                        />
-                        <input
-                          type="text"
-                          id="datepickerSalida"
-                          v-model="fechaSalida"
-                          style="visibility:visible; z-index:-1"
-                        />
-                      </div>
+                <h3>¡RESERVA AHORA!</h3>
+                <div class="fechas">
+                  <div class="entrada">
+                    <label>Entrada</label>
+                    <div class="bordeFechas" @click="focus('entrada')">
+                      <span class>
+                        <strong>{{formatedEntrada.day}}</strong>
+                        <em>{{formatedEntrada.month}} {{formatedEntrada.year}}</em>
+                      </span>
+                      <input
+                        type="text"
+                        name="entrada"
+                        :value="entrada"
+                        readonly="readonly"
+                        required
+                        id="id_entrada"
+                        class="hasDatepicker"
+                      />
+                      <input
+                        type="text"
+                        id="datepickerEntrada"
+                        v-model="fechaEntrada"
+                        style="visibility:visible; z-index:-1"
+                      />
                     </div>
                   </div>
-                  <div class="fechas consulta">
-                    <div class="entrada" style="width: 44%;margin-right: 15px;">
-                      <label>Ocupación</label>
-                     <div @click="elegirocupacion()">
+                  <div class="salida">
+                    <label>Salida</label>
+                    <div class="bordeFechas" @click="focus('salida')">
+                      <span class>
+                        <strong>{{formatedSalida.day}}</strong>
+                        <em>{{formatedSalida.month}} {{formatedSalida.year}}</em>
+                      </span>
+                      <input
+                        type="text"
+                        name="salida"
+                        :value="salida"
+                        readonly="readonly"
+                        required
+                        id="id_salida"
+                        class="hasDatepicker"
+                      />
+                      <input
+                        type="text"
+                        id="datepickerSalida"
+                        v-model="fechaSalida"
+                        style="visibility:visible; z-index:-1"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div class="fechas consulta">
+                  <div class="entrada" style="width: 44%;margin-right: 15px;">
+                    <label>Ocupación</label>
+                    <div @click="elegirocupacion()">
                       <div class="bordeFechas" style="width: 52%;">
                         <span style="padding: 10px 0px 10px 10px; text-align: center;">
                           <strong>{{totaladults}}</strong>
@@ -325,16 +263,20 @@
                           <em>niños</em>
                         </span>
                       </div>
-                      </div>
-                    </div>
-                    <div class="box-check btn-dispo">
-                      <button title="¡Comprobar disponibilidad!" class="btn btn-motor btn-consulta" @click.prevent="getdispo()">
-                        ¡Comprobar disponibilidad!
-                        <span>Mejor Precio Online</span>
-                      </button>
                     </div>
                   </div>
-                  <!--<div class="consulta">
+                  <div class="box-check btn-dispo">
+                    <button
+                      title="¡Comprobar disponibilidad!"
+                      class="btn btn-motor btn-consulta"
+                      @click.prevent="getdispo()"
+                    >
+                      ¡Comprobar disponibilidad!
+                      <span>Mejor Precio Online</span>
+                    </button>
+                  </div>
+                </div>
+                <!--<div class="consulta">
                     <div class="box-promo">
                       <span class="promocode">
                         ¿Tienes un código promocional?
@@ -360,8 +302,8 @@
                         <span>Mejor Precio Online</span>
                       </button>
                     </div>
-                  </div>-->
-                </div>
+                </div>-->
+              </div>
             </form>
           </div>
         </div>
@@ -466,12 +408,7 @@
                         >Ver condiciones</a>
                       </span>
                     </div>
-                    <a
-                      href="#"
-                      title="Cerrar ventaja exclusiva"
-                      class="cerrar"
-                      aria-label="Cerrar"
-                    >
+                    <a href="#" title="Cerrar ventaja exclusiva" class="cerrar" aria-label="Cerrar">
                       <svg
                         class="svg-roi svg-roi_close"
                         width="28px"
@@ -525,855 +462,635 @@
                   </div>
                   <!-- cabecera -->
                   <div v-if="rates">
-                  <div v-for="(ocupacion,ocupacionindex) in rates.rates" :key="ocupacionindex">
-                    <div class="dispo_habitaciones_head roi-room__head">
-                      <div class="banner"></div>
-                      <div class="summary">
-                         <h2 v-if= "rates.rates.length >1"
-                          
-                        >Habitación {{ocupacionindex + 1 }} para la ocupación {{ocupacion.ages ? ocupacion.paxPerRoom - ocupacion.ages.length : ocupacion.paxPerRoom}} Adulto/s {{ocupacion.ages.length >0 ? ocupacion.ages.length + ' niño/s' : ' '}}</h2>
-                        <h2 class="summary_txt">
-                          <strong v-if="ocupacion.options">
-                            {{ocupacion.options.length}} Habitación disponible en el Hotel Quohotel
-                            Selección la Plantación del Sur
-                          </strong>
-                        </h2>
-                       
-                        <span class="summary_fecha">
-                          Del
-                          <strong>{{formatDate(entrada)}}</strong> al
-                          <strong>{{formatDate(salida)}}</strong>
-                          
-                        </span>
-                        <div></div>
-                      </div>
-                    </div>
+                    <div v-for="(ocupacion,ocupacionindex) in rates.rates" :key="ocupacionindex">
+                      <div class="dispo_habitaciones_head roi-room__head">
+                        <div class="banner"></div>
+                        <div class="summary">
+                          <h2
+                            v-if="rates.rates.length >1"
+                          >Habitación {{ocupacionindex + 1 }} para la ocupación {{ocupacion.ages ? ocupacion.paxPerRoom - ocupacion.ages.length : ocupacion.paxPerRoom}} Adulto/s {{ocupacion.ages.length >0 ? ocupacion.ages.length + ' niño/s' : ' '}}</h2>
+                          <h2 class="summary_txt">
+                            <strong v-if="ocupacion.options">
+                              {{ocupacion.options.length}} Habitación disponible en el Hotel Quohotel
+                              Selección la Plantación del Sur
+                            </strong>
+                          </h2>
 
-                    <div class="bc_actions">
-                      <div class="bc_tools">
-                        <div class="bc_tool bc_tool_orden">
-                          <span class="bc_tool_orden_tit">
-                            Ordenar
-                            habitaciones por:
+                          <span class="summary_fecha">
+                            Del
+                            <strong>{{formatDate(entrada)}}</strong> al
+                            <strong>{{formatDate(salida)}}</strong>
                           </span>
-                          <span>
-                            <a
-                              href="#"
-                            >PRECIO</a>
-                            <a
-                              href="#"
-                            >NOMBRE</a>
-                            <a
-                              href="#"
-                            >OFERTAS</a>
-                          </span>
+                          <div></div>
                         </div>
                       </div>
-                    </div>
-                    <div
-                      id="habitacion_lateraldosninos"
-                      class="habitacion"
-                      v-for="(options, indexroom) in ocupacion.options"
-                      :key="indexroom"
-                    >
-                      <div class="hab_head">
-                        <div class="image_hab col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                          <div
-                            class="roi-carousel roi-carousel-dispo js-roi-carousel"
-                            role="thumbnail"
-                            data-active-index="1"
-                            data-room="lateraldosninos"
-                            aria-label="lateraldosninos"
-                          >
-                            <div class="roi-carousel__wrap">
-                              <ol class="roi-carousel__list" role="listbox">
-                                <li
-                                  class="roi-carousel__item js-roi-carousel__item roi-carousel__item--current"
-                                  data-id="1"
-                                  aria-selected="true"
-                                  role="option"
-                                >
-                                  <a
-                                    href="#"
-                                    class="roi-modal__show"
-                                    data-roi-modal="roi-modal-rooms"
-                                    data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/1?lang=es"
-                                    data-id="lateraldosninos"
-                                  >
-                                    <img
-                                      src="/index_files/2015-VSLP-foto-Habitacion-Superior-Vista-Panoramica-compressor_MW9WxGz.jpg.480x360_q85_crop-smart.jpg"
-                                      title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
-                                      data-tracking-event-type="viewGalleryRoom"
-                                      data-tracking-event-data="{
-                             &quot;eLabel&quot;: &quot;lateraldosninos&quot;
-                         }"
-                                    />
-                                  </a>
-                                </li>
-                                <li
-                                  class="roi-carousel__item js-roi-carousel__item"
-                                  data-id="2"
-                                  aria-selected="false"
-                                  role="option"
-                                >
-                                  <a
-                                    href="#"
-                                    class="roi-modal__show"
-                                    data-roi-modal="roi-modal-rooms"
-                                    data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/2?lang=es"
-                                    data-id="lateraldosninos"
-                                  >
-                                    <img
-                                      src="/index_files/2015_VSLP_foto_Habitacion_Doble_con_Vista_Mar_Lateral.jpg.480x360_q85_crop-smart.jpg"
-                                      title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
-                                      alt="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
-                                      data-tracking-event-type="viewGalleryRoom"
-                                      data-tracking-event-data="{
-                             &quot;eLabel&quot;: &quot;lateraldosninos&quot;
-                         }"
-                                    />
-                                  </a>
-                                </li>
-                                <li
-                                  class="roi-carousel__item js-roi-carousel__item"
-                                  data-id="3"
-                                  aria-selected="false"
-                                  role="option"
-                                >
-                                  <a
-                                    href="#"
-                                    class="roi-modal__show"
-                                    data-roi-modal="roi-modal-rooms"
-                                    data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/3?lang=es"
-                                    data-id="lateraldosninos"
-                                  >
-                                    <img
-                                      src="/index_files/051.jpg.480x360_q85_crop-smart.jpg"
-                                      title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
-                                      data-tracking-event-type="viewGalleryRoom"
-                                      data-tracking-event-data="{
-                             &quot;eLabel&quot;: &quot;lateraldosninos&quot;
-                         }"
-                                    />
-                                  </a>
-                                </li>
-                                <li
-                                  class="roi-carousel__item js-roi-carousel__item"
-                                  data-id="4"
-                                  aria-selected="false"
-                                  role="option"
-                                >
-                                  <a
-                                    href="#"
-                                    class="roi-modal__show"
-                                    data-roi-modal="roi-modal-rooms"
-                                    data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/4?lang=es"
-                                    data-id="lateraldosninos"
-                                  >
-                                    <img
-                                      src="/index_files/2015_VSLP_foto_Habitacion_Doble_Vista_Jardin_Terraza_3_4g6HHdo.jpg.480x360_q85_crop-smart.jpg"
-                                      title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
-                                      alt="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
-                                      data-tracking-event-type="viewGalleryRoom"
-                                      data-tracking-event-data="{
-                             &quot;eLabel&quot;: &quot;lateraldosninos&quot;
-                         }"
-                                    />
-                                  </a>
-                                </li>
-                                <li
-                                  class="roi-carousel__item js-roi-carousel__item"
-                                  data-id="5"
-                                  aria-selected="false"
-                                  role="option"
-                                >
-                                  <a
-                                    href="#"
-                                    class="roi-modal__show"
-                                    data-roi-modal="roi-modal-rooms"
-                                    data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/5?lang=es"
-                                    data-id="lateraldosninos"
-                                  >
-                                    <img
-                                      src="/index_files/2015_VSLP_foto_Habitacion_Doble_Vista_Jardin_-_Terraza_2_SNl4xxq.jpg.480x360_q85_crop-smart.jpg"
-                                      title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
-                                      alt="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
-                                      data-tracking-event-type="viewGalleryRoom"
-                                      data-tracking-event-data="{
-                             &quot;eLabel&quot;: &quot;lateraldosninos&quot;
-                         }"
-                                    />
-                                  </a>
-                                </li>
-                                <li
-                                  class="roi-carousel__item js-roi-carousel__item"
-                                  data-id="6"
-                                  aria-selected="false"
-                                  role="option"
-                                >
-                                  <a
-                                    href="#"
-                                    class="roi-modal__show"
-                                    data-roi-modal="roi-modal-rooms"
-                                    data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/6?lang=es"
-                                    data-id="lateraldosninos"
-                                  >
-                                    <img
-                                      src="/index_files/2015_VSLP_foto_Habitacion_Doble_-_Dormitorio1_YMVwmf1.jpg.480x360_q85_crop-smart.jpg"
-                                      title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
-                                      alt="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
-                                      data-tracking-event-type="viewGalleryRoom"
-                                      data-tracking-event-data="{
-                             &quot;eLabel&quot;: &quot;lateraldosninos&quot;
-                         }"
-                                    />
-                                  </a>
-                                </li>
-                              </ol>
-                              <div class="roi-carousel__nav" data-room="lateraldosninos">
-                                <button
-                                  class="roi-carousel__prev roi-carousel__control js-roi-carousel__prev"
-                                  data-target="prev"
-                                  title="Foto anterior"
-                                >
-                                  <svg
-                                    class="svg-roi svg-roi_arrow-thin-left"
-                                    width="28px"
-                                    height="28px"
-                                    viewBox="0 0 28 28"
-                                    focusable="false"
-                                    xmlns="http://www.w3.org/2000/svg"
-                                  >
-                                    <path
-                                      d="M8.226 14.137l12.7 12.736-.668.666-13.362-13.4L20.434.461l.67.664z"
-                                      fill-rule="nonzero"
-                                    />
-                                  </svg>
-                                </button>
-                                <button
-                                  class="roi-carousel__next roi-carousel__control js-roi-carousel__next"
-                                  data-target="next"
-                                  title="Foto siguiente"
-                                >
-                                  <svg
-                                    class="svg-roi svg-roi_arrow-thin-right"
-                                    width="28px"
-                                    height="28px"
-                                    viewBox="0 0 28 28"
-                                    focusable="false"
-                                    xmlns="http://www.w3.org/2000/svg"
-                                  >
-                                    <path
-                                      d="M19.774 13.863L7.074 1.127l.668-.666 13.362 13.4L7.566 27.539l-.67-.664z"
-                                      fill-rule="nonzero"
-                                    />
-                                  </svg>
-                                </button>
-                              </div>
-                            </div>
+
+                      <div class="bc_actions">
+                        <div class="bc_tools">
+                          <div class="bc_tool bc_tool_orden">
+                            <span class="bc_tool_orden_tit">
+                              Ordenar
+                              habitaciones por:
+                            </span>
+                            <span>
+                              <a href="#">PRECIO</a>
+                              <a href="#">NOMBRE</a>
+                              <a href="#">OFERTAS</a>
+                            </span>
                           </div>
-                        </div>
-                        <div class="hab_head_info col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                          <h3 class="hab_titulo">{{options.roomName}}</h3>
-                          <p class="hab_txt">
-                            <span>{{options.roomDescription}}</span>
-                            <a
-                              href="#"
-                              class="hidden-xs roi-modal__show"
-                              data-roi-modal="roi-modal-rooms"
-                              data-id="lateraldosninos"
-                              data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/1?lang=es"
-                              data-klass="modal_bc_hotel_lateraldosninos"
-                              data-toggle="modal"
-                              data-tracking-event-type="seeMoreLink"
-                              data-tracking-event-data="{
-                       &quot;eLabel&quot;: &quot;lateraldosninos&quot;
-                   }"
-                              aria-label="Ver más, Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
-                            >Ver más</a>
-                          </p>
-                          <ul class="services_list hidden-xs">
-                            <li class="box_item_info">
-                              <button
-                                aria-label="Luz natural"
-                                class="trigger"
-                                data-original-title
-                                title
-                              >
-                                <svg
-                                  class="svg-roi-services svg-roi-services_LUZNAT"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  viewBox="0 0 32 32"
-                                >
-                                  <path class="st0" d="M15 0h2v4h-2z" />
-                                  <path
-                                    transform="rotate(-45.001 25.9 6.1)"
-                                    class="st0"
-                                    d="M23.9 5.1h4v2h-4z"
-                                  />
-                                  <path class="st0" d="M28 15h4v2h-4zM0 15h4v2H0z" />
-                                  <path
-                                    transform="rotate(-45.001 6.1 6.1)"
-                                    class="st0"
-                                    d="M5.1 4.1h2v4h-2z"
-                                  />
-                                  <path
-                                    class="st0"
-                                    d="M25.6 19c.2-1 .4-2 .4-3 0-5.5-4.5-10-10-10S6 10.5 6 16c0 1 .2 2 .5 3C2.9 19 0 21.9 0 25.5S2.9 32 6.5 32h19.1c3.6 0 6.5-2.9 6.5-6.5S29.2 19 25.6 19zM16 8c4.4 0 8 3.6 8 8 0 1.2-.3 2.4-.8 3.5-.1 0-.1.1-.2.1-1.4-2.8-4.3-4.7-7.6-4.7-2.8 0-5.4 1.4-7 3.7-.2-.8-.4-1.7-.4-2.6 0-4.4 3.6-8 8-8zm9.6 22H6.5C4 30 2 28 2 25.5S4 21 6.5 21c.6 0 1.2.1 1.6.3l.9.5.4-.9c1.1-2.4 3.5-3.9 6-3.9 2.8 0 5.3 1.8 6.2 4.4l.4 1.2 1.1-.7c.8-.5 1.7-.8 2.5-.8 2.5 0 4.5 2 4.5 4.5s-2 4.4-4.5 4.4z"
-                                  />
-                                </svg>
-                              </button>
-                              <div class="content hide">Luz natural</div>
-                            </li>
-                            <li class="box_item_info">
-                              <button
-                                aria-label="Servicio de habitaciones"
-                                class="trigger"
-                                data-original-title
-                                title
-                              >
-                                <svg
-                                  class="svg-roi-services svg-roi-services_ROOMSER"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  viewBox="0 0 32 32"
-                                >
-                                  <path
-                                    class="st0"
-                                    d="M30 9v7H11v-2c0-2.2-1.8-4-4-4H2V3H0v26h2v-6h28v6h2V9h-2zM2 12h5c1.1 0 2 .9 2 2v2H2v-4zm28 9H2v-3h28v3z"
-                                  />
-                                </svg>
-                              </button>
-                              <div class="content hide">Servicio de habitaciones</div>
-                            </li>
-                            <li class="box_item_info">
-                              <button
-                                aria-label="Plancha y tabla"
-                                class="trigger"
-                                data-original-title
-                                title
-                              >
-                                <svg
-                                  class="svg-roi-services svg-roi-services_PLANCHAT"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  viewBox="0 0 44 27"
-                                >
-                                  <title>iron</title>
-                                  <path
-                                    class="st0"
-                                    d="M38.6 1.3l-.4-.1C33.4.1 28.5.1 23.8 1.3 13 4.1 7.2 9.8 4.2 20.2L.4 24.7l32.9 1.6.3-4.3c0-.7.2-1.5.7-2 .5-.6 1.2-.9 2-.9l7.1.1-4.8-17.9zM32 24.8L3.4 23.4l1.8-2.2 26.9 1.4-.1 2.2zm4.3-7.1c-2 0-3.8 1.5-4 3.5L5.8 19.9c2.9-9.4 8.4-14.6 18.4-17.3 4.4-1 8.9-1.1 13.3-.2l4.1 15.3h-5.3z"
-                                  />
-                                  <path
-                                    transform="matrix(.03246 -.9995 .9995 .03246 16.796 40.693)"
-                                    class="st0"
-                                    d="M28.7 7.9h1.4v7.6h-1.4z"
-                                  />
-                                  <path
-                                    class="st0"
-                                    d="M36.6 4.7l-.5-.1c-3.3-.4-6.6-.3-9.8.4-5.9 1.6-8.6 3.9-11 9.4l-.4 1 24.7.7-3-11.4zm-10 1.7c2.9-.6 5.9-.7 8.8-.4l2.3 8.6-20.6-.6c2-4.3 4.5-6.2 9.5-7.6z"
-                                  />
-                                </svg>
-                              </button>
-                              <div class="content hide">Plancha y tabla</div>
-                            </li>
-                            <li class="box_item_info">
-                              <button
-                                aria-label="Wifi gratuito"
-                                class="trigger"
-                                data-original-title
-                                title
-                              >
-                                <svg
-                                  class="svg-roi-services svg-roi-services_WISALFR"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  viewBox="0 0 32 32"
-                                >
-                                  <path
-                                    class="st0"
-                                    d="M16 20c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm0 6c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zM16 12c-3.2 0-6.3 1.3-8.5 3.5l-.7.7 1.4 1.4.7-.7c1.8-1.8 4.4-2.9 7.1-2.9 2.7 0 5.2 1 7.1 2.9l.7.7 1.4-1.4-.7-.7C22.3 13.2 19.2 12 16 12zM30.3 9.9C26.4 6.1 21.3 4 16 4 10.7 4 5.6 6.1 1.7 9.9l-.7.7L2.4 12l.7-.7C6.6 7.9 11.2 6 16 6s9.4 1.9 12.9 5.3l.7.7 1.4-1.4-.7-.7z"
-                                  />
-                                </svg>
-                              </button>
-                              <div class="content hide">Wifi gratuito</div>
-                            </li>
-                            <li class="box_item_info">
-                              <button aria-label="Bañera" class="trigger" data-original-title title>
-                                <svg
-                                  class="svg-roi-services svg-roi-services_BANERA"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  viewBox="0 0 32 32"
-                                >
-                                  <path
-                                    class="st0"
-                                    d="M32 6c0-2.8-2.2-5-5-5-2.4 0-4.5 1.8-4.9 4.1-2.3.4-4.1 2.5-4.1 4.9v1h10v-1c0-2.4-1.7-4.3-3.9-4.9C24.5 3.9 25.6 3 27 3c1.7 0 3 1.3 3 3v12H0v2.7c0 4.5 3.6 8.1 8 8.3v3h2v-3h12v3h2v-3c4.4-.2 7.9-3.8 7.9-8.3V20h.1V6zm-6.2 3h-5.7c.4-1.2 1.5-2 2.8-2s2.5.8 2.9 2zm4.1 11.7c0 3.5-2.8 6.3-6.3 6.3H8.3C4.8 27 2 24.2 2 20.7V20h27.9v.7z"
-                                  />
-                                  <path class="st0" d="M18 13h2v3h-2zM22 13h2v3h-2zM26 13h2v3h-2z" />
-                                </svg>
-                              </button>
-                              <div class="content hide">Bañera</div>
-                            </li>
-                            <li class="box_item_info">
-                              <button
-                                aria-label="Caja Fuerte"
-                                class="trigger"
-                                data-original-title
-                                title
-                              >
-                                <svg
-                                  class="svg-roi-services svg-roi-services_CAJFU"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  viewBox="0 0 32 32"
-                                >
-                                  <path class="st0" d="M0 0v29h32V0H0zm30 27H2V2h28v25z" />
-                                  <path
-                                    class="st0"
-                                    d="M4 26h25V3H4v3H3v6h1v5H3v6h1v3zm1-7h1v2H5v-2zM5 8h1v2H5V8zm1 4h2V6H6V5h21v19H6v-1h2v-6H6v-5z"
-                                  />
-                                  <path
-                                    class="st0"
-                                    d="M17 23c4.4 0 8-3.6 8-8s-3.6-8-8-8-8 3.6-8 8 3.6 8 8 8zm-3.5-3.1l2.2-2.2c.4.2.8.3 1.3.3s.9-.1 1.3-.3l2.2 2.2c-1 .7-2.2 1.1-3.5 1.1-1.3 0-2.5-.4-3.5-1.1zM18 15c0 .6-.4 1-1 1s-1-.4-1-1 .4-1 1-1 1 .4 1 1zm5 0c0 1.3-.4 2.5-1.1 3.5l-2.2-2.2c.2-.4.3-.8.3-1.3s-.1-.9-.3-1.3l2.2-2.2c.7 1 1.1 2.2 1.1 3.5zm-2.5-4.9l-2.2 2.2c-.4-.2-.8-.3-1.3-.3s-.9.1-1.3.3l-2.2-2.2c1-.7 2.2-1.1 3.5-1.1 1.3 0 2.5.4 3.5 1.1zm-8.4 1.4l2.2 2.2c-.2.4-.3.8-.3 1.3s.1.9.3 1.3l-2.2 2.2c-.7-1-1.1-2.2-1.1-3.5 0-1.3.4-2.5 1.1-3.5zM3 30h7v2H3zM22 30h7v2h-7z"
-                                  />
-                                </svg>
-                              </button>
-                              <div class="content hide">Caja Fuerte</div>
-                            </li>
-                            <li class="box_item_info">
-                              <button
-                                aria-label="Ducha de hidromasaje"
-                                class="trigger"
-                                data-original-title
-                                title
-                              >
-                                <svg
-                                  class="svg-roi-services svg-roi-services_HUHMSG"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  viewBox="0 0 32 32"
-                                >
-                                  <path
-                                    class="st0"
-                                    d="M15 26h2v5h-2zM10 24h2v4h-2zM20 24h2v4h-2zM28 16c0-6.3-4.9-11.4-11-11.9V1h-2v3.1C8.9 4.6 4 9.7 4 16c-1.7 0-3 1.3-3 3s1.3 3 3 3h24c1.7 0 3-1.3 3-3s-1.3-3-3-3zM16 6c5.5 0 10 4.5 10 10H6c0-5.5 4.5-10 10-10zm12 14H4c-.6 0-1-.4-1-1s.4-1 1-1h24c.6 0 1 .4 1 1s-.4 1-1 1z"
-                                  />
-                                </svg>
-                              </button>
-                              <div class="content hide">Ducha de hidromasaje</div>
-                            </li>
-                            <li class="box_item_info">
-                              <button
-                                aria-label="Terraza en habitación"
-                                class="trigger"
-                                data-original-title
-                                title
-                              >
-                                <svg
-                                  class="svg-roi-services svg-roi-services_TERRAZA"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  viewBox="0 0 32 32"
-                                >
-                                  <path
-                                    class="st0"
-                                    d="M29.8 18.5c-1.2.3-2.4.5-3.6.5C18.9 19 13 13.1 13 5.8c0-1.1.2-2.3.5-3.6l.4-1.7-1.7.5C5.6 2.9 1 8.9 1 15.7 1 24.1 7.9 31 16.3 31c6.9 0 12.9-4.6 14.7-11.2l.4-1.6-1.6.3zM16.3 29C9 29 3 23 3 15.7c0-5.3 3.3-10.1 8.2-12.2-.1.8-.2 1.6-.2 2.3C11 14.2 17.8 21 26.2 21c.7 0 1.5-.1 2.3-.2-2 4.9-6.8 8.2-12.2 8.2z"
-                                  />
-                                  <path
-                                    class="st0"
-                                    d="M20 7h2V5h2V3h-2V1h-2v2h-2v2h2zM27 15h2v-2h2v-2h-2V9h-2v2h-2v2h2z"
-                                  />
-                                </svg>
-                              </button>
-                              <div class="content hide">Terraza en habitación</div>
-                            </li>
-                            <li class="box_item_info">
-                              <button
-                                aria-label="Climatización individual"
-                                class="trigger"
-                                data-original-title
-                                title
-                              >
-                                <svg
-                                  class="svg-roi-services svg-roi-services_CLIMATI"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  viewBox="0 0 32 32"
-                                >
-                                  <path class="st0" d="M0 16v15h32V16H0zm30 13H2V18h28v11z" />
-                                  <path
-                                    class="st0"
-                                    d="M5 24h22v2H5zM15 1h2v11h-2zM8 7h2v7H8zM22 7h2v7h-2z"
-                                  />
-                                </svg>
-                              </button>
-                              <div class="content hide">Climatización individual</div>
-                            </li>
-                            <li class="box_item_info">
-                              <button
-                                aria-label="Televisión satélite"
-                                class="trigger"
-                                data-original-title
-                                title
-                              >
-                                <svg
-                                  class="svg-roi-services svg-roi-services_TVSATEL"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  viewBox="0 0 32 32"
-                                >
-                                  <path
-                                    class="st0"
-                                    d="M20.5 5.4l-1-.2-.5 1.9 1 .2c1.4.3 2.5 1.1 3.2 2.3.7 1.2.9 2.6.6 3.9l-.2 1 1.9.5.2-1c.4-1.9.1-3.8-.9-5.4-.9-1.6-2.5-2.8-4.3-3.2z"
-                                  />
-                                  <path
-                                    class="st0"
-                                    d="M29.1 6c-1.7-2.7-4.4-4.7-7.5-5.4l-1-.2-.5 1.9 1 .2c2.6.6 4.9 2.2 6.3 4.5 1.4 2.3 1.8 5 1.2 7.7l-.2 1 1.9.5.2-1c.8-3.2.3-6.5-1.4-9.2zM19.2 13.5c.2 0 .3.1.5.1.9 0 1.7-.8 1.7-1.7s-.8-1.7-1.7-1.7-1.7.7-1.7 1.7l-1.2.9-5.9-7.5-.9.7c-4.1 3.6-4.8 9.6-1.8 14-.4.5-1.1 1.4-2.2 2.9l-.2.3V24.9C3 25.5.9 27.9.7 31v1h12.6v-1c-.1-3.2-2.5-5.8-5.4-6.2v-.9c.7-1 1.3-1.7 1.7-2.2 2 2 4.8 3.1 7.5 3.1 2.2 0 4.3-.7 6.2-2l.9-.6-6.2-7.8 1.2-.9zm.8-1.6s-.1 0 0 0c0 0 0-.1-.1-.1 0-.1-.1-.1-.1-.1.1-.1.2 0 .2.2zm-8.9 18H2.9c.5-1.9 2.2-3.3 4.1-3.3s3.6 1.4 4.1 3.3zm-.9-10.5c-2.6-3.3-2.4-8.1.3-11.2l10.6 13.4c-3.6 2-8.3 1.1-10.9-2.2z"
-                                  />
-                                </svg>
-                              </button>
-                              <div class="content hide">Televisión satélite</div>
-                            </li>
-                          </ul>
                         </div>
                       </div>
                       <div
-                        class="hab_ocupacion hab_ocupacion_lateraldosninos"
-                        data-codhab="lateraldosninos"
-                        data-ocupacion_inicial="2-2-0"
-                        data-ocupacion_seleccionada="2-2-0"
-                        data-hotelcode="quohotelplantaciondesur"
-                        data-edades_ninos_inicial="[&quot;2&quot;,&quot;2&quot;]"
-                        data-edades="[&quot;2&quot;,&quot;2&quot;]"
-                        data-ocupaciones="[&quot;2-2-0&quot;]"
+                        id="habitacion_lateraldosninos"
+                        class="habitacion"
+                        v-for="(options, indexroom) in ocupacion.options"
+                        :key="indexroom"
                       >
-                        <div class="hab_ocupacion_inner clearfix">
-                          <div class="hab_total_personas">
-                            <span class="occupancy_title">
-                              Ocupación
-                              seleccionada:
-                            </span>
-                            <div class="icons_people" >
-                              <span v-for="n in parseInt(ocupacion.paxPerRoom)"  class="icons_people_wrap" :key="n">
-                                <svg
-                                  class="svg-roi svg-roi_person"
-                                  width="28px"
-                                  height="28px"
-                                  viewBox="0 0 28 28"
-                                  focusable="false"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                >
-                                  <path
-                                    d="M22.02 7.903c0 4.213-3.59 12.031-8.02 12.031S5.98 12.116 5.98 7.903C5.98 3.69 9.57.275 14 .275s8.02 3.415 8.02 7.628zM20.76 18.988c4.315 1.194 7.238 3.56 7.238 6.614 0 1.493-.996 2.123-3.793 2.123H3.796c-2.797 0-3.793-.629-3.793-2.123 0-3.055 2.923-5.42 7.238-6.614 1.8 2.172 4.089 3.704 6.759 3.704s4.959-1.53 6.759-3.704z"
-                                    fill-rule="nonzero"
-                                  />
-                                </svg>
-                              </span>
-                          
+                        <div class="hab_head">
+                          <div class="image_hab col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div
+                              class="roi-carousel roi-carousel-dispo js-roi-carousel"
+                              role="thumbnail"
+                              data-active-index="1"
+                              data-room="lateraldosninos"
+                              aria-label="lateraldosninos"
+                            >
+                              <div class="roi-carousel__wrap">
+                                <ol class="roi-carousel__list" role="listbox">
+                                  <li
+                                    class="roi-carousel__item js-roi-carousel__item roi-carousel__item--current"
+                                    data-id="1"
+                                    aria-selected="true"
+                                    role="option"
+                                  >
+                                    <a
+                                      href="#"
+                                      class="roi-modal__show"
+                                      data-roi-modal="roi-modal-rooms"
+                                      data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/1?lang=es"
+                                      data-id="lateraldosninos"
+                                    >
+                                      <img
+                                        src="/index_files/2015-VSLP-foto-Habitacion-Superior-Vista-Panoramica-compressor_MW9WxGz.jpg.480x360_q85_crop-smart.jpg"
+                                        title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
+                                        data-tracking-event-type="viewGalleryRoom"
+                                        data-tracking-event-data="{
+                             &quot;eLabel&quot;: &quot;lateraldosninos&quot;
+                         }"
+                                      />
+                                    </a>
+                                  </li>
+                                  <li
+                                    class="roi-carousel__item js-roi-carousel__item"
+                                    data-id="2"
+                                    aria-selected="false"
+                                    role="option"
+                                  >
+                                    <a
+                                      href="#"
+                                      class="roi-modal__show"
+                                      data-roi-modal="roi-modal-rooms"
+                                      data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/2?lang=es"
+                                      data-id="lateraldosninos"
+                                    >
+                                      <img
+                                        src="/index_files/2015_VSLP_foto_Habitacion_Doble_con_Vista_Mar_Lateral.jpg.480x360_q85_crop-smart.jpg"
+                                        title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
+                                        alt="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
+                                        data-tracking-event-type="viewGalleryRoom"
+                                        data-tracking-event-data="{
+                             &quot;eLabel&quot;: &quot;lateraldosninos&quot;
+                         }"
+                                      />
+                                    </a>
+                                  </li>
+                                  <li
+                                    class="roi-carousel__item js-roi-carousel__item"
+                                    data-id="3"
+                                    aria-selected="false"
+                                    role="option"
+                                  >
+                                    <a
+                                      href="#"
+                                      class="roi-modal__show"
+                                      data-roi-modal="roi-modal-rooms"
+                                      data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/3?lang=es"
+                                      data-id="lateraldosninos"
+                                    >
+                                      <img
+                                        src="/index_files/051.jpg.480x360_q85_crop-smart.jpg"
+                                        title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
+                                        data-tracking-event-type="viewGalleryRoom"
+                                        data-tracking-event-data="{
+                             &quot;eLabel&quot;: &quot;lateraldosninos&quot;
+                         }"
+                                      />
+                                    </a>
+                                  </li>
+                                  <li
+                                    class="roi-carousel__item js-roi-carousel__item"
+                                    data-id="4"
+                                    aria-selected="false"
+                                    role="option"
+                                  >
+                                    <a
+                                      href="#"
+                                      class="roi-modal__show"
+                                      data-roi-modal="roi-modal-rooms"
+                                      data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/4?lang=es"
+                                      data-id="lateraldosninos"
+                                    >
+                                      <img
+                                        src="/index_files/2015_VSLP_foto_Habitacion_Doble_Vista_Jardin_Terraza_3_4g6HHdo.jpg.480x360_q85_crop-smart.jpg"
+                                        title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
+                                        alt="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
+                                        data-tracking-event-type="viewGalleryRoom"
+                                        data-tracking-event-data="{
+                             &quot;eLabel&quot;: &quot;lateraldosninos&quot;
+                         }"
+                                      />
+                                    </a>
+                                  </li>
+                                  <li
+                                    class="roi-carousel__item js-roi-carousel__item"
+                                    data-id="5"
+                                    aria-selected="false"
+                                    role="option"
+                                  >
+                                    <a
+                                      href="#"
+                                      class="roi-modal__show"
+                                      data-roi-modal="roi-modal-rooms"
+                                      data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/5?lang=es"
+                                      data-id="lateraldosninos"
+                                    >
+                                      <img
+                                        src="/index_files/2015_VSLP_foto_Habitacion_Doble_Vista_Jardin_-_Terraza_2_SNl4xxq.jpg.480x360_q85_crop-smart.jpg"
+                                        title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
+                                        alt="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
+                                        data-tracking-event-type="viewGalleryRoom"
+                                        data-tracking-event-data="{
+                             &quot;eLabel&quot;: &quot;lateraldosninos&quot;
+                         }"
+                                      />
+                                    </a>
+                                  </li>
+                                  <li
+                                    class="roi-carousel__item js-roi-carousel__item"
+                                    data-id="6"
+                                    aria-selected="false"
+                                    role="option"
+                                  >
+                                    <a
+                                      href="#"
+                                      class="roi-modal__show"
+                                      data-roi-modal="roi-modal-rooms"
+                                      data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/6?lang=es"
+                                      data-id="lateraldosninos"
+                                    >
+                                      <img
+                                        src="/index_files/2015_VSLP_foto_Habitacion_Doble_-_Dormitorio1_YMVwmf1.jpg.480x360_q85_crop-smart.jpg"
+                                        title="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
+                                        alt="Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
+                                        data-tracking-event-type="viewGalleryRoom"
+                                        data-tracking-event-data="{
+                             &quot;eLabel&quot;: &quot;lateraldosninos&quot;
+                         }"
+                                      />
+                                    </a>
+                                  </li>
+                                </ol>
+                                <div class="roi-carousel__nav" data-room="lateraldosninos">
+                                  <button
+                                    class="roi-carousel__prev roi-carousel__control js-roi-carousel__prev"
+                                    data-target="prev"
+                                    title="Foto anterior"
+                                  >
+                                    <svg
+                                      class="svg-roi svg-roi_arrow-thin-left"
+                                      width="28px"
+                                      height="28px"
+                                      viewBox="0 0 28 28"
+                                      focusable="false"
+                                      xmlns="http://www.w3.org/2000/svg"
+                                    >
+                                      <path
+                                        d="M8.226 14.137l12.7 12.736-.668.666-13.362-13.4L20.434.461l.67.664z"
+                                        fill-rule="nonzero"
+                                      />
+                                    </svg>
+                                  </button>
+                                  <button
+                                    class="roi-carousel__next roi-carousel__control js-roi-carousel__next"
+                                    data-target="next"
+                                    title="Foto siguiente"
+                                  >
+                                    <svg
+                                      class="svg-roi svg-roi_arrow-thin-right"
+                                      width="28px"
+                                      height="28px"
+                                      viewBox="0 0 28 28"
+                                      focusable="false"
+                                      xmlns="http://www.w3.org/2000/svg"
+                                    >
+                                      <path
+                                        d="M19.774 13.863L7.074 1.127l.668-.666 13.362 13.4L7.566 27.539l-.67-.664z"
+                                        fill-rule="nonzero"
+                                      />
+                                    </svg>
+                                  </button>
+                                </div>
+                              </div>
                             </div>
                           </div>
-                          <div class="hab_ocupacion_item_wrap hab_ocupacion_resumen">
-                            <div class="hab_ocupacion_item col-lg-4 col-md-4 col-sm-4 col-xs-4 pn">
-                              <img src="/index_files/adultos.png" alt />
-                              <span class="hab_ocupacion_txt hab_ocupacion_adultos">
-                                <em class="num_adultos">{{ocupacion.ages ? ocupacion.paxPerRoom - ocupacion.ages.length : ocupacion.paxPerRoom}}</em>
-                                <span class="txt_adultos"> ADULTOS</span>
+                          <div class="hab_head_info col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                            <h3 class="hab_titulo">{{options.roomName}}</h3>
+                            <p class="hab_txt">
+                              <span>{{options.roomDescription}}</span>
+                              <a
+                                href="#"
+                                class="hidden-xs roi-modal__show"
+                                data-roi-modal="roi-modal-rooms"
+                                data-id="lateraldosninos"
+                                data-url="/bookcore/availability/landing-room/quohotelplantaciondesur/lateraldosninos/1?lang=es"
+                                data-klass="modal_bc_hotel_lateraldosninos"
+                                data-toggle="modal"
+                                data-tracking-event-type="seeMoreLink"
+                                data-tracking-event-data="{
+                       &quot;eLabel&quot;: &quot;lateraldosninos&quot;
+                   }"
+                                aria-label="Ver más, Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
+                              >Ver más</a>
+                            </p>
+                            <ul class="services_list hidden-xs">
+                              <li class="box_item_info">
+                                <button
+                                  aria-label="Luz natural"
+                                  class="trigger"
+                                  data-original-title
+                                  title
+                                >
+                                  <svg
+                                    class="svg-roi-services svg-roi-services_LUZNAT"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path class="st0" d="M15 0h2v4h-2z" />
+                                    <path
+                                      transform="rotate(-45.001 25.9 6.1)"
+                                      class="st0"
+                                      d="M23.9 5.1h4v2h-4z"
+                                    />
+                                    <path class="st0" d="M28 15h4v2h-4zM0 15h4v2H0z" />
+                                    <path
+                                      transform="rotate(-45.001 6.1 6.1)"
+                                      class="st0"
+                                      d="M5.1 4.1h2v4h-2z"
+                                    />
+                                    <path
+                                      class="st0"
+                                      d="M25.6 19c.2-1 .4-2 .4-3 0-5.5-4.5-10-10-10S6 10.5 6 16c0 1 .2 2 .5 3C2.9 19 0 21.9 0 25.5S2.9 32 6.5 32h19.1c3.6 0 6.5-2.9 6.5-6.5S29.2 19 25.6 19zM16 8c4.4 0 8 3.6 8 8 0 1.2-.3 2.4-.8 3.5-.1 0-.1.1-.2.1-1.4-2.8-4.3-4.7-7.6-4.7-2.8 0-5.4 1.4-7 3.7-.2-.8-.4-1.7-.4-2.6 0-4.4 3.6-8 8-8zm9.6 22H6.5C4 30 2 28 2 25.5S4 21 6.5 21c.6 0 1.2.1 1.6.3l.9.5.4-.9c1.1-2.4 3.5-3.9 6-3.9 2.8 0 5.3 1.8 6.2 4.4l.4 1.2 1.1-.7c.8-.5 1.7-.8 2.5-.8 2.5 0 4.5 2 4.5 4.5s-2 4.4-4.5 4.4z"
+                                    />
+                                  </svg>
+                                </button>
+                                <div class="content hide">Luz natural</div>
+                              </li>
+                              <li class="box_item_info">
+                                <button
+                                  aria-label="Servicio de habitaciones"
+                                  class="trigger"
+                                  data-original-title
+                                  title
+                                >
+                                  <svg
+                                    class="svg-roi-services svg-roi-services_ROOMSER"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      class="st0"
+                                      d="M30 9v7H11v-2c0-2.2-1.8-4-4-4H2V3H0v26h2v-6h28v6h2V9h-2zM2 12h5c1.1 0 2 .9 2 2v2H2v-4zm28 9H2v-3h28v3z"
+                                    />
+                                  </svg>
+                                </button>
+                                <div class="content hide">Servicio de habitaciones</div>
+                              </li>
+                              <li class="box_item_info">
+                                <button
+                                  aria-label="Plancha y tabla"
+                                  class="trigger"
+                                  data-original-title
+                                  title
+                                >
+                                  <svg
+                                    class="svg-roi-services svg-roi-services_PLANCHAT"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 44 27"
+                                  >
+                                    <title>iron</title>
+                                    <path
+                                      class="st0"
+                                      d="M38.6 1.3l-.4-.1C33.4.1 28.5.1 23.8 1.3 13 4.1 7.2 9.8 4.2 20.2L.4 24.7l32.9 1.6.3-4.3c0-.7.2-1.5.7-2 .5-.6 1.2-.9 2-.9l7.1.1-4.8-17.9zM32 24.8L3.4 23.4l1.8-2.2 26.9 1.4-.1 2.2zm4.3-7.1c-2 0-3.8 1.5-4 3.5L5.8 19.9c2.9-9.4 8.4-14.6 18.4-17.3 4.4-1 8.9-1.1 13.3-.2l4.1 15.3h-5.3z"
+                                    />
+                                    <path
+                                      transform="matrix(.03246 -.9995 .9995 .03246 16.796 40.693)"
+                                      class="st0"
+                                      d="M28.7 7.9h1.4v7.6h-1.4z"
+                                    />
+                                    <path
+                                      class="st0"
+                                      d="M36.6 4.7l-.5-.1c-3.3-.4-6.6-.3-9.8.4-5.9 1.6-8.6 3.9-11 9.4l-.4 1 24.7.7-3-11.4zm-10 1.7c2.9-.6 5.9-.7 8.8-.4l2.3 8.6-20.6-.6c2-4.3 4.5-6.2 9.5-7.6z"
+                                    />
+                                  </svg>
+                                </button>
+                                <div class="content hide">Plancha y tabla</div>
+                              </li>
+                              <li class="box_item_info">
+                                <button
+                                  aria-label="Wifi gratuito"
+                                  class="trigger"
+                                  data-original-title
+                                  title
+                                >
+                                  <svg
+                                    class="svg-roi-services svg-roi-services_WISALFR"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      class="st0"
+                                      d="M16 20c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm0 6c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zM16 12c-3.2 0-6.3 1.3-8.5 3.5l-.7.7 1.4 1.4.7-.7c1.8-1.8 4.4-2.9 7.1-2.9 2.7 0 5.2 1 7.1 2.9l.7.7 1.4-1.4-.7-.7C22.3 13.2 19.2 12 16 12zM30.3 9.9C26.4 6.1 21.3 4 16 4 10.7 4 5.6 6.1 1.7 9.9l-.7.7L2.4 12l.7-.7C6.6 7.9 11.2 6 16 6s9.4 1.9 12.9 5.3l.7.7 1.4-1.4-.7-.7z"
+                                    />
+                                  </svg>
+                                </button>
+                                <div class="content hide">Wifi gratuito</div>
+                              </li>
+                              <li class="box_item_info">
+                                <button
+                                  aria-label="Bañera"
+                                  class="trigger"
+                                  data-original-title
+                                  title
+                                >
+                                  <svg
+                                    class="svg-roi-services svg-roi-services_BANERA"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      class="st0"
+                                      d="M32 6c0-2.8-2.2-5-5-5-2.4 0-4.5 1.8-4.9 4.1-2.3.4-4.1 2.5-4.1 4.9v1h10v-1c0-2.4-1.7-4.3-3.9-4.9C24.5 3.9 25.6 3 27 3c1.7 0 3 1.3 3 3v12H0v2.7c0 4.5 3.6 8.1 8 8.3v3h2v-3h12v3h2v-3c4.4-.2 7.9-3.8 7.9-8.3V20h.1V6zm-6.2 3h-5.7c.4-1.2 1.5-2 2.8-2s2.5.8 2.9 2zm4.1 11.7c0 3.5-2.8 6.3-6.3 6.3H8.3C4.8 27 2 24.2 2 20.7V20h27.9v.7z"
+                                    />
+                                    <path
+                                      class="st0"
+                                      d="M18 13h2v3h-2zM22 13h2v3h-2zM26 13h2v3h-2z"
+                                    />
+                                  </svg>
+                                </button>
+                                <div class="content hide">Bañera</div>
+                              </li>
+                              <li class="box_item_info">
+                                <button
+                                  aria-label="Caja Fuerte"
+                                  class="trigger"
+                                  data-original-title
+                                  title
+                                >
+                                  <svg
+                                    class="svg-roi-services svg-roi-services_CAJFU"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path class="st0" d="M0 0v29h32V0H0zm30 27H2V2h28v25z" />
+                                    <path
+                                      class="st0"
+                                      d="M4 26h25V3H4v3H3v6h1v5H3v6h1v3zm1-7h1v2H5v-2zM5 8h1v2H5V8zm1 4h2V6H6V5h21v19H6v-1h2v-6H6v-5z"
+                                    />
+                                    <path
+                                      class="st0"
+                                      d="M17 23c4.4 0 8-3.6 8-8s-3.6-8-8-8-8 3.6-8 8 3.6 8 8 8zm-3.5-3.1l2.2-2.2c.4.2.8.3 1.3.3s.9-.1 1.3-.3l2.2 2.2c-1 .7-2.2 1.1-3.5 1.1-1.3 0-2.5-.4-3.5-1.1zM18 15c0 .6-.4 1-1 1s-1-.4-1-1 .4-1 1-1 1 .4 1 1zm5 0c0 1.3-.4 2.5-1.1 3.5l-2.2-2.2c.2-.4.3-.8.3-1.3s-.1-.9-.3-1.3l2.2-2.2c.7 1 1.1 2.2 1.1 3.5zm-2.5-4.9l-2.2 2.2c-.4-.2-.8-.3-1.3-.3s-.9.1-1.3.3l-2.2-2.2c1-.7 2.2-1.1 3.5-1.1 1.3 0 2.5.4 3.5 1.1zm-8.4 1.4l2.2 2.2c-.2.4-.3.8-.3 1.3s.1.9.3 1.3l-2.2 2.2c-.7-1-1.1-2.2-1.1-3.5 0-1.3.4-2.5 1.1-3.5zM3 30h7v2H3zM22 30h7v2h-7z"
+                                    />
+                                  </svg>
+                                </button>
+                                <div class="content hide">Caja Fuerte</div>
+                              </li>
+                              <li class="box_item_info">
+                                <button
+                                  aria-label="Ducha de hidromasaje"
+                                  class="trigger"
+                                  data-original-title
+                                  title
+                                >
+                                  <svg
+                                    class="svg-roi-services svg-roi-services_HUHMSG"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      class="st0"
+                                      d="M15 26h2v5h-2zM10 24h2v4h-2zM20 24h2v4h-2zM28 16c0-6.3-4.9-11.4-11-11.9V1h-2v3.1C8.9 4.6 4 9.7 4 16c-1.7 0-3 1.3-3 3s1.3 3 3 3h24c1.7 0 3-1.3 3-3s-1.3-3-3-3zM16 6c5.5 0 10 4.5 10 10H6c0-5.5 4.5-10 10-10zm12 14H4c-.6 0-1-.4-1-1s.4-1 1-1h24c.6 0 1 .4 1 1s-.4 1-1 1z"
+                                    />
+                                  </svg>
+                                </button>
+                                <div class="content hide">Ducha de hidromasaje</div>
+                              </li>
+                              <li class="box_item_info">
+                                <button
+                                  aria-label="Terraza en habitación"
+                                  class="trigger"
+                                  data-original-title
+                                  title
+                                >
+                                  <svg
+                                    class="svg-roi-services svg-roi-services_TERRAZA"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      class="st0"
+                                      d="M29.8 18.5c-1.2.3-2.4.5-3.6.5C18.9 19 13 13.1 13 5.8c0-1.1.2-2.3.5-3.6l.4-1.7-1.7.5C5.6 2.9 1 8.9 1 15.7 1 24.1 7.9 31 16.3 31c6.9 0 12.9-4.6 14.7-11.2l.4-1.6-1.6.3zM16.3 29C9 29 3 23 3 15.7c0-5.3 3.3-10.1 8.2-12.2-.1.8-.2 1.6-.2 2.3C11 14.2 17.8 21 26.2 21c.7 0 1.5-.1 2.3-.2-2 4.9-6.8 8.2-12.2 8.2z"
+                                    />
+                                    <path
+                                      class="st0"
+                                      d="M20 7h2V5h2V3h-2V1h-2v2h-2v2h2zM27 15h2v-2h2v-2h-2V9h-2v2h-2v2h2z"
+                                    />
+                                  </svg>
+                                </button>
+                                <div class="content hide">Terraza en habitación</div>
+                              </li>
+                              <li class="box_item_info">
+                                <button
+                                  aria-label="Climatización individual"
+                                  class="trigger"
+                                  data-original-title
+                                  title
+                                >
+                                  <svg
+                                    class="svg-roi-services svg-roi-services_CLIMATI"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path class="st0" d="M0 16v15h32V16H0zm30 13H2V18h28v11z" />
+                                    <path
+                                      class="st0"
+                                      d="M5 24h22v2H5zM15 1h2v11h-2zM8 7h2v7H8zM22 7h2v7h-2z"
+                                    />
+                                  </svg>
+                                </button>
+                                <div class="content hide">Climatización individual</div>
+                              </li>
+                              <li class="box_item_info">
+                                <button
+                                  aria-label="Televisión satélite"
+                                  class="trigger"
+                                  data-original-title
+                                  title
+                                >
+                                  <svg
+                                    class="svg-roi-services svg-roi-services_TVSATEL"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      class="st0"
+                                      d="M20.5 5.4l-1-.2-.5 1.9 1 .2c1.4.3 2.5 1.1 3.2 2.3.7 1.2.9 2.6.6 3.9l-.2 1 1.9.5.2-1c.4-1.9.1-3.8-.9-5.4-.9-1.6-2.5-2.8-4.3-3.2z"
+                                    />
+                                    <path
+                                      class="st0"
+                                      d="M29.1 6c-1.7-2.7-4.4-4.7-7.5-5.4l-1-.2-.5 1.9 1 .2c2.6.6 4.9 2.2 6.3 4.5 1.4 2.3 1.8 5 1.2 7.7l-.2 1 1.9.5.2-1c.8-3.2.3-6.5-1.4-9.2zM19.2 13.5c.2 0 .3.1.5.1.9 0 1.7-.8 1.7-1.7s-.8-1.7-1.7-1.7-1.7.7-1.7 1.7l-1.2.9-5.9-7.5-.9.7c-4.1 3.6-4.8 9.6-1.8 14-.4.5-1.1 1.4-2.2 2.9l-.2.3V24.9C3 25.5.9 27.9.7 31v1h12.6v-1c-.1-3.2-2.5-5.8-5.4-6.2v-.9c.7-1 1.3-1.7 1.7-2.2 2 2 4.8 3.1 7.5 3.1 2.2 0 4.3-.7 6.2-2l.9-.6-6.2-7.8 1.2-.9zm.8-1.6s-.1 0 0 0c0 0 0-.1-.1-.1 0-.1-.1-.1-.1-.1.1-.1.2 0 .2.2zm-8.9 18H2.9c.5-1.9 2.2-3.3 4.1-3.3s3.6 1.4 4.1 3.3zm-.9-10.5c-2.6-3.3-2.4-8.1.3-11.2l10.6 13.4c-3.6 2-8.3 1.1-10.9-2.2z"
+                                    />
+                                  </svg>
+                                </button>
+                                <div class="content hide">Televisión satélite</div>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                        <div
+                          class="hab_ocupacion hab_ocupacion_lateraldosninos"
+                          data-codhab="lateraldosninos"
+                          data-ocupacion_inicial="2-2-0"
+                          data-ocupacion_seleccionada="2-2-0"
+                          data-hotelcode="quohotelplantaciondesur"
+                          data-edades_ninos_inicial="[&quot;2&quot;,&quot;2&quot;]"
+                          data-edades="[&quot;2&quot;,&quot;2&quot;]"
+                          data-ocupaciones="[&quot;2-2-0&quot;]"
+                        >
+                          <div class="hab_ocupacion_inner clearfix">
+                            <div class="hab_total_personas">
+                              <span class="occupancy_title">
+                                Ocupación
+                                seleccionada:
                               </span>
-                            </div>
-                            <div class="hab_ocupacion_item col-lg-4 col-md-4 col-sm-4 col-xs-4 pn">
-                              <img src="/index_files/ninos.png" alt />
-                              <span class="hab_ocupacion_txt hab_ocupacion_ninos">
-                                <em class="num_ninos">{{ocupacion.ages ? ocupacion.ages.length : '0'}}</em>
-                                <span class="txt_ninos"> NIÑOS</span>
-                                <span v-if="ocupacion.ages" class="txt_edades_ninos">
-                                  ( 
-                                    <template v-for="(ages) in ocupacion.ages " > {{ages}} ,</template>
-                                  año/s)
+                              <div class="icons_people">
+                                <span
+                                  v-for="n in parseInt(ocupacion.paxPerRoom)"
+                                  class="icons_people_wrap"
+                                  :key="n"
+                                >
+                                  <svg
+                                    class="svg-roi svg-roi_person"
+                                    width="28px"
+                                    height="28px"
+                                    viewBox="0 0 28 28"
+                                    focusable="false"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                  >
+                                    <path
+                                      d="M22.02 7.903c0 4.213-3.59 12.031-8.02 12.031S5.98 12.116 5.98 7.903C5.98 3.69 9.57.275 14 .275s8.02 3.415 8.02 7.628zM20.76 18.988c4.315 1.194 7.238 3.56 7.238 6.614 0 1.493-.996 2.123-3.793 2.123H3.796c-2.797 0-3.793-.629-3.793-2.123 0-3.055 2.923-5.42 7.238-6.614 1.8 2.172 4.089 3.704 6.759 3.704s4.959-1.53 6.759-3.704z"
+                                      fill-rule="nonzero"
+                                    />
+                                  </svg>
                                 </span>
-                              </span>
+                              </div>
                             </div>
-                          <!-- <div class="hab_ocupacion_item col-lg-4 col-md-4 col-sm-4 col-xs-4 pn">
+                            <div class="hab_ocupacion_item_wrap hab_ocupacion_resumen">
+                              <div
+                                class="hab_ocupacion_item col-lg-4 col-md-4 col-sm-4 col-xs-4 pn"
+                              >
+                                <img src="/index_files/adultos.png" alt />
+                                <span class="hab_ocupacion_txt hab_ocupacion_adultos">
+                                  <em
+                                    class="num_adultos"
+                                  >{{ocupacion.ages ? ocupacion.paxPerRoom - ocupacion.ages.length : ocupacion.paxPerRoom}}</em>
+                                  <span class="txt_adultos">ADULTOS</span>
+                                </span>
+                              </div>
+                              <div
+                                class="hab_ocupacion_item col-lg-4 col-md-4 col-sm-4 col-xs-4 pn"
+                              >
+                                <img src="/index_files/ninos.png" alt />
+                                <span class="hab_ocupacion_txt hab_ocupacion_ninos">
+                                  <em
+                                    class="num_ninos"
+                                  >{{ocupacion.ages ? ocupacion.ages.length : '0'}}</em>
+                                  <span class="txt_ninos">NIÑOS</span>
+                                  <span v-if="ocupacion.ages" class="txt_edades_ninos">
+                                    (
+                                    <template v-for="(ages) in ocupacion.ages ">{{ages}} ,</template>
+                                    año/s)
+                                  </span>
+                                </span>
+                              </div>
+                              <!-- <div class="hab_ocupacion_item col-lg-4 col-md-4 col-sm-4 col-xs-4 pn">
                               <img src="/index_files/bebes.png" alt />
                               <span class="hab_ocupacion_txt hab_ocupacion_bebes">
                                 <em class="num_bebes">0</em>
                                 <span class="txt_bebes">BEBÉS</span>
                               </span>
-                            </div>-->
-                          </div>
-                         <!-- <div class="wrap_ocupacion_button">
+                              </div>-->
+                            </div>
+                            <!-- <div class="wrap_ocupacion_button">
                             <button
                               class="btn-bc btn-mod roi-btn roi-modal__show"
                               data-roi-modal="occupancy-modifier-lateraldosninos"
                             >Modificar</button>
-                          </div>-->
-                         <!-- <span class="max_occupation">(Máx. 4 ocupantes)</span>-->
-                          <div
-                            id="occupancy-modifier-lateraldosninos"
-                            class="roi-modal roi-modal--occupancy"
-                            tabindex="0"
-                            role="dialog"
-                            data-no-dismiss
-                            aria-labelledby="roi-modal__title-lateraldosninos"
-                          >
-                            <div class="roi-modal__content">
-                              <div class="roi-modal__header">
-                                <button class="roi-modal__close" aria-label="Cerrar">
-                                  <svg
-                                    class="svg-roi svg-roi_close"
-                                    width="28px"
-                                    height="28px"
-                                    viewBox="0 0 28 28"
-                                    focusable="false"
-                                    xmlns="http://www.w3.org/2000/svg"
+                            </div>-->
+                            <!-- <span class="max_occupation">(Máx. 4 ocupantes)</span>-->
+                            <div
+                              id="occupancy-modifier-lateraldosninos"
+                              class="roi-modal roi-modal--occupancy"
+                              tabindex="0"
+                              role="dialog"
+                              data-no-dismiss
+                              aria-labelledby="roi-modal__title-lateraldosninos"
+                            >
+                              <div class="roi-modal__content">
+                                <div class="roi-modal__header">
+                                  <button class="roi-modal__close" aria-label="Cerrar">
+                                    <svg
+                                      class="svg-roi svg-roi_close"
+                                      width="28px"
+                                      height="28px"
+                                      viewBox="0 0 28 28"
+                                      focusable="false"
+                                      xmlns="http://www.w3.org/2000/svg"
+                                    >
+                                      <path
+                                        d="M14 13.23L.77 0 0 .77 13.23 14 0 27.23l.77.77 11.142-11.142L14 14.77 27.23 28l.77-.77L14.77 14 28 .77 27.23 0z"
+                                        fill-rule="nonzero"
+                                      />
+                                    </svg>
+                                  </button>
+                                  <h4
+                                    id="roi-modal__title-lateraldosninos"
+                                    class="roi-modal__title"
                                   >
-                                    <path
-                                      d="M14 13.23L.77 0 0 .77 13.23 14 0 27.23l.77.77 11.142-11.142L14 14.77 27.23 28l.77-.77L14.77 14 28 .77 27.23 0z"
-                                      fill-rule="nonzero"
-                                    />
-                                  </svg>
-                                </button>
-                                <h4 id="roi-modal__title-lateraldosninos" class="roi-modal__title">
-                                  Tienes una ocupación de 
-                                  <em class="num_ocupantes">4</em>
-                                  ocupantes de un máximo de 4
-                                </h4>
-                              </div>
-                              <div class="roi-modal__body">
-                                <div class="form form--inline form--occupancy">
-                                  <div class="form__group">
-                                    <label
-                                      aria-label="ADULTOS"
-                                      class="form__label"
-                                      for="adultos_sel_lateraldosninos"
-                                    >
-                                      <svg
-                                        class="svg-roi svg-roi_adult"
-                                        width="28px"
-                                        height="28px"
-                                        viewBox="0 0 28 28"
-                                        focusable="false"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                      >
-                                        <path
-                                          d="M20.534 13.408c7.158 3.71 6.443 13.12 6.443 13.12 0 1.285-1.015 1.472-2.206 1.472H3.24c-1.19 0-2.201-.186-2.201-1.471 0 0-.902-9.384 6.255-13.093 1.232 2.813 3.541 5.138 6.72 5.138 2.603 0 5.287-2.353 6.52-5.166zm-6.52 3.64h-.001c-3.585 0-6.547-5.13-6.547-9.37C7.466 3.438 10.373 0 13.958 0s6.49 3.437 6.49 7.678c0 4.24-2.85 9.37-6.434 9.37z"
-                                          fill-rule="nonzero"
-                                        />
-                                      </svg>
-                                    </label>
-                                    <select
-                                      name="adultos"
-                                      id="adultos_sel_lateraldosninos"
-                                      class="adultos_sel form__select"
-                                    ></select>
-                                  </div>
-                                  <div class="form__group">
-                                    <label
-                                      aria-label=" NIÑOS"
-                                      class="form__label"
-                                      for="nino_sel_lateraldosninos"
-                                    >
-                                      <svg
-                                        class="svg-roi svg-roi_kid"
-                                        width="28px"
-                                        height="28px"
-                                        viewBox="0 0 28 28"
-                                        focusable="false"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                      >
-                                        <path
-                                          d="M23.113 7.199l-4.856 4.946v13.958c0 .52-.183.965-.548 1.338a1.776 1.776 0 0 1-1.314.559c-.51 0-.948-.186-1.314-.559a1.843 1.843 0 0 1-.549-1.338v-6.505h-1.064v6.505c0 .52-.183.965-.549 1.338a1.776 1.776 0 0 1-1.314.559c-.51 0-.948-.186-1.314-.559a1.843 1.843 0 0 1-.548-1.338V12.145L4.887 7.2c-.31-.316-.466-.7-.466-1.152 0-.452.155-.835.466-1.152.31-.316.687-.474 1.13-.474.444 0 .821.158 1.131.474l3.792 3.862h6.12l3.792-3.862c.31-.316.687-.474 1.13-.474.444 0 .82.158 1.131.474.31.317.466.7.466 1.152 0 .452-.155.836-.466 1.152zm-5.429-3.515c0 1.02-.359 1.889-1.077 2.607A3.551 3.551 0 0 1 14 7.368c-1.02 0-1.889-.359-2.607-1.077a3.551 3.551 0 0 1-1.077-2.607c0-1.02.359-1.888 1.077-2.607A3.551 3.551 0 0 1 14 0c1.02 0 1.889.36 2.607 1.077a3.551 3.551 0 0 1 1.077 2.607z"
-                                          fill-rule="nonzero"
-                                        />
-                                      </svg>
-                                    </label>
-                                    <select
-                                      name="ninos"
-                                      id="nino_sel_lateraldosninos"
-                                      class="ninos_sel form__select"
-                                    ></select>
-                                    <div
-                                      class="edades_ninos form__subgroup form__subgroup--children"
-                                      data-trans-children-ages="Edades de los niños"
-                                    >
-                                      <span class="form__subgroup-title">
-                                        Edades de los
-                                        niños
-                                      </span>
-                                      <ul
-                                        class="edades_ninos_list form__subgroup-list form__subgroup-list--children"
-                                      ></ul>
-                                      <button
-                                        class="hide form__subgroup-button form__subgroup-button--hidden"
-                                        id="actualiza_ninos_id_lateraldosninos"
-                                      >Aceptar</button>
-                                    </div>
-                                  </div>
-                                  <div class="form__group">
-                                    <label
-                                      aria-label=" BEBÉS"
-                                      class="form__label"
-                                      for="bebe_sel_lateraldosninos"
-                                    >
-                                      <svg
-                                        class="svg-roi svg-roi_baby"
-                                        width="28px"
-                                        height="28px"
-                                        viewBox="0 0 28 28"
-                                        focusable="false"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                      >
-                                        <path
-                                          d="M13.997 6.616a3.308 3.308 0 1 1 0-6.616 3.308 3.308 0 0 1 0 6.616zm-.124 2.896l3.47-1.208 4.93 5.347-.122 1.885-4.663-1.547-.088 1.628-6.738.008v-1.594L5.82 15.48l-.093-1.753 4.449-5.457 3.697 1.243zm-2.424 8.778l.284 3.047-2.286.52 2.183 2.183.36 3.894-6.263-6.488L7.5 18.193l3.95.097zm4.51 0l3.95-.097 1.772 3.253L15.651 28l.128-3.96 2.183-2.183-2.287-.52.284-3.047z"
-                                          fill-rule="nonzero"
-                                        />
-                                      </svg>
-                                    </label>
-                                    <select
-                                      name="bebes"
-                                      id="bebe_sel_lateraldosninos"
-                                      class="bebes_sel form__select"
-                                    ></select>
-                                  </div>
-                                  <div class="form__group form__group--action">
-                                    <button
-                                      id="modifica_ocupacion_lateraldosninos"
-                                      type="button"
-                                      data-codhab="lateraldosninos"
-                                      class="roi-btn roi-btn--occupancy"
-                                    >Modificar</button>
-                                  </div>
+                                    Tienes una ocupación de
+                                    <em class="num_ocupantes">4</em>
+                                    ocupantes de un máximo de 4
+                                  </h4>
                                 </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="pensiones roi-board">
-                        <div class="roi-board__head">
-                          <div class="roi-board__body">
-                            <div id="pensiones_slick_1" class="roi-board__tab-list" role="tablist">
-                              <button
-                                class="roi-tabs__tab roi-tabs__tab--active js-roi-tab"
-                                aria-selected="true"
-                                aria-controls="pensiones_box_lateraldosninos_1"
-                                role="tab"
-                                data-trigger-event
-                                data-tab-section="bc-pensions-lateraldosninos"
-                                data-tracking-event-type="changeRate"
-                                data-tracking-event-data="{
-                                &quot;eLabel&quot;: &quot;lateraldosninos--Mejor_precio_disponible&quot;,
-                                &quot;roomCode&quot;: &quot;lateraldosninos&quot;,
-                                &quot;rateCode&quot;: &quot;bar&quot;
-                            }"
-                                data-section-index="0"
-                              >Mejor precio disponible</button>
-                            </div>
-                          </div>
-                        </div>
-                        <div
-                          id="pensiones_box_lateraldosninos_1"
-                          class="pensiones_box pensiones_box_1 active"
-                          data-tarifacod="bar"
-                          role="tabpanel"
-                        >
-                          <div class="pensiones_box_head">
-                            <div class="pull-left">
-                              <span class="pensiones_box_txt"></span>
-                            </div>
-                            <div class="pull-right">
-                              <span class="no-card">
-                                <svg
-                                  class="svg-roi svg-roi_check-star"
-                                  width="28px"
-                                  height="28px"
-                                  viewBox="0 0 28 28"
-                                  focusable="false"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                >
-                                  <path
-                                    d="M14 24.957l-3.985 2.9-1.784-4.594-4.92.286.983-4.83L0 16.299l3.439-3.531-2.305-4.357 4.802-1.112.417-4.911 4.64 1.66L14 .143l3.006 3.907 4.64-1.661.418 4.911 4.802 1.112-2.305 4.357L28 16.299l-4.294 2.42.983 4.83-4.92-.286-1.784 4.595L14 24.957zm-4-11.709L8.57 14.677l4.195 4.195 7.276-7.551-1.455-1.403-5.848 6.07-2.74-2.74z"
-                                    fill-rule="nonzero"
-                                  />
-                                </svg>
-                                Pago en el hotel
-                              </span>
-                              <span class="texto_impuestos">
-                                <svg
-                                  class="svg-roi svg-roi_check-circle"
-                                  width="28px"
-                                  height="28px"
-                                  viewBox="0 0 28 28"
-                                  focusable="false"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                >
-                                  <g fill-rule="nonzero">
-                                    <path
-                                      d="M14 27.526c-7.456 0-13.5-6.045-13.5-13.5C.5 6.57 6.544.526 14 .526s13.5 6.044 13.5 13.5c0 7.455-6.044 13.5-13.5 13.5zm0-1c6.904 0 12.5-5.597 12.5-12.5 0-6.904-5.596-12.5-12.5-12.5S1.5 7.122 1.5 14.026c0 6.903 5.596 12.5 12.5 12.5z"
-                                    />
-                                    <path
-                                      d="M12.399 16.092l-2.837-2.837-1.414 1.414 4.277 4.278 7.44-7.721-1.44-1.388z"
-                                    />
-                                  </g>
-                                </svg>
-                                Impuestos incluidos
-                              </span>
-                              <span class="pensiones_box_claim">
-                                <svg
-                                  class="svg-roi svg-roi_check-circle"
-                                  width="28px"
-                                  height="28px"
-                                  viewBox="0 0 28 28"
-                                  focusable="false"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                >
-                                  <g fill-rule="nonzero">
-                                    <path
-                                      d="M14 27.526c-7.456 0-13.5-6.045-13.5-13.5C.5 6.57 6.544.526 14 .526s13.5 6.044 13.5 13.5c0 7.455-6.044 13.5-13.5 13.5zm0-1c6.904 0 12.5-5.597 12.5-12.5 0-6.904-5.596-12.5-12.5-12.5S1.5 7.122 1.5 14.026c0 6.903 5.596 12.5 12.5 12.5z"
-                                    />
-                                    <path
-                                      d="M12.399 16.092l-2.837-2.837-1.414 1.414 4.277 4.278 7.44-7.721-1.44-1.388z"
-                                    />
-                                  </g>
-                                </svg>
-                                Mejor Tarifa disponible
-                              </span>
-                            </div>
-                            <div class="texto_precio_no_disponible hide">
-                              <svg
-                                class="svg-roi svg-roi_alert-star"
-                                width="28px"
-                                height="28px"
-                                viewBox="0 0 28 28"
-                                focusable="false"
-                                xmlns="http://www.w3.org/2000/svg"
-                              >
-                                <path
-                                  d="M14 25.07L10.015 28l-1.784-4.642-4.92.289.983-4.88L0 16.323l3.439-3.568-2.305-4.402L5.936 7.23l.417-4.962 4.64 1.678L14 0l3.006 3.946 4.64-1.678.418 4.962 4.802 1.123-2.305 4.402L28 16.323l-4.294 2.444.983 4.88-4.92-.29L17.985 28 14 25.07zm-.049-5.694c.4 0 .744-.145 1.03-.435.288-.29.431-.637.431-1.04 0-.405-.143-.752-.43-1.042a1.399 1.399 0 0 0-1.03-.435c-.39 0-.729.145-1.016.435-.287.29-.43.637-.43 1.041 0 .404.143.751.43 1.041.287.29.626.435 1.015.435zm1.046-4.226l.477-5.004c.02-.218.03-.425.03-.622 0-.704-.512-1.056-1.537-1.056-1.026 0-1.539.352-1.539 1.056 0 .094.016.3.047.622l.476 5.004c.052.518.293.777.723.777h.6c.43 0 .672-.26.723-.777z"
-                                  fill-rule="nonzero"
-                                />
-                              </svg>
-                              <strong>
-                                Lo sentimos, no hay disponibilidad para la ocupación
-                                seleccionada. Por favor, escoja otra tarifa
-                              </strong>
-                            </div>
-                          </div>
-
-                          <div
-                            class="ocupaciones_box_item ocupaciones_box_item_bar active"
-                            data-tarifa="{&quot;cancelacion_gratis&quot;: {}, &quot;formasdepago&quot;: [&quot;1804_H&quot;], &quot;multiples_ofertas&quot;: false, &quot;slogan&quot;: &quot;&quot;, &quot;id_tarifa&quot;: 0, &quot;ocup_x_tipos&quot;: {&quot;ninos&quot;: [0, 1, 2], &quot;adultos&quot;: [1, 2], &quot;bebes&quot;: [0]}, &quot;lastminute&quot;: false, &quot;minimo_personas&quot;: 0, &quot;descripcion&quot;: &quot;&quot;, &quot;nombre&quot;: &quot;Mejor precio disponible&quot;, &quot;codigo&quot;: &quot;bar&quot;, &quot;ocupaciones&quot;: [{&quot;descripcion&quot;: &quot;2 adultos + 2 ni\u00f1os&quot;, &quot;pension_mas_barata&quot;: &quot;AD&quot;, &quot;pensiones&quot;: [{&quot;descripcion_extra&quot;: &quot;&quot;, &quot;total&quot;: 175.0, &quot;porcent_dto&quot;: 0.0, &quot;supl_oblig&quot;: [], &quot;cupo&quot;: 2, &quot;num_ocupantes&quot;: 4, &quot;total_antes&quot;: 175.0, &quot;cancelable&quot;: false, &quot;is_loyalty&quot;: false, &quot;impuesto_local&quot;: {&quot;impuesto&quot;: 0.0, &quot;codigo_moneda&quot;: null}, &quot;neto_agencia&quot;: 0.0, &quot;ofertas&quot;: {}, &quot;cancel_policy&quot;: 7218, &quot;condiciones&quot;: &quot;Si cancela o modifica la reserva 7 d\u00edas antes de la llegada se cobrar\u00e1 50%  de la estancia, Si cancela o modifica la reserva 48 horas antes de la llegada se cobrar\u00e1 el 100% de la estancia, \r&lt;br/&gt;No shows y salidas anticipadas se cobrar\u00e1 el 100%  de la estancia.\r&lt;br/&gt;- Esta propiedad impone un estricto c\u00f3digo de vestimenta en el restaurante. Los pantalones cortos no est\u00e1n permitidos Para obtener m\u00e1s informaci\u00f3n, comun\u00edcate con el establecimiento utilizando el n\u00famero que figura en el correo electr\u00f3nico de confirmaci\u00f3n de la reserva.&quot;, &quot;desglose&quot;: {&quot;2019-10-24&quot;: {&quot;colectivo_porcentaje&quot;: 0.0, &quot;nombre_tarifa&quot;: &quot;Estandar&quot;, &quot;precio&quot;: 175.0, &quot;id_tarifa&quot;: 7607, &quot;comision_porcentaje&quot;: 0.0, &quot;codigo_tarifa&quot;: &quot;estandar&quot;, &quot;precio_antes&quot;: 175.0, &quot;precio_db&quot;: 175.0}}, &quot;nombre&quot;: &quot;Alojamiento y Desayuno&quot;, &quot;codigo&quot;: &quot;AD&quot;, &quot;id&quot;: 2, &quot;ofertas_descripcion&quot;: {}}, {&quot;descripcion_extra&quot;: &quot;&quot;, &quot;total&quot;: 271.3, &quot;porcent_dto&quot;: 0.0, &quot;supl_oblig&quot;: [], &quot;cupo&quot;: 2, &quot;num_ocupantes&quot;: 4, &quot;total_antes&quot;: 271.3, &quot;cancelable&quot;: false, &quot;is_loyalty&quot;: false, &quot;impuesto_local&quot;: {&quot;impuesto&quot;: 0.0, &quot;codigo_moneda&quot;: null}, &quot;neto_agencia&quot;: 0.0, &quot;ofertas&quot;: {}, &quot;cancel_policy&quot;: 7218, &quot;condiciones&quot;: &quot;Si cancela o modifica la reserva 7 d\u00edas antes de la llegada se cobrar\u00e1 50%  de la estancia, Si cancela o modifica la reserva 48 horas antes de la llegada se cobrar\u00e1 el 100% de la estancia, \r&lt;br/&gt;No shows y salidas anticipadas se cobrar\u00e1 el 100%  de la estancia.\r&lt;br/&gt;- Esta propiedad impone un estricto c\u00f3digo de vestimenta en el restaurante. Los pantalones cortos no est\u00e1n permitidos Para obtener m\u00e1s informaci\u00f3n, comun\u00edcate con el establecimiento utilizando el n\u00famero que figura en el correo electr\u00f3nico de confirmaci\u00f3n de la reserva.&quot;, &quot;desglose&quot;: {&quot;2019-10-24&quot;: {&quot;colectivo_porcentaje&quot;: 0.0, &quot;nombre_tarifa&quot;: &quot;Estandar&quot;, &quot;precio&quot;: 271.3, &quot;id_tarifa&quot;: 7607, &quot;comision_porcentaje&quot;: 0.0, &quot;codigo_tarifa&quot;: &quot;estandar&quot;, &quot;precio_antes&quot;: 271.3, &quot;precio_db&quot;: 271.3}}, &quot;nombre&quot;: &quot;Media Pensi\u00f3n&quot;, &quot;codigo&quot;: &quot;MP&quot;, &quot;id&quot;: 3, &quot;ofertas_descripcion&quot;: {}}], &quot;codigo&quot;: &quot;2-2-0&quot;, &quot;descripcion_pensiones&quot;: []}]}"
-                          >
-                            <div class="inner">
-                              <ul class="roi-rates__list"></ul>
-                              <li
-                                v-for="(price, index) in options.prices"
-                                :key="index"
-                                class="bar_AD pensiones_box_item roi-rates__item active"
-                              >
-                                <div class="roi-rates__block roi-rates__block--info">
-                                  <div class="roi-rates__info">
-                                    <span
-                                      class="box_item_info js-rate-offer pension_ocupacion roi-rates__offer hide"
-                                    >
-                                      <button
-                                        class="roi-rates__offer-info trigger js-rate-offer-info"
-                                        data-original-title
-                                        title
-                                        aria-label
+                                <div class="roi-modal__body">
+                                  <div class="form form--inline form--occupancy">
+                                    <div class="form__group">
+                                      <label
+                                        aria-label="ADULTOS"
+                                        class="form__label"
+                                        for="adultos_sel_lateraldosninos"
                                       >
                                         <svg
-                                          class="svg-roi svg-roi_info-rounded"
+                                          class="svg-roi svg-roi_adult"
                                           width="28px"
                                           height="28px"
                                           viewBox="0 0 28 28"
@@ -1381,118 +1098,361 @@
                                           xmlns="http://www.w3.org/2000/svg"
                                         >
                                           <path
-                                            d="M14 0c7.732 0 14 6.268 14 14s-6.268 14-14 14S0 21.732 0 14 6.268 0 14 0zm-1.386 6.827a1.725 1.725 0 0 0-.523 1.267c0 .495.174.917.523 1.266.35.35.772.524 1.267.524.488 0 .906-.175 1.255-.524.35-.349.524-.77.524-1.266s-.175-.918-.524-1.267a1.712 1.712 0 0 0-1.255-.523c-.495 0-.918.174-1.267.523zm-1.537 14.857v.551h5.495v-.551c-.413-.083-.694-.196-.845-.338-.15-.143-.225-.466-.225-.968v-8.76h-4.425v.563c.466.082.777.208.935.377.158.169.236.486.236.951v6.778c0 .526-.112.89-.337 1.093-.15.135-.428.236-.834.304z"
+                                            d="M20.534 13.408c7.158 3.71 6.443 13.12 6.443 13.12 0 1.285-1.015 1.472-2.206 1.472H3.24c-1.19 0-2.201-.186-2.201-1.471 0 0-.902-9.384 6.255-13.093 1.232 2.813 3.541 5.138 6.72 5.138 2.603 0 5.287-2.353 6.52-5.166zm-6.52 3.64h-.001c-3.585 0-6.547-5.13-6.547-9.37C7.466 3.438 10.373 0 13.958 0s6.49 3.437 6.49 7.678c0 4.24-2.85 9.37-6.434 9.37z"
                                             fill-rule="nonzero"
                                           />
                                         </svg>
-                                      </button>
-                                      <div class="popover-markup">
-                                        <div class="head hide">
-                                          <p class="js-tooltip-head-text"></p>
-                                        </div>
-                                        <div class="content hide">
-                                          <p class="js-tooltip-content-text"></p>
-                                        </div>
-                                      </div>
-                                    </span>
-                                    <span class="roi-rates__name">{{price.boardBasisName}}</span>
-                                  </div>
-                                  {{options.allotment}}
-                                  <span
-                                    v-if="options.allotment < 5 && options.allotment > 1"
-                                    class="pensiones_box_item_message roi-rates__message roi-rates__message--warning"
-                                  >Quedan {{options.allotment}} habitaciones</span>
-                                  <span
-                                    v-else-if="options.allotment < 1"
-                                    class="pensiones_box_item_message pension_alert roi-rates__message roi-rates__message--alert"
-                                  >¡Última habitación!</span>
-                                </div>
-                                <div
-                                  class="pension_ocupacion pension_ocupacion_no_edades roi-rates__block roi-rates__block--action js-rates-prices"
-                                  id="lateraldosninos-bar-AD"
-                                  data-occupancy="2-2-0"
-                                  data-big_children="0"
-                                >
-                                  <template v-if="price.offer !== true">
-                                    <div
-                                      class="roi-rates__block roi-rates__block--wrap-prices roi-rates__block--wrap-prices-align"
-                                    >
-                                      <div
-                                        class="roi-rates__block roi-rates__block--discount-price"
+                                      </label>
+                                      <select
+                                        name="adultos"
+                                        id="adultos_sel_lateraldosninos"
+                                        class="adultos_sel form__select"
+                                      ></select>
+                                    </div>
+                                    <div class="form__group">
+                                      <label
+                                        aria-label=" NIÑOS"
+                                        class="form__label"
+                                        for="nino_sel_lateraldosninos"
                                       >
-                                        <div class="rate-discount roi-rate-discount-price">
-                                          <div class="roi-rate-discount-price__wrap">
-                                            <div class="roi-rate-discount-price__discount">
-                                              <span
-                                                class="roi-rate-discount-price__discount-percent-wrap"
-                                              >
-                                                -
-                                                <span
-                                                  class="precio-descuento roi-rate-discount-price__discount-percent-amount"
-                                                ></span>
-                                              </span>
-                                            </div>
-                                            <div
-                                              class="precio roi-rate-discount-price__amount-wrap"
-                                            >
-                                              <span
-                                                class="contenedor-precio multiprecio precio-total-anterior roi-rate-discount-price__amount"
-                                                data-price="412.5"
-                                                data-currency="EUR"
-                                              >{{ price.retailPrice.value }} {{price.retailPrice.currencyIsoCode}}</span>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                      <div class="roi-rates__block roi-rates__block--total-price">
-                                        <div class="roi-rate-total-price">
-                                          <div class="roi-rate-total-price__wrap">
-                                            <span class="precio roi-rate-total-price__amount-wrap">
-                                              <span
-                                                class="contenedor-precio multiprecio precio-total roi-rate-total-price__amount"
-                                                data-price="175"
-                                                data-currency="EUR"
-                                              >{{ price.retailPrice.value }} {{ price.retailPrice.currencyIsoCode }}</span>
-                                            </span>
-                                          </div>
-                                        </div>
+                                        <svg
+                                          class="svg-roi svg-roi_kid"
+                                          width="28px"
+                                          height="28px"
+                                          viewBox="0 0 28 28"
+                                          focusable="false"
+                                          xmlns="http://www.w3.org/2000/svg"
+                                        >
+                                          <path
+                                            d="M23.113 7.199l-4.856 4.946v13.958c0 .52-.183.965-.548 1.338a1.776 1.776 0 0 1-1.314.559c-.51 0-.948-.186-1.314-.559a1.843 1.843 0 0 1-.549-1.338v-6.505h-1.064v6.505c0 .52-.183.965-.549 1.338a1.776 1.776 0 0 1-1.314.559c-.51 0-.948-.186-1.314-.559a1.843 1.843 0 0 1-.548-1.338V12.145L4.887 7.2c-.31-.316-.466-.7-.466-1.152 0-.452.155-.835.466-1.152.31-.316.687-.474 1.13-.474.444 0 .821.158 1.131.474l3.792 3.862h6.12l3.792-3.862c.31-.316.687-.474 1.13-.474.444 0 .82.158 1.131.474.31.317.466.7.466 1.152 0 .452-.155.836-.466 1.152zm-5.429-3.515c0 1.02-.359 1.889-1.077 2.607A3.551 3.551 0 0 1 14 7.368c-1.02 0-1.889-.359-2.607-1.077a3.551 3.551 0 0 1-1.077-2.607c0-1.02.359-1.888 1.077-2.607A3.551 3.551 0 0 1 14 0c1.02 0 1.889.36 2.607 1.077a3.551 3.551 0 0 1 1.077 2.607z"
+                                            fill-rule="nonzero"
+                                          />
+                                        </svg>
+                                      </label>
+                                      <select
+                                        name="ninos"
+                                        id="nino_sel_lateraldosninos"
+                                        class="ninos_sel form__select"
+                                      ></select>
+                                      <div
+                                        class="edades_ninos form__subgroup form__subgroup--children"
+                                        data-trans-children-ages="Edades de los niños"
+                                      >
+                                        <span class="form__subgroup-title">
+                                          Edades de los
+                                          niños
+                                        </span>
+                                        <ul
+                                          class="edades_ninos_list form__subgroup-list form__subgroup-list--children"
+                                        ></ul>
+                                        <button
+                                          class="hide form__subgroup-button form__subgroup-button--hidden"
+                                          id="actualiza_ninos_id_lateraldosninos"
+                                        >Aceptar</button>
                                       </div>
                                     </div>
-                                  </template>
-                                  <template v-else>
-                                    <div
-                                      class="roi-rates__block roi-rates__block--wrap-prices roi-rates__block--wrap-prices-align"
-                                    >
-                                      <!--   <div class="roi-rates__block
+                                    <div class="form__group">
+                                      <label
+                                        aria-label=" BEBÉS"
+                                        class="form__label"
+                                        for="bebe_sel_lateraldosninos"
+                                      >
+                                        <svg
+                                          class="svg-roi svg-roi_baby"
+                                          width="28px"
+                                          height="28px"
+                                          viewBox="0 0 28 28"
+                                          focusable="false"
+                                          xmlns="http://www.w3.org/2000/svg"
+                                        >
+                                          <path
+                                            d="M13.997 6.616a3.308 3.308 0 1 1 0-6.616 3.308 3.308 0 0 1 0 6.616zm-.124 2.896l3.47-1.208 4.93 5.347-.122 1.885-4.663-1.547-.088 1.628-6.738.008v-1.594L5.82 15.48l-.093-1.753 4.449-5.457 3.697 1.243zm-2.424 8.778l.284 3.047-2.286.52 2.183 2.183.36 3.894-6.263-6.488L7.5 18.193l3.95.097zm4.51 0l3.95-.097 1.772 3.253L15.651 28l.128-3.96 2.183-2.183-2.287-.52.284-3.047z"
+                                            fill-rule="nonzero"
+                                          />
+                                        </svg>
+                                      </label>
+                                      <select
+                                        name="bebes"
+                                        id="bebe_sel_lateraldosninos"
+                                        class="bebes_sel form__select"
+                                      ></select>
+                                    </div>
+                                    <div class="form__group form__group--action">
+                                      <button
+                                        id="modifica_ocupacion_lateraldosninos"
+                                        type="button"
+                                        data-codhab="lateraldosninos"
+                                        class="roi-btn roi-btn--occupancy"
+                                      >Modificar</button>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="pensiones roi-board">
+                          <div class="roi-board__head">
+                            <div class="roi-board__body">
+                              <div
+                                id="pensiones_slick_1"
+                                class="roi-board__tab-list"
+                                role="tablist"
+                              >
+                                <button
+                                  class="roi-tabs__tab roi-tabs__tab--active js-roi-tab"
+                                  aria-selected="true"
+                                  aria-controls="pensiones_box_lateraldosninos_1"
+                                  role="tab"
+                                  data-trigger-event
+                                  data-tab-section="bc-pensions-lateraldosninos"
+                                  data-tracking-event-type="changeRate"
+                                  data-tracking-event-data="{
+                                &quot;eLabel&quot;: &quot;lateraldosninos--Mejor_precio_disponible&quot;,
+                                &quot;roomCode&quot;: &quot;lateraldosninos&quot;,
+                                &quot;rateCode&quot;: &quot;bar&quot;
+                            }"
+                                  data-section-index="0"
+                                >Mejor precio disponible</button>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            id="pensiones_box_lateraldosninos_1"
+                            class="pensiones_box pensiones_box_1 active"
+                            data-tarifacod="bar"
+                            role="tabpanel"
+                          >
+                            <div class="pensiones_box_head">
+                              <div class="pull-left">
+                                <span class="pensiones_box_txt"></span>
+                              </div>
+                              <div class="pull-right">
+                                <span class="no-card">
+                                  <svg
+                                    class="svg-roi svg-roi_check-star"
+                                    width="28px"
+                                    height="28px"
+                                    viewBox="0 0 28 28"
+                                    focusable="false"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                  >
+                                    <path
+                                      d="M14 24.957l-3.985 2.9-1.784-4.594-4.92.286.983-4.83L0 16.299l3.439-3.531-2.305-4.357 4.802-1.112.417-4.911 4.64 1.66L14 .143l3.006 3.907 4.64-1.661.418 4.911 4.802 1.112-2.305 4.357L28 16.299l-4.294 2.42.983 4.83-4.92-.286-1.784 4.595L14 24.957zm-4-11.709L8.57 14.677l4.195 4.195 7.276-7.551-1.455-1.403-5.848 6.07-2.74-2.74z"
+                                      fill-rule="nonzero"
+                                    />
+                                  </svg>
+                                  Pago en el hotel
+                                </span>
+                                <span class="texto_impuestos">
+                                  <svg
+                                    class="svg-roi svg-roi_check-circle"
+                                    width="28px"
+                                    height="28px"
+                                    viewBox="0 0 28 28"
+                                    focusable="false"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                  >
+                                    <g fill-rule="nonzero">
+                                      <path
+                                        d="M14 27.526c-7.456 0-13.5-6.045-13.5-13.5C.5 6.57 6.544.526 14 .526s13.5 6.044 13.5 13.5c0 7.455-6.044 13.5-13.5 13.5zm0-1c6.904 0 12.5-5.597 12.5-12.5 0-6.904-5.596-12.5-12.5-12.5S1.5 7.122 1.5 14.026c0 6.903 5.596 12.5 12.5 12.5z"
+                                      />
+                                      <path
+                                        d="M12.399 16.092l-2.837-2.837-1.414 1.414 4.277 4.278 7.44-7.721-1.44-1.388z"
+                                      />
+                                    </g>
+                                  </svg>
+                                  Impuestos incluidos
+                                </span>
+                                <span class="pensiones_box_claim">
+                                  <svg
+                                    class="svg-roi svg-roi_check-circle"
+                                    width="28px"
+                                    height="28px"
+                                    viewBox="0 0 28 28"
+                                    focusable="false"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                  >
+                                    <g fill-rule="nonzero">
+                                      <path
+                                        d="M14 27.526c-7.456 0-13.5-6.045-13.5-13.5C.5 6.57 6.544.526 14 .526s13.5 6.044 13.5 13.5c0 7.455-6.044 13.5-13.5 13.5zm0-1c6.904 0 12.5-5.597 12.5-12.5 0-6.904-5.596-12.5-12.5-12.5S1.5 7.122 1.5 14.026c0 6.903 5.596 12.5 12.5 12.5z"
+                                      />
+                                      <path
+                                        d="M12.399 16.092l-2.837-2.837-1.414 1.414 4.277 4.278 7.44-7.721-1.44-1.388z"
+                                      />
+                                    </g>
+                                  </svg>
+                                  Mejor Tarifa disponible
+                                </span>
+                              </div>
+                              <div class="texto_precio_no_disponible hide">
+                                <svg
+                                  class="svg-roi svg-roi_alert-star"
+                                  width="28px"
+                                  height="28px"
+                                  viewBox="0 0 28 28"
+                                  focusable="false"
+                                  xmlns="http://www.w3.org/2000/svg"
+                                >
+                                  <path
+                                    d="M14 25.07L10.015 28l-1.784-4.642-4.92.289.983-4.88L0 16.323l3.439-3.568-2.305-4.402L5.936 7.23l.417-4.962 4.64 1.678L14 0l3.006 3.946 4.64-1.678.418 4.962 4.802 1.123-2.305 4.402L28 16.323l-4.294 2.444.983 4.88-4.92-.29L17.985 28 14 25.07zm-.049-5.694c.4 0 .744-.145 1.03-.435.288-.29.431-.637.431-1.04 0-.405-.143-.752-.43-1.042a1.399 1.399 0 0 0-1.03-.435c-.39 0-.729.145-1.016.435-.287.29-.43.637-.43 1.041 0 .404.143.751.43 1.041.287.29.626.435 1.015.435zm1.046-4.226l.477-5.004c.02-.218.03-.425.03-.622 0-.704-.512-1.056-1.537-1.056-1.026 0-1.539.352-1.539 1.056 0 .094.016.3.047.622l.476 5.004c.052.518.293.777.723.777h.6c.43 0 .672-.26.723-.777z"
+                                    fill-rule="nonzero"
+                                  />
+                                </svg>
+                                <strong>
+                                  Lo sentimos, no hay disponibilidad para la ocupación
+                                  seleccionada. Por favor, escoja otra tarifa
+                                </strong>
+                              </div>
+                            </div>
+
+                            <div
+                              class="ocupaciones_box_item ocupaciones_box_item_bar active"
+                              data-tarifa="{&quot;cancelacion_gratis&quot;: {}, &quot;formasdepago&quot;: [&quot;1804_H&quot;], &quot;multiples_ofertas&quot;: false, &quot;slogan&quot;: &quot;&quot;, &quot;id_tarifa&quot;: 0, &quot;ocup_x_tipos&quot;: {&quot;ninos&quot;: [0, 1, 2], &quot;adultos&quot;: [1, 2], &quot;bebes&quot;: [0]}, &quot;lastminute&quot;: false, &quot;minimo_personas&quot;: 0, &quot;descripcion&quot;: &quot;&quot;, &quot;nombre&quot;: &quot;Mejor precio disponible&quot;, &quot;codigo&quot;: &quot;bar&quot;, &quot;ocupaciones&quot;: [{&quot;descripcion&quot;: &quot;2 adultos + 2 ni\u00f1os&quot;, &quot;pension_mas_barata&quot;: &quot;AD&quot;, &quot;pensiones&quot;: [{&quot;descripcion_extra&quot;: &quot;&quot;, &quot;total&quot;: 175.0, &quot;porcent_dto&quot;: 0.0, &quot;supl_oblig&quot;: [], &quot;cupo&quot;: 2, &quot;num_ocupantes&quot;: 4, &quot;total_antes&quot;: 175.0, &quot;cancelable&quot;: false, &quot;is_loyalty&quot;: false, &quot;impuesto_local&quot;: {&quot;impuesto&quot;: 0.0, &quot;codigo_moneda&quot;: null}, &quot;neto_agencia&quot;: 0.0, &quot;ofertas&quot;: {}, &quot;cancel_policy&quot;: 7218, &quot;condiciones&quot;: &quot;Si cancela o modifica la reserva 7 d\u00edas antes de la llegada se cobrar\u00e1 50%  de la estancia, Si cancela o modifica la reserva 48 horas antes de la llegada se cobrar\u00e1 el 100% de la estancia, \r&lt;br/&gt;No shows y salidas anticipadas se cobrar\u00e1 el 100%  de la estancia.\r&lt;br/&gt;- Esta propiedad impone un estricto c\u00f3digo de vestimenta en el restaurante. Los pantalones cortos no est\u00e1n permitidos Para obtener m\u00e1s informaci\u00f3n, comun\u00edcate con el establecimiento utilizando el n\u00famero que figura en el correo electr\u00f3nico de confirmaci\u00f3n de la reserva.&quot;, &quot;desglose&quot;: {&quot;2019-10-24&quot;: {&quot;colectivo_porcentaje&quot;: 0.0, &quot;nombre_tarifa&quot;: &quot;Estandar&quot;, &quot;precio&quot;: 175.0, &quot;id_tarifa&quot;: 7607, &quot;comision_porcentaje&quot;: 0.0, &quot;codigo_tarifa&quot;: &quot;estandar&quot;, &quot;precio_antes&quot;: 175.0, &quot;precio_db&quot;: 175.0}}, &quot;nombre&quot;: &quot;Alojamiento y Desayuno&quot;, &quot;codigo&quot;: &quot;AD&quot;, &quot;id&quot;: 2, &quot;ofertas_descripcion&quot;: {}}, {&quot;descripcion_extra&quot;: &quot;&quot;, &quot;total&quot;: 271.3, &quot;porcent_dto&quot;: 0.0, &quot;supl_oblig&quot;: [], &quot;cupo&quot;: 2, &quot;num_ocupantes&quot;: 4, &quot;total_antes&quot;: 271.3, &quot;cancelable&quot;: false, &quot;is_loyalty&quot;: false, &quot;impuesto_local&quot;: {&quot;impuesto&quot;: 0.0, &quot;codigo_moneda&quot;: null}, &quot;neto_agencia&quot;: 0.0, &quot;ofertas&quot;: {}, &quot;cancel_policy&quot;: 7218, &quot;condiciones&quot;: &quot;Si cancela o modifica la reserva 7 d\u00edas antes de la llegada se cobrar\u00e1 50%  de la estancia, Si cancela o modifica la reserva 48 horas antes de la llegada se cobrar\u00e1 el 100% de la estancia, \r&lt;br/&gt;No shows y salidas anticipadas se cobrar\u00e1 el 100%  de la estancia.\r&lt;br/&gt;- Esta propiedad impone un estricto c\u00f3digo de vestimenta en el restaurante. Los pantalones cortos no est\u00e1n permitidos Para obtener m\u00e1s informaci\u00f3n, comun\u00edcate con el establecimiento utilizando el n\u00famero que figura en el correo electr\u00f3nico de confirmaci\u00f3n de la reserva.&quot;, &quot;desglose&quot;: {&quot;2019-10-24&quot;: {&quot;colectivo_porcentaje&quot;: 0.0, &quot;nombre_tarifa&quot;: &quot;Estandar&quot;, &quot;precio&quot;: 271.3, &quot;id_tarifa&quot;: 7607, &quot;comision_porcentaje&quot;: 0.0, &quot;codigo_tarifa&quot;: &quot;estandar&quot;, &quot;precio_antes&quot;: 271.3, &quot;precio_db&quot;: 271.3}}, &quot;nombre&quot;: &quot;Media Pensi\u00f3n&quot;, &quot;codigo&quot;: &quot;MP&quot;, &quot;id&quot;: 3, &quot;ofertas_descripcion&quot;: {}}], &quot;codigo&quot;: &quot;2-2-0&quot;, &quot;descripcion_pensiones&quot;: []}]}"
+                            >
+                              <div class="inner">
+                                <ul class="roi-rates__list"></ul>
+                                <li
+                                  v-for="(price, index) in options.prices"
+                                  :key="index"
+                                  class="bar_AD pensiones_box_item roi-rates__item active"
+                                >
+                                  <div class="roi-rates__block roi-rates__block--info">
+                                    <div class="roi-rates__info">
+                                      <span
+                                        class="box_item_info js-rate-offer pension_ocupacion roi-rates__offer hide"
+                                      >
+                                        <button
+                                          class="roi-rates__offer-info trigger js-rate-offer-info"
+                                          data-original-title
+                                          title
+                                          aria-label
+                                        >
+                                          <svg
+                                            class="svg-roi svg-roi_info-rounded"
+                                            width="28px"
+                                            height="28px"
+                                            viewBox="0 0 28 28"
+                                            focusable="false"
+                                            xmlns="http://www.w3.org/2000/svg"
+                                          >
+                                            <path
+                                              d="M14 0c7.732 0 14 6.268 14 14s-6.268 14-14 14S0 21.732 0 14 6.268 0 14 0zm-1.386 6.827a1.725 1.725 0 0 0-.523 1.267c0 .495.174.917.523 1.266.35.35.772.524 1.267.524.488 0 .906-.175 1.255-.524.35-.349.524-.77.524-1.266s-.175-.918-.524-1.267a1.712 1.712 0 0 0-1.255-.523c-.495 0-.918.174-1.267.523zm-1.537 14.857v.551h5.495v-.551c-.413-.083-.694-.196-.845-.338-.15-.143-.225-.466-.225-.968v-8.76h-4.425v.563c.466.082.777.208.935.377.158.169.236.486.236.951v6.778c0 .526-.112.89-.337 1.093-.15.135-.428.236-.834.304z"
+                                              fill-rule="nonzero"
+                                            />
+                                          </svg>
+                                        </button>
+                                        <div class="popover-markup">
+                                          <div class="head hide">
+                                            <p class="js-tooltip-head-text"></p>
+                                          </div>
+                                          <div class="content hide">
+                                            <p class="js-tooltip-content-text"></p>
+                                          </div>
+                                        </div>
+                                      </span>
+                                      <span class="roi-rates__name">{{price.boardBasisName}}</span>
+                                    </div>
+                                    {{options.allotment}}
+                                    <span
+                                      v-if="options.allotment < 5 && options.allotment > 1"
+                                      class="pensiones_box_item_message roi-rates__message roi-rates__message--warning"
+                                    >Quedan {{options.allotment}} habitaciones</span>
+                                    <span
+                                      v-else-if="options.allotment < 1"
+                                      class="pensiones_box_item_message pension_alert roi-rates__message roi-rates__message--alert"
+                                    >¡Última habitación!</span>
+                                  </div>
+                                  <div
+                                    class="pension_ocupacion pension_ocupacion_no_edades roi-rates__block roi-rates__block--action js-rates-prices"
+                                    id="lateraldosninos-bar-AD"
+                                    data-occupancy="2-2-0"
+                                    data-big_children="0"
+                                  >
+                                    <template v-if="price.offer !== true">
+                                      <div
+                                        class="roi-rates__block roi-rates__block--wrap-prices roi-rates__block--wrap-prices-align"
+                                      >
+                                        <div
+                                          class="roi-rates__block roi-rates__block--discount-price"
+                                        >
+                                          <div class="rate-discount roi-rate-discount-price">
+                                            <div class="roi-rate-discount-price__wrap">
+                                              <div class="roi-rate-discount-price__discount">
+                                                <span
+                                                  class="roi-rate-discount-price__discount-percent-wrap"
+                                                >
+                                                  -
+                                                  <span
+                                                    class="precio-descuento roi-rate-discount-price__discount-percent-amount"
+                                                  ></span>
+                                                </span>
+                                              </div>
+                                              <div
+                                                class="precio roi-rate-discount-price__amount-wrap"
+                                              >
+                                                <span
+                                                  class="contenedor-precio multiprecio precio-total-anterior roi-rate-discount-price__amount"
+                                                  data-price="412.5"
+                                                  data-currency="EUR"
+                                                >{{ price.retailPrice.value }} {{price.retailPrice.currencyIsoCode}}</span>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div class="roi-rates__block roi-rates__block--total-price">
+                                          <div class="roi-rate-total-price">
+                                            <div class="roi-rate-total-price__wrap">
+                                              <span
+                                                class="precio roi-rate-total-price__amount-wrap"
+                                              >
+                                                <span
+                                                  class="contenedor-precio multiprecio precio-total roi-rate-total-price__amount"
+                                                  data-price="175"
+                                                  data-currency="EUR"
+                                                >{{ price.retailPrice.value }} {{ price.retailPrice.currencyIsoCode }}</span>
+                                              </span>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </template>
+                                    <template v-else>
+                                      <div
+                                        class="roi-rates__block roi-rates__block--wrap-prices roi-rates__block--wrap-prices-align"
+                                      >
+                                        <!--   <div class="roi-rates__block
                             roi-rates__block--discount-price"><div class="rate-discount                         roi-rate-discount-price"><div class="roi-rate-discount-price__wrap"><div class="roi-rate-discount-price__discount"><span class="roi-rate-discount-price__discount-percent-wrap">
                 -<span class="precio-descuento
                               roi-rate-discount-price__discount-percent-amount">10%</span></span></div><div class="precio                     roi-rate-discount-price__amount-wrap"><span class="contenedor-precio
                          multiprecio
                          precio-total-anterior
-                                      roi-rate-discount-price__amount" data-price="412.5" data-currency="EUR">412,50 €</span></div></div></div></div>-->
-                                      <div class="roi-rates__block roi-rates__block--total-price">
-                                        <div class="roi-rate-total-price">
-                                          <div class="roi-rate-total-price__wrap">
-                                            <span class="precio roi-rate-total-price__amount-wrap">
+                                        roi-rate-discount-price__amount" data-price="412.5" data-currency="EUR">412,50 €</span></div></div></div></div>-->
+                                        <div class="roi-rates__block roi-rates__block--total-price">
+                                          <div class="roi-rate-total-price">
+                                            <div class="roi-rate-total-price__wrap">
                                               <span
-                                                class="contenedor-precio multiprecio precio-total roi-rate-total-price__amount"
-                                                data-price="175"
-                                                data-currency="EUR"
-                                              >{{ price.retailPrice.value }} {{ price.retailPrice.currencyIsoCode }}</span>
-                                            </span>
+                                                class="precio roi-rate-total-price__amount-wrap"
+                                              >
+                                                <span
+                                                  class="contenedor-precio multiprecio precio-total roi-rate-total-price__amount"
+                                                  data-price="175"
+                                                  data-currency="EUR"
+                                                >{{ price.retailPrice.value }} {{ price.retailPrice.currencyIsoCode }}</span>
+                                              </span>
+                                            </div>
                                           </div>
                                         </div>
                                       </div>
-                                    </div>
-                                  </template>
-                                  <div class="roi-rates__block roi-rates__block--add-button">
-                                    <div class="button-add">
-                                      <a 
-                                        href="javascript:void(0)"
-                                        title="Añadir"
-                                        class="btn-bc btn-add btn-add-room ec-onload-tracking"
-                                        aria-label="Añadir Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
-                                        @click="ocupacion.seleccionado = price.key;
+                                    </template>
+                                    <div class="roi-rates__block roi-rates__block--add-button">
+                                      <div class="button-add">
+                                        <a
+                                          href="javascript:void(0)"
+                                          title="Añadir"
+                                          class="btn-bc btn-add btn-add-room ec-onload-tracking"
+                                          aria-label="Añadir Doble Superior Vista Mar Lateral 2 adultos + 2 niños"
+                                          @click="ocupacion.seleccionado = price.key;
                                               ocupacion.priceselected =
                                                 price.retailPrice.value;
                                               ocupacion.selectedcurrency =
@@ -1500,112 +1460,116 @@
                                               ocupacion.roomseleccionado = options.roomName;
                                               ocupacion.boardseleccionado = price.boardBasisName;
                                             addRoom(ocupacion.paxPerRoom,options,price,ocupacionindex)"
-                                      ><template v-if="cart[ocupacionindex]">Modificar</template><template v-else> Añadir</template></a>
+                                        >
+                                          <template v-if="cart[ocupacionindex]">Modificar</template>
+                                          <template v-else>Añadir</template>
+                                        </a>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </li>
+                              </div>
+                            </div>
+                            <div
+                              class="pensiones_box_item_info box_item_info"
+                              data-original-title
+                              title
+                            >
+                              <div class="enlace">
+                                <span class="txt">
+                                  <a
+                                    href="#"
+                                    class="roi-modal__show"
+                                    data-roi-modal="roi-modal-conditions-lateraldosninos-1"
+                                  >Condiciones de la reserva</a>
+                                </span>
+                                <div
+                                  id="roi-modal-conditions-lateraldosninos-1"
+                                  class="roi-modal roi-modal--conditions"
+                                  tabindex="0"
+                                  role="dialog"
+                                  aria-labelledby="roi-modal__title-lateraldosninos-1"
+                                >
+                                  <div class="roi-modal__content">
+                                    <div class="roi-modal__header">
+                                      <button class="roi-modal__close" aria-label="Cerrar">
+                                        <svg
+                                          class="svg-roi svg-roi_close"
+                                          width="28px"
+                                          height="28px"
+                                          viewBox="0 0 28 28"
+                                          focusable="false"
+                                          xmlns="http://www.w3.org/2000/svg"
+                                        >
+                                          <path
+                                            d="M14 13.23L.77 0 0 .77 13.23 14 0 27.23l.77.77 11.142-11.142L14 14.77 27.23 28l.77-.77L14.77 14 28 .77 27.23 0z"
+                                            fill-rule="nonzero"
+                                          />
+                                        </svg>
+                                      </button>
+                                      <h4
+                                        id="roi-modal__title-lateraldosninos-1"
+                                        class="roi-modal__title"
+                                      >Condiciones de la reserva</h4>
+                                    </div>
+                                    <div class="roi-modal__body">
+                                      <ul class="roi-modal__list">
+                                        <li class="roi-modal__item roi-modal__item--last">
+                                          <p class="roi-modal__item-description">
+                                            Si cancela o modifica la reserva 7 días
+                                            antes de la llegada se cobrará 50% de la
+                                            estancia, Si cancela o modifica la reserva
+                                            48 horas antes de la llegada se cobrará el
+                                            100% de la estancia,
+                                            <br />
+                                            <br />No shows y
+                                            salidas anticipadas se cobrará el 100% de la
+                                            estancia.
+                                            <br />
+                                            <br />- Esta propiedad impone un
+                                            estricto código de vestimenta en el
+                                            restaurante. Los pantalones cortos no están
+                                            permitidos Para obtener más información,
+                                            comunícate con el establecimiento utilizando
+                                            el número que figura en el correo
+                                            electrónico de confirmación de la reserva.
+                                          </p>
+                                          <span class="roi-modal__item-extra-description">
+                                            <span
+                                              class="roi-modal__item-extra-description--highlight"
+                                            >Tarifa cancelable</span>:
+                                            no
+                                          </span>
+                                        </li>
+                                      </ul>
                                     </div>
                                   </div>
                                 </div>
-                              </li>
-                            </div>
-                          </div>
-                          <div
-                            class="pensiones_box_item_info box_item_info"
-                            data-original-title
-                            title
-                          >
-                            <div class="enlace">
-                              <span class="txt">
-                                <a
-                                  href="#"
-                                  class="roi-modal__show"
-                                  data-roi-modal="roi-modal-conditions-lateraldosninos-1"
-                                >Condiciones de la reserva</a>
-                              </span>
-                              <div
-                                id="roi-modal-conditions-lateraldosninos-1"
-                                class="roi-modal roi-modal--conditions"
-                                tabindex="0"
-                                role="dialog"
-                                aria-labelledby="roi-modal__title-lateraldosninos-1"
-                              >
-                                <div class="roi-modal__content">
-                                  <div class="roi-modal__header">
-                                    <button class="roi-modal__close" aria-label="Cerrar">
-                                      <svg
-                                        class="svg-roi svg-roi_close"
-                                        width="28px"
-                                        height="28px"
-                                        viewBox="0 0 28 28"
-                                        focusable="false"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                      >
-                                        <path
-                                          d="M14 13.23L.77 0 0 .77 13.23 14 0 27.23l.77.77 11.142-11.142L14 14.77 27.23 28l.77-.77L14.77 14 28 .77 27.23 0z"
-                                          fill-rule="nonzero"
-                                        />
-                                      </svg>
-                                    </button>
-                                    <h4
-                                      id="roi-modal__title-lateraldosninos-1"
-                                      class="roi-modal__title"
-                                    >Condiciones de la reserva</h4>
-                                  </div>
-                                  <div class="roi-modal__body">
-                                    <ul class="roi-modal__list">
-                                      <li class="roi-modal__item roi-modal__item--last">
-                                        <p class="roi-modal__item-description">
-                                          Si cancela o modifica la reserva 7 días
-                                          antes de la llegada se cobrará 50% de la
-                                          estancia, Si cancela o modifica la reserva
-                                          48 horas antes de la llegada se cobrará el
-                                          100% de la estancia,
-                                          <br />
-                                          <br />No shows y
-                                          salidas anticipadas se cobrará el 100% de la
-                                          estancia.
-                                          <br />
-                                          <br />- Esta propiedad impone un
-                                          estricto código de vestimenta en el
-                                          restaurante. Los pantalones cortos no están
-                                          permitidos Para obtener más información,
-                                          comunícate con el establecimiento utilizando
-                                          el número que figura en el correo
-                                          electrónico de confirmación de la reserva.
-                                        </p>
-                                        <span class="roi-modal__item-extra-description">
-                                          <span
-                                            class="roi-modal__item-extra-description--highlight"
-                                          >Tarifa cancelable</span>:
-                                          no
-                                        </span>
-                                      </li>
-                                    </ul>
-                                  </div>
-                                </div>
                               </div>
-                            </div>
-                            <div class="popover-markup">
-                              <div class="head hide">Condiciones de la reserva</div>
-                              <div class="content hide">
-                                <p>
-                                  Si cancela o modifica la reserva 7 días antes de la llegada
-                                  se cobrará 50% de la estancia, Si cancela o modifica la
-                                  reserva 48 horas antes de la llegada se cobrará el 100% de
-                                  la estancia,
-                                  <br />
-                                  <br />No shows y salidas anticipadas se
-                                  cobrará el 100% de la estancia.
-                                  <br />
-                                  <br />- Esta propiedad
-                                  impone un estricto código de vestimenta en el restaurante.
-                                  Los pantalones cortos no están permitidos Para obtener más
-                                  información, comunícate con el establecimiento utilizando el
-                                  número que figura en el correo electrónico de confirmación
-                                  de la reserva.
-                                </p>
-                                <p>
-                                  <strong>Tarifa cancelable</strong>:
-                                  no
-                                </p>
+                              <div class="popover-markup">
+                                <div class="head hide">Condiciones de la reserva</div>
+                                <div class="content hide">
+                                  <p>
+                                    Si cancela o modifica la reserva 7 días antes de la llegada
+                                    se cobrará 50% de la estancia, Si cancela o modifica la
+                                    reserva 48 horas antes de la llegada se cobrará el 100% de
+                                    la estancia,
+                                    <br />
+                                    <br />No shows y salidas anticipadas se
+                                    cobrará el 100% de la estancia.
+                                    <br />
+                                    <br />- Esta propiedad
+                                    impone un estricto código de vestimenta en el restaurante.
+                                    Los pantalones cortos no están permitidos Para obtener más
+                                    información, comunícate con el establecimiento utilizando el
+                                    número que figura en el correo electrónico de confirmación
+                                    de la reserva.
+                                  </p>
+                                  <p>
+                                    <strong>Tarifa cancelable</strong>:
+                                    no
+                                  </p>
+                                </div>
                               </div>
                             </div>
                           </div>
@@ -1613,9 +1577,8 @@
                       </div>
                     </div>
                   </div>
-                  </div>
                 </div>
-            <!--    <div class="bc_powered">
+                <!--    <div class="bc_powered">
                   <span>
                     <a
                       href="#"
@@ -1634,7 +1597,8 @@
                 </div>-->
               </div>
             </div>
-            <div v-if="cart.length > 0"
+            <div
+              v-if="cart.length > 0"
               class="content-carrito js-roi-cart"
               data-url="/bookcore/shopping-cart/?lang=es"
               data-lang="es"
@@ -1657,8 +1621,7 @@
                         >{{total}} €</span>
 
                         <p class="resumen_precio_iva">
-                          <br />
-Impuestos incluidos
+                          <br />Impuestos incluidos
                         </p>
                       </div>
                     </div>
@@ -1687,7 +1650,7 @@ Impuestos incluidos
                           </a>
                           <span class="badge">{{cart.length}}</span>
                         </div>
-                    <!--    <a class="bc-cart-btn" href="javascript:void(0)">Ver detalles</a>-->
+                        <!--    <a class="bc-cart-btn" href="javascript:void(0)">Ver detalles</a>-->
                       </div>
                       <div class="tablet_bc_carrito_btn">
                         <a class="btn-bc btn-book" @click.prevent="confirm()">¡Reservar ahora!</a>
@@ -1698,7 +1661,7 @@ Impuestos incluidos
 
                 <!-- carro -->
 
-                <div 
+                <div
                   class="bc_carrito tablet_bc_carrito_lateral roi-booking-cart room-counter bc-cart-open"
                   data-room-count="1"
                   style="display: block; top: 80px; opacity: 1;"
@@ -1767,14 +1730,16 @@ Impuestos incluidos
                               >Habitaciones ({{cart.length}})</span>
                             </div>
                             <ul class="summary_habs_list roi-booking-cart__room-list">
-                              <li v-for="(oc,index) in cart " :key="index" 
-                                class="roi-booking-cart__room-item "
-                                :class="(index === (cart.length - 1))? 'roi-booking-cart__room-item--last' : 'roi-booking-cart__room-item'" v-if="oc">
-                                <div class="roi-booking-cart__room-header" >
+                              <li
+                                v-for="(oc,index) in cart "
+                                :key="index"
+                                class="roi-booking-cart__room-item"
+                                :class="(index === (cart.length - 1))? 'roi-booking-cart__room-item--last' : 'roi-booking-cart__room-item'"
+                                v-if="oc"
+                              >
+                                <div class="roi-booking-cart__room-header">
                                   <div class="roi-booking-cart__room-name-wrap">
-                                    <span
-                                      class="roi-booking-cart__room-name"
-                                    >{{oc.roomName}}</span>
+                                    <span class="roi-booking-cart__room-name">{{oc.roomName}}</span>
 
                                     <button
                                       class="roi-booking-cart__room-details-btn-delete js-roi-cart-remove-button"
@@ -1797,7 +1762,7 @@ Impuestos incluidos
                                     </button>
                                   </div>
                                   <div class="roi-booking-cart__room-actions">
-                                <!--    <button
+                                    <!--    <button
                                       class="roi-booking-cart__room-details-btn roi-booking-cart__room-details-btn--show"
                                       id="roi-booking-cart__room-details-btn--show"
                                       aria-label="Ver detalles Doble Superior Vista Mar Lateral"
@@ -1854,13 +1819,17 @@ Impuestos incluidos
                                       class="roi-booking-cart__room-info-row roi-booking-cart__room-info-checkin"
                                     >
                                       <span class="roi-booking-cart__room-info-name">Entrada:</span>
-                                      <span class="roi-booking-cart__room-info-value">{{formatDate(entrada)}}</span>
+                                      <span
+                                        class="roi-booking-cart__room-info-value"
+                                      >{{formatDate(entrada)}}</span>
                                     </div>
                                     <div
                                       class="roi-booking-cart__room-info-row roi-booking-cart__room-info-checkout"
                                     >
                                       <span class="roi-booking-cart__room-info-name">Salida:</span>
-                                      <span class="roi-booking-cart__room-info-value">{{formatDate(salida)}}</span>
+                                      <span
+                                        class="roi-booking-cart__room-info-value"
+                                      >{{formatDate(salida)}}</span>
                                     </div>
                                     <div
                                       class="roi-booking-cart__room-info-row roi-booking-cart__room-info-board"
@@ -1874,7 +1843,9 @@ Impuestos incluidos
                                       class="roi-booking-cart__room-info-row roi-booking-cart__room-info-occupancy"
                                     >
                                       <span class="roi-booking-cart__room-info-name">Ocupación:</span>
-                                      <span class="roi-booking-cart__room-info-value">{{oc.ocupation}} adultos</span>
+                                      <span
+                                        class="roi-booking-cart__room-info-value"
+                                      >{{oc.ocupation}} adultos</span>
                                     </div>
 
                                     <div
@@ -1942,14 +1913,13 @@ Impuestos incluidos
             </div>
           </div>
         </div>
-        <div v-if="!rates" class="fondo_dark"  style="display:block">
+        <div v-if="!rates" class="fondo_dark" style="display:block">
           <div class="modal-holder__loaderbars">
-          <div class="loader_bars">
-            <div class="loaderbars__line">
-              <img
-                                      src="/images/loading.gif"/>
+            <div class="loader_bars">
+              <div class="loaderbars__line">
+                <img src="/images/loading.gif" />
+              </div>
             </div>
-          </div>
           </div>
         </div>
       </div>
@@ -2063,24 +2033,13 @@ Impuestos incluidos
           <nav class="enlacesFooter">
             <ul>
               <li>
-                <a
-                  href="#"
-                  title="Política de privacidad"
-                  rel="nofollow"
-                >Política de privacidad</a>
+                <a href="#" title="Política de privacidad" rel="nofollow">Política de privacidad</a>
               </li>
               <li>
-                <a
-                  href="#"
-                  title="Política de cookies"
-                  rel="nofollow"
-                >Política de cookies</a>
+                <a href="#" title="Política de cookies" rel="nofollow">Política de cookies</a>
               </li>
               <li>
-                <a
-                  href="#"
-                  title="Directorio Hoteles"
-                >Directorio Hoteles</a>
+                <a href="#" title="Directorio Hoteles">Directorio Hoteles</a>
               </li>
               <li>
                 <a
@@ -2091,16 +2050,10 @@ Impuestos incluidos
                 >Mapa del sitio</a>
               </li>
               <li class="directorio">
-                <a
-                  href="#"
-                  title="quohotel hoteles"
-                >quohotel hoteles</a>
+                <a href="#" title="quohotel hoteles">quohotel hoteles</a>
               </li>
               <li class>
-                <a href="#" title="" target="_Blank" rel="nofollow">
-                  by
-
-                </a>
+                <a href="#" title target="_Blank" rel="nofollow">by</a>
               </li>
             </ul>
           </nav>
@@ -2193,18 +2146,10 @@ Impuestos incluidos
                 >Hotel</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Directorio Hoteles"
-                >Directorio Hoteles</a>
+                <a target="_blank" href="#" title="Directorio Hoteles">Directorio Hoteles</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Ofertas"
-                >Ofertas</a>
+                <a target="_blank" href="#" title="Ofertas">Ofertas</a>
               </li>
               <li class="list-group-item">
                 <a
@@ -2214,53 +2159,25 @@ Impuestos incluidos
                 >Oferta - ¡Descuento del 20%!</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Habitaciones"
-                >Habitaciones</a>
+                <a target="_blank" href="#" title="Habitaciones">Habitaciones</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Fotos"
-                >Fotos</a>
+                <a target="_blank" href="#" title="Fotos">Fotos</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Servicios"
-                >Servicios</a>
+                <a target="_blank" href="#" title="Servicios">Servicios</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Mapa"
-                >Mapa</a>
+                <a target="_blank" href="#" title="Mapa">Mapa</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Opiniones"
-                >Opiniones</a>
+                <a target="_blank" href="#" title="Opiniones">Opiniones</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Contacto"
-                >Contacto</a>
+                <a target="_blank" href="#" title="Contacto">Contacto</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Política de cookies"
-                >Política de cookies</a>
+                <a target="_blank" href="#" title="Política de cookies">Política de cookies</a>
               </li>
               <li class="list-group-item">
                 <a
@@ -2270,11 +2187,7 @@ Impuestos incluidos
                 >Aviso legal y uso de la página web</a>
               </li>
               <li class="list-group-item">
-                <a
-                  target="_blank"
-                  href="#"
-                  title="Política de privacidad para las estancias"
-                >
+                <a target="_blank" href="#" title="Política de privacidad para las estancias">
                   Política de privacidad para las
                   estancias
                 </a>
@@ -2436,6 +2349,141 @@ Impuestos incluidos
         </div>
       </div>
     </div>
+     <div v-if="viewoccupation" class="wrap rb_bc">
+     <div id="occupancy-modifier-doble" class="roi-modal roi-modal--occupancy roi-modal--visible" tabindex="0" role="dialog" data-no-dismiss="" aria-labelledby="roi-modal__title-doble" data-destroy-on-dispose="false">
+      
+        <div class="roi-modal__content" style="max-width:500px;">
+          <div class="roi-modal__header">
+            <button class="roi-modal__close" aria-label="Cerrar" @click="closemodal()"><svg class="svg-roi svg-roi_close" width="28px" height="28px" viewBox="0 0 28 28" focusable="false" xmlns="http://www.w3.org/2000/svg"><path d="M14 13.23L.77 0 0 .77 13.23 14 0 27.23l.77.77 11.142-11.142L14 14.77 27.23 28l.77-.77L14.77 14 28 .77 27.23 0z" fill-rule="nonzero"></path></svg></button>
+            <h4 class="roi-modal__title">Ocupaciones</h4>
+          </div>
+          <div class="roi-modal__body" style="
+    overflow: auto;
+    max-height: 80vh;
+">
+            <div class="form form--inline form--occupancy">
+            <div class="row" v-for="(o, index) in ocupaciones" :key="index">
+              <div class="col-sm-12 col-md-3 col-lg-3">
+               <div class="form__group">
+                  <label class="active">Habitación {{index + 1}}</label>
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-2 col-lg-2">
+                <div class="form__group">
+                  <label
+                    class="active"
+                    :for="'adult' + index"
+                    data-error="wrong"
+                    data-success="right"
+                  >Adultos</label>
+                  <input
+                    type="number"
+                    min="0"
+                    :id="'adult' + index"
+                    class="validate form-control my-input"
+                    v-model="o.adult"
+                    style="cursor: pointer"
+                  />
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-2 col-lg-2">
+                <div class="form__group">
+                  <label
+                    class="active"
+                    :for="'children' + index"
+                    data-error="wrong"
+                    data-success="right"
+                  >Niños</label>
+                  <input
+                    type="number"
+                    min="0"
+                    max="5"
+                    id="'children' + index"
+                    class="validate form-control my-input"
+                    v-model="o.children"
+                    style="cursor: pointer"
+                  />
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-2 col-lg-2">
+                <div v-if="o.children && parseInt(o.children.valueOf()) !== 0">
+                  <div
+                    v-for="(n, index2) in parseInt(o.children.valueOf())"
+                    class="form__group"
+                    :key="index2"
+                  >
+                    <label
+                      class="active"
+                      :for="'age' + index + index2"
+                      data-error="wrong"
+                      data-success="right"
+                    >Edades</label>
+                    <input
+                      type="number"
+                      min="0"
+                      max="18"
+                      :id="'age' + index + index2"
+                      class="validate form-control my-input"
+                      v-model="o.edades[index2]"
+                      required
+                      style="cursor: pointer"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-2 col-lg-2">
+                <div class="input-field">
+                   <button
+                                      class="roi-booking-cart__room-details-btn-delete js-roi-cart-remove-button"
+                                      style="padding-top:33px;"
+                                      v-on:click="borrarocupacion(index)">
+                   <svg
+                                        class="svg-roi svg-roi_trash"
+                                        width="28px"
+                                        height="28px"
+                                        viewBox="0 0 28 28"
+                                        focusable="false"
+                                        xmlns="http://www.w3.org/2000/svg"
+                                      >
+                                        <path
+                                          d="M9.625 22.167V9.333a.68.68 0 0 0-.123-.419.377.377 0 0 0-.315-.164h-.874a.377.377 0 0 0-.315.164.68.68 0 0 0-.123.42v12.833c0 .17.041.31.123.419.082.11.187.164.314.164h.876a.377.377 0 0 0 .314-.164.68.68 0 0 0 .123-.42zm5.25 0V9.333a.68.68 0 0 0-.123-.419.377.377 0 0 0-.315-.164h-.874a.377.377 0 0 0-.315.164.68.68 0 0 0-.123.42v12.833c0 .17.041.31.123.419.082.11.187.164.315.164h.874a.377.377 0 0 0 .315-.164.68.68 0 0 0 .123-.42zm5.25 0V9.333a.68.68 0 0 0-.123-.419.377.377 0 0 0-.314-.164h-.875a.377.377 0 0 0-.315.164.68.68 0 0 0-.123.42v12.833c0 .17.041.31.123.419.082.11.187.164.314.164h.875a.377.377 0 0 0 .315-.164.68.68 0 0 0 .123-.42zM9.625 3.5h8.75l-.938-1.6a.61.61 0 0 0-.332-.15h-6.19a.61.61 0 0 0-.333.15l-.957 1.6zm17.5 1.75v1.167c0 .17-.056.31-.168.419a.588.588 0 0 1-.429.164h-1.79v17.281c0 1.009-.291 1.88-.876 2.616-.584.735-1.286 1.103-2.106 1.103H6.244c-.82 0-1.522-.355-2.106-1.066-.585-.711-.877-1.571-.877-2.58V7h-1.79a.588.588 0 0 1-.428-.164.561.561 0 0 1-.168-.42V5.25c0-.17.056-.31.168-.42a.588.588 0 0 1 .429-.163h5.76l1.305-3.045c.187-.45.522-.832 1.007-1.148C10.03.158 10.52 0 11.017 0h5.966c.497 0 .988.158 1.473.474.485.316.82.699 1.007 1.148l1.305 3.045h5.76c.174 0 .317.054.43.164.111.11.167.249.167.419z"
+                                          fill-rule="nonzero"
+                                        />
+                                      </svg>
+                    <!--<i class="material-icons">delete</i>-->
+                  </button>
+                </div>
+              </div>
+            </div>
+           
+          <div style="width:100%;">
+            
+          <div class="form__group form__group--action" style="padding-top:30px;">
+            <button id="addroombtn"  type="button"
+              data-dismiss="modal"
+              @click="anadirocupacion"  class="roi-btn roi-btn--occupancy seccondary-btn">
+                      añadir
+                  </button>
+            <button id="modifica_occup"  type="button"
+              data-dismiss="modal"
+              @click="calculatetotal"  class="roi-btn roi-btn--occupancy">
+                      Modificar
+                  </button></div>
+          </div>
+          
+          <!--<div class="modal-footer">
+            <button
+              type="button"
+              class="modal-close btn btn-success"
+              data-dismiss="modal"
+              @click="calculatetotal"
+            >ok</button>
+          </div>-->
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
     <!-- Estructura para el pop up del footer -->
     <div class="modal fade modal_vcenter" id="modal_ofertafechas">
       <div class="modal-dialog">
@@ -2494,7 +2542,7 @@ Impuestos incluidos
     </div>
     <!-- /.modal -->
 
-  <!--  <iframe
+    <!--  <iframe
       id="ve-storage-iframe"
       tabindex="-1"
       src="/index_files/iframeStorage-5.0.0.html"
@@ -2968,10 +3016,10 @@ Impuestos incluidos
 /****************************** */
 const langfile = require("@/assets/lang/content.json");
 import axios from "axios";
-   import $ from 'jquery';
-import datepickerFactory from 'jquery-datepicker';
-import datepickerJAFactory from 'jquery-datepicker/i18n/jquery.ui.datepicker-es';
- 
+import $ from "jquery";
+import datepickerFactory from "jquery-datepicker";
+import datepickerJAFactory from "jquery-datepicker/i18n/jquery.ui.datepicker-es";
+
 // Just pass your jquery instance and you're done
 datepickerFactory($);
 datepickerJAFactory($);
@@ -2979,12 +3027,13 @@ export default {
   name: "Disponibilidad",
   data: function() {
     return {
-      totaladults:this.$route.query.totaladults,
-      totalchild:this.$route.query.totalchild,
+      totaladults: this.$route.query.totaladults,
+      totalchild: this.$route.query.totalchild,
       fechaEntrada:"",
-      fechaSalida:"",
-      entrada:this.$route.query.entrada,
-      salida:this.$route.query.salida,
+      fechaSalida: "",
+      entrada: this.$route.query.entrada,
+      salida: this.$route.query.salida,
+      ocupacion:this.$route.query.ocupacion,
       multilanguage: langfile.multilanguage,
       detalles: null,
       language: "es",
@@ -2992,49 +3041,100 @@ export default {
       rates: null,
       currency: null,
       allrooms: false,
-      componentKey:0,
-      cart:[]
+      componentKey: 0,
+      cart: [],
+      viewoccupation:false
     };
   },
-  computed:{
-    formatedEntrada:function () {
-      if(this.$data.entrada){
-     var month =this.$data.entrada.substr(4, 2)
-      var day = this.$data.entrada.substr(6, 2)
-      var year = this.$data.entrada.substr(0, 4)
-      
-return { "day":parseInt(day),"month":this.getFormMonth(month),"year":year}
-  }else{
-        return ""
+  computed: {
+    formatedEntrada: function() {
+         var month
+          var day
+           var year
+        if(this.$data.fechaEntrada){
+           month = this.getnumdate(this.$data.fechaEntrada).substr(4, 2);
+           day = this.getnumdate(this.$data.fechaEntrada).substr(6, 2);
+         year = this.getnumdate(this.$data.fechaEntrada).substr(0, 4);
+
+        return {
+          day: parseInt(day),
+          month: this.getFormMonth(month),
+          year: year
+        };
+        }
+     else if (this.$data.entrada) {
+        month = this.$data.entrada.substr(4, 2);
+         day = this.$data.entrada.substr(6, 2);
+        year = this.$data.entrada.substr(0, 4);
+
+        return {
+          day: parseInt(day),
+          month: this.getFormMonth(month),
+          year: year
+        };
+      } else {
+        return "";
       }
-     
     },
-    formatedSalida:function () {
-      if(this.$data.salida){
-       var month =this.$data.salida.substr(4, 2)
-      var day = this.$data.salida.substr(6, 2)
-      var year = this.$data.salida.substr(0, 4)
-      
-return { "day":parseInt(day),"month":this.getFormMonth(month),"year":year}
-      }else{
-        return ""
+    formatedSalida: function() {
+         var month
+          var day
+           var year
+        if(this.$data.fechaSalida){
+           month = this.getnumdate(this.$data.fechaSalida).substr(4, 2);
+           day = this.getnumdate(this.$data.fechaSalida).substr(6, 2);
+         year = this.getnumdate(this.$data.fechaSalida).substr(0, 4);
+
+        return {
+          day: parseInt(day),
+          month: this.getFormMonth(month),
+          year: year
+        };
+        }
+     else if (this.$data.salida) {
+         month = this.$data.salida.substr(4, 2);
+       day = this.$data.salida.substr(6, 2);
+         year = this.$data.salida.substr(0, 4);
+
+        return {
+          day: parseInt(day),
+          month: this.getFormMonth(month),
+          year: year
+        };
+      } else {
+        return "";
       }
     },
-    total: function () {
-      
-      if (this.$data.cart && this.$data.cart.length > 0){
-          var tot = 0;
-       for (var i = 0; i < this.$data.cart.length; i++) {
-              if(this.$data.cart[i]){
-              tot = tot + this.$data.cart[i].price.retailPrice.value;}
-            }
-       
-      }return Math.round(tot * 100) / 100;
-    
+    adultos: function() {
+      return 2;
+    },
+    ninyos: function() {
+      return 0;
+    },
+    total: function() {
+      if (this.$data.cart && this.$data.cart.length > 0) {
+        var tot = 0;
+        for (var i = 0; i < this.$data.cart.length; i++) {
+          if (this.$data.cart[i]) {
+            tot = tot + this.$data.cart[i].price.retailPrice.value;
+          }
+        }
+      }
+      return Math.round(tot * 100) / 100;
     }
   },
   methods: {
-      getnumdate(fecha) {
+    formatDate3: function(date) {
+      
+      var month =date.substr(4, 2)
+      var day = date.substr(6, 2)
+      var year = date.substr(0, 4)
+
+     
+var fdat = [day, month, year].join("/");
+      return fdat;
+    },
+    getnumdate(fecha) {
       var datearray = fecha.split("/");
       var day = "" + datearray[0];
       var month = "" + datearray[1];
@@ -3042,8 +3142,11 @@ return { "day":parseInt(day),"month":this.getFormMonth(month),"year":year}
       if (day.length < 2) day = "0" + day;
       return datearray[2] + "" + month + "" + day;
     },
-     getdispo() {
-      var dde = this.getnumdate(this.$data.fechaEntrada);
+    getdispo() {
+      this.$data.entrada =  this.getnumdate(this.$data.fechaEntrada);
+      this.$data.salida = this.getnumdate(this.$data.fechaSalida);
+      this.getInfo()
+      /*var dde = this.getnumdate(this.$data.fechaEntrada);
       var dds = this.getnumdate(this.$data.fechaSalida);
 
       this.$router.push({
@@ -3055,34 +3158,36 @@ return { "day":parseInt(day),"month":this.getFormMonth(month),"year":year}
           totaladults: this.$data.totaladults,
           totalchild: this.$data.totalchild
         }
-      });
+      });*/
     },
     calculatetotal: function() {
-       var s;
-        for (var o in this.$data.ocupaciones) {
-          if (s) s += ",";
-          else s = "";
-          s += 1;
-          s += "x";
-          s +=
-            parseInt(this.$data.ocupaciones[o].adult) +
-            parseInt(this.$data.ocupaciones[o].children);
-          if (
-            this.$data.ocupaciones[o].children != null &&
-            this.$data.ocupaciones[o].children > 0
-          ) {
-            s += "-";
-            var firstIteration = true;
-            for (var i = 0; i < this.$data.ocupaciones[o].children; i++) {
-              if (!firstIteration) {
-                s += "-";
-              }
-              s += this.$data.ocupaciones[o].edades[i] ? this.$data.ocupaciones[o].edades[i] : 11;
-              firstIteration = false;
+      var s;
+      for (var o in this.$data.ocupaciones) {
+        if (s) s += ",";
+        else s = "";
+        s += 1;
+        s += "x";
+        s +=
+          parseInt(this.$data.ocupaciones[o].adult) +
+          parseInt(this.$data.ocupaciones[o].children);
+        if (
+          this.$data.ocupaciones[o].children != null &&
+          this.$data.ocupaciones[o].children > 0
+        ) {
+          s += "-";
+          var firstIteration = true;
+          for (var i = 0; i < this.$data.ocupaciones[o].children; i++) {
+            if (!firstIteration) {
+              s += "-";
             }
+            s += this.$data.ocupaciones[o].edades[i]
+              ? this.$data.ocupaciones[o].edades[i]
+              : 11;
+            firstIteration = false;
           }
         }
-        this.$data.ocupacion = s;
+      }
+      this.$data.ocupacion = s;
       this.$data.totaladults = 0;
       this.$data.totalchild = 0;
       for (var j = 0; j < this.$data.ocupaciones.length; j++) {
@@ -3094,15 +3199,14 @@ return { "day":parseInt(day),"month":this.getFormMonth(month),"year":year}
         this.$data.totalchild =
           this.$data.totalchild + parseInt(this.$data.ocupaciones[j].children);
       }
-      this.closemodal()
+      this.closemodal();
     },
-     closemodal: function() {
-        this.$data.viewoccupation=false
+    closemodal: function() {
+      this.$data.viewoccupation = false;
     },
     elegirocupacion: function() {
-      
-     this.$data.viewoccupation=true
-    /*  this.$data.totaladults = 0;
+      this.$data.viewoccupation = true;
+      /*  this.$data.totaladults = 0;
       this.$data.totalchild = 0;*/
     },
     borrarocupacion: function(index) {
@@ -3114,127 +3218,122 @@ return { "day":parseInt(day),"month":this.getFormMonth(month),"year":year}
 
       //  M.updateTextFields()
     },
-     focus: function(tt){
-      if(tt === "entrada"){
-        var entrada =  document.getElementById( "datepickerEntrada" );
+    focus: function(tt) {
+      if (tt === "entrada") {
+        var entrada = document.getElementById("datepickerEntrada");
         entrada.focus();
-      }else{
-        var salida =  document.getElementById( "datepickerSalida" );
-          salida.focus();
+      } else {
+        var salida = document.getElementById("datepickerSalida");
+        salida.focus();
       }
-      
-      
     },
-      getFormMonth(m){
-        switch(m){
-          case "1":
-            return "ENE";
-            case "2":
-            return "FEB";
-            case "3":
-            return "MAR";
-            case "4":
-            return "ABR";
-            case "5":
-            return "MAY";
-            case "6":
-            return "JUN";
-            case "7":
-            return "JUL";
-            case "8":
-            return "AGO";
-            case "9":
-            return "SEP";
+    getFormMonth(m) {
+      switch (m) {
+        case "1":
+          return "ENE";
+        case "2":
+          return "FEB";
+        case "3":
+          return "MAR";
+        case "4":
+          return "ABR";
+        case "5":
+          return "MAY";
+        case "6":
+          return "JUN";
+        case "7":
+          return "JUL";
+        case "8":
+          return "AGO";
+        case "9":
+          return "SEP";
 
-            case "10":
-            return "OCT";
-            
-            case "11":
-            return "NOV";
-            
-            case "12":
-            return "DIC";
-            
-        }
+        case "10":
+          return "OCT";
+
+        case "11":
+          return "NOV";
+
+        case "12":
+          return "DIC";
+      }
     },
-    viewDetails(index){
-        console.log(index)
+    viewDetails(index) {
+      console.log(index);
     },
-    
+
     borrar(index) {
-      this.$data.cart.splice(index,1)
+      this.$data.cart.splice(index, 1);
     },
-     formatDate: function(date) {
-      
-      var month =date.substr(4, 2)
-      var day = date.substr(6, 2)
-      var year = date.substr(0, 4)
+    formatDate: function(date) {
+      var month = date.substr(4, 2);
+      var day = date.substr(6, 2);
+      var year = date.substr(0, 4);
 
-     
-var fdat = [day, month, year].join("/");
+      var fdat = [day, month, year].join("/");
       return fdat;
     },
     confirm() {
-    //  if (this.$data.allrooms) {
-        var s;
-        for (var z in this.$data.rates.rates) {
-          if(this.$data.rates.rates[z].seleccionado !== undefined){
-
-          
+      //  if (this.$data.allrooms) {
+      var s;
+      for (var z in this.$data.rates.rates) {
+        if (this.$data.rates.rates[z].seleccionado !== undefined) {
           if (s) s += ",";
           else s = "";
           s += this.$data.rates.rates[z].seleccionado;
-          
+
           /* for (var x in this.$data.rates.rates[z].options) {
             if (x.key === this.$data.rates.rates[z].seleccionado) {
             }
           }*/
-          
-          localStorage.setItem('ccrx_cart', JSON.stringify( this.$data.cart))
-          }
+
+          localStorage.setItem("ccrx_cart", JSON.stringify(this.$data.cart));
         }
-        this.$router.push({
-          name: "Confirmation",
-          query: {
-            ratekeys: s,
-             //cart: this.$data.cart,
-            //  hotelid: this.$route.query.hotelid,
-            //  hotelname: this.$route.query.hotelname,
-            //  category:  this.$route.query.category,
-            //  stars: this.$route.query.stars,
-            //  keys: this.$route.query.keys,
-            //  address: this.$route.query.address,
-            salida: this.$data.salida,
-            entrada: this.$data.entrada,
-            ocupacion: this.$route.query.ocupacion
-            //  iddestino: this.$route.query.iddestino,
-            //  destino: this.$route.query.destino
-          }
-        });
-     // }
+      }
+      this.$router.push({
+        name: "Confirmation",
+        query: {
+          ratekeys: s,
+          //cart: this.$data.cart,
+          //  hotelid: this.$route.query.hotelid,
+          //  hotelname: this.$route.query.hotelname,
+          //  category:  this.$route.query.category,
+          //  stars: this.$route.query.stars,
+          //  keys: this.$route.query.keys,
+          //  address: this.$route.query.address,
+          salida: this.$data.salida,
+          entrada: this.$data.entrada,
+          ocupacion: this.$route.query.ocupacion,
+          totaladults: this.$data.totaladults,
+          totalchild: this.$data.totalchild
+          //  iddestino: this.$route.query.iddestino,
+          //  destino: this.$route.query.destino
+        }
+      });
+      // }
     },
     forceRerender() {
-      this.componentKey += 1;  
+      this.componentKey += 1;
     },
-    addRoom(pax,option, price,index) {
-      console.log(option + index)
+    addRoom(pax, option, price, index) {
+      console.log(option + index);
       this.$set(this.cart, index, {
         ocupation: pax,
         roomName: option.roomName,
         price: price
-      })
-      console.log(this.$data.cart)
+      });
+      console.log(this.$data.cart);
     },
     getInfo: function() {
       var d = this.$data;
-          var _this = this
+      var _this = this;
 
       var bodyFormData = {
         hotelId: "hot-8",
         //  hotelKey: d.hotelkey,  Prueba añadir hotelkey para hotel beds en GetHotelRatesRQ
-        checkin: this.$route.query.entrada,
-        checkout: this.$route.query.salida,
-        occupancies: this.$route.query.ocupacion,
+        checkin: d.entrada,
+        checkout: d.salida,
+        occupancies: d.ocupacion,
         language: "es"
       };
 
@@ -3250,30 +3349,31 @@ var fdat = [day, month, year].join("/");
         )
         .then(function(response) {
           //d.totalprice = 0;
-          
+
           var exitsrates = null;
           console.log(response.data);
           for (var z in response.data.rates) {
             if (response.data.rates[z].options[0]) {
               if (response.data.rates[z].options[0].prices[0]) {
-               exitsrates = true;
+                exitsrates = true;
                 d.currency = response.data.rates[z].selectedcurrency;
               }
             }
           }
-         if (exitsrates) {
+          if (exitsrates) {
             d.rates = response.data;
-        } else {
-           _this.$router.push({
-          name: "calendario",
-          query: {
-            ocupacion: _this.$route.query.ocupacion,
-            entrada: _this.$route.query.entrada,
-            salida: _this.$route.query.salida
+          } else {
+            _this.$router.push({
+              name: "calendario",
+              query: {
+                ocupacion: d.ocupacion,
+                entrada: d.entrada,
+                salida: d.salida,
+                totaladults: d.totaladults,
+                totalchild: d.totalchild
+              }
+            });
           }
-        });
-            
-        }
         })
         .catch(function(error) {
           console.log(error);
@@ -3281,45 +3381,87 @@ var fdat = [day, month, year].join("/");
     }
   },
   mounted() {
-     var d = this.$data
     
-        $( "#datepickerEntrada" ).datepicker(
-        {
-          onSelect: function() { 
-           var   dateObject = $(this).datepicker('getDate') 
-           // $( "#datepicker" ).attr( 'value', dateObject.getDate().toString() + '/'+ dateObject.getMonth().toString()+ '/'+ dateObject.getFullYear().toString()  )
-            d.fechaEntrada = dateObject.getDate().toString() + '/'+ (dateObject.getMonth() + 1).toString()+ '/'+ dateObject.getFullYear().toString()  
-            }
-        });
-         $( "#datepickerSalida" ).datepicker(
-        {
-          onSelect: function() { 
-           var   dateObject = $(this).datepicker('getDate') 
-           // $( "#datepicker" ).attr( 'value', dateObject.getDate().toString() + '/'+ dateObject.getMonth().toString()+ '/'+ dateObject.getFullYear().toString()  )
-            d.fechaSalida = dateObject.getDate().toString() + '/'+ (dateObject.getMonth() + 1).toString()+ '/'+ dateObject.getFullYear().toString()  
-            }
-        });
+    var d = this.$data;
+    d.fechaEntrada = this.formatDate3(this.$route.query.entrada)
+    d.fechaSalida = this.formatDate3(this.$route.query.salida)
+    $("#datepickerEntrada").datepicker({
+      onSelect: function() {
+        var dateObject = $(this).datepicker("getDate");
+        // $( "#datepicker" ).attr( 'value', dateObject.getDate().toString() + '/'+ dateObject.getMonth().toString()+ '/'+ dateObject.getFullYear().toString()  )
+        d.fechaEntrada =
+          dateObject.getDate().toString() +
+          "/" +
+          (dateObject.getMonth() + 1).toString() +
+          "/" +
+          dateObject.getFullYear().toString();
+      }
+    });
+    $("#datepickerSalida").datepicker({
+      onSelect: function() {
+        var dateObject = $(this).datepicker("getDate");
+        // $( "#datepicker" ).attr( 'value', dateObject.getDate().toString() + '/'+ dateObject.getMonth().toString()+ '/'+ dateObject.getFullYear().toString()  )
+        d.fechaSalida =
+          dateObject.getDate().toString() +
+          "/" +
+          (dateObject.getMonth() + 1).toString() +
+          "/" +
+          dateObject.getFullYear().toString();
+      }
+    });
 
-      
-      $.datepicker.regional['es'] = {
-		closeText: 'Cerrar',
-		prevText: '&#x3C;Ant',
-		nextText: 'Sig&#x3E;',
-		currentText: 'Hoy',
-		monthNames: ['Enero','Febrero','Marzo','Abril','Mayo','Junio',
-		'Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'],
-		monthNamesShort: ['Ene','Feb','Mar','Abr','May','Jun',
-		'Jul','Ago','Sep','Oct','Nov','Dic'],
-		dayNames: ['Domingo','Lunes','Martes','MiÃ©rcoles','Jueves','Viernes','SÃ¡bado'],
-		dayNamesShort: ['Dom','Lun','Mar','MiÃ©','Juv','Vie','SÃ¡b'],
-		dayNamesMin: ['Do','Lu','Ma','Mi','Ju','Vi','SÃ¡'],
-		weekHeader: 'Sm',
-		dateFormat: 'dd/mm/yy',
-		firstDay: 1,
-		isRTL: false,
-		showMonthAfterYear: false,
-		yearSuffix: ''};
-	$.datepicker.setDefaults($.datepicker.regional['es']);
+    $.datepicker.regional["es"] = {
+      closeText: "Cerrar",
+      prevText: "&#x3C;Ant",
+      nextText: "Sig&#x3E;",
+      currentText: "Hoy",
+      monthNames: [
+        "Enero",
+        "Febrero",
+        "Marzo",
+        "Abril",
+        "Mayo",
+        "Junio",
+        "Julio",
+        "Agosto",
+        "Septiembre",
+        "Octubre",
+        "Noviembre",
+        "Diciembre"
+      ],
+      monthNamesShort: [
+        "Ene",
+        "Feb",
+        "Mar",
+        "Abr",
+        "May",
+        "Jun",
+        "Jul",
+        "Ago",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dic"
+      ],
+      dayNames: [
+        "Domingo",
+        "Lunes",
+        "Martes",
+        "MiÃ©rcoles",
+        "Jueves",
+        "Viernes",
+        "SÃ¡bado"
+      ],
+      dayNamesShort: ["Dom", "Lun", "Mar", "MiÃ©", "Juv", "Vie", "SÃ¡b"],
+      dayNamesMin: ["Do", "Lu", "Ma", "Mi", "Ju", "Vi", "SÃ¡"],
+      weekHeader: "Sm",
+      dateFormat: "dd/mm/yy",
+      firstDay: 1,
+      isRTL: false,
+      showMonthAfterYear: false,
+      yearSuffix: ""
+    };
+    $.datepicker.setDefaults($.datepicker.regional["es"]);
 
     this.getInfo();
   }

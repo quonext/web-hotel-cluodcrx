@@ -230,8 +230,9 @@
     <section id="motorInternas">
       <div class="contenedor_header">
         <div class="container">
-          <div class="motor">
-            <form id="motorform">
+          <div class="motor" style="    width: 100%;
+    height: 10%; padding:50px;" >
+            <!--<form id="motorform">
               <div class="box_inside">
                 <h3>¡RESERVA AHORA!</h3>
                 <div class="fechas">
@@ -292,7 +293,7 @@
                   </div>
                 </div>
               </div>
-            </form>
+            </form>-->
           </div>
         </div>
       </div>

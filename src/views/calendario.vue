@@ -234,70 +234,127 @@
         <div class="container">
           <div class="motor">
             <form
-            
               id="motorform"
-            
+              action="https://serene-kowalevski-d75031.netlify.com/bookcore/v1/search-dispo.htm"
+              method="POST"
             >
               <div class="box_inside">
-                <h3>¡RESERVA AHORA!</h3>
-                <div class="fechas">
-                  <div class="entrada">
-                    <label>Entrada</label>
-                    <div class="bordeFechas">
-                      <span class>
-                        <strong></strong>
-                        <em></em>
-                      </span>
-                      <input
-                        type="text"
-                        name="entrada"
-                        value="24/10/2019"
-                        readonly="readonly"
-                        required
-                        id="id_entrada"
-                      />
+                  <h3>¡RESERVA AHORA!</h3>
+                  <div class="fechas">
+                    <div class="entrada">
+                      <label>Entrada</label>
+                      <div class="bordeFechas" @click="focus('entrada')">
+                        <span class>
+                          <strong>{{formatedEntrada.day}}</strong>
+                          <em>{{formatedEntrada.month}} {{formatedEntrada.year}}</em>
+                        </span>
+                        <input
+                          type="text"
+                          name="entrada"
+                          value="24/10/2019"
+                          readonly="readonly"
+                          required
+                          id="id_entrada"
+                          class="hasDatepicker"
+                        />
+                        <input
+                          type="text"
+                          id="datepickerEntrada"
+                          v-model="fechaEntrada"
+                          style="visibility:visible; z-index:-1"
+                        />
+                      </div>
+                    </div>
+                    <div class="salida">
+                      <label>Salida</label>
+                      <div class="bordeFechas" @click="focus('salida')">
+                        <span class>
+                          <strong>{{formatedSalida.day}}</strong>
+                          <em>{{formatedSalida.month}} {{formatedSalida.year}}</em>
+                        </span>
+                        <input
+                          type="text"
+                          name="salida"
+                          value="25/10/2019"
+                          readonly="readonly"
+                          required
+                          id="id_salida"
+                          class="hasDatepicker"
+                        />
+                        <input
+                          type="text"
+                          id="datepickerSalida"
+                          v-model="fechaSalida"
+                          style="visibility:visible; z-index:-1"
+                        />
+                      </div>
                     </div>
                   </div>
-                  <div class="salida">
-                    <label>Salida</label>
-                    <div class="bordeFechas">
-                      <span class>
-                        <strong></strong>
-                        <em></em>
-                      </span>
-                      <input
-                        type="text"
-                        name="salida"
-                        value="25/10/2019"
-                        readonly="readonly"
-                        required
-                        id="id_salida"
-                      />
+                  <div class="fechas consulta">
+                    <div class="entrada" style="width: 44%;margin-right: 15px;">
+                      <label>Ocupación</label>
+                     <div @click="elegirocupacion()">
+                      <div class="bordeFechas" style="width: 52%;">
+                        <span style="padding: 10px 0px 10px 10px; text-align: center;">
+                          <strong>{{totaladults}}</strong>
+                          <em>adultos</em>
+                        </span>
+                        <input
+                          type="text"
+                          name="ocupacion"
+                          value="1x2"
+                          readonly="readonly"
+                          required="required"
+                          id="id_ocupacion"
+                        />
+                      </div>
+                      <div class="bordeFechas" style="
+    width: 48%;
+">
+                        <span style="
+    text-align: center;padding: 10px 10px 10px 0px;
+">
+                          <strong>{{totalchild}}</strong>
+                          <em>niños</em>
+                        </span>
+                      </div>
+                      </div>
+                    </div>
+                    <div class="box-check btn-dispo">
+                      <button title="¡Comprobar disponibilidad!" class="btn btn-motor btn-consulta" @click.prevent="getdispo()">
+                        ¡Comprobar disponibilidad!
+                        <span>Mejor Precio Online</span>
+                      </button>
                     </div>
                   </div>
+                  <!--<div class="consulta">
+                    <div class="box-promo">
+                      <span class="promocode">
+                        ¿Tienes un código promocional?
+                        <a
+                          title="haz clic aquí"
+                          href="javascript:void(0)"
+                        >haz clic aquí</a>
+                      </span>
+                      <span class="codpromo" style="display: none;">
+                        <input
+                          type="text"
+                          name="codpromo"
+                          id="id_codpromo"
+                          maxlength="50"
+                          placeholder="Código promocional"
+                        />
+                        <em class="fa fa-times cerrar-input"></em>
+                      </span>
+                    </div>
+                    <div class="box-check btn-dispo">
+                      <button title="¡Comprobar disponibilidad!" class="btn btn-motor btn-consulta" @click.prevent="getdispo()">
+                        ¡Comprobar disponibilidad!
+                        <span>Mejor Precio Online</span>
+                      </button>
+                    </div>
+                  </div>-->
                 </div>
-                <div class="consulta">
-                  <div class="box-promo">
-                    <span class="promocode">
-                      ¿Tienes un código promocional?
-                      <a
-                        title="haz clic aquí"
-                        href="javascript:void(0)"
-                      >haz clic aquí</a>
-                    </span>
-                    <span class="codpromo" style="display: none;">
-                      <input type="text" name="codpromo" id="id_codpromo" maxlength="50" />
-                      <em class="fa fa-times cerrar-input"></em>
-                    </span>
-                  </div>
-                  <div class="box-check btn-dispo">
-                    <button title="¡Comprobar disponibilidad!" class="btn btn-motor btn-consulta">
-                      ¡Comprobar disponibilidad!
-                      <span>Mejor Precio Online</span>
-                    </button>
-                  </div>
-                </div>
-              </div>
             </form>
           </div>
         </div>
@@ -1455,6 +1512,141 @@
         </div>
       </div>
     </div>
+     <div v-if="viewoccupation" class="wrap rb_bc">
+     <div id="occupancy-modifier-doble" class="roi-modal roi-modal--occupancy roi-modal--visible" tabindex="0" role="dialog" data-no-dismiss="" aria-labelledby="roi-modal__title-doble" data-destroy-on-dispose="false">
+      
+        <div class="roi-modal__content" style="max-width:500px;">
+          <div class="roi-modal__header">
+            <button class="roi-modal__close" aria-label="Cerrar" @click="closemodal()"><svg class="svg-roi svg-roi_close" width="28px" height="28px" viewBox="0 0 28 28" focusable="false" xmlns="http://www.w3.org/2000/svg"><path d="M14 13.23L.77 0 0 .77 13.23 14 0 27.23l.77.77 11.142-11.142L14 14.77 27.23 28l.77-.77L14.77 14 28 .77 27.23 0z" fill-rule="nonzero"></path></svg></button>
+            <h4 class="roi-modal__title">Ocupaciones</h4>
+          </div>
+          <div class="roi-modal__body" style="
+    overflow: auto;
+    max-height: 80vh;
+">
+            <div class="form form--inline form--occupancy">
+            <div class="row" v-for="(o, index) in ocupaciones" :key="index">
+              <div class="col-sm-12 col-md-3 col-lg-3">
+               <div class="form__group">
+                  <label class="active">Habitación {{index + 1}}</label>
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-2 col-lg-2">
+                <div class="form__group">
+                  <label
+                    class="active"
+                    :for="'adult' + index"
+                    data-error="wrong"
+                    data-success="right"
+                  >Adultos</label>
+                  <input
+                    type="number"
+                    min="0"
+                    :id="'adult' + index"
+                    class="validate form-control my-input"
+                    v-model="o.adult"
+                    style="cursor: pointer"
+                  />
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-2 col-lg-2">
+                <div class="form__group">
+                  <label
+                    class="active"
+                    :for="'children' + index"
+                    data-error="wrong"
+                    data-success="right"
+                  >Niños</label>
+                  <input
+                    type="number"
+                    min="0"
+                    max="5"
+                    id="'children' + index"
+                    class="validate form-control my-input"
+                    v-model="o.children"
+                    style="cursor: pointer"
+                  />
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-2 col-lg-2">
+                <div v-if="o.children && parseInt(o.children.valueOf()) !== 0">
+                  <div
+                    v-for="(n, index2) in parseInt(o.children.valueOf())"
+                    class="form__group"
+                    :key="index2"
+                  >
+                    <label
+                      class="active"
+                      :for="'age' + index + index2"
+                      data-error="wrong"
+                      data-success="right"
+                    >Edades</label>
+                    <input
+                      type="number"
+                      min="0"
+                      max="18"
+                      :id="'age' + index + index2"
+                      class="validate form-control my-input"
+                      v-model="o.edades[index2]"
+                      required
+                      style="cursor: pointer"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-2 col-lg-2">
+                <div class="input-field">
+                   <button
+                                      class="roi-booking-cart__room-details-btn-delete js-roi-cart-remove-button"
+                                      style="padding-top:33px;"
+                                      v-on:click="borrarocupacion(index)">
+                   <svg
+                                        class="svg-roi svg-roi_trash"
+                                        width="28px"
+                                        height="28px"
+                                        viewBox="0 0 28 28"
+                                        focusable="false"
+                                        xmlns="http://www.w3.org/2000/svg"
+                                      >
+                                        <path
+                                          d="M9.625 22.167V9.333a.68.68 0 0 0-.123-.419.377.377 0 0 0-.315-.164h-.874a.377.377 0 0 0-.315.164.68.68 0 0 0-.123.42v12.833c0 .17.041.31.123.419.082.11.187.164.314.164h.876a.377.377 0 0 0 .314-.164.68.68 0 0 0 .123-.42zm5.25 0V9.333a.68.68 0 0 0-.123-.419.377.377 0 0 0-.315-.164h-.874a.377.377 0 0 0-.315.164.68.68 0 0 0-.123.42v12.833c0 .17.041.31.123.419.082.11.187.164.315.164h.874a.377.377 0 0 0 .315-.164.68.68 0 0 0 .123-.42zm5.25 0V9.333a.68.68 0 0 0-.123-.419.377.377 0 0 0-.314-.164h-.875a.377.377 0 0 0-.315.164.68.68 0 0 0-.123.42v12.833c0 .17.041.31.123.419.082.11.187.164.314.164h.875a.377.377 0 0 0 .315-.164.68.68 0 0 0 .123-.42zM9.625 3.5h8.75l-.938-1.6a.61.61 0 0 0-.332-.15h-6.19a.61.61 0 0 0-.333.15l-.957 1.6zm17.5 1.75v1.167c0 .17-.056.31-.168.419a.588.588 0 0 1-.429.164h-1.79v17.281c0 1.009-.291 1.88-.876 2.616-.584.735-1.286 1.103-2.106 1.103H6.244c-.82 0-1.522-.355-2.106-1.066-.585-.711-.877-1.571-.877-2.58V7h-1.79a.588.588 0 0 1-.428-.164.561.561 0 0 1-.168-.42V5.25c0-.17.056-.31.168-.42a.588.588 0 0 1 .429-.163h5.76l1.305-3.045c.187-.45.522-.832 1.007-1.148C10.03.158 10.52 0 11.017 0h5.966c.497 0 .988.158 1.473.474.485.316.82.699 1.007 1.148l1.305 3.045h5.76c.174 0 .317.054.43.164.111.11.167.249.167.419z"
+                                          fill-rule="nonzero"
+                                        />
+                                      </svg>
+                    <!--<i class="material-icons">delete</i>-->
+                  </button>
+                </div>
+              </div>
+            </div>
+           
+          <div style="width:100%;">
+            
+          <div class="form__group form__group--action" style="padding-top:30px;">
+            <button id="addroombtn"  type="button"
+              data-dismiss="modal"
+              @click="anadirocupacion"  class="roi-btn roi-btn--occupancy seccondary-btn">
+                      añadir
+                  </button>
+            <button id="modifica_occup"  type="button"
+              data-dismiss="modal"
+              @click="calculatetotal"  class="roi-btn roi-btn--occupancy">
+                      Modificar
+                  </button></div>
+          </div>
+          
+          <!--<div class="modal-footer">
+            <button
+              type="button"
+              class="modal-close btn btn-success"
+              data-dismiss="modal"
+              @click="calculatetotal"
+            >ok</button>
+          </div>-->
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
     <!-- Estructura para el pop up del footer -->
     <!-- Fin de estructura para el pop up del footer -->
     <div class="modal fade modal_vcenter" id="modal_ofertafechas">
@@ -1515,7 +1707,14 @@
 
 <script>
 // @ is an alias to /src
+// @ is an alias to /src
+import $ from "jquery";
+import datepickerFactory from "jquery-datepicker";
+import datepickerJAFactory from "jquery-datepicker/i18n/jquery.ui.datepicker-es";
 
+// Just pass your jquery instance and you're done
+datepickerFactory($);
+datepickerJAFactory($);
 
 //const langfile = require("@/assets/lang/content.json");
 import axios from "axios";
@@ -1523,7 +1722,12 @@ export default {
   name: "calendar",
   data: function() {
     return {
-        
+         totaladults: this.$route.query.totaladults,
+      totalchild: this.$route.query.totalchild,
+      fechaEntrada: "",
+      fechaSalida: "",
+        entrada: this.$route.query.entrada,
+      salida: this.$route.query.salida,
         disponibilidad:null,
     selectedValue: {
         start: this.formatDate2(this.$route.query.entrada),
@@ -1532,6 +1736,7 @@ export default {
       disableddates: null,
       availabledates: [],
       col:2,
+      viewoccupation:false,
       formats: {
         title: "MMMM YYYY",
         weekdays: "W",
@@ -1541,7 +1746,7 @@ export default {
         data: ["L", "YYYY-MM-DD", "YYYY/MM/DD"] // For attribute dates
       },
   
-     /*  attrs: [
+      attrs: [
         {
           key: 'today',
          
@@ -1555,7 +1760,7 @@ export default {
        //   dates:  this.availabledates
          dates : new Date()
         },
-      ],*/
+      ],
       themeStyles: {
         container:"container-calendar",
         header:"header-calendar",
@@ -1636,8 +1841,97 @@ export default {
     
     };
   },
+   computed: {
+    formatedEntrada: function() {
+         var month
+          var day
+           var year
+        if(this.$data.fechaEntrada){
+           month = this.getnumdate(this.$data.fechaEntrada).substr(4, 2);
+           day = this.getnumdate(this.$data.fechaEntrada).substr(6, 2);
+         year = this.getnumdate(this.$data.fechaEntrada).substr(0, 4);
+
+        return {
+          day: parseInt(day),
+          month: this.getFormMonth(month),
+          year: year
+        };
+        }
+     else if (this.$data.entrada) {
+        month = this.$data.entrada.substr(4, 2);
+         day = this.$data.entrada.substr(6, 2);
+        year = this.$data.entrada.substr(0, 4);
+
+        return {
+          day: parseInt(day),
+          month: this.getFormMonth(month),
+          year: year
+        };
+      } else {
+        return "";
+      }
+    },
+    formatedSalida: function() {
+         var month
+          var day
+           var year
+        if(this.$data.fechaSalida){
+           month = this.getnumdate(this.$data.fechaSalida).substr(4, 2);
+           day = this.getnumdate(this.$data.fechaSalida).substr(6, 2);
+         year = this.getnumdate(this.$data.fechaSalida).substr(0, 4);
+
+        return {
+          day: parseInt(day),
+          month: this.getFormMonth(month),
+          year: year
+        };
+        }
+     else if (this.$data.salida) {
+         month = this.$data.salida.substr(4, 2);
+       day = this.$data.salida.substr(6, 2);
+         year = this.$data.salida.substr(0, 4);
+
+        return {
+          day: parseInt(day),
+          month: this.getFormMonth(month),
+          year: year
+        };
+      } else {
+        return "";
+      }
+    },
+    adultos:function(){
+        return 2;
+    },
+    ninyos:function(){
+        return 0;
+    }
+  },
  methods:{
-      getnumdate(fecha){
+    getdispo() {
+      var dde = this.getnumdate(this.$data.fechaEntrada);
+      var dds = this.getnumdate(this.$data.fechaSalida);
+
+      this.$router.push({
+        name: "Disponibilidad",
+        query: {
+          entrada: dde,
+          salida: dds,
+          ocupacion: this.$data.ocupacion,
+          totaladults: this.$data.totaladults,
+          totalchild: this.$data.totalchild
+        }
+      });
+    },
+    getnumdate(fecha) {
+      var datearray = fecha.split("/");
+      var day = "" + datearray[0];
+      var month = "" + datearray[1];
+      if (month.length < 2) month = "0" + month;
+      if (day.length < 2) day = "0" + day;
+      return datearray[2] + "" + month + "" + day;
+    },
+      getnumdate2(fecha){
 
       var month = "" + (fecha.getMonth() + 1);
       var day = "" + fecha.getDate();
@@ -1648,15 +1942,17 @@ export default {
       return  year+''+month+''+day
     },
      reservar(){
-            var dde =  this.getnumdate(this.$data.selectedValue.start)
-      var dds =  this.getnumdate(this.$data.selectedValue.end)
+            var dde =  this.getnumdate2(this.$data.selectedValue.start)
+      var dds =  this.getnumdate2(this.$data.selectedValue.end)
        
       this.$router.push({
             name: "Disponibilidad",
             query: {
               entrada: dde,
               salida: dds,
-              ocupacion: this.$route.query.ocupacion
+              ocupacion: this.$route.query.ocupacion,
+          totaladults: this.$data.totaladults,
+          totalchild: this.$data.totalchild
             }
           });
      },
@@ -1689,6 +1985,16 @@ export default {
 
      
 var fdat = [day, month, year].join("-");
+      return fdat;
+    },
+     formatDate3: function(date) {
+      
+      var month =date.substr(4, 2)
+      var day = date.substr(6, 2)
+      var year = date.substr(0, 4)
+
+     
+var fdat = [day, month, year].join("/");
       return fdat;
     },
     getavailabledates() {
@@ -1804,9 +2110,187 @@ var fdat = [day, month, year].join("-");
           d.loaderdate = null;
           console.log(error);
         });
-    }
+    },
+    calculatetotal: function() {
+       var s;
+        for (var o in this.$data.ocupaciones) {
+          if (s) s += ",";
+          else s = "";
+          s += 1;
+          s += "x";
+          s +=
+            parseInt(this.$data.ocupaciones[o].adult) +
+            parseInt(this.$data.ocupaciones[o].children);
+          if (
+            this.$data.ocupaciones[o].children != null &&
+            this.$data.ocupaciones[o].children > 0
+          ) {
+            s += "-";
+            var firstIteration = true;
+            for (var i = 0; i < this.$data.ocupaciones[o].children; i++) {
+              if (!firstIteration) {
+                s += "-";
+              }
+              s += this.$data.ocupaciones[o].edades[i] ? this.$data.ocupaciones[o].edades[i] : 11;
+              firstIteration = false;
+            }
+          }
+        }
+        this.$data.ocupacion = s;
+      this.$data.totaladults = 0;
+      this.$data.totalchild = 0;
+      for (var j = 0; j < this.$data.ocupaciones.length; j++) {
+        console.log("oc");
+        console.log(this.$data.ocupaciones[j].adult);
+        console.log(this.$data.ocupaciones[j].children);
+        this.$data.totaladults =
+          this.$data.totaladults + parseInt(this.$data.ocupaciones[j].adult);
+        this.$data.totalchild =
+          this.$data.totalchild + parseInt(this.$data.ocupaciones[j].children);
+      }
+      this.closemodal()
+    },
+     closemodal: function() {
+        this.$data.viewoccupation=false
+    },
+    elegirocupacion: function() {
+      
+     this.$data.viewoccupation=true
+    /*  this.$data.totaladults = 0;
+      this.$data.totalchild = 0;*/
+    },
+    borrarocupacion: function(index) {
+      if (this.$data.ocupaciones.length > 1)
+        this.$data.ocupaciones.splice(index, 1);
+    },
+    anadirocupacion: function() {
+      this.$data.ocupaciones.push({ adult: 2, children: 0, edades: [] });
+
+      //  M.updateTextFields()
+    },
+     getFormMonth(m) {
+      switch (m) {
+        case "1":
+          return "ENE";
+        case "2":
+          return "FEB";
+        case "3":
+          return "MAR";
+        case "4":
+          return "ABR";
+        case "5":
+          return "MAY";
+        case "6":
+          return "JUN";
+        case "7":
+          return "JUL";
+        case "8":
+          return "AGO";
+        case "9":
+          return "SEP";
+
+        case "10":
+          return "OCT";
+
+        case "11":
+          return "NOV";
+
+        case "12":
+          return "DIC";
+      }
+    },
+      focus: function(tt) {
+      if (tt === "entrada") {
+        var entrada = document.getElementById("datepickerEntrada");
+        entrada.focus();
+      } else {
+        var salida = document.getElementById("datepickerSalida");
+        salida.focus();
+      }
+    },
  },
   mounted() {
+      var d = this.$data;
+      
+    d.fechaEntrada = this.formatDate3(this.$route.query.entrada)
+    d.fechaSalida = this.formatDate3(this.$route.query.salida)
+    $("#datepickerEntrada").datepicker({
+      onSelect: function() {
+        var dateObject = $(this).datepicker("getDate");
+        // $( "#datepicker" ).attr( 'value', dateObject.getDate().toString() + '/'+ dateObject.getMonth().toString()+ '/'+ dateObject.getFullYear().toString()  )
+        d.fechaEntrada =
+          dateObject.getDate().toString() +
+          "/" +
+          (dateObject.getMonth() + 1).toString() +
+          "/" +
+          dateObject.getFullYear().toString();
+      }
+    });
+    $("#datepickerSalida").datepicker({
+      onSelect: function() {
+        var dateObject = $(this).datepicker("getDate");
+        // $( "#datepicker" ).attr( 'value', dateObject.getDate().toString() + '/'+ dateObject.getMonth().toString()+ '/'+ dateObject.getFullYear().toString()  )
+        d.fechaSalida =
+          dateObject.getDate().toString() +
+          "/" +
+          (dateObject.getMonth() + 1).toString() +
+          "/" +
+          dateObject.getFullYear().toString();
+      }
+    });
+
+    $.datepicker.regional["es"] = {
+      closeText: "Cerrar",
+      prevText: "&#x3C;Ant",
+      nextText: "Sig&#x3E;",
+      currentText: "Hoy",
+      monthNames: [
+        "Enero",
+        "Febrero",
+        "Marzo",
+        "Abril",
+        "Mayo",
+        "Junio",
+        "Julio",
+        "Agosto",
+        "Septiembre",
+        "Octubre",
+        "Noviembre",
+        "Diciembre"
+      ],
+      monthNamesShort: [
+        "Ene",
+        "Feb",
+        "Mar",
+        "Abr",
+        "May",
+        "Jun",
+        "Jul",
+        "Ago",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dic"
+      ],
+      dayNames: [
+        "Domingo",
+        "Lunes",
+        "Martes",
+        "MiÃ©rcoles",
+        "Jueves",
+        "Viernes",
+        "SÃ¡bado"
+      ],
+      dayNamesShort: ["Dom", "Lun", "Mar", "MiÃ©", "Juv", "Vie", "SÃ¡b"],
+      dayNamesMin: ["Do", "Lu", "Ma", "Mi", "Ju", "Vi", "SÃ¡"],
+      weekHeader: "Sm",
+      dateFormat: "dd/mm/yy",
+      firstDay: 1,
+      isRTL: false,
+      showMonthAfterYear: false,
+      yearSuffix: ""
+    };
+    $.datepicker.setDefaults($.datepicker.regional["es"]);
       this.getavailabledates()
   }
   
