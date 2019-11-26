@@ -364,7 +364,7 @@
                 <div id="carousel_servicios" class="carousel carousel-slide carousel_servicios" data-ride="carousel">
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
-                        <div class="item big-foto" title="RESTAURANTE EL COLONIAL"
+                        <div class="item big-foto active" title="RESTAURANTE EL COLONIAL"
                             style="background-image:url('images/107fbcb3613493bad1f5680190174484.jpg');">
                             <div class="dark_back">
                                 <div class="container">
@@ -396,7 +396,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="item  big-foto active" title="ANIMACIÓN"
+                        <div class="item  big-foto " title="ANIMACIÓN"
                             style="background-image:url(&#39;/cache/7a/1d/7a1d099fa8c63ffabe76332395712a7f.jpg&#39;);">
                             <div class="dark_back">
                                 <div class="container">
