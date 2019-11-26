@@ -12,7 +12,7 @@
               alt="5 estrellas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
             />
              <div class="info">
-            <h1 class="tit">Habitaciones QUOHOTEL SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje</h1>
+            <h1 class="tit">Ofertas QUOHOTEL SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje</h1>
           </div>
           </a>
         </div>
@@ -164,12 +164,12 @@
                     >Hotel</a>
                   </li>
                   <li>
-                    <router-link to="/ofertas">Ofertas</router-link>
+                   <router-link to="/ofertas">Ofertas</router-link>
                   </li>
                   <li>
                   <router-link to="/habitaciones">Habitaciones</router-link>
                   </li>
-              <!--    <li>
+                 <!-- <li>
                      <router-link to="/fotos">Fotos</router-link>
                   </li>-->
                   <li>
@@ -345,730 +345,62 @@
     </section>
 
     <!------------------------------------------------------------------------------------------------>
-      <div id="wrapper">
-    <section id="rooms" class="rooms">
-      <div class="headerInternas">
-        <div class="container">
-          <article>
-            <h2>Habitaciones QUOHOTEL SELECCIÓN LA PLANTACIÓN DEL SUR</h2>
-            <h3>Habitaciones Hotel en Costa Adeje</h3>
-            <p class="text">Cuando la elegancia se rinde al descanso nacen espacios como las <strong>habitaciones,
-                suites, villas y junior suites del Hotel Quohotel Selección La Plantación del Sur</strong>. Con una amplia
-              variedad de alojamientos a medida, todas las estancias del hotel destacan por su amplitud, su cuidada
-              decoración de inspiración colonial y su excepcional comodidad.</p>
-          </article>
-        </div>
-      </div>
-      <div class="main-content">
-        <div class="container">
-          <div class="listado_habitaciones">
-            <div class="row habitacion sombra">
-              <div class="col-xs-12 col-md-6 pn">
-                <div class="titulo_wrapp">
-                  <div class="vertical_align">
-                    <h3>HABITACIÓN DOBLE</h3>
-                    <h4>Habitación</h4>
-                    <p>
-                      Las habitaciones dobles del Hotel Quohotel Selección La Plantacio ...
-                    </p>
-                  </div>
+     <div id="wrapper">
+        <section id="offers" class="offers sombra">
+            <div class="headerInternas">
+                <div class="container">
+                    <article>
+                        <h2>Ofertas QUOHOTEL SELECCIÓN LA PLANTACIÓN DEL SUR</h2>
+                        <h3>Ofertas Hotel en Costa Adeje</h3>
+                        <p class="text">Las <strong>ofertas y promociones del Hotel QUohotel Selección La Plantación del
+                                Sur</strong> ofrecen la posibilidad de reservar en nuestro hotel de lujo con spa en
+                            Playa del Duque con la tarifa más baja online disponible. Reserva siempre en la <strong>web
+                                oficial del Hotel Quohotel Selección La Plantación del Sur</strong>.</p>
+                    </article>
                 </div>
-                <div class="wrapp_btn"><button class="btn btn-secundario" data-toggle="modal"
-                    data-target="#modal_hab24">Ver más</button><button class="btnOfertas btn-primario"
-                    data-oferta="HABITACIÓN DOBLE" data-desde="23/10/2019" data-hasta=""
-                    data-hotel=" Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" data-hotel-cod="Quohotelplantaciondesur"
-                    itemprop="potentialAction" data-codigo="">¡Reservar ahora!</button></div>
-              </div>
-              <div class="col-xs-12 col-md-6 pn">
-                <div id="carousel_hab_24" class="carousel slide  carousel_hab" data-ride="carousel">
-                  <!-- Wrapper for slides -->
-                  <div class="carousel-inner" role="listbox">
-                    <div class="item"><a title="None  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="/images/33bab2216eaf52e62cf610820f8c55c3.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/33bab2216eaf52e62cf610820f8c55c3.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">1<b>/</b>4</span>
-                    </div>
-                    <div class="item"><a title="None  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/39/a9/39a97a6a8be7c35927e818d7cba86735.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/39a97a6a8be7c35927e818d7cba86735.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">2<b>/</b>4</span>
-                    </div>
-                    <div class="item active left"><a title="None  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                        class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/d3/d6/d3d62826ec70e63e00d2b886419d53ac.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/cache/d3/d6/d3d62826ec70e63e00d2b886419d53ac.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">3<b>/</b>4</span>
-                    </div>
-                    <div class="item  next left"><a title="None  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                        class="box foto_hotel"
-                        href="/images/33bab2216eaf52e62cf610820f8c55c3.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/33bab2216eaf52e62cf610820f8c55c3.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">4<b>/</b>4</span>
-                    </div>
-                  </div><!-- Controls --><a class="left carousel-control"
-                    href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_24" role="button"
-                    data-slide="prev"><span class="fa fa-angle-left" aria-hidden="true"></span></a><a
-                    class="right carousel-control"
-                    href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_24" role="button"
-                    data-slide="next"><span class="fa fa-angle-right" aria-hidden="true"></span></a>
-                </div>
-              </div>
             </div>
-            <div class="row habitacion sombra">
-              <div class="col-xs-12 col-md-6 pn">
-                <div class="titulo_wrapp">
-                  <div class="vertical_align">
-                    <h3>JUNIOR SUITE</h3>
-                    <h4>Habitación</h4>
-                    <p>
-                      Los 65 m2 de las Junior Suites del Hotel Quohotel ...
-                    </p>
-                  </div>
-                </div>
-                <div class="wrapp_btn"><button class="btn btn-secundario" data-toggle="modal"
-                    data-target="#modal_hab25">Ver más</button><button class="btnOfertas btn-primario"
-                    data-oferta="JUNIOR SUITE" data-desde="23/10/2019" data-hasta=""
-                    data-hotel=" Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" data-hotel-cod="Quohotelplantaciondesur"
-                    itemprop="potentialAction" data-codigo="">¡Reservar ahora!</button></div>
-              </div>
-              <div class="col-xs-12 col-md-6 pn">
-                <div id="carousel_hab_25" class="carousel slide  carousel_hab" data-ride="carousel">
-                  <!-- Wrapper for slides -->
-                  <div class="carousel-inner" role="listbox">
-                    <div class="item"><a title="None  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="/images/39a97a6a8be7c35927e818d7cba86735.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/39a97a6a8be7c35927e818d7cba86735.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">1<b>/</b>7</span>
-                    </div>
-                    <div class="item"><a title="  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/c7/9b/c79bbf7056e534406b5732ea84eaea3d.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/c79bbf7056e534406b5732ea84eaea3d.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">2<b>/</b>7</span>
-                    </div>
-                    <div class="item active left"><a title="  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                        class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/33/ba/33bab2216eaf52e62cf610820f8c55c3.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/cache/33/ba/33bab2216eaf52e62cf610820f8c55c3.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">3<b>/</b>7</span>
-                    </div>
-                    <div class="item  next left"><a title="  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                        class="box foto_hotel"
-                        href="/images/f75d9e0f74e1db1b329a48e8d47c1664.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/f75d9e0f74e1db1b329a48e8d47c1664.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">4<b>/</b>7</span>
-                    </div>
-                    <div class="item "><a title="  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/75/8c/758c03d5936d1f4fd8988f7afd03f3f1.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/cache/75/8c/758c03d5936d1f4fd8988f7afd03f3f1.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">5<b>/</b>7</span>
-                    </div>
-                    <div class="item "><a title="None  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/e3/7b/e37b994de85d1f3d7ba30f4493fabb0e.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/e37b994de85d1f3d7ba30f4493fabb0e.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">6<b>/</b>7</span>
-                    </div>
-                    <div class="item "><a title="  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/b9/57/b957617a0baad9f7d97defc5ec413549.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/b957617a0baad9f7d97defc5ec413549.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">7<b>/</b>7</span>
-                    </div>
-                  </div><!-- Controls --><a class="left carousel-control"
-                    href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_25" role="button"
-                    data-slide="prev"><span class="fa fa-angle-left" aria-hidden="true"></span></a><a
-                    class="right carousel-control"
-                    href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_25" role="button"
-                    data-slide="next"><span class="fa fa-angle-right" aria-hidden="true"></span></a>
-                </div>
-              </div>
-            </div>
-            <div class="row habitacion sombra">
-              <div class="col-xs-12 col-md-6 pn">
-                <div class="titulo_wrapp">
-                  <div class="vertical_align">
-                    <h3>SUITE REAL</h3>
-                    <h4>Habitación</h4>
-                    <p>
-                      Las suites reales del Hotel Quohotel Selección La Plantacio ...
-                    </p>
-                  </div>
-                </div>
-                <div class="wrapp_btn"><button class="btn btn-secundario" data-toggle="modal"
-                    data-target="#modal_hab26">Ver más</button><button class="btnOfertas btn-primario"
-                    data-oferta="SUITE REAL" data-desde="23/10/2019" data-hasta=""
-                    data-hotel=" Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" data-hotel-cod="Quohotelplantaciondesur"
-                    itemprop="potentialAction" data-codigo="">¡Reservar ahora!</button></div>
-              </div>
-              <div class="col-xs-12 col-md-6 pn">
-                <div id="carousel_hab_26" class="carousel slide  carousel_hab" data-ride="carousel">
-                  <!-- Wrapper for slides -->
-                  <div class="carousel-inner" role="listbox">
-                    <div class="item"><a title="  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="public/images/c79bbf7056e534406b5732ea84eaea3d.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(public/images/c79bbf7056e534406b5732ea84eaea3d.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">1<b>/</b>5</span>
-                    </div>
-                    <div class="item"><a title="  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/65/2c/652ca7e07bf5e4c2d5210cc35e3318bd.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/652ca7e07bf5e4c2d5210cc35e3318bd.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">2<b>/</b>5</span>
-                    </div>
-                    <div class="item"><a title="  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/33/69/33697aae8d7c1b18eb6a55ea1d6ea3a3.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/33697aae8d7c1b18eb6a55ea1d6ea3a3.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">3<b>/</b>5</span>
-                    </div>
-                    <div class="item active"><a title="  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="/images/f35af4d8c9829d2e0f90d720c7ba3e30.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/f35af4d8c9829d2e0f90d720c7ba3e30.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">4<b>/</b>5</span>
-                    </div>
-                    <div class="item "><a title="  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/3a/28/3a28f87bfbf9ca39b207e1dbcc1c15fd.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/3a28f87bfbf9ca39b207e1dbcc1c15fd.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">5<b>/</b>5</span>
-                    </div>
-                  </div><!-- Controls --><a class="left carousel-control"
-                    href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_26" role="button"
-                    data-slide="prev"><span class="fa fa-angle-left" aria-hidden="true"></span></a><a
-                    class="right carousel-control"
-                    href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_26" role="button"
-                    data-slide="next"><span class="fa fa-angle-right" aria-hidden="true"></span></a>
-                </div>
-              </div>
-            </div>
-            <div class="row habitacion sombra">
-              <div class="col-xs-12 col-md-6 pn">
-                <div class="titulo_wrapp">
-                  <div class="vertical_align">
-                    <h3>VILLAS</h3>
-                    <h4>Habitación</h4>
-                    <p>
-                      Las villas te brindan toda la intimidad, confort y tranquilidad ...
-                    </p>
-                  </div>
-                </div>
-                <div class="wrapp_btn"><button class="btn btn-secundario" data-toggle="modal"
-                    data-target="#modal_hab27">Ver más</button><button class="btnOfertas btn-primario"
-                    data-oferta="VILLAS" data-desde="23/10/2019" data-hasta=""
-                    data-hotel=" Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" data-hotel-cod="Quohotelplantaciondesur"
-                    itemprop="potentialAction" data-codigo="">¡Reservar ahora!</button></div>
-              </div>
-              <div class="col-xs-12 col-md-6 pn">
-                <div id="carousel_hab_27" class="carousel slide  carousel_hab" data-ride="carousel">
-                  <!-- Wrapper for slides -->
-                  <div class="carousel-inner" role="listbox">
-                    <div class="item"><a title="None  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="/images/f08de227f02c3c55373fe65952a05431.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/f08de227f02c3c55373fe65952a05431.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">1<b>/</b>9</span>
-                    </div>
-                    <div class="item"><a title="None  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/34/cd/34cd5e2ae913948b163df03f39ed5622.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/34cd5e2ae913948b163df03f39ed5622.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">2<b>/</b>9</span>
-                    </div>
-                    <div class="item"><a title="None  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/8e/0a/8e0aae0f653196e116e5e8ed99e184b8.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/8e0aae0f653196e116e5e8ed99e184b8.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">3<b>/</b>9</span>
-                    </div>
-                    <div class="item active"><a title="None  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                        class="box foto_hotel"
-                        href="/images/c79bbf7056e534406b5732ea84eaea3d.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/c79bbf7056e534406b5732ea84eaea3d.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">4<b>/</b>9</span>
-                    </div>
-                    <div class="item "><a title="None  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/04/4c/044cd53a10c6a2f37c76d66508f65ee2.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/044cd53a10c6a2f37c76d66508f65ee2.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">5<b>/</b>9</span>
-                    </div>
-                    <div class="item "><a title="None  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/eb/cb/ebcb79b1bf5a633b047cd78793ae404a.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/ebcb79b1bf5a633b047cd78793ae404a.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">6<b>/</b>9</span>
-                    </div>
-                    <div class="item "><a title="None  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/bc/8e/bc8ef362aba0f0a2795cfaf5e813fe08.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/bc8ef362aba0f0a2795cfaf5e813fe08.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">7<b>/</b>9</span>
-                    </div>
-                    <div class="item "><a title="None  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/72/54/7254df143a6443035cb2c04aafa3663e.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/7254df143a6443035cb2c04aafa3663e.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">8<b>/</b>9</span>
-                    </div>
-                    <div class="item "><a title="None  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR" class="box foto_hotel"
-                        href="https://www.Quohotellaplantaciondelsur.com/cache/8c/a0/8ca0ea3a730ce32f9660e05d876dc6da.jpg"
-                        data-fancybox-group="fotohotel">
-                        <div class="  img_offer big-foto"
-                          style="background-image:url(/images/8ca0ea3a730ce32f9660e05d876dc6da.jpg);"></div>
-                      </a>
-                      <div class="dark_back1"></div><span class="num_paginas">9<b>/</b>9</span>
-                    </div>
-                  </div><!-- Controls --><a class="left carousel-control"
-                    href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_27" role="button"
-                    data-slide="prev"><span class="fa fa-angle-left" aria-hidden="true"></span></a><a
-                    class="right carousel-control"
-                    href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_27" role="button"
-                    data-slide="next"><span class="fa fa-angle-right" aria-hidden="true"></span></a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div><!-- Modal -->
-      <div class="modal fade modal_comun modal_habitaciones" id="modal_hab24" tabindex="-1" role="dialog"
-        aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><img
-                  src="/index_files/close_modal.png" width="22" height="22"
-                  alt="HABITACIÓN DOBLE  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                  title="HABITACIÓN DOBLE  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"></button></div>
-            <div class="modal-body">
-              <div class="row">
-                <div class="col-xs-12 col-md-6 pn">
-                  <div class="titulo_wrapp">
-                    <div class="vertical_align">
-                      <h3>HABITACIÓN DOBLE</h3>
-                      <p>
-                        Las habitaciones dobles del Hotel Quohotel Selección La Plantación del Sur destacan por su
-                        amplitud y servicios: 40 m2, luz natural, dormitorio con 2 camas de 1,05 metros o 1 cama de 2
-                        metros, hilo musical, amplio baño con doble seno, bañera y ducha de hidromasaje, secador,
-                        amenities, albornoz, zapatillas y carta de almohadas para un descanso personalizado. Todas las
-                        habitaciones dobles disponen de un amplio sofá convertible en cama.
-                      </p>
-                    </div>
-                  </div>
-                  <div class="servicios_wrapp">
-                    <h4>Servicios</h4>
-                    <ul>
-                      <li>
-                        Bañera
-                      </li>
-                      <li>
-                        Caja Fuerte
-                      </li>
-                      <li>
-                        Climatización individual
-                      </li>
-                      <li>
-                        Ducha de hidromasaje
-                      </li>
-                      <li>
-                        Luz natural
-                      </li>
-                      <li>
-                        Plancha y tabla
-                      </li>
-                      <li>
-                        Servicio de habitaciones
-                      </li>
-                      <li>
-                        Televisión satélite
-                      </li>
-                      <li>
-                        Terraza en habitación
-                      </li>
-                      <li>
-                        Wifi gratuito
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="col-xs-12 col-md-6 pn">
-                  <div id="carousel_hab_mod_1" class="carousel carousel-slide carousel_hab" data-ride="carousel">
-                    <!-- Wrapper for slides -->
-                    <div class="carousel-inner" role="listbox">
-                      <div class="item   img_offer big-foto"
-                        style="background-image:url(/images/1e351909687c28cde4a78fa79a54dcd1.jpg);"></div>
-                      <div class="item  img_offer big-foto"
-                        style="background-image:url(/images/88fe68e4fab591a846235854d3acb069.jpg);"></div>
-                      <div class="item  img_offer big-foto"
-                        style="background-image:url(/images/e0f956df7e820fb069f4cdba55a67a46.jpg);"></div>
-                      <div class="item  img_offer big-foto active"
-                        style="background-image:url(/images/f35af4d8c9829d2e0f90d720c7ba3e30.jpg);"></div>
-                    </div><!-- Controls --><a class="left carousel-control"
-                      href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_mod_1" role="button"
-                      data-slide="prev"><span class="fa fa-angle-left" aria-hidden="true"></span></a><a
-                      class="right carousel-control"
-                      href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_mod_1" role="button"
-                      data-slide="next"><span class="fa fa-angle-right" aria-hidden="true"></span></a>
-                  </div>
-                  <div class="wrapp_btn"><button class="btnOfertas btn-primario" data-oferta="HABITACIÓN DOBLE"
-                      data-desde="23/10/2019" data-hasta="" data-hotel=" Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                      data-hotel-cod="Quohotelplantaciondesur" itemprop="potentialAction" data-codigo="">¡Reservar
-                      ahora!</button></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div><!-- Modal -->
-      <div class="modal fade modal_comun modal_habitaciones" id="modal_hab25" tabindex="-1" role="dialog"
-        aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><img
-                  src="/index_files/close_modal.png" width="22" height="22"
-                  alt="JUNIOR SUITE  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                  title="JUNIOR SUITE  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"></button></div>
-            <div class="modal-body">
-              <div class="row">
-                <div class="col-xs-12 col-md-6 pn">
-                  <div class="titulo_wrapp">
-                    <div class="vertical_align">
-                      <h3>JUNIOR SUITE</h3>
-                      <p>
-                        Los 65 m2 de las Junior Suites del Hotel Quohotel Selección La Plantación del Sur hacen de estas
-                        estancias verdaderos espacios de placer y relax. Disfrute del encanto de una cama King Size con
-                        Dosel, del espacio adicional de tener un vestidor independiente, dormitorio y zona de estar con
-                        sofá y butacas. Cuentan además con cafetera Nespresso, selección de Tés, hilo musical,
-                        amplio baño con doble seno, bañera y ducha de hidromasaje, secador, amenities, albornoz,
-                        zapatillas y carta de almohadas para un descanso personalizado. Encontrará además un amplio
-                        set de lujosos amenities.
-                      </p>
-                    </div>
-                  </div>
-                  <div class="servicios_wrapp">
-                    <h4>Servicios</h4>
-                    <ul>
-                      <li>
-                        Bañera
-                      </li>
-                      <li>
-                        Caja Fuerte
-                      </li>
-                      <li>
-                        Climatización individual
-                      </li>
-                      <li>
-                        Ducha de hidromasaje
-                      </li>
-                      <li>
-                        Luz natural
-                      </li>
-                      <li>
-                        Plancha y tabla
-                      </li>
-                      <li>
-                        Servicio de habitaciones
-                      </li>
-                      <li>
-                        Televisión satélite
-                      </li>
-                      <li>
-                        Terraza en habitación
-                      </li>
-                      <li>
-                        Wifi gratuito
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="col-xs-12 col-md-6 pn">
-                  <div id="carousel_hab_mod_2" class="carousel carousel-slide carousel_hab" data-ride="carousel">
-                    <!-- Wrapper for slides -->
-                    <div class="carousel-inner" role="listbox">
-                      <div class="item   img_offer big-foto"
-                        style="background-image:url(/images/683ea0da14d6a1f2bd51de3fe533a41b.jpg);"></div>
-                      <div class="item  img_offer big-foto"
-                        style="background-image:url(/images/c562f01114761f299d2784d1dd00ddf7.jpg);"></div>
-                      <div class="item  img_offer big-foto"
-                        style="background-image:url(/images/83814c92e4a824a19b044d0d476dee2c.jpg);"></div>
-                      <div class="item  img_offer big-foto active"
-                        style="background-image:url(/images/c79bbf7056e534406b5732ea84eaea3d.jpg);"></div>
-                      <div class="item  img_offer big-foto"
-                        style="background-image:url(/images/35f73995906b37ef62e9754f2004b808.jpg);"></div>
-                      <div class="item  img_offer big-foto"
-                        style="background-image:url(/images/614e5120ff88a2752e3577d3a625738c.jpg);"></div>
-                      <div class="item  img_offer big-foto"
-                        style="background-image:url(/images/8d73c85d16a668a08fbdb05e0569c31a.jpg);"></div>
-                    </div><!-- Controls --><a class="left carousel-control"
-                      href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_mod_2" role="button"
-                      data-slide="prev"><span class="fa fa-angle-left" aria-hidden="true"></span></a><a
-                      class="right carousel-control"
-                      href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_mod_2" role="button"
-                      data-slide="next"><span class="fa fa-angle-right" aria-hidden="true"></span></a>
-                  </div>
-                  <div class="wrapp_btn"><button class="btnOfertas btn-primario" data-oferta="JUNIOR SUITE"
-                      data-desde="23/10/2019" data-hasta="" data-hotel=" Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                      data-hotel-cod="Quohotelplantaciondesur" itemprop="potentialAction" data-codigo="">¡Reservar
-                      ahora!</button></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div><!-- Modal -->
-      <div class="modal fade modal_comun modal_habitaciones" id="modal_hab26" tabindex="-1" role="dialog"
-        aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><img
-                  src="/index_files/close_modal.png" width="22" height="22"
-                  alt="SUITE REAL  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                  title="SUITE REAL  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"></button></div>
-            <div class="modal-body">
-              <div class="row">
-                <div class="col-xs-12 col-md-6 pn">
-                  <div class="titulo_wrapp">
-                    <div class="vertical_align">
-                      <h3>SUITE REAL</h3>
-                      <p>
-                        Las suites reales del Hotel Quohotel Selección La Plantación del Sur te ofrecen todo el mimo en
-                        el puro estilo colonial canario. Ideales para sorprender a los más exigentes, están ubicadas
-                        en la tercera planta de nuestro hotel en Playa del Duque y ofrecen una amplio dormitorio con
-                        cama King Size con Dosel, zona de estar, vestidor separado, balcón extra y todos los servicios
-                        de las junior suites. Podrá disfrutar de los magníficos atardeceres viendo el Océano
-                        Atlántico y la isla de la Gomera.
-                      </p>
-                    </div>
-                  </div>
-                  <div class="servicios_wrapp">
-                    <h4>Servicios</h4>
-                    <ul>
-                      <li>
-                        Bañera
-                      </li>
-                      <li>
-                        Caja Fuerte
-                      </li>
-                      <li>
-                        Climatización individual
-                      </li>
-                      <li>
-                        Ducha de hidromasaje
-                      </li>
-                      <li>
-                        Luz natural
-                      </li>
-                      <li>
-                        Plancha y tabla
-                      </li>
-                      <li>
-                        Servicio de habitaciones
-                      </li>
-                      <li>
-                        Televisión satélite
-                      </li>
-                      <li>
-                        Terraza en habitación
-                      </li>
-                      <li>
-                        Wifi gratuito
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="col-xs-12 col-md-6 pn">
-                  <div id="carousel_hab_mod_3" class="carousel carousel-slide carousel_hab" data-ride="carousel">
-                    <!-- Wrapper for slides -->
-                    <div class="carousel-inner" role="listbox">
+            <div class="main-content">
+                <div class="container">
+                    <div class="listado_ofertas">
+                        <div class="row oferta sombra">
+                            <div class="col-xs-12 col-md-6 img_offer pn "><a class="enlace-foto"
+                                   href="#">
+                                    <div class=" img_offer  big-foto"
+                                        style="background-image:url('images/226af8dcca52ffbca7081babf35b280b.jpg');">
+                                    </div>
+                                </a></div>
+                            <div class="col-xs-12 col-md-6">
+                                <div class="row titulo_wrapp"><a class=" "
+                                        href="https://www.vinccilaplantaciondelsur.com/">
+                                        <h3>¡Descuento del 20%!</h3>
+                                    </a>
+                                    <h3 class="hidden"> VINCCI SELECCIÓN LA PLANTACIÓN DEL SUR</h3><!-- <h3></h3>-->
+                                    <p>Reserva con 90 días de antelación y disfruta de un 20% de descuento ...
+                                        <a
+                                            href="#">Ver
+                                            más</a></p>
+                                </div>
+                                <div class="row">
+                                    <div class="col-xs-4 col-md-5 pn">
+                                        <div class="precio_desde">
 
-                                           <div class="item   img_offer big-foto active"
-                                             style="background-image:url(/images/f75d9e0f74e1db1b329a48e8d47c1664.jpg);"></div>
-                                           <div class="item  img_offer big-foto"
-                                             style="background-image:url(/images/c562f01114761f299d2784d1dd00ddf7.jpg);"></div>
-                                           <div class="item  img_offer big-foto"
-                                             style="background-image:url(/images/83814c92e4a824a19b044d0d476dee2c.jpg);"></div>
-                                           <div class="item  img_offer big-foto "
-                                             style="background-image:url(/images/e3ffb9cbcbe0fd676600d193f6bd21fc.jpg);"></div>
-                                           <div class="item  img_offer big-foto"
-                                             style="background-image:url(/images/35f73995906b37ef62e9754f2004b808.jpg);"></div>
-                                           <div class="item  img_offer big-foto"
-                                             style="background-image:url(/images/614e5120ff88a2752e3577d3a625738c.jpg);"></div>
-                                           <div class="item  img_offer big-foto"
-                                             style="background-image:url(/images/8d73c85d16a668a08fbdb05e0569c31a.jpg);"></div>
-                                         </div><!-- Controls --><a class="left carousel-control"
-                      href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_mod_3" role="button"
-                      data-slide="prev"><span class="fa fa-angle-left" aria-hidden="true"></span></a><a
-                      class="right carousel-control"
-                      href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_mod_3" role="button"
-                      data-slide="next"><span class="fa fa-angle-right" aria-hidden="true"></span></a>
-                  </div>
-                  <div class="wrapp_btn"><button class="btnOfertas btn-primario" data-oferta="SUITE REAL"
-                      data-desde="23/10/2019" data-hasta="" data-hotel=" Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                      data-hotel-cod="Quohotelplantaciondesur" itemprop="potentialAction" data-codigo="">¡Reservar
-                      ahora!</button></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div><!-- Modal -->
-      <div class="modal fade modal_comun modal_habitaciones" id="modal_hab27" tabindex="-1" role="dialog"
-        aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><img
-                  src="/index_files/close_modal.png" width="22" height="22"
-                  alt="VILLAS  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"
-                  title="VILLAS  Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR Costa Adeje"></button></div>
-            <div class="modal-body">
-              <div class="row">
-                <div class="col-xs-12 col-md-6 pn">
-                  <div class="titulo_wrapp">
-                    <div class="vertical_align">
-                      <h3>VILLAS</h3>
-                      <p>
-                        Las villas te brindan toda la intimidad, confort y tranquilidad para tus vacaciones. Son
-                        habitaciones de lujo ubicadas alrededor de las piscinas del hotel, con jardín privado y bañera
-                        de hidromasaje exterior, dormitorio con cama con dosel, baño completo, decoración colonial
-                        típica de Canarias y todos los detalles necesarios para tu máximo descanso. Cuentan además
-                        con servicio de café y selección de Tés, hilo musical, amplio baño con doble seno, bañera y
-                        ducha de hidromasaje, secador, amenities, albornoz, zapatillas y carta de almohadas para un
-                        descanso personalizado. Encontrará además un amplio set de lujosos amenities.
-                      </p>
+                                            Desde: <b>247&nbsp;€</b><span>imp. incl.</span></div>
+                                    </div>
+                                    <div class="col-xs-8 col-md-7 wrapp_btn"><button class="btnOfertas btn-terciario"
+                                            data-oferta="¡Descuento del 20%!" data-desde="22/01/2020"
+                                            data-hasta="31/12/2020"
+                                            data-hotel="Hotel Vincci Selección la Plantación del Sur"
+                                            data-hotel-cod="vincciplantaciondesur" data-minimo-noches="1"
+                                            itemprop="potentialAction" data-codigo="veinte">¡Reservar ahora!</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                  </div>
-                  <div class="servicios_wrapp">
-                    <h4>Servicios</h4>
-                    <ul>
-                      <li>
-                        Bañera
-                      </li>
-                      <li>
-                        Bañera de hidromasaje en la habitación
-                      </li>
-                      <li>
-                        Caja Fuerte
-                      </li>
-                      <li>
-                        Climatización individual
-                      </li>
-                      <li>
-                        Luz natural
-                      </li>
-                      <li>
-                        Plancha y tabla
-                      </li>
-                      <li>
-                        Servicio de habitaciones
-                      </li>
-                      <li>
-                        Televisión satélite
-                      </li>
-                      <li>
-                        Terraza en habitación
-                      </li>
-                      <li>
-                        Wifi gratuito
-                      </li>
-                    </ul>
-                  </div>
                 </div>
-                <div class="col-xs-12 col-md-6 pn">
-                  <div id="carousel_hab_mod_4" class="carousel carousel-slide carousel_hab" data-ride="carousel">
-                    <!-- Wrapper for slides -->
-                  <div class="carousel-inner" role="listbox">
-
-                                                            <div class="item   img_offer big-foto "
-                                                              style="background-image:url(/images/683ea0da14d6a1f2bd51de3fe533a41b.jpg);"></div>
-                                                            <div class="item  img_offer big-foto"
-                                                              style="background-image:url(/images/c562f01114761f299d2784d1dd00ddf7.jpg);"></div>
-                                                            <div class="item  img_offer big-foto"
-                                                              style="background-image:url(/images/83814c92e4a824a19b044d0d476dee2c.jpg);"></div>
-                                                            <div class="item  img_offer big-foto "
-                                                              style="background-image:url(/images/e3ffb9cbcbe0fd676600d193f6bd21fc.jpg);"></div>
-                                                            <div class="item  img_offer big-foto active"
-                                                              style="background-image:url(/images/33bab2216eaf52e62cf610820f8c55c3.jpg);"></div>
-                                                            <div class="item  img_offer big-foto"
-                                                              style="background-image:url(/images/614e5120ff88a2752e3577d3a625738c.jpg);"></div>
-                                                            <div class="item  img_offer big-foto"
-                                                              style="background-image:url(/images/8d73c85d16a668a08fbdb05e0569c31a.jpg);"></div>
-                                                          </div><!-- Controls --><a class="left carousel-control"
-                      href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_mod_4" role="button"
-                      data-slide="prev"><span class="fa fa-angle-left" aria-hidden="true"></span></a><a
-                      class="right carousel-control"
-                      href="https://www.Quohotellaplantaciondelsur.com/habitaciones/#carousel_hab_mod_4" role="button"
-                      data-slide="next"><span class="fa fa-angle-right" aria-hidden="true"></span></a>
-                  </div>
-                  <div class="wrapp_btn"><button class="btnOfertas btn-primario" data-oferta="VILLAS"
-                      data-desde="23/10/2019" data-hasta="" data-hotel=" Quohotel SELECCIÓN LA PLANTACIÓN DEL SUR"
-                      data-hotel-cod="Quohotelplantaciondesur" itemprop="potentialAction" data-codigo="">¡Reservar
-                      ahora!</button></div>
-                </div>
-              </div>
             </div>
-          </div>
-        </div>
-      </div>
-    </section>
-  </div>
+        </section>
+    </div>
     <!---------------------------------------------------------------------------------->
     <footer>
       <div class="footer-top">
@@ -2090,7 +1422,7 @@ import datepickerJAFactory from 'jquery-datepicker/i18n/jquery.ui.datepicker-es'
 datepickerFactory($);
 datepickerJAFactory($);
 export default {
-  name: "Habitaciones",
+  name: "ofertas",
   data: function() {
     return {
       totaladults:this.$route.query.totaladults,

@@ -5,6 +5,8 @@ import ok from '../views/ok.vue'
 import Disponibilidad from '../views/Disponibilidad.vue'
 import Habitaciones from '../views/Habitaciones.vue'
 import verreservas from '../views/verreservas.vue'
+import ofertas from '../views/ofertas.vue'
+import servicios from '../views/servicios.vue'
 import calendario from '../views/calendario.vue'
 import cancelar from '../views/cancelar.vue'
 import Confirmation from '../views/Confirmation.vue'
@@ -34,6 +36,16 @@ const routes = [
     path: '/disponibilidad',
     name: 'Disponibilidad',
     component: Disponibilidad
+  },
+  {
+    path: '/servicios',
+    name: 'servicios',
+    component: servicios
+  },
+  {
+    path: '/ofertas',
+    name: 'ofertas',
+    component: ofertas
   },
   {
     path: '/ok',

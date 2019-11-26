@@ -158,14 +158,14 @@
                     >Hotel</a>
                   </li>
                   <li>
-                    <a href="#" title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Ofertas</a>
+                    <router-link to="/ofertas">Ofertas</router-link>
                   </li>
                   <li>
                   <router-link to="/habitaciones">Habitaciones</router-link>
                   </li>
-                  <li>
+                  <!--<li>
                      <router-link to="/fotos">Fotos</router-link>
-                  </li>
+                  </li>-->
                   <li>
                      <router-link to="/servicios">Servicios</router-link>
                   </li>
@@ -395,8 +395,9 @@
                             <li class="roi-booking-certificate__menu-item">
                               <a
                                 class="roi-booking-certificate__menu-button roi-booking-certificate__menu-button--cancel"
-                                href="https://www.quohotellaplantaciondelsur.com/bookcore/cancellation/k1jp8ntzs/?lang=es"
+                                
                                 title="Cancelar"
+                                @click="cancelar()"
                               >
                                 <svg
                                   class="svg-roi svg-roi_cancel"
@@ -1810,6 +1811,15 @@ export default {
   
   methods: {
  
+    cancelar:function(){
+        alert('cancelar')
+        this.$router.push({
+            name: "ok",
+            query: {
+              bookingid:this.$data.bookingid
+            }
+        })
+    },
     gettimereference: function() {
       var d = new Date();
       var month = "" + (d.getMonth() + 1);

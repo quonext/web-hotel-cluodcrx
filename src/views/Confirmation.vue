@@ -126,14 +126,14 @@
                     >Hotel</a>
                   </li>
                   <li>
-                    <a href="#" title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Ofertas</a>
+                    <router-link to="/ofertas">Ofertas</router-link>
                   </li>
                   <li>
                   <router-link to="/habitaciones">Habitaciones</router-link>
                   </li>
-                  <li>
+              <!--    <li>
                      <router-link to="/fotos">Fotos</router-link>
-                  </li>
+                  </li>-->
                   <li>
                      <router-link to="/servicios">Servicios</router-link>
                   </li>
@@ -2123,6 +2123,7 @@ export default {
   name: "confirmation",
   data: function() {
     return {
+      ocupaciones: JSON.parse(localStorage.getItem("ocupaciones")),
          fechaEntrada: "",
       fechaSalida: "",
       entrada: this.$route.query.entrada,

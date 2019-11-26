@@ -158,14 +158,14 @@
                     >Hotel</a>
                   </li>
                   <li>
-                    <a href="#" title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Ofertas</a>
+                    <router-link to="/ofertas">Ofertas</router-link>
                   </li>
                   <li>
                   <router-link to="/habitaciones">Habitaciones</router-link>
                   </li>
-                  <li>
+                <!--  <li>
                      <router-link to="/fotos">Fotos</router-link>
-                  </li>
+                  </li>-->
                   <li>
                      <router-link to="/servicios">Servicios</router-link>
                   </li>
@@ -840,8 +840,8 @@
 <script>
 // @ is an alias to /src
 
-/*const langfile = require("@/assets/lang/content.json");
-import axios from "axios";*/
+/*const langfile = require("@/assets/lang/content.json");*/
+import axios from "axios";
 export default {
   name: "cancelar",
   data: function() {
@@ -852,6 +852,29 @@ export default {
   },
   
   methods: {
+    cancel: function() {
+      var _this = this;
+      axios({
+        method: "delete",
+        url:
+          "https://test.cloudcrx.net/resources/eyAiY3JlYXRlZCI6ICJXZWQgTm92IDEzIDIyOjQ2OjExIENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZ2VuY3kxIiwgImFnZW5jeUlkIjogIjEzMiJ9/commons/booking",
+        data: {
+          bookingid: _this.$route.query.bookingid
+        }
+      })
+        .then(function(response) {
+          _this.$router.push({
+            name: "cancelada",
+            query: {
+              response: response,
+            }
+          });
+        })
+        .catch(function(error) {
+          console.log(error);
+        });
+    },
+    
  viewbooking: function(){
       this.$router.push({
             name: "ok",

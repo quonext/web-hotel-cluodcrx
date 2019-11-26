@@ -124,14 +124,14 @@
                     >Hotel</a>
                   </li>
                   <li>
-                    <a href="#" title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Ofertas</a>
+                    <router-link to="/ofertas">Ofertas</router-link>
                   </li>
                   <li>
                   <router-link to="/habitaciones">Habitaciones</router-link>
                   </li>
-                  <li>
+               <!--   <li>
                      <router-link to="/fotos">Fotos</router-link>
-                  </li>
+                  </li>-->
                   <li>
                      <router-link to="/servicios">Servicios</router-link>
                   </li>
@@ -3025,6 +3025,7 @@ export default {
   name: "Disponibilidad",
   data: function() {
     return {
+      ocupaciones: JSON.parse(localStorage.getItem("ocupaciones")),
       totaladults: this.$route.query.totaladults,
       totalchild: this.$route.query.totalchild,
       fechaEntrada:"",
@@ -3141,9 +3142,11 @@ var fdat = [day, month, year].join("/");
       return datearray[2] + "" + month + "" + day;
     },
     getdispo() {
+      
       this.$data.entrada =  this.getnumdate(this.$data.fechaEntrada);
       this.$data.salida = this.getnumdate(this.$data.fechaSalida);
       this.getInfo()
+      localStorage.setItem('ocupaciones', JSON.stringify(this.$data.ocupaciones))
       /*var dde = this.getnumdate(this.$data.fechaEntrada);
       var dds = this.getnumdate(this.$data.fechaSalida);
 

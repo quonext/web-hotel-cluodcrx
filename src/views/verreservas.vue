@@ -158,14 +158,14 @@
                     >Hotel</a>
                   </li>
                   <li>
-                    <a href="#" title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Ofertas</a>
+                    <router-link to="/ofertas">Ofertas</router-link>
                   </li>
                   <li>
                   <router-link to="/habitaciones">Habitaciones</router-link>
                   </li>
-                  <li>
+                  <!--<li>
                      <router-link to="/fotos">Fotos</router-link>
-                  </li>
+                  </li>-->
                   <li>
                      <router-link to="/servicios">Servicios</router-link>
                   </li>
@@ -296,7 +296,11 @@
                                         v-model="bookingid">
                                     <div class="roi-mybooking__form-group"><label for="id_localizador">Código de
                                             confirmación:</label><input type="text" name="localizador" required=""
-                                            id="id_localizador" maxlength="50"></div><button
+                                            id="id_localizador" maxlength="50" v-model="bookingid"></div>
+                                            <div class="roi-mybooking__form-group">
+                                            <label for="id_localizador" style="width:185px;">Email de la reserva: </label><input type="text" name="email" required=""
+                                            id="id_email" maxlength="50" v-model="email"></div>
+                                            <button
                                         class="btn-bc btn-conf roi-mybooking__button" @click.prevent="viewbooking()">Ver reserva</button>
                                 </form>
                             </div>
@@ -840,25 +844,58 @@
 <script>
 // @ is an alias to /src
 
-/*const langfile = require("@/assets/lang/content.json");
-import axios from "axios";*/
+/*const langfile = require("@/assets/lang/content.json");*/
+import axios from "axios";
 export default {
   name: "verreservas",
   data: function() {
     return {
-      bookingid:""
+      bookingid:"",
+      email:""
     
     };
   },
   
   methods: {
  viewbooking: function(){
-      this.$router.push({
+   var _this = this;
+   var email = this.$data.email && this.$data.email != ' '  ? this.$data.email:'%20'
+   alert(email)
+      axios({
+        method: "get",
+        url:
+          "https://test.cloudcrx.net/resources/eyAiY3JlYXRlZCI6ICJXZWQgTm92IDEzIDIyOjQ2OjExIENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZ2VuY3kxIiwgImFnZW5jeUlkIjogIjEzMiJ9/commons/booking/"+ email +"/"+_this.$data.bookingid,
+        
+      })
+        .then(function(response) {
+          console.log(response)
+          if(response.data && response.data.booking){
+          _this.$router.push({
             name: "ok",
             query: {
-             // response: response,
+              bookingId: response.data.booking.bookingId,
+              leadName: response.data.booking.leadName,
+              email: _this.$data.email,
+              total: response.data.booking.netValue.value,
+              comentarios: response.data.booking.privateComments,
+              salida: response.data.booking.end? response.data.booking.end.replace(/-/g, "") : null,
+              entrada:response.data.booking.start? response.data.booking.start.replace(/-/g, "") : null,
+/*created: "2019-11-25T07:38:30.51195"
+createdBy: "system"
+end: "2020-02-20"
+leadName: "KETTLEWELL GINA"
+modified: "2019-11-25T17:51:14.497894"
+netValue: {currencyIsoCode: "EUR", value: 0}
+privateComments: null
+retailValue: null
+serviceDescription: "Hotel service"
+serviceType: "HOTEL"
+start: "2020-02-06"
+status: "OK"
+              response: response,
+               // response: response,
             //  cart: _this.$data.cart,
-              bookingId: this.$data.bookingid,
+             // bookingId: this.$data.bookingid,
             /*  leadName: _this.leadName,
               email: d.email,
               postalcode: d.postalcode,
@@ -880,10 +917,16 @@ total:d.detalles.total.retailPrice.value,
               ocupacion: _this.$route.query.ocupacion*/
             }
           });
-       /* })
+          }else{
+            alert("reserva no valida")
+          }
+        })
         .catch(function(error) {
+          alert("reserva no valida")
           console.log(error);
-        });*/
+        });
+
+  
  }
   },
   mounted() {}

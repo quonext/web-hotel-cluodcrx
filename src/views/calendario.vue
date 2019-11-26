@@ -1,7 +1,5 @@
 <template>
   <div>
-      {{this.$data.selectedValue}}
-      
     <header id="headerInternas">
       <div class="header-top">
         <div class="logo">
@@ -160,7 +158,7 @@
                     >Hotel</a>
                   </li>
                   <li>
-                    <a href="#" title="Ofertas  quohotel SELECCIÓN LA PLANTACIÓN DEL SUR">Ofertas</a>
+                    <router-link to="/ofertas">Ofertas</router-link>
                   </li>
                   <li>
                   <router-link to="/habitaciones">Habitaciones</router-link>
@@ -1701,6 +1699,7 @@ export default {
   name: "calendar",
   data: function() {
     return {
+      ocupaciones: JSON.parse(localStorage.getItem("ocupaciones")),
          totaladults: this.$route.query.totaladults,
       totalchild: this.$route.query.totalchild,
       fechaEntrada: "",
@@ -1890,6 +1889,7 @@ export default {
     getdispo() {
       var dde = this.getnumdate(this.$data.fechaEntrada);
       var dds = this.getnumdate(this.$data.fechaSalida);
+      localStorage.setItem('ocupaciones', JSON.stringify(this.$data.ocupaciones))
 
       this.$router.push({
         name: "Disponibilidad",
@@ -1996,7 +1996,7 @@ var fdat = [day, month, year].join("/");
         method: "get",
         url: "https://test.cloudcrx.net/resources/eyAiY3JlYXRlZCI6ICJXZWQgTm92IDEzIDIyOjQ2OjExIENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZ2VuY3kxIiwgImFnZW5jeUlkIjogIjEzMiJ9/cms/hotelavailabilitycalendar",
         params: {
-          resorts: "hot-125",
+          resorts: "hot-8",
           checkin: this.$route.query.entrada,
           checkout: this.$route.query.salida,
           occupancies: this.$route.query.ocupacion
