@@ -9,6 +9,7 @@ import ofertas from '../views/ofertas.vue'
 import servicios from '../views/servicios.vue'
 import calendario from '../views/calendario.vue'
 import cancelar from '../views/cancelar.vue'
+import cancelada from '../views/cancelada.vue'
 import Confirmation from '../views/Confirmation.vue'
 import VCalendar from 'v-calendar';
 //import 'v-calendar/lib/v-calendar.min.css';
@@ -60,6 +61,11 @@ const routes = [
     path: '/cancelar',
     name: 'cancelar',
     component: cancelar
+  },
+  {
+    path: '/cancelada',
+    name: 'cancelada',
+    component: cancelada
   },
   {
     path: '/confirmation',

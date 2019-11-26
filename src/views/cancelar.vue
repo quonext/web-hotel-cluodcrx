@@ -277,30 +277,57 @@
         </div>
       </div>
     </section>
-    <div id="wrapper">
+ <div id="wrapper">
         <div class="container box-bookcore">
             <div class="wrap rb_bc">
                 <div class="bc_dark"></div>
                 <div class="bc container pn">
                     <div class="bc_contenido  col-lg-9 col-md-8 col-sm-12 home  col-xs-12">
                         <div class="bc_contenido_inner clearfix js-roi-modal-container">
-                            <div id="bc_mireserva" class="roi-mybooking">
-                                <div class="roi-mybooking__header">
-                                    <h2 class="roi-mybooking__title">Mis reservas</h2>
+                            <div id="bc_cancelacion" class="roi-booking-cancellation">
+                                <div class="roi-booking-cancellation__text">
+                                    <p class="roi-booking-cancellation__text-info">Todavía no has cancelado la reserva.
+                                        Por favor, comprueba los datos de la reserva que aparecen abajo, si todo es
+                                        correcto confirma que deseas cancelar la reserva y luego haz click en el botón
+                                        cancelar. Gracias.</p>
                                 </div>
-                                <p class="roi-mybooking__information">Introduzca el código de confirmación de su reserva
-                                </p>
-                                <form 
-                                    method="post" class="roi-mybooking__form"><input type="hidden"
-                                        name="csrfmiddlewaretoken"
-                                        v-model="bookingid">
-                                    <div class="roi-mybooking__form-group"><label for="id_localizador">Código de
-                                            confirmación:</label><input type="text" name="localizador" required=""
-                                            id="id_localizador" maxlength="50"></div><button
-                                        class="btn-bc btn-conf roi-mybooking__button" @click.prevent="viewbooking()">Ver reserva</button>
-                                </form>
+                                <div class="roi-booking-cancellation__data">
+                                    <h2 class="roi-booking-cancellation__data-title">Datos de la reserva</h2>
+                                    <div class="roi-booking-cancellation__data-info">
+                                        <div class="roi-booking-cancellation__data-row"><span
+                                                class="roi-booking-cancellation__data-info-name">Código de
+                                                confirmación:</span><span
+                                                class="roi-booking-cancellation__data-info-value">{{this.$route.query.bookingId}}</span></div>
+                                        <div class="roi-booking-cancellation__data-row"><span
+                                                class="roi-booking-cancellation__data-info-name">Correo
+                                                electrónico:</span><span
+                                                class="roi-booking-cancellation__data-info-value">{{this.$route.query.email}}</span>
+                                        </div>
+                                        <div class="roi-booking-cancellation__data-row"><span
+                                                class="roi-booking-cancellation__data-info-name">Total:</span><span
+                                                class="roi-booking-cancellation__data-info-value contenedor-precio"
+                                                data-price="250.0">{{this.$route.query.total}} €</span></div>
+                                    </div>
+                                </div>
+                                <div class="roi-booking-cancellation__cancellable">
+                                    <form
+                                        class="roi-booking-cancellation__form"><input type="hidden"
+                                        >
+                                        <div class="roi-booking-cancellation__form-group"><label for="id_motivo"
+                                                class="roi-booking-cancellation__form-label">Motivo por el que desea
+                                                cancelar la reserva:</label><textarea name="motivo" id="id_motivo"
+                                                required="" rows="10" cols="40" maxlength="1000"></textarea></div>
+                                        <button class="roi-booking-cancellation__form-button btn_motor" @click.prevent="cancel()">Confirmo que deseo cancelar esta reserva</button>
+                                    </form>
+                                </div>
                             </div>
-                    
+                            <div class="bc_powered"><span><a href="https://www.roiback.com/"
+                                        title="Marketing Online Hoteles | Motor Reservas para Hoteles" target="_blank"
+                                        rel="nofollow"><img class="bc_powered__logo"
+                                            src="/index_files/backhotel_logo.png"
+                                            title="Marketing Online Hoteles | Motor Reservas para Hoteles"
+                                            alt="Marketing Online Hoteles | Motor Reservas para Hoteles"></a></span>
+                            </div>
                         </div>
                     </div>
                     <div class="content-carrito js-roi-cart" data-url="/bookcore/shopping-cart/?lang=es" data-lang="es"
@@ -846,7 +873,7 @@ export default {
   name: "cancelar",
   data: function() {
     return {
-      bookingid:""
+      bookingId:""
     
     };
   },
@@ -857,10 +884,8 @@ export default {
       axios({
         method: "delete",
         url:
-          "https://test.cloudcrx.net/resources/eyAiY3JlYXRlZCI6ICJXZWQgTm92IDEzIDIyOjQ2OjExIENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZ2VuY3kxIiwgImFnZW5jeUlkIjogIjEzMiJ9/commons/booking",
-        data: {
-          bookingid: _this.$route.query.bookingid
-        }
+          "https://test.cloudcrx.net/resources/eyAiY3JlYXRlZCI6ICJXZWQgTm92IDEzIDIyOjQ2OjExIENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZ2VuY3kxIiwgImFnZW5jeUlkIjogIjEzMiJ9/commons/booking/"+ _this.$route.query.bookingId,
+        
       })
         .then(function(response) {
           _this.$router.push({
@@ -881,7 +906,7 @@ export default {
             query: {
              // response: response,
             //  cart: _this.$data.cart,
-              bookingId: this.$data.bookingid,
+              bookingId: this.$data.bookingId,
             /*  leadName: _this.leadName,
               email: d.email,
               postalcode: d.postalcode,

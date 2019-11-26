@@ -163,7 +163,7 @@
                   <li>
                   <router-link to="/habitaciones">Habitaciones</router-link>
                   </li>
-                  <!--<li>
+                <!--  <li>
                      <router-link to="/fotos">Fotos</router-link>
                   </li>-->
                   <li>
@@ -277,60 +277,12 @@
         </div>
       </div>
     </section>
-    <div id="wrapper">
-        <div class="container box-bookcore">
-            <div class="wrap rb_bc">
-                <div class="bc_dark"></div>
-                <div class="bc container pn">
-                    <div class="bc_contenido  col-lg-9 col-md-8 col-sm-12 home  col-xs-12">
-                        <div class="bc_contenido_inner clearfix js-roi-modal-container">
-                            <div id="bc_mireserva" class="roi-mybooking">
-                                <div class="roi-mybooking__header">
-                                    <h2 class="roi-mybooking__title">Mis reservas</h2>
-                                </div>
-                                <p class="roi-mybooking__information">Introduzca el código de confirmación de su reserva
-                                </p>
-                                <form 
-                                    method="post" class="roi-mybooking__form"><input type="hidden"
-                                        name="csrfmiddlewaretoken"
-                                        v-model="bookingid">
-                                    <div class="roi-mybooking__form-group"><label for="id_localizador">Código de
-                                            confirmación:</label><input type="text" name="localizador" required=""
-                                            id="id_localizador" maxlength="50" v-model="bookingid"></div>
-                                            <div class="roi-mybooking__form-group">
-                                            <label for="id_localizador" style="width:185px;">Email de la reserva: </label><input type="text" name="email" required=""
-                                            id="id_email" maxlength="50" v-model="email"></div>
-                                            <button
-                                        class="btn-bc btn-conf roi-mybooking__button" @click.prevent="viewbooking()">Ver reserva</button>
-                                </form>
-                            </div>
-                    
-                        </div>
-                    </div>
-                    <div class="content-carrito js-roi-cart" data-url="/bookcore/shopping-cart/?lang=es" data-lang="es"
-                        data-trans-show-details="Ver detalles" data-trans-hide-details="Ocultar detalles">
-                        <div>
+<div id="wrapper"><div class="container box-bookcore"><div class="wrap rb_bc"><div class="bc_dark"></div><div class="bc container pn"><div class="bc_contenido  col-lg-9 col-md-8 col-sm-12 home  col-xs-12"><div class="bc_contenido_inner clearfix js-roi-modal-container"><div id="bc_cancelacion" class="roi-booking-cancellation"><div class="roi-booking-cancellation__text roi-booking-cancellation__text--cancelled"><svg class="svg-roi svg-roi_cancelled" width="28px" height="28px" viewBox="0 0 28 28" focusable="false" xmlns="http://www.w3.org/2000/svg"><path d="M21.71 2.899v2.359a2.096 2.096 0 0 1-2.096 2.096h-1.747a2.096 2.096 0 0 1-2.096-2.096v-2.38H12.23v2.38a2.096 2.096 0 0 1-2.096 2.096H8.386A2.096 2.096 0 0 1 6.29 5.258V2.899A5.265 5.265 0 0 0 1.44 8.146v14.586A5.268 5.268 0 0 0 6.707 28h14.586a5.269 5.269 0 0 0 5.268-5.268V8.146A5.266 5.266 0 0 0 21.71 2.9zm2.802 18.643a4.41 4.41 0 0 1-4.409 4.41H7.897a4.41 4.41 0 0 1-4.41-4.41V9.854h21.025v11.688zM11.042 5.145c0 .694-.564 1.257-1.258 1.257H8.736a1.258 1.258 0 0 1-1.258-1.257V1.258C7.478.563 8.041 0 8.736 0h1.048c.694 0 1.257.563 1.257 1.258v3.887zm9.48 0c0 .694-.563 1.257-1.258 1.257h-1.048a1.258 1.258 0 0 1-1.257-1.257V1.258c0-.695.563-1.258 1.257-1.258h1.048c.695 0 1.258.563 1.258 1.258v3.887zm-4.635 12.588l2.348-2.348a1.334 1.334 0 0 0-1.887-1.887L14 15.846l-2.348-2.348a1.334 1.334 0 0 0-1.887 1.887l2.348 2.348-2.348 2.349a1.334 1.334 0 0 0 1.887 1.887L14 19.62l2.348 2.348a1.334 1.334 0 0 0 1.887-1.887l-2.348-2.349z" fill-rule="nonzero"></path></svg><p class="roi-booking-cancellation__text-info">Estimado/a Sr/Sra, su reserva ya ha sido cancelada. Estamos a su disposición para atenderle cuando desee.</p></div></div></div></div><div class="content-carrito js-roi-cart" data-url="/bookcore/shopping-cart/?lang=es" data-lang="es" data-trans-show-details="Ver detalles" data-trans-hide-details="Ocultar detalles"><div>
 
 
 
 
-                        </div>
-                    </div>
-                    <div class="contenedor-best-prices"></div>
-                    <div class="bc_subir">
-                        <div class="subir" onclick="$(&#39;html, body&#39;).animate({scrollTop: 0}, &#39;slow&#39;)">
-                            <svg class="svg-roi svg-roi_arrow-thin-up" width="28px" height="28px" viewBox="0 0 28 28"
-                                focusable="false" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M13.863 8.226l-12.736 12.7-.666-.668 13.4-13.362 13.678 13.538-.664.67z"
-                                    fill-rule="nonzero"></path>
-                            </svg></div>
-                    </div>
-                </div>
-            </div>
-            <div class="fondo_dark" style="display:none"></div>
-        </div>
-    </div>
-  
+</div></div><div class="contenedor-best-prices"></div><div class="bc_subir"><div class="subir" onclick="$('html, body').animate({scrollTop: 0}, 'slow')"><svg class="svg-roi svg-roi_arrow-thin-up" width="28px" height="28px" viewBox="0 0 28 28" focusable="false" xmlns="http://www.w3.org/2000/svg"><path d="M13.863 8.226l-12.736 12.7-.666-.668 13.4-13.362 13.678 13.538-.664.67z" fill-rule="nonzero"></path></svg></div></div></div></div><div class="fondo_dark" style="display:none"></div></div></div>
 
     <footer>
       <div class="footer-top">
@@ -847,56 +799,43 @@
 /*const langfile = require("@/assets/lang/content.json");*/
 import axios from "axios";
 export default {
-  name: "verreservas",
+  name: "cancelada",
   data: function() {
     return {
-      bookingid:"",
-      email:""
+      bookingId:""
     
     };
   },
   
   methods: {
- viewbooking: function(){
-   var _this = this;
-   var email = this.$data.email && this.$data.email != ' '  ? this.$data.email:'%20'
-   
+    cancel: function() {
+      var _this = this;
       axios({
-        method: "get",
+        method: "delete",
         url:
-          "https://test.cloudcrx.net/resources/eyAiY3JlYXRlZCI6ICJXZWQgTm92IDEzIDIyOjQ2OjExIENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZ2VuY3kxIiwgImFnZW5jeUlkIjogIjEzMiJ9/commons/booking/"+ email +"/"+_this.$data.bookingid,
+          "https://test.cloudcrx.net/resources/eyAiY3JlYXRlZCI6ICJXZWQgTm92IDEzIDIyOjQ2OjExIENFVCAyMDE5IiwgInVzZXJJZCI6ICJhZ2VuY3kxIiwgImFnZW5jeUlkIjogIjEzMiJ9/commons/booking/"+ _this.$route.query.bookingId,
         
       })
         .then(function(response) {
-          console.log(response)
-          if(response.data && response.data.booking){
           _this.$router.push({
+            name: "cancelada",
+            query: {
+              response: response,
+            }
+          });
+        })
+        .catch(function(error) {
+          console.log(error);
+        });
+    },
+    
+ viewbooking: function(){
+      this.$router.push({
             name: "ok",
             query: {
-              status: response.data.booking.status,
-              bookingId: response.data.booking.bookingId,
-              leadName: response.data.booking.leadName,
-              email: _this.$data.email,
-              total: response.data.booking.netValue.value,
-              comentarios: response.data.booking.privateComments,
-              salida: response.data.booking.end? response.data.booking.end.replace(/-/g, "") : null,
-              entrada:response.data.booking.start? response.data.booking.start.replace(/-/g, "") : null,
-/*created: "2019-11-25T07:38:30.51195"
-createdBy: "system"
-end: "2020-02-20"
-leadName: "KETTLEWELL GINA"
-modified: "2019-11-25T17:51:14.497894"
-netValue: {currencyIsoCode: "EUR", value: 0}
-privateComments: null
-retailValue: null
-serviceDescription: "Hotel service"
-serviceType: "HOTEL"
-start: "2020-02-06"
-status: "OK"
-              response: response,
-               // response: response,
+             // response: response,
             //  cart: _this.$data.cart,
-             // bookingId: this.$data.bookingid,
+              bookingId: this.$data.bookingId,
             /*  leadName: _this.leadName,
               email: d.email,
               postalcode: d.postalcode,
@@ -918,16 +857,10 @@ total:d.detalles.total.retailPrice.value,
               ocupacion: _this.$route.query.ocupacion*/
             }
           });
-          }else{
-            alert("reserva no valida")
-          }
-        })
+       /* })
         .catch(function(error) {
-          alert("reserva no valida")
           console.log(error);
-        });
-
-  
+        });*/
  }
   },
   mounted() {}

@@ -212,133 +212,73 @@
         </div>
       </div>
     </header>
-    <section id="motorInternas">
+     <section id="motorInternas">
       <div class="contenedor_header">
         <div class="container">
-          <div class="motor">
-            <form
-              id="motorform"
-              action="https://serene-kowalevski-d75031.netlify.com/bookcore/v1/search-dispo.htm"
-              method="POST"
-            >
+          <div class="motor" style="    width: 100%;
+    height: 10%; padding:50px;  " >
+            <!--<form id="motorform">
               <div class="box_inside">
-                  <h3>¡RESERVA AHORA!</h3>
-                  <div class="fechas">
-                    <div class="entrada">
-                      <label>Entrada</label>
-                      <div class="bordeFechas" @click="focus('entrada')">
-                        <span class>
-                          <strong>{{formatedEntrada.day}}</strong>
-                          <em>{{formatedEntrada.month}} {{formatedEntrada.year}}</em>
-                        </span>
-                        <input
-                          type="text"
-                          name="entrada"
-                          value="24/10/2019"
-                          readonly="readonly"
-                          required
-                          id="id_entrada"
-                          class="hasDatepicker"
-                        />
-                        <input
-                          type="text"
-                          id="datepickerEntrada"
-                          v-model="fechaEntrada"
-                          style="visibility:visible; z-index:-1"
-                        />
-                      </div>
-                    </div>
-                    <div class="salida">
-                      <label>Salida</label>
-                      <div class="bordeFechas" @click="focus('salida')">
-                        <span class>
-                          <strong>{{formatedSalida.day}}</strong>
-                          <em>{{formatedSalida.month}} {{formatedSalida.year}}</em>
-                        </span>
-                        <input
-                          type="text"
-                          name="salida"
-                          value="25/10/2019"
-                          readonly="readonly"
-                          required
-                          id="id_salida"
-                          class="hasDatepicker"
-                        />
-                        <input
-                          type="text"
-                          id="datepickerSalida"
-                          v-model="fechaSalida"
-                          style="visibility:visible; z-index:-1"
-                        />
-                      </div>
+                <h3>¡RESERVA AHORA!</h3>
+                <div class="fechas">
+                  <div class="entrada">
+                    <label>Entrada</label>
+                    <div class="bordeFechas">
+                      <span class>
+                        <strong></strong>
+                        <em></em>
+                      </span>
+                      <input
+                        type="text"
+                        name="entrada"
+                        value="24/10/2019"
+                        readonly="readonly"
+                        required
+                        id="id_entrada"
+                      />
                     </div>
                   </div>
-                  <div class="fechas consulta">
-                    <div class="entrada" style="width: 44%;margin-right: 15px;">
-                      <label>Ocupación</label>
-                     <div @click="elegirocupacion()">
-                      <div class="bordeFechas" style="width: 52%;">
-                        <span style="padding: 10px 0px 10px 10px; text-align: center;">
-                          <strong>{{totaladults}}</strong>
-                          <em>adultos</em>
-                        </span>
-                        <input
-                          type="text"
-                          name="ocupacion"
-                          value="1x2"
-                          readonly="readonly"
-                          required="required"
-                          id="id_ocupacion"
-                        />
-                      </div>
-                      <div class="bordeFechas" style="
-    width: 48%;
-">
-                        <span style="
-    text-align: center;padding: 10px 10px 10px 0px;
-">
-                          <strong>{{totalchild}}</strong>
-                          <em>niños</em>
-                        </span>
-                      </div>
-                      </div>
-                    </div>
-                    <div class="box-check btn-dispo">
-                      <button title="¡Comprobar disponibilidad!" class="btn btn-motor btn-consulta" @click.prevent="getdispo()">
-                        ¡Comprobar disponibilidad!
-                        <span>Mejor Precio Online</span>
-                      </button>
+                  <div class="salida">
+                    <label>Salida</label>
+                    <div class="bordeFechas">
+                      <span class>
+                        <strong></strong>
+                        <em></em>
+                      </span>
+                      <input
+                        type="text"
+                        name="salida"
+                        value="25/10/2019"
+                        readonly="readonly"
+                        required
+                        id="id_salida"
+                      />
                     </div>
                   </div>
-                  <!--<div class="consulta">
-                    <div class="box-promo">
-                      <span class="promocode">
-                        ¿Tienes un código promocional?
-                        <a
-                          title="haz clic aquí"
-                          href="javascript:void(0)"
-                        >haz clic aquí</a>
-                      </span>
-                      <span class="codpromo" style="display: none;">
-                        <input
-                          type="text"
-                          name="codpromo"
-                          id="id_codpromo"
-                          maxlength="50"
-                          placeholder="Código promocional"
-                        />
-                        <em class="fa fa-times cerrar-input"></em>
-                      </span>
-                    </div>
-                    <div class="box-check btn-dispo">
-                      <button title="¡Comprobar disponibilidad!" class="btn btn-motor btn-consulta" @click.prevent="getdispo()">
-                        ¡Comprobar disponibilidad!
-                        <span>Mejor Precio Online</span>
-                      </button>
-                    </div>
-                  </div>-->
                 </div>
-            </form>
+                <div class="consulta">
+                  <div class="box-promo">
+                    <span class="promocode">
+                      ¿Tienes un código promocional?
+                      <a
+                        title="haz clic aquí"
+                        href="javascript:void(0)"
+                      >haz clic aquí</a>
+                    </span>
+                    <span class="codpromo" style="display: none;">
+                      <input type="text" name="codpromo" id="id_codpromo" maxlength="50" />
+                      <em class="fa fa-times cerrar-input"></em>
+                    </span>
+                  </div>
+                  <div class="box-check btn-dispo">
+                    <button title="¡Comprobar disponibilidad!" class="btn btn-motor btn-consulta">
+                      ¡Comprobar disponibilidad!
+                      <span>Mejor Precio Online</span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </form>-->
           </div>
         </div>
       </div>

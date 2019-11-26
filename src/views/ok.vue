@@ -302,7 +302,14 @@
                           />
                         </a>
                       </div>
-                      <div class="roi-booking-certificate__wrapper">
+                      <div v-if="status ==='CANCELLED'" class="roi-booking-certificate__wrapper roi-booking-certificate__wrapper--cancelled"><div class="roi-booking-certificate__claim"><svg class="svg-roi svg-roi_cancelled" width="28px" height="28px" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg"><path d="M21.71 2.899v2.359a2.096 2.096 0 0 1-2.096 2.096h-1.747a2.096 2.096 0 0 1-2.096-2.096v-2.38H12.23v2.38a2.096 2.096 0 0 1-2.096 2.096H8.386A2.096 2.096 0 0 1 6.29 5.258V2.899A5.265 5.265 0 0 0 1.44 8.146v14.586A5.268 5.268 0 0 0 6.707 28h14.586a5.269 5.269 0 0 0 5.268-5.268V8.146A5.266 5.266 0 0 0 21.71 2.9zm2.802 18.643a4.41 4.41 0 0 1-4.409 4.41H7.897a4.41 4.41 0 0 1-4.41-4.41V9.854h21.025v11.688zM11.042 5.145c0 .694-.564 1.257-1.258 1.257H8.736a1.258 1.258 0 0 1-1.258-1.257V1.258C7.478.563 8.041 0 8.736 0h1.048c.694 0 1.257.563 1.257 1.258v3.887zm9.48 0c0 .694-.563 1.257-1.258 1.257h-1.048a1.258 1.258 0 0 1-1.257-1.257V1.258c0-.695.563-1.258 1.257-1.258h1.048c.695 0 1.258.563 1.258 1.258v3.887zm-4.635 12.588l2.348-2.348a1.334 1.334 0 0 0-1.887-1.887L14 15.846l-2.348-2.348a1.334 1.334 0 0 0-1.887 1.887l2.348 2.348-2.348 2.349a1.334 1.334 0 0 0 1.887 1.887L14 19.62l2.348 2.348a1.334 1.334 0 0 0 1.887-1.887l-2.348-2.349z" fill-rule="nonzero"></path></svg><span class="roi-booking-certificate__claim-text">La reserva ha sido cancelada</span></div><div class="roi-booking-certificate__voucher"><div class="roi-booking-certificate__voucher-receipt"><h2 class="roi-booking-certificate__voucher-receipt-text">Comprobante de reserva - Hotel Vincci Selección la Plantación del Sur</h2></div></div><div class="roi-booking-certificate__locator roi-booking-certificate__locator--cancelled"><span class="roi-booking-certificate__locator-text">Le informamos que su reserva está
+                                
+                                    
+                                        cancelada
+                                    
+                                
+                            </span><div class="roi-booking-certificate__locator-code"><span class="roi-booking-certificate__locator-code-text">Código de confirmación: </span><span class="roi-booking-certificate__locator-code-value">{{this.$route.query.bookingId}}</span></div></div><nav class="roi-booking-certificate__menu"><ul class="roi-booking-certificate__menu-list"><li class="roi-booking-certificate__menu-item"><a class="roi-booking-certificate__menu-button roi-booking-certificate__menu-button--print" href="https://www.vinccilaplantaciondelsur.com/bookcore/your-booking/k1jp8ntzs/print/?lang=es" title="Imprimir reserva"><svg class="svg-roi svg-roi_print-o" width="28px" height="28px" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg"><path d="M21 9.604H7v-6.85C7 1.333 8.175.183 9.625.183h8.75c1.45 0 2.625 1.15 2.625 2.57v6.85zm7-.578V20.13c0 1.415-1.175 2.562-2.625 2.562h-1.75v2.563c0 1.415-1.175 2.562-2.625 2.562H7c-1.45 0-2.625-1.147-2.625-2.562V22.69h-1.75C1.175 22.691 0 21.544 0 20.13V9.026c0-1.415 1.175-2.562 2.625-2.562h1.75v5.979h19.25V6.464h1.75c1.45 0 2.625 1.147 2.625 2.562zm-7.636 9.37H7.636v6.28h12.728v-6.28z" fill-rule="nonzero"></path></svg><span class="roi-booking-certificate__menu-button-text">Imprimir reserva</span></a></li><li class="roi-booking-certificate__menu-item"><a class="roi-booking-certificate__menu-button roi-booking-certificate__menu-button--pdf" href="https://www.vinccilaplantaciondelsur.com/bookcore/your-booking/k1jp8ntzs/pdf/?lang=es" title="Descargar pdf"><svg class="svg-roi svg-roi_download" width="28px" height="28px" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg"><path d="M13.2 19.6l-6-6.2c-.5-.6 0-1.4.8-1.4h4s-.2-4.7 0-7c.1-1.1.9-2 2-2s1.9.9 2 2c.2 2.4 0 7 0 7h4c.8 0 1.3.8.8 1.3l-6 6.3c-.4.5-1.2.5-1.6 0zM21 22c1.1 0 2 .9 2 2 0 .6-.4 1-1 1H6c-.6 0-1-.4-1-1 0-1.1.9-2 2-2h14z" fill-rule="nonzero"></path></svg><span class="roi-booking-certificate__menu-button-text">Descargar pdf</span></a></li></ul></nav><div class="roi-booking-certificate__pending-approval"><span class="roi-booking-certificate__pending-approval-text">Si desea modificar la reserva, consulte con el hotel</span></div></div>
+                      <div v-else class="roi-booking-certificate__wrapper">
                         <div class="roi-booking-certificate__claim">
                           <svg
                             class="svg-roi svg-roi_ok"
@@ -1779,7 +1786,7 @@ export default {
   name: "ok",
   data: function() {
     return {
-
+    status:this.$route.query.status,
       name: "",
       surname: "",
       phone: "",
@@ -1812,11 +1819,13 @@ export default {
   methods: {
  
     cancelar:function(){
-        alert('cancelar')
+        
         this.$router.push({
-            name: "ok",
+            name: "cancelar",
             query: {
-              bookingid:this.$data.bookingid
+              bookingId:this.$route.query.bookingId,
+              email:this.$route.query.email,
+              total:this.$route.query.total
             }
         })
     },

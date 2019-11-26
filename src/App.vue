@@ -26,4 +26,9 @@
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+.ui-widget-header .ui-icon
+{
+ background-image: url(/index_files/ui-icons_ffffff_256x240.png);
+}
+
 </style>

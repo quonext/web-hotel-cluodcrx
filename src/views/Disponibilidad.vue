@@ -3378,6 +3378,16 @@ var fdat = [day, month, year].join("/");
         })
         .catch(function(error) {
           console.log(error);
+           _this.$router.push({
+              name: "calendario",
+              query: {
+                ocupacion: d.ocupacion,
+                entrada: d.entrada,
+                salida: d.salida,
+                totaladults: d.totaladults,
+                totalchild: d.totalchild
+              }
+            });
         });
     }
   },

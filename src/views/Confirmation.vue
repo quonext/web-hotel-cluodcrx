@@ -2123,7 +2123,9 @@ export default {
   name: "confirmation",
   data: function() {
     return {
-      ocupaciones: JSON.parse(localStorage.getItem("ocupaciones")),
+     ocupaciones: JSON.parse(localStorage.getItem("ocupaciones")),
+      totaladults: this.$route.query.totaladults,
+      totalchild: this.$route.query.totalchild,
          fechaEntrada: "",
       fechaSalida: "",
       entrada: this.$route.query.entrada,
@@ -2352,6 +2354,7 @@ export default {
             query: {
              // response: response,
             //  cart: _this.$data.cart,
+              status:"OK",
               bookingId: response.data.bookingId,
               leadName: _this.leadName,
               email: d.email,
