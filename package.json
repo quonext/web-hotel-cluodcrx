@@ -10,7 +10,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "core-js": "^3.3.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-datepicker": "^1.12.3",
     "v-calendar": "^1.0.0-beta.22",
     "vue": "^2.6.10",
